@@ -1,6 +1,6 @@
 # Benvenuti alla guida BenessereIntegrato!
 
-Sempre pi
+Oggi ci si ammala Le malattie del giorno d'oggi 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mzk1Mjc2Nl19
+eyJoaXN0b3J5IjpbNDM5MzI1Mzc0XX0=
 -->
