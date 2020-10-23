@@ -1,7 +1,6 @@
 # Costruisci il percorso per la tua salute! 
 
-Ti aiutiamo a costruire un programma efficace adatto alle tue esigenze,  e 
-Se necessario fatti aiutare dai nostri professionisti.
+Ti aiutiamo a costruire un programma efficace adatto alle tue esigenze.
 
 ## Malattie difficili da curare
 
@@ -32,6 +31,6 @@ Proviamo a vedere cosa significano questi termini:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDIyODE4NywtMTQyMzI3NTE4NiwtNj
-gzODYzMjc3LDIwMjczNjEwODFdfQ==
+eyJoaXN0b3J5IjpbLTIyMTU3MDUzNywtMjg0MjI4MTg3LC0xND
+IzMjc1MTg2LC02ODM4NjMyNzcsMjAyNzM2MTA4MV19
 -->
