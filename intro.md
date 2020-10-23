@@ -1,6 +1,6 @@
 # Costruisci il percorso per la tua salute! 
 
-Crea il tuo programma per la salute e impara come lavorare ogni giorno su questi 5 aspetti per colti
+Crea il tuo programma  e impara come lavorare ogni giorno su questi 5 aspetti per coltivare la tua salute.
 
  - Recupero e conoscenza del corpo
  - Atteggiemento mentale
@@ -8,12 +8,11 @@ Crea il tuo programma per la salute e impara come lavorare ogni giorno su questi
  - Movimento Allenamento
  - Integratori e Piante
 
+Se necessario fatti aiutare dai nostri professionisti.
 
 ## Malattie difficili da curare
 
 Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone che non riescono a trovare una soluzione e che pur cercando di mantenere un buono stile di vita non riescono a mantenersi in salute.
-
-
 
 ## 3 concetti da tenere ben presente, se hai un problema che non riesci a risolvere
 
@@ -39,6 +38,6 @@ Questi 3 concetti nascondono il segreto del perchè sempre più persone non ries
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjcwOTEwMiwtNjgzODYzMjc3LDIwMj
+eyJoaXN0b3J5IjpbLTMxODQwMDM4NCwtNjgzODYzMjc3LDIwMj
 czNjEwODFdfQ==
 -->
