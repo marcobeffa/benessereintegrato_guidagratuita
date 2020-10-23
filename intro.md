@@ -1,9 +1,13 @@
 # Costruisci il percorso per la tua salute! 
 
-Crea il tuo programma per la salute:
+Crea il tuo programma per la salute e impara come lavorare ogni giorno su questi 5 aspetti per colti
 
+ - Recupero e conoscenza del corpo
+ - Atteggiemento mentale
  - Alimentazione e Nutrirsi
- - Movimento Allename
+ - Movimento Allenamento
+ - Integratori e Piante
+
 
 ## Malattie difficili da curare
 
@@ -35,6 +39,6 @@ Questi 3 concetti nascondono il segreto del perchè sempre più persone non ries
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5NjI1MDIsLTY4Mzg2MzI3NywyMD
-I3MzYxMDgxXX0=
+eyJoaXN0b3J5IjpbLTgyMjcwOTEwMiwtNjgzODYzMjc3LDIwMj
+czNjEwODFdfQ==
 -->
