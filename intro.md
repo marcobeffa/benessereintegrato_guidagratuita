@@ -18,15 +18,15 @@ Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone c
 
 Forse avrai sentito parlare di 
 
- 1. Patologie con cause multifattoriali  
+ 1. Malatti con cause multifattoriali  
  2. Malattie degenerative 
  3. Malattie autoimmuni
 
 Questi 3 concetti nascondono il segreto del perchè sempre più persone non riescono a trovare una soluzione definitiva alle loro malattie.
 
-### 1 Malattie degenerative
+### 1 Malattie multifattoriali
 
-### 2 Malattie multifattoriali
+### 2 Malattie degenerative
 
 ### 3 Malattie autoimmuni
 
@@ -38,6 +38,6 @@ Questi 3 concetti nascondono il segreto del perchè sempre più persone non ries
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjU1ODEyOCwtNjgzODYzMjc3LDIwMj
+eyJoaXN0b3J5IjpbMjEyMzc5OTYxMiwtNjgzODYzMjc3LDIwMj
 czNjEwODFdfQ==
 -->
