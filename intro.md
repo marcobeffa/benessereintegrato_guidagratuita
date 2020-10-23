@@ -1,11 +1,24 @@
 # Benvenuti alla guida BenessereIntegrato!
 
-## Perchè accade questo?
+## Malattie difficili da curare
+
 Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone che non riescono a trovare una soluzione e che pur cercando di mantenere un buono stile di vita non riescono a mantenersi in salute.
 
-## Perchè accade questo?
+
+
+## Malattie degenerative
+
+## Malattie multifattoriali
+
+## Malattie autoimmuni
+
+
+
+## Dalla cura delle malattie alla cura della persona
+
+
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDMyNzg3NV19
+eyJoaXN0b3J5IjpbODQ2ODM0ODg1XX0=
 -->
