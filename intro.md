@@ -22,7 +22,8 @@ Forse avrai sentito parlare di
  2. Malattie degenerative 
  3. Malattie autoimmuni
 
-Questi 3 concetti nascondono il segreto del perchè sempre più persone non riescono a trovare una soluzione definitiva alle loro malattie.
+Questi 3 concetti nascondono il segreto del perchè sempre più persone non riescono a trovare una soluzione definitiva alle loro malattie. 
+Proviamo a vedere cosa significano questi termini:
 
 ### 1 Malattie multifattoriali
 
@@ -38,6 +39,6 @@ Questi 3 concetti nascondono il segreto del perchè sempre più persone non ries
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzc5OTYxMiwtNjgzODYzMjc3LDIwMj
-czNjEwODFdfQ==
+eyJoaXN0b3J5IjpbLTE0MjMyNzUxODYsLTY4Mzg2MzI3NywyMD
+I3MzYxMDgxXX0=
 -->
