@@ -1,13 +1,6 @@
 # Costruisci il percorso per la tua salute! 
 
-Crea il tuo programma  e impara come lavorare ogni giorno su questi 5 aspetti per coltivare la tua salute.
-
- - Recupero e conoscenza del corpo
- - Atteggiemento mentale
- - Alimentazione e Nutrirsi
- - Movimento Allenamento
- - Integratori e Piante
-
+Ti aiutiamo a costruire un programma efficace adatto alle tue esigenze,  e 
 Se necessario fatti aiutare dai nostri professionisti.
 
 ## Malattie difficili da curare
@@ -39,6 +32,6 @@ Proviamo a vedere cosa significano questi termini:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjMyNzUxODYsLTY4Mzg2MzI3NywyMD
-I3MzYxMDgxXX0=
+eyJoaXN0b3J5IjpbLTI4NDIyODE4NywtMTQyMzI3NTE4NiwtNj
+gzODYzMjc3LDIwMjczNjEwODFdfQ==
 -->
