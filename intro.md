@@ -1,4 +1,4 @@
-# Benvenuti alla guida BenessereIntegrato!
+# Benvenuti
 
 ## Malattie difficili da curare
 
@@ -6,7 +6,7 @@ Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone c
 
 
 
-## 3 termini che devi conoscere se hai un problema che non riesci a risolvere
+## 3 concetti da tenere ben presenteconoscere se hai un problema che non riesci a risolvere
 
 Forse avrai sentito ancora parlare di 
 
@@ -30,5 +30,5 @@ Questi 3 concetti nascondono il segreto del perchè sempre più persone non ries
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzM2MTA4MV19
+eyJoaXN0b3J5IjpbNzUzOTQ1MzA3LDIwMjczNjEwODFdfQ==
 -->
