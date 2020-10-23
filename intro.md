@@ -1,5 +1,9 @@
 # Costruisci il percorso per la tua salute! 
 
+Crea il tuo programma per la salute:
+
+ - Alimentazione e Nutrirsi
+ - Movimento Allename
 
 ## Malattie difficili da curare
 
@@ -31,6 +35,6 @@ Questi 3 concetti nascondono il segreto del perchè sempre più persone non ries
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3ODMyODQ4LC02ODM4NjMyNzcsMjAyNz
-M2MTA4MV19
+eyJoaXN0b3J5IjpbLTE5NTQ5NjI1MDIsLTY4Mzg2MzI3NywyMD
+I3MzYxMDgxXX0=
 -->
