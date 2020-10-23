@@ -6,8 +6,8 @@ Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone c
 
 Forse avrai sentito ancora parlare di malattie degenerative, patologie con cause multifattoriali, malattie autoimmuni.
 
-Che parole difficili! 
-Capie
+## 3 
+Questi 3 concetti nascondono il segreto del perchè sempre più persone 
 
 ## Malattie degenerative
 
@@ -23,5 +23,5 @@ Capie
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk1MzAyMTBdfQ==
+eyJoaXN0b3J5IjpbNjE3NDIyNzk4XX0=
 -->
