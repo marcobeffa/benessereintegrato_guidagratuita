@@ -6,7 +6,7 @@ Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone c
 
 
 
-## 3 concetti da tenere ben presenteconoscere se hai un problema che non riesci a risolvere
+## 3 concetti da tenere ben presente, se hai un problema che non riesci a risolvere
 
 Forse avrai sentito ancora parlare di 
 
@@ -16,11 +16,11 @@ Forse avrai sentito ancora parlare di
 
 Questi 3 concetti nascondono il segreto del perchè sempre più persone non riescono a trovare una soluzione definitiva alle loro malattie
 
-## Malattie degenerative
+### 1 Malattie degenerative
 
-## Malattie multifattoriali
+### 2 Malattie multifattoriali
 
-## Malattie autoimmuni
+### 3 Malattie autoimmuni
 
 
 
@@ -30,5 +30,5 @@ Questi 3 concetti nascondono il segreto del perchè sempre più persone non ries
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzOTQ1MzA3LDIwMjczNjEwODFdfQ==
+eyJoaXN0b3J5IjpbLTY4Mzg2MzI3NywyMDI3MzYxMDgxXX0=
 -->
