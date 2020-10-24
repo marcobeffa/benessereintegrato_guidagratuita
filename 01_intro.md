@@ -23,8 +23,8 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 
 <img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
 
-> Esperienza è semplicemente il nome che diamo ai nostri errori.
->  Oscar WIlde
+> E' bene imparare dai propri errori 
+> >  Oscar WIlde
 
 
 
@@ -97,6 +97,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNzk4MzkzLC0xOTg4NTM5NzkxLDIwOT
-A2NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbMTQ1MDI4ODEzMiwtMTk4ODUzOTc5MSwyMD
+kwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
