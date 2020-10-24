@@ -28,13 +28,13 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 
 ### Cosa trovi nella guida?
 
-Nella guida ti mostriamo una parte teorica e una parte pratica con la nostra filosofia.
+Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il necessario per mettere in pratica ogni giorno il tuo percorso per la salute.
 
-Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il necessario per mettere in pratica ogni giorno 
+I tuoi appuntamenti con i professionisti della salute e del benessere, le tue routine di esercizi, il tuo momento per la meditazione, le conoscenze più aggiornate sul corpo umano, ti aiuta a tenere sott'occhio la tua alimentazione, potrai trovare servizi e professionisti in line  
 
-i tuoi appuntamenti con i professionisti della salute e del benessere, le tue routine di esercizi, il tuo momento per la meditazione, le nuove conoscenz ed esperienza corporee, ad avere sotto controllo la tua alimentazione 
- 
+
+Nella guida ti mostriamo una parte teorica e una parte pratica con la nostra filosofia. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzczODYwMDUsLTE5ODg1Mzk3OTEsMj
+eyJoaXN0b3J5IjpbLTEzMDExODAzNzgsLTE5ODg1Mzk3OTEsMj
 A5MDY0NjczNywxMTkyNDk3NF19
 -->
