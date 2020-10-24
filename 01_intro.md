@@ -18,10 +18,10 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 
   
 
-<img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività
+<img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
   
 
-{% include list_emoticon.html url="/images/emoticons/graduated.gif" description="Vuoi conoscere le migliori metodiche sulla postura." name="home-dolore" %}
+<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e sperimentare nozioni nozioni che impiegheresti anni a 
 
   
   
@@ -98,6 +98,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODE4NzI1MywyMDkwNjQ2NzM3LDExOT
-I0OTc0XX0=
+eyJoaXN0b3J5IjpbMzgwNDM4NDg0LDIwOTA2NDY3MzcsMTE5Mj
+Q5NzRdfQ==
 -->
