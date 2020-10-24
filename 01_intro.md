@@ -8,7 +8,7 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 <img src="http://localhost:4000/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
 
 
-<img src="http://localhost:4000/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirti.
+<img src="http://localhost:4000/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirtoi.
 
 <img src="http://localhost:4000/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
 
@@ -40,7 +40,7 @@ Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il
  - Seguire i risultati dei tuoi obiettivi
  - Unirti a un gruppo di persone nella tua stessa situazione con cui confrontarti e portare avanti il tuo percorso, e trovare un sostegno.
  
-Tutto questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò a te il primo strumento la nostra guida
+Ques sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò a te il primo strumento la nostra guida
 
 Nella guida troverai una parte teorica e una parte pratica.
 
@@ -49,6 +49,6 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Nzc3ODE0MSwtMTk4ODUzOTc5MSwyMD
+eyJoaXN0b3J5IjpbMjAzOTAzMDc5NywtMTk4ODUzOTc5MSwyMD
 kwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
