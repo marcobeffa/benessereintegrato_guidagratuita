@@ -1,6 +1,7 @@
 # Costruisci il percorso per la tua salute! 
 
-La guida che ti aiuta a costruire un programma efficace adatto alle tue esigenze, per migliorare lo stato della tua salute giorno per giorno.
+Pronto per iniziare a costruire il tuo programma  benessereintegrato? 
+Segui la guida ti fornirà le informazioni necessarie per impostare il tuo programma e seguirne uno più avanzato.
 
 ## Malattie difficili da curare
 
@@ -31,5 +32,5 @@ Proviamo a vedere cosa significano questi termini:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTU3MzEzMiwxMTkyNDk3NF19
 -->
