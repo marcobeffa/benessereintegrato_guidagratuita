@@ -10,9 +10,9 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 
 <img src="http://localhost:4000/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirti.
 
-{% include list_emoticon.html url="/images/emoticons/malato.gif" description="Vuoi trovare una soluzione a una patologia o a dolori." name="home-malato" %}
+<img src="http://localhost:4000/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
 
-{% include list_emoticon.html url="/images/emoticons/obiettivi.gif" description="Vuoi raggiungere i tuoi obiettivi nello sport." name="home-obiettivi" %}
+<img src="http://localhost:4000/images/emoticons/images/emoticons/obiettivi.gif" description="Vuoi raggiungere i tuoi obiettivi nello sport." name="home-obiettivi" %}
 
 {% include list_emoticon.html url="/images/emoticons/recupero-info.png" description="Vuoi recuperare dopo un infortunio." name="home-recupero-info" %}
 
@@ -101,6 +101,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjM1NTMwLDIwOTA2NDY3MzcsMTE5Mj
+eyJoaXN0b3J5IjpbMjA2ODM4ODI2LDIwOTA2NDY3MzcsMTE5Mj
 Q5NzRdfQ==
 -->
