@@ -42,15 +42,14 @@ Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il
  
 Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò a te il primo strumento la nostra guida.
 
- La guida è costruita come una mappa e ti aiuta ad orientarti nel viaggio. Presenta una parte teorica e una parte pratica.
+ La guida è pensate per accompagnarti nella prima parte del percorso. Presenta una parte teorica e una parte pratica.
 
 Nella parte teorica trovi i principi della nostra filosofia. 
-Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i principi teorici.
+Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i principi teorici ecco i capitoli della guida:
 
-Pronto a iniziare?
-
+Una sitazione che non auguro 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgzODEzMzAsLTE5ODg1Mzk3OTEsMj
-A5MDY0NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbMTM5NjUwMTEwMiwtMTk4ODUzOTc5MSwyMD
+kwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
