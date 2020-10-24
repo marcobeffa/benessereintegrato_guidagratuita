@@ -46,10 +46,12 @@ Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saran
 
 Nella parte teorica trovi i principi della nostra filosofia. 
 Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i principi teorici ecco i capitoli della guida:
-
-Una sitazione che non auguro 
  
+ - Una sitazione che non auguro al mio peggior nemico
+ - Come puoi costruire il tuo benessere a 360 °
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjUwMTEwMiwtMTk4ODUzOTc5MSwyMD
-kwNjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMj
+A5MDY0NjczNywxMTkyNDk3NF19
 -->
