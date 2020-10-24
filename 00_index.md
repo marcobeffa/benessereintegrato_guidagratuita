@@ -2,12 +2,12 @@
 <ul>
 
 <li  class="mb-3 lg:mb-1">
-<a href="https://guidagratuita" class="px-2 -mx-2 py-1 transition duration-200 ease-in-out relative block hover:translate-x-2px hover:text-gray-900 text-gray-600 font-medium>Introduzione  alla guida</a>
+<a href="https://guidagratuita" class="px-2 -mx-2 py-1 transition duration-200 ease-in-out relative block hover:translate-x-2px hover:text-gray-900 text-gray-600 font-medium>Introduzione  alla guida
 
 <span  class="rounded absolute inset-0 bg-teal-200 opacity-25"></span>
 
 <span  class="relative">Introduzione alla guida</span>
-
+</a>
 </li>
 
   
@@ -157,5 +157,5 @@
 
 </li>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyNzg2MTQyXX0=
+eyJoaXN0b3J5IjpbNTM5MTkyNzk4XX0=
 -->
