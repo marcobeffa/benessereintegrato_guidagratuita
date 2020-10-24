@@ -2,6 +2,8 @@
 
 Pronto per iniziare a costruire il tuo programma  benessereintegrato? 
 Segui la guida ti fornirà le informazioni necessarie per impostare il tuo programma e seguirne uno più avanzato.
+Questa guida
+
 
 ## Malattie difficili da curare
 
@@ -32,5 +34,5 @@ Proviamo a vedere cosa significano questi termini:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTU3MzEzMiwxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbMjA5MDY0NjczNywxMTkyNDk3NF19
 -->
