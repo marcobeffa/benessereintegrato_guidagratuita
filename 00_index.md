@@ -3,7 +3,7 @@
 
 <li  class="mb-3 lg:mb-1">
 
-<a href="https://guidagratuita, class:"px-2 -mx-2 py-1 transition duration-200 ease-in-out relative block hover:translate-x-2px hover:text-gray-900 text-gray-600 font-medium"  do  %>
+<a href="https://guidagratuita, class="px-2 -mx-2 py-1 transition duration-200 ease-in-out relative block hover:translate-x-2px hover:text-gray-900 text-gray-600 font-medium>Cu </a>
 
 <span  class="rounded absolute inset-0 bg-teal-200 opacity-25"></span>
 
@@ -160,5 +160,5 @@
 
 </li>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTMwMTEzMl19
+eyJoaXN0b3J5IjpbMzg0MjM0NTQ3XX0=
 -->
