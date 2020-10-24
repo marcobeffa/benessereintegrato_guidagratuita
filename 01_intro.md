@@ -6,21 +6,17 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 ### La guida è per te se ti trovi in una di queste situazioni:
 
 <img src="http://localhost:4000/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
-
-
+<br>
 <img src="http://localhost:4000/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirtoi.
-
+<br>
 <img src="http://localhost:4000/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
-
+<br>
 <img src="http://localhost:4000/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
-
+<br>
 <img src="http://localhost:4000//images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
-
-  
-
+<br>
 <img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
-  
-
+<br>
 <img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
@@ -52,6 +48,6 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMj
-A5MDY0NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTE5ODQ3NjM3NCwtMTE1NTA1NDM5NCwtMT
+k4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
