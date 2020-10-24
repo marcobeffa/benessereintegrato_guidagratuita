@@ -1,7 +1,5 @@
 <h5  class="mb-3 lg:mb-2 uppercase tracking-wide font-bold text-sm lg:text-xs text-gray-500">Indice Guida Gratuita</h5>
-<ul>
 
-<li  class="mb-3 lg:mb-1">
 
 <a href="https://guidagratuita" class="px-2 -mx-2 py-1 transition duration-200 ease-in-out relative block hover:translate-x-2px hover:text-gray-900 text-gray-600 font-medium">
 
@@ -9,7 +7,7 @@
 
 <span  class="relative">Introduzione alla guida</span>
 </a>
-</li>
+
 
   
 
@@ -158,6 +156,6 @@
 
 </li>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk3MzUzMTIsMTY2NTUzNDM0NCwxNz
-IyOTkxODM0LDUzOTE5Mjc5OF19
+eyJoaXN0b3J5IjpbMTA1NDkwMDYwLC0xODU5NzM1MzEyLDE2Nj
+U1MzQzNDQsMTcyMjk5MTgzNCw1MzkxOTI3OThdfQ==
 -->
