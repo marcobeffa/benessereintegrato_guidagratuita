@@ -45,8 +45,10 @@ Tutto questo sarà possibile quando tutti gli strumenti di benessereintegrato.it
 Nella guida troverai una parte teorica e una parte pratica.
 
 Nella parte teorica trovi i principi della nostra filosofia. 
-Nella parte pratica t 
+Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i principi teorici.
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgyMDQ1MzAsLTE5ODg1Mzk3OTEsMj
-A5MDY0NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTQ0Nzc3ODE0MSwtMTk4ODUzOTc5MSwyMD
+kwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
