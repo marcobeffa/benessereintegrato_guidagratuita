@@ -21,6 +21,7 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
 
+<br>
 
 ### Cosa trovi nella guida?
 
@@ -48,6 +49,6 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ3NjM3NCwtMTE1NTA1NDM5NCwtMT
+eyJoaXN0b3J5IjpbLTYxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMT
 k4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
