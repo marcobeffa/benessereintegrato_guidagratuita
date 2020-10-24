@@ -12,16 +12,13 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 
 <img src="http://localhost:4000/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
 
-<img src="http://localhost:4000/images/emoticons/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
+<img src="http://localhost:4000/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
 
-{% include list_emoticon.html url="/images/emoticons/recupero-info.png" description="Vuoi recuperare dopo un infortunio." name="home-recupero-info" %}
+<img src="http://localhost:4000//images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
 
   
 
-{% include list_emoticon.html url="/images/emoticons/performances.gif"
-
-description="Sei molto impegnato per il lavoro o per le tue attività." name="home-performance" %}
-
+<img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività
   
 
 {% include list_emoticon.html url="/images/emoticons/graduated.gif" description="Vuoi conoscere le migliori metodiche sulla postura." name="home-dolore" %}
@@ -101,6 +98,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NDYyOTQsMjA5MDY0NjczNywxMTkyND
-k3NF19
+eyJoaXN0b3J5IjpbLTU3ODE4NzI1MywyMDkwNjQ2NzM3LDExOT
+I0OTc0XX0=
 -->
