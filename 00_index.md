@@ -1,4 +1,4 @@
-<h5  class="mb-3 lg:mb-2 uppercase tracking-wide font-bold text-sm lg:text-xs text-gray-500">Getting Indice Guida Gratuita</h5>
+<h5  class="mb-3 lg:mb-2 uppercase tracking-wide font-bold text-sm lg:text-xs text-gray-500">Indice Guida Gratuita</h5>
 <ul>
 
 <li  class="mb-3 lg:mb-1">
@@ -157,5 +157,5 @@
 
 </li>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MTkyNzk4XX0=
+eyJoaXN0b3J5IjpbMTcyMjk5MTgzNCw1MzkxOTI3OThdfQ==
 -->
