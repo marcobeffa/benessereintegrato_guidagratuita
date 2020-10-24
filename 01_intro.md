@@ -26,14 +26,12 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
 
 
-
 ### Cosa trovi nella guida?
-Una situazione che non auguro 
 
-
-
+Nella guida trovi il necessario per costruire il tuo percorso.
+Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il necessario per mettere in pratica ogni giorn
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM3MjM5NjksLTE5ODg1Mzk3OTEsMj
-A5MDY0NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbMTQ3NzI5MDc0OSwtMTk4ODUzOTc5MSwyMD
+kwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
