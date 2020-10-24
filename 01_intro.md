@@ -21,7 +21,9 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 <img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
   
 
-<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che 
+<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
+
+
   
   
 
@@ -94,6 +96,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNDk4NzM0LDIwOTA2NDY3MzcsMTE5Mj
-Q5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODg1Mzk3OTEsMjA5MDY0NjczNywxMT
+kyNDk3NF19
 -->
