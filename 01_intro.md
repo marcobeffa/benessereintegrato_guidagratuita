@@ -30,12 +30,15 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 
 Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il necessario per mettere in pratica ogni giorno il tuo percorso per la salute.
 
-I tuoi appuntamenti con i professionisti della salute e del benessere, le tue routine di esercizi, il tuo momento per la meditazione, le conoscenze più aggiornate sul corpo umano, ti aiuta a tenere sott'occhio la tua alimentazione, potrai trovare servizi e professionisti in linea con la nostra filosofia.
-Tutto questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò 
+ - I tuoi appuntamenti con i professionisti della salute e del benessere.
+ - Le tue routine di esercizi, 
+ - Il tuo momento per la meditazione, le conoscenze più aggiornate sul corpo umano, ti aiuta a tenere sott'occhio la tua alimentazione, potrai trovare servizi e professionisti in linea con la nostra filosofia, potrai seguire i tuoi risultati, cercare persone nella tua stessa situazione con cui confrontarti e portare avanti il tuo percorso, per avere un sostegno.
+
+Tutto questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò ecco a te il primo strumento
 Il primo strumento
 
 Nella guida perciò troverai una parte teorica e una parte pratica con la nostra filosofia. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MDM0NTk0LC0xOTg4NTM5NzkxLDIwOT
+eyJoaXN0b3J5IjpbNDAwODEyMjk3LC0xOTg4NTM5NzkxLDIwOT
 A2NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
