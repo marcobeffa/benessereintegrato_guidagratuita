@@ -38,13 +38,15 @@ Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il
  - Tenere sott'occhio la tua alimentazione
  - Cercare servizi e professionisti in linea con la nostra filosofia 
  - Seguire i risultati dei tuoi obiettivi
- - Unist gruppi di persone nella tua stessa situazione con cui confrontarti e portare avanti il tuo percorso, per avere un sostegno.
+ - Unirti a un gruppo di persone nella tua stessa situazione con cui confrontarti e portare avanti il tuo percorso, e trovare un sostegno.
+ 
+Tutto questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò a te il primo strumento la nostra guida
 
-Tutto questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò ecco a te il primo strumento
-Il primo strumento
+Nella guida troverai una parte teorica e una parte pratica.
 
-Nella guida perciò troverai una parte teorica e una parte pratica con la nostra filosofia. 
+Nella parte teorica trovi i principi della nostra filosofia. 
+Nella parte pratica t 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2OTk0NDMsLTE5ODg1Mzk3OTEsMjA5MD
-Y0NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTE5MjgyMDQ1MzAsLTE5ODg1Mzk3OTEsMj
+A5MDY0NjczNywxMTkyNDk3NF19
 -->
