@@ -5,7 +5,7 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
   
 ### La guida è per te se ti trovi in una di queste situazioni:
 
-/images/emoticons/prevenzione.gif" description="Vuoi fare prevenzione in modo efficace e semplice." 
+<img src="/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
 
 
 {% include list_emoticon.html url="/images/emoticons/revisione.gif" description="Piccoli acciacchi iniziano ad infastidirti." name="home-prevezione" %}
@@ -101,6 +101,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTkyMzM2NywyMDkwNjQ2NzM3LDExOT
-I0OTc0XX0=
+eyJoaXN0b3J5IjpbMzE0NDk3NTk2LDIwOTA2NDY3MzcsMTE5Mj
+Q5NzRdfQ==
 -->
