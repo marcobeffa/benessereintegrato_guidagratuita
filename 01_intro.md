@@ -2,43 +2,11 @@
 
 Pronto per iniziare a costruire il tuo programma  benessereintegrato? 
 Segui la guida ti fornirà le informazioni necessarie per impostare il tuo programma e seguirne uno più avanzato.
-Questa guida
-
   
-
-{% include inizia_il_percorso.html
-
-previous_url="Info/Contatti/"
-
-previous_name="Contatti"
-
-next_url="/01_introduzione/cosa_è_postura_corretta/"
-
-next_name="Cos'è PosturaCorretta" %}
-
-  
-  
-  
-
-**Porta i principi della Postura nella vita di tutti i giorni in modo facile e piacevole!**
-
-  
-
-Un percorso per imparare come funziona il tuo corpo e come mantenerlo in salute.
-
-  
-  
-
-{% include video.html url="https://player.vimeo.com/video/295103288" description="" %}
-
-  
-
 ### La guida è per te se ti trovi in una di queste situazioni:
 
-  
-  
+/images/emoticons/prevenzione.gif" description="Vuoi fare prevenzione in modo efficace e semplice." 
 
-{% include list_emoticon.html url="/images/emoticons/prevenzione.gif" description="Vuoi fare prevenzione in modo efficace e semplice." name="home-prevenzione" %}
 
 {% include list_emoticon.html url="/images/emoticons/revisione.gif" description="Piccoli acciacchi iniziano ad infastidirti." name="home-prevezione" %}
 
@@ -133,6 +101,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyOTI1MTEsMjA5MDY0NjczNywxMTkyND
-k3NF19
+eyJoaXN0b3J5IjpbMTU3OTkyMzM2NywyMDkwNjQ2NzM3LDExOT
+I0OTc0XX0=
 -->
