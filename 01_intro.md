@@ -21,11 +21,7 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 <img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
   
 
-<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e sperimentare nozioni nozioni che impiegheresti anni a 
-
-  
-  
-  
+<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare e a testare 
   
   
 
@@ -98,6 +94,6 @@ next_name="Cos'è PosturaCorretta" %}
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNDM4NDg0LDIwOTA2NDY3MzcsMTE5Mj
-Q5NzRdfQ==
+eyJoaXN0b3J5IjpbMTMwMDgwOTYxMSwyMDkwNjQ2NzM3LDExOT
+I0OTc0XX0=
 -->
