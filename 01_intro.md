@@ -1,4 +1,4 @@
-# Costruisci il percorso per la tua salute! 
+# Se ci fosse un luogo in cui trovassi al primo
 
 Pronto per iniziare a costruire il tuo programma  benessereintegrato? 
 Segui la guida ti fornirà le informazioni necessarie per impostare il tuo programma e seguirne uno più avanzato.
@@ -49,6 +49,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMT
-k4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbLTQ5NjE0OTc5MSwtNjEzMjk5NTQ2LC0xMT
+U1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2NDY3MzcsMTE5MjQ5
+NzRdfQ==
 -->
