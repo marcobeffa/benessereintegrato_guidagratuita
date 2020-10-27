@@ -79,7 +79,9 @@ Con questi ponti interrotti non si poteva neanche sapere cosa ricordasse Pietro 
 
 Nella mia testa invece si fecero largo molte domande e tutt’oggi queste domande sono sempre li ben presenti alla mia vista!
 
-###  Perchè
+### Perchè le cose accadono senza che ce ne accorgiamo?
+
+Ecco dove era rimasta la mia mente mentre la persona che stavo s
 
 Perchè arrivano queste situazioni?
 
@@ -172,5 +174,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzc0ODIxLC0xODkwNTYwMjddfQ==
+eyJoaXN0b3J5IjpbMTQ1NTE2NzQ5NiwtMTg5MDU2MDI3XX0=
 -->
