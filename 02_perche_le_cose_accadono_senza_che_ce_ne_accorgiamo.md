@@ -128,7 +128,7 @@ Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato d
 
 In oltre sono quasi sicuro che tutto il percorso di riabilitazione sarebbe stato molto più facile. 
 
-Quello che so è che questo percorso funziona anche per i piccoli acciacchi perchè io stesso utilizzo queste conoscenze e quando inizio sentire che qualcosa non va per esempio quando inizio ad avere un piccolo dolore al ginocchio riprendo a mettere in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono.
+Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io stesso lo utilizzo quando inizio a sentire i primi sintomi di qualche do  a mettere in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono.
 
   che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore se dovesse capitare qualcosa di  vivere una vita 
 
@@ -163,5 +163,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNTExMDM3LC0xODkwNTYwMjddfQ==
+eyJoaXN0b3J5IjpbLTQxMDg0MzY0MiwtMTg5MDU2MDI3XX0=
 -->
