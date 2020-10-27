@@ -93,19 +93,23 @@ Non sarebbe stato meglio intervenire prima?
 
 Come è stato possibile che Pietro si sia ridotta in questo modo?
 
+Ma la domanda che più di tutte non mi lasciava in pace era
+
+### Perchè le cose accadono senza che ce ne accorgiamo?
+
+Pietro si era accorto che di li a poco avrebbe perso tutto?
+
 La sua salute era buona o era già compromessa da tempo?
 
 Possibile che il corpo non gli abbia lasciato dei segni che gli facessero capire che qualcosa non funzionava?
 
 Si poteva in qualche modo evitare di giungere a un problema così invalidante?
 
-Ma la domanda che più di tutte non mi lasciava in pace era
-
-Quello che esisteva e come la medicina lavoravano non mi piaceva!
-
-  
-
 Perché intervenire solo quando era così tardi?
+
+Dovevo trovare una risposta a tutto   
+
+
 
 Perché non avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
 
@@ -170,5 +174,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjQyNTY4MCwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbMTE1OTc2MzQzLC0xODkwNTYwMjddfQ==
 -->
