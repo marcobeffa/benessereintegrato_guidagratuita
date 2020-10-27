@@ -69,10 +69,9 @@ Pensa alla complessità di processi perchè questo sia possibile.
 
 Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
 
-Pietro aveva per
-Pietro aveva perso questa capacità di articolare le parole e anche di comprendere le parole di un altra persona.
+Pietro aveva perso tutto questo in pochi minuti, ma non solo  la capacità di muovere una mano anche molte altre capacità che si danno per scontate come la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
-Penso che deve essere la stessa sensazione che si provi a capitare in un paese straniero in cui non si conosce la lingua, ma non è solo questo anche molte altre capacità che si danno per scontate come la capacità di muovere una mano 
+Penso che deve essere la stessa sensazione che si provi a capitare in un paese straniero in cui non si conosce la lingua
 
 Come un bambino di pochi mesi era necessario reimparare a parlare e a comunicare con le altre persone.
 
@@ -175,5 +174,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzY4ODYyNiwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTI0ODMzMTA3MSwtMTg5MDU2MDI3XX0=
 -->
