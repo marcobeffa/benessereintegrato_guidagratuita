@@ -65,9 +65,9 @@ Non pensi mai qunate abilità ha il tuo corpo e dai per scontato che tutto funzi
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
 
+Pensa alla co
 
-
-Pietro aveva perso la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
+Pietro aveva perso questa capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
 Penso che deve essere la stessa sensazione che si provi a capitare in un paese straniero in cui non si conosce la lingua, ma non è solo questo anche molte altre capacità che si danno per scontate come la capacità di muovere una mano 
 
@@ -172,5 +172,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTY3MzIzLC0xODkwNTYwMjddfQ==
+eyJoaXN0b3J5IjpbLTI3MTM3OTk3OCwtMTg5MDU2MDI3XX0=
 -->
