@@ -22,6 +22,7 @@ Proviamo a vedere cosa significano questi termini:
 
 
 ## Dalla cura delle malattie alla cura della persona
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA5MzEyOTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjIwNDY0NDVdfQ==
 -->
