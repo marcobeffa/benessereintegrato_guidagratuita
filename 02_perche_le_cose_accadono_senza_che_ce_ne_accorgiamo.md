@@ -3,35 +3,26 @@
 
 Ricordo ancora il mio primo giorno di lavoro come Fisioterapista, nella clinica città di Brescia,
 
-Una delle cliniche convenzionate a Brescia dove si trovano alcune equipe di ortopedici molto influenti nel campo dell’ortopedia, e dove le persone vengono seguite anche per la riabilitazione di problemi ne
+Una delle cliniche convenzionate a Brescia dove si trovano alcune equipe di ortopedici molto influenti nel campo dell’ortopedia, e dove le persone vengono seguite anche per la riabilitazione di problemi neurolgici. 
+Persone che hanno subito ictus, hanno avuto emiparesi o patologie che colpiscono il sistema nervoso.
 
 https://www.grupposandonato.it/strutture/istituto-clinico-citta-di-brescia
 
   
-
 Nella palestra della riabilitazione, davanti a me era sdraiato su un lettino un paziente di cui ora non ricordo il nome.
-
-  
 
 Mi spiace non aver tenuto traccia di tutte le persone che si sono rivolte in questi anni per chiedermi un aiuto e risolvere un problema o un dolore.
 
-  
-
 La lista sarebbe stata davvero lunga e ricordare tutte le persone che ho incontrato dal 2007 ad oggi porterebbe alla mente molti ricordi, ma quello che mi spiace di più è che a quel tempo le persone spesso perdevano la loro dimensione e diventavano un numero o il sintomo per cui venivano a chiedere un aiuto.
 
-  
 
 Il paziente con la protesi d’anca si trovava nella palestra della riabilitazione dopo  l’intervento, mi raccontava la sua storia, come avesse iniziato ad avere problemi alle articolazioni prima del ginocchio e poi dell’anca. Mi spiegò come fossero iniziati i dolori e tutto l’iter che aveva fatto per cercare una soluzione al suo problema.
 
 Mi raccontò delle cure e dei molti specialisti a cui si era affidato e infine della sua operazione.
-
   
+Mentre mi raccontava i suoi problemi la mia mente non era concentrata ad ascoltare quello che mi stava raccontando perché  si era fermata a pensare a quello che avevo visto mezz’ora prima nel reparto di riabilitazione neurologica.
 
-Mentre mi raccontava i suoi problemi però la mia mente non era concentrato ad ascoltare quello che mi stava raccontando perché  si era fermata a pensare a quello che avevo visto mezz’ora prima nel reparto di riabilitazione neurologica.
-
-  
-
-Là sul letto bianco era sdraiato Pietro.
+  Là sul letto bianco era sdraiato Pietro.
 
   
 
@@ -176,5 +167,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTI2NzIxMCwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTE1NzQ5NzQ3MDAsLTE4OTA1NjAyN119
 -->
