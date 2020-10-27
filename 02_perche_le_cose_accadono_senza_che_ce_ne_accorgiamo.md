@@ -2,8 +2,6 @@
 # Perchè le cose accadono senza che ce ne accorgiamo?
 
 
-## 1) L'importanza di fermarsi ad osservare 
-
 ### Il primo giorno di lavoro come Fisioterapista
 
 Ricordo ancora il mio primo giorno di lavoro come Fisioterapista, nella clinica città di Brescia,
@@ -137,30 +135,8 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 
 
-## 2)   Malattie difficili da curare
-
-Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone che non riescono a trovare una soluzione e che pur faccendo attività sportive o attività che sembrerebbero favorirla non riescono a mantenersi  in salute.
-
-## 3 concetti da tenere ben presente, se hai un problema che non riesci a risolvere
-
-Forse avrai sentito parlare di 
-
- 1. Malatti con cause multifattoriali  
- 2. Malattie degenerative 
- 3. Malattie autoimmuni
-
-Questi 3 concetti nascondono il segreto del perchè sempre più persone non riescono a trovare una soluzione definitiva alle loro malattie. 
-Proviamo a vedere cosa significano questi termini:
-
-### 1 Malattie multifattoriali
-
-### 2 Malattie degenerative
-
-### 3 Malattie autoimmuni
 
 
-
-## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc2NjIxMzAsLTE4OTA1NjAyN119
+eyJoaXN0b3J5IjpbLTE1MDkzODY5MzAsLTE4OTA1NjAyN119
 -->
