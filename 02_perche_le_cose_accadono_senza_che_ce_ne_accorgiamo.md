@@ -65,7 +65,9 @@ Non pensi mai qunate abilità ha il tuo corpo e dai per scontato che tutto funzi
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
 
-Pensa alla co
+Pensa alla complessità di processi perchè questo sia possibile.
+
+Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti 
 
 Pietro aveva perso questa capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
@@ -172,5 +174,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTM3OTk3OCwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbNjUwMDM1MTY3LC0xODkwNTYwMjddfQ==
 -->
