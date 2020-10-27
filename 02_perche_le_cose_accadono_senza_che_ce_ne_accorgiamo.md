@@ -40,27 +40,20 @@ Ogni persona nasce e pian piano costruisce una vita, una sua dimensione una stor
 
 
 Non era in grado di compiere quei gesti quotidiani che ogni giorno ogni mattina ripetiamo quasi automaticamente dando per scontato che tutto sia naturale.
-  
+ 
+### Ricominciare da 0
 
 Ora niente era più naturale tutto ricominciava dall'inizio per pietro.
  
 Certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
 
-CosUna condizione poco conosciuta finché non ci si incappa di solito all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stavamo viaggiando tranquilli.
-
-  
+Così riflettei sul fatto che questa è una condizione poco conosciuta finché non ci si incappa di solito all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stavamo viaggiando tranquilli.
 
 Pietro aveva perso la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
-  
-
-Penso che deve essere la stessa sensazione che si provi a capitare in un paese straniero in cui non si conosce la lingua.
-
-  
+Penso che deve essere la stessa sensazione che si provi a capitare in un paese straniero in cui non si conosce la lingua, ma non è solo questo anche molte altre capacità che si danno per
 
 Come un bambino di pochi mesi era necessario reimparare a parlare e a comunicare con le altre persone.
-
-  
 
 Con questi ponti interrotti non si poteva neanche sapere cosa ricordasse Pietro cosa stesse pensando e cosa passava nella sua testa.
 
@@ -161,5 +154,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzcxNjYwNzQsLTE4OTA1NjAyN119
+eyJoaXN0b3J5IjpbLTE4Mjg0NzUyMTEsLTE4OTA1NjAyN119
 -->
