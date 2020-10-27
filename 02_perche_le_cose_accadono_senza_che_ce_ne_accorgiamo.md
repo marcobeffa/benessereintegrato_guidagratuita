@@ -1,20 +1,5 @@
-**Guida BenessereIntegrato**
+## Guida BenessereIntegrato
 
-  
-
-  
-
-Il Benessere a 360°
-
-Il corpo e il modello Bio Psico Sociale
-
-  
-
-  
-
-Inizio cap 1
-
-  
 
 Ricordo ancora il mio primo giorno di lavoro come Fisioterapista, nella clinica città di Brescia,
 
@@ -191,5 +176,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA1NjAyN119
+eyJoaXN0b3J5IjpbLTIzOTY2MTY3OSwtMTg5MDU2MDI3XX0=
 -->
