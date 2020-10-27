@@ -130,40 +130,10 @@ In oltre sono quasi sicuro che tutto il percorso di riabilitazione sarebbe stato
 
 Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io stesso lo utilizzo quando inizio a sentire i primi sintomi di qualche dolore. Per esempio il dolore al ginocchio. Metto in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono, a volte ammetto che devo chiedere aiuto a qualche amico fisioterapista e se la situazione è grave fortunatamente ci sono medici ed ospedali.
 
-Rinf
-
-  che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore se dovesse capitare qualcosa di  vivere una vita 
+Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 
 
 
-  
-
--   Fine cap 1
-
-## Malattie difficili da curare
-
-Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone che non riescono a trovare una soluzione e che pur faccendo attività sportive o attività che sembrerebbero favorirla non riescono a mantenersi  in salute.
-
-## 3 concetti da tenere ben presente, se hai un problema che non riesci a risolvere
-
-Forse avrai sentito parlare di 
-
- 1. Malatti con cause multifattoriali  
- 2. Malattie degenerative 
- 3. Malattie autoimmuni
-
-Questi 3 concetti nascondono il segreto del perchè sempre più persone non riescono a trovare una soluzione definitiva alle loro malattie. 
-Proviamo a vedere cosa significano questi termini:
-
-### 1 Malattie multifattoriali
-
-### 2 Malattie degenerative
-
-### 3 Malattie autoimmuni
-
-
-
-## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjQzMjU1MiwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTIxMTkyNzk0MjAsLTE4OTA1NjAyN119
 -->
