@@ -124,13 +124,18 @@ Ora dopo parecchi corsi, molti studi e sperimentazione ore ed ore di lavoro di c
 
 Con benessere integrato ti offro uno strumento che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse questo ictus.  
 
-Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di rimanere disabile a vita, ma sono certo che ne avrebbe ridotto drasticamente la probabilità che questo infausto evento accadesse.
+Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di incontrare la disabilità, ma sono certo che ne avrebbe ridotto drasticamente la probabilità che questo infausto evento accadesse.
 
-Ma di una cosa sono certo che  tutt’ora anche io utilizzo queste conoscenze e quando inizio sentire che qualcosa non va inizio ad avere un piccolo dolore al ginocchio riprendo a mettere in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono.
 
-  
 
-In oltre sono quasi sicuro che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore se dovesse capitare qualcosa di  vivere una vita m
+In oltre sono quasi sicuro che tutto il percorso di riabilitazione sarebbe stato molto p
+
+
+Sono certo anche  tutt’ora anche io utilizzo queste conoscenze e quando inizio sentire che qualcosa non va inizio ad avere un piccolo dolore al ginocchio riprendo a mettere in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono.
+
+  che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore se dovesse capitare qualcosa di  vivere una vita 
+
+
 
   
 
@@ -161,5 +166,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDUzNTczOSwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTY2ODA0MDQwMSwtMTg5MDU2MDI3XX0=
 -->
