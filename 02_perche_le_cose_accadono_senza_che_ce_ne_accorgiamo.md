@@ -58,13 +58,12 @@ Non pensi mai qunate abilità ha il tuo corpo e dai per scontato che tutto funzi
 - Parlare.
 - Muovere una mano.
 - Afferrare un oggetto come un bicchiere di plastica senza romperlo.
-- La capacità di 
-
-
+- Restare in piedi in stazione eretta in equilibrio senza cadere
+- Respirare
 
 ###  Un piccolo esercizio di consapevolezza
 
-
+Prova a fermarti un attimo guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita
 
 Pietro aveva perso la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
@@ -171,5 +170,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjg1MTc4OCwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTM3ODI3MjM2MSwtMTg5MDU2MDI3XX0=
 -->
