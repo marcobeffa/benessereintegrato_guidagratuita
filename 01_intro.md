@@ -1,7 +1,10 @@
 ## Non sarebbe fantastico se ci fosse un posto in cui in poco tempo
 
+ - Puoi chiedere a qualcuno che ha avuto i tuoi stessi problemi come ha fatto a trovare una soluzione
+ 
  - Puoi farti un idea  degli strumenti e dei professionisti di cui hai bisogno.
- - I professionisti che r
+
+ - I professionisti che ti seguono lavorano insieme per aiutarti a raggiungere il tuo obiettivo
 
 Pronto per iniziare a costruire il tuo programma  benessereintegrato? 
 Segui la guida ti fornirà le informazioni necessarie per impostare il tuo programma e seguirne uno più avanzato.
@@ -52,7 +55,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTk3MDE3MiwtNjEzMjk5NTQ2LC0xMT
-U1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2NDY3MzcsMTE5MjQ5
-NzRdfQ==
+eyJoaXN0b3J5IjpbNTUwNTgwOTcwLC02MTMyOTk1NDYsLTExNT
+UwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0NjczNywxMTkyNDk3
+NF19
 -->
