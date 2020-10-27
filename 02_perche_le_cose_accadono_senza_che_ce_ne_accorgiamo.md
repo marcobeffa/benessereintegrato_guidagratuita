@@ -1,4 +1,3 @@
-## Guida BenessereIntegrato
 
 
 
@@ -69,19 +68,18 @@ Pensa alla complessità di processi perchè questo sia possibile.
 
 Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
 
-Pietro aveva perso tutto questo in pochi minuti, ma non solo  la capacità di muovere una mano anche molte altre capacità che si danno per scontate come la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
-
-Penso che deve essere la stessa sensazione che si provi a capitare in un paese straniero in cui non si conosce la lingua
+Pietro aveva perso tutto questo in pochi minuti, ma non solo  la capacità di muovere una mano anche molte altre capacità che si danno per scontate come la capacità di articolare le parole e anche quella di comprendere quelle dette da un altra persona.
+ 
+Penso che deve essere la stessa sensazione che si provi a capitare in un paese straniero in cui non si conosce la lingua.
 
 Come un bambino di pochi mesi era necessario reimparare a parlare e a comunicare con le altre persone.
 
 Con questi ponti interrotti non si poteva neanche sapere cosa ricordasse Pietro cosa stesse pensando e cosa passava nella sua testa.
-
   
 
 Nella mia testa invece si fecero largo molte domande e tutt’oggi queste domande sono sempre li ben presenti alla mia vista!
 
-  
+###  Perchè
 
 Perchè arrivano queste situazioni?
 
@@ -174,5 +172,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODMzMTA3MSwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbMTg2MDkxNzczMSwtMTg5MDU2MDI3XX0=
 -->
