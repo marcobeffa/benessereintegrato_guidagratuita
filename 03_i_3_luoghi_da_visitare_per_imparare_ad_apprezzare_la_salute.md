@@ -1,12 +1,14 @@
-<!-- Reparto di pediatria Istinto
-Ospedale Relazione
-Casa di riposo Differenziazione -->
+<!-- Reparto di pediatria Istinto Bio 
+Ospedale Relazione Psico
+Casa di riposo Differenziazione  Sociale -->
 
-Bio psicosociale
+
+
 
 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTMyNTUwNywtMTAzMjM2NzI1MV19
+eyJoaXN0b3J5IjpbLTE2MjQwNzg5OTEsLTEwMzIzNjcyNTFdfQ
+==
 -->
