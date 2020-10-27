@@ -44,9 +44,9 @@ Non era in grado di compiere quei gesti quotidiani che ogni giorno ogni mattina 
 
 Ora niente era più naturale tutto ricominciava dall'inizio per pietro.
  
-Certo Avevo già incontrato durante gli anni di università a tirocinio persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile
-  
-Una condizione poco conosciuta finché non ci si incappa di solito all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stavamo viaggiando tranquilli.
+Certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
+
+CosUna condizione poco conosciuta finché non ci si incappa di solito all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stavamo viaggiando tranquilli.
 
   
 
@@ -161,5 +161,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDkwOTQ0MCwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTE4MzcxNjYwNzQsLTE4OTA1NjAyN119
 -->
