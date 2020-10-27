@@ -1,15 +1,14 @@
 # Non sarebbe fantastico se ci fosse un posto in cui in poco tempo
 
- 1. Puoi chiedere a qualcuno che ha avuto i tuoi stessi problemi come ha fatto a trovare una soluzione 
- 2. Puoi farti un idea dei servizi, dei professionisti e degli strumenti di cui hai bisogno?
- 3. Capire la strada migliore da percorrere per riso
+ 1. Capire la strada migliore da percorrere per risolvere un problema in base alle tue esigenze e possibilità 
+ 2. Puoi chiedere a qualcuno che ha avuto i tuoi stessi problemi come ha fatto a trovare una soluzione 
+ 3. Puoi farti un idea dei servizi, dei professionisti e degli strumenti di cui hai bisogno? 
  4. I professionisti che ti seguono lavorano insieme per aiutarti a raggiungere
 
+> E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
+ 
+Be qui c'è una guida che ti mostra come funziona questo posto...
 
-
-Pronto per iniziare a costruire il tuo programma  benessereintegrato? 
-Segui la guida ti fornirà le informazioni necessarie per impostare il tuo programma e seguirne uno più avanzato.
-  
 ### La guida è per te se ti trovi in una di queste situazioni:
 
 <img src="http://localhost:4000/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
@@ -26,7 +25,6 @@ Segui la guida ti fornirà le informazioni necessarie per impostare il tuo progr
 <br>
 <img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
 
-> E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
 
 <br>
 
@@ -56,7 +54,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjE2MjkwOSwtNjEzMjk5NTQ2LC0xMT
-U1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2NDY3MzcsMTE5MjQ5
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2MDQ3MzI2MjgsLTYxMzI5OTU0NiwtMT
+E1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0
+OTc0XX0=
 -->
