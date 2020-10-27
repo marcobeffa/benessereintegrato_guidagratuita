@@ -53,8 +53,15 @@ Così riflettei sul fatto che la disabilità fin che non ci si incappa direttame
 
 E di solito ci si incappa all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stai viaggiando tranquillo.
 
-Non pensi mai a quante cose si danno per scontate.
-Fermati un secondo e pensa a quante cose 
+Non pensi mai qunate abilità ha il tuo corpo e dai per scontato che tutto funzioni sempre al meglio.
+
+La capacità 
+
+
+
+###  Un piccolo esercizio di consapevolezza
+
+
 
 Pietro aveva perso la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
@@ -161,5 +168,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjQyMDg4NCwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTM4NDMwNzY4NCwtMTg5MDU2MDI3XX0=
 -->
