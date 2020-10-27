@@ -2,8 +2,9 @@
 Movimento Allenamento
 Recupero e Conoscenza del corpo
 Fitofarmaci Integratori Farmaci
-Atteggiamento
+Atteggiamento Emotivo e Mentale
+
 --> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDI5MDQ1LC0xODkyMTE2NTc0XX0=
+eyJoaXN0b3J5IjpbMTYxMzI1ODQ3NywtMTg5MjExNjU3NF19
 -->
