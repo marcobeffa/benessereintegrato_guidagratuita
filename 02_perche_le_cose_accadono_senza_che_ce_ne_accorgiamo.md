@@ -63,7 +63,9 @@ Non pensi mai qunate abilità ha il tuo corpo e dai per scontato che tutto funzi
 
 ###  Un piccolo esercizio di consapevolezza
 
-Prova a fermarti un attimo guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita
+Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
+
+
 
 Pietro aveva perso la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
@@ -170,5 +172,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODI3MjM2MSwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbMTk4MTY3MzIzLC0xODkwNTYwMjddfQ==
 -->
