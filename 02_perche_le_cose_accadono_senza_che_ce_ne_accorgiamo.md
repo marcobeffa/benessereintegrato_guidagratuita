@@ -114,27 +114,17 @@ Perché non era stato possibile per Pietro avere un quadro della propria salute 
 
 Ero disorientato mi sentivo impotente e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo tenere sotto controllo la salute e imparare a leggere i segnali del corpo prima di incappare in eventi traumatici irreversibili che portano a disabilità e a perdere la capacità di utilizzare questo fantastico corpo un dono prezioso che ci hanno regalato alla nascita.
 
-  
-
 Forse c’era qualcosa che la fisioterapia poteva fare in via preventiva per aiutare le persone a non arrivare a queste condizioni estreme.
-
-  
 
 Ecco in quel giorno decisi di iniziare la mia ricerca avrei trovato una soluzione a tutto  questo.
 
-  
-
 Ora dopo parecchi corsi, molti studi e sperimentazione ore ed ore di lavoro di confronto con professionisti sono riuscito a trovare quello che cercavo e pian piano sto costruendo questo fantastico progetto!
 
-  
+### BenessereIntegrato può fare la differenza per la tua salute?
 
-Con benessere integrato ti offro uno strumento che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse questo ictus.
-
-  
+Con benessere integrato ti offro uno strumento che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse questo ictus.  
 
 Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di rimanere disabile a vita, ma sono certo che ne avrebbe ridotto drasticamente la probabilità che questo infausto evento accadesse.
-
-  
 
 Ma di una cosa sono certo che  tutt’ora anche io utilizzo queste conoscenze e quando inizio sentire che qualcosa non va inizio ad avere un piccolo dolore al ginocchio riprendo a mettere in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono.
 
@@ -171,5 +161,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc3MzMxMzQsLTE4OTA1NjAyN119
+eyJoaXN0b3J5IjpbMjE0MDUzNTczOSwtMTg5MDU2MDI3XX0=
 -->
