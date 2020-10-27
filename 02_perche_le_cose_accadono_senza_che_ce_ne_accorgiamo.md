@@ -1,5 +1,5 @@
 
-
+# Perchè le cose accadono senza che ce ne accorgiamo?
 
 ### Il primo giorno di lavoro come Fisioterapista
 
@@ -172,5 +172,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDkxNzczMSwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbMTAyMzc0ODIxLC0xODkwNTYwMjddfQ==
 -->
