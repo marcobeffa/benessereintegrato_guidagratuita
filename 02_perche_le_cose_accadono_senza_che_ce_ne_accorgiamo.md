@@ -3,7 +3,7 @@
 
 Ricordo ancora il mio primo giorno di lavoro come Fisioterapista, nella clinica città di Brescia,
 
-Una delle cliniche convenzionate a Brescia dove si trovano alcune equipe di ortopedici molto influenti nel campo dell’ortopedia.
+Una delle cliniche convenzionate a Brescia dove si trovano alcune equipe di ortopedici molto influenti nel campo dell’ortopedia, e dove le persone vengono seguite anche per la riabilitazione di problemi ne
 
 https://www.grupposandonato.it/strutture/istituto-clinico-citta-di-brescia
 
@@ -176,5 +176,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTY2MTY3OSwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbMjAyNTI2NzIxMCwtMTg5MDU2MDI3XX0=
 -->
