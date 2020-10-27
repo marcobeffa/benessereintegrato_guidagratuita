@@ -47,12 +47,12 @@ Ora niente era più naturale tutto ricominciava dall'inizio per pietro.
  
 Certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
 
-###  Cose che si danno per scontato
+###  Quante abilità sei in grado di fare e dai come scontate?
 
-Così riflettei sul fatto che questa è una condizione poco conosciuta finché non ci si incappa di solito all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stavamo viaggiando tranquilli.
+Così riflettei sul fatto che la disabilità fin che non ci si incappa direttamente quasi all'improvviso spesso è una condizione poco conosciuta finché non ci si incappa di solito all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stavamo viaggiando tranquilli.
 
 Non pensiamo mai a quante cose si danno per scontate.
-
+Fermati un secondo e pensa a quante cose 
 
 Pietro aveva perso la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
 
@@ -159,5 +159,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTUzNDY5NSwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbNDY0NjY1NDI5LC0xODkwNTYwMjddfQ==
 -->
