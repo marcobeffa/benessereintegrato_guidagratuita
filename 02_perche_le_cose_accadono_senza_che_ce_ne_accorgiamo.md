@@ -27,24 +27,19 @@ Mentre mi raccontava i suoi problemi però la mia mente non stava ascoltando le 
 
 Là sul letto bianco era sdraiato Pietro.
 
-Era un ragazzo di quarant’anni  e non era in grado di mettersi seduto. A
+Era un ragazzo di quarant’anni  e non era in grado di mettersi seduto. 
 
 Non riusciva a controllare i movimenti.
 
-Dopo un ictus aveva perso l’uso della parola e non muoveva la parte destra del corpo.
-
-  
+Dopo un ictus aveva perso l’uso della parola e non muoveva la parte destra del corpo.  
 
 La vita di Pietro aveva avuto improvvisamente una brusca svolta, qualsiasi cosa avesse portato avanti fino a quel momento era stato interrotto
 
-  
 
 Ogni persona nasce e pian piano costruisce una vita, una sua dimensione una storia da raccontare, per Pietro però tutto doveva essere ricostruito, era ritornato improvvisamente un bambino di pochi mesi.
 
-  
 
 Non era in grado di compiere quei gesti quotidiani che ogni giorno ogni mattina ripetiamo quasi automaticamente dando per scontato che tutto sia naturale.
-
   
 
 La parola naturale si era trasformata in una parola che suona come disabilità.
@@ -166,5 +161,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQzODg5MDUsLTE4OTA1NjAyN119
+eyJoaXN0b3J5IjpbMTc4MTg1NjY3NiwtMTg5MDU2MDI3XX0=
 -->
