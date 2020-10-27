@@ -20,7 +20,7 @@ Il paziente con la protesi d’anca si trovava nella palestra della riabilitazio
 
 Mi raccontò delle cure e dei molti specialisti a cui si era affidato e infine della sua operazione.
   
-Mentre mi raccontava i suoi problemi la mia mente non era concentrata ad ascoltare quello che mi stava raccontando perché  si era fermata a pensare a quello che avevo visto mezz’ora prima nel reparto di riabilitazione neurologica.
+Mentre mi raccontava i suoi problemi però la mia mente non stava ascoltando le sue parole, ma era  fermata a pensare a quello che avevo visto mezz’ora prima nel reparto di riabilitazione neurologica.
 
   Là sul letto bianco era sdraiato Pietro.
 
@@ -167,5 +167,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ5NzQ3MDAsLTE4OTA1NjAyN119
+eyJoaXN0b3J5IjpbLTczMzMwMjk3MCwtMTg5MDU2MDI3XX0=
 -->
