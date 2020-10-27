@@ -107,13 +107,10 @@ Si poteva in qualche modo evitare di giungere a un problema così invalidante?
 
 Perché intervenire solo quando era così tardi?
 
-Dovevo trovare una risposta a tutto   
+Perché non era stato possibile per Pietro avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
 
 
-
-Perché non avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
-
-  
+### Da dove nasce BenessereIntegrato.it
 
 Ero disorientato mi sentivo impotente e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo tenere sotto controllo la salute e imparare a leggere i segnali del corpo prima di incappare in eventi traumatici irreversibili che portano a disabilità e a perdere la capacità di utilizzare questo fantastico corpo un dono prezioso che ci hanno regalato alla nascita.
 
@@ -174,5 +171,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTc2MzQzLC0xODkwNTYwMjddfQ==
+eyJoaXN0b3J5IjpbLTE2NTc3MzMxMzQsLTE4OTA1NjAyN119
 -->
