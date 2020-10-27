@@ -49,9 +49,11 @@ Certo avevo già incontrato durante gli anni di università a tirocinio in osped
 
 ###  Quante abilità sei in grado di fare e dai come scontate?
 
-Così riflettei sul fatto che la disabilità fin che non ci si incappa direttamente quasi all'improvviso spesso è una condizione poco conosciuta finché non ci si incappa di solito all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stavamo viaggiando tranquilli.
+Così riflettei sul fatto che la disabilità fin che non ci si incappa direttamente o tramite un conoscente stretto   spesso è una condizione poco conosciuta.
 
-Non pensiamo mai a quante cose si danno per scontate.
+E di solito ci si incappa all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stai viaggiando tranquillo.
+
+Non pensi mai a quante cose si danno per scontate.
 Fermati un secondo e pensa a quante cose 
 
 Pietro aveva perso la capacità di articolare le parole e anche di comprendere le parole di un altra persona.
@@ -159,5 +161,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NjY1NDI5LC0xODkwNTYwMjddfQ==
+eyJoaXN0b3J5IjpbLTQ1NjQyMDg4NCwtMTg5MDU2MDI3XX0=
 -->
