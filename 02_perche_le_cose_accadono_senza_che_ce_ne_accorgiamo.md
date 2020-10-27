@@ -2,7 +2,7 @@
 # Perchè le cose accadono senza che ce ne accorgiamo?
 
 
-## PRI
+## 1) L'importanza di fermarsi ad osservare 
 
 ### Il primo giorno di lavoro come Fisioterapista
 
@@ -137,8 +137,7 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 
 
-
-## Malattie difficili da curare
+## 2)   Malattie difficili da curare
 
 Oggi ci si ammala di malattie difficili da curare. Sempre più sono le persone che non riescono a trovare una soluzione e che pur faccendo attività sportive o attività che sembrerebbero favorirla non riescono a mantenersi  in salute.
 
@@ -163,5 +162,5 @@ Proviamo a vedere cosa significano questi termini:
 
 ## Dalla cura delle malattie alla cura della persona
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzIyNTczNSwtMTg5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbLTE2Mzc2NjIxMzAsLTE4OTA1NjAyN119
 -->
