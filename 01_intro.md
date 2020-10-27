@@ -1,4 +1,4 @@
-# Se ci fosse un luogo in cui trovassi al primo
+# Non sarebbe fantastico se ci fosse un posto in cui in 10 minuti puoi farttrovi i giusti strumenti e professionisti di cui hai bisogno e con cui ti trovi bene? 
 
 Pronto per iniziare a costruire il tuo programma  benessereintegrato? 
 Segui la guida ti fornirà le informazioni necessarie per impostare il tuo programma e seguirne uno più avanzato.
@@ -49,7 +49,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjE0OTc5MSwtNjEzMjk5NTQ2LC0xMT
-U1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2NDY3MzcsMTE5MjQ5
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzk1ODkwLC02MTMyOTk1NDYsLTExNT
+UwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0NjczNywxMTkyNDk3
+NF19
 -->
