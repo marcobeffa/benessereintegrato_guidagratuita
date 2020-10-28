@@ -11,8 +11,12 @@ Ogni professionista studi la stessa cosa l'uomo ma da prospettive diverse
 storia dei saggi indiani che toccavano l'elefante 
 
 per questo proponiamo ai professionsiti un modello
-posturacorretta ma in futuro ne costruiremo altri per ora la parte più facile è il percorso educativo che è come fare un rodaggio
+posturacorretta ma in futuro ne costruiremo altri per ora la parte più facile è il percorso educativo che è come fare un rodaggio testare la macchina nei box  
+prima della gara vera 
+
+Certo come abbiamo detto non è per tutti per questo passiamo allo stato di salute
+
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjEwMjE1ODEsODA1OTgwMTI3XX0=
+eyJoaXN0b3J5IjpbMTIyNTM3MDI5Niw4MDU5ODAxMjddfQ==
 -->
