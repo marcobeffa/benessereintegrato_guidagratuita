@@ -4,7 +4,7 @@ Coming soon
  Bio Psico sociale  
  Percorso con stato i 5 
 
-
+Singolo Autonomia in gruppo con il professionista online?
 La mappa è la fisiologia il comune denominatore di ogni professione 
 Ogni professionista studi la stessa cosa l'uomo ma da prospettive diverse
 
@@ -18,5 +18,5 @@ Certo come abbiamo detto non è per tutti per questo passiamo allo stato di salu
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTM3MDI5Niw4MDU5ODAxMjddfQ==
+eyJoaXN0b3J5IjpbMjU5MzU3ODA2LDgwNTk4MDEyN119
 -->
