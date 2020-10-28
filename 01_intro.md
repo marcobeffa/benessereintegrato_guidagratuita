@@ -12,9 +12,9 @@
 <br>
 <img src="/images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
 <br>
-<img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
+<img src="/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
 <br>
-<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
+<img src="/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
 
 
 <br>
@@ -111,7 +111,7 @@ In caso di dubbi contattaci!
 E ora non ti resta che iniziare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM1NjI1NTUsLTE2MDQ3MzI2MjgsLT
-YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
-NjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbMTYxODc4NjQzLC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
