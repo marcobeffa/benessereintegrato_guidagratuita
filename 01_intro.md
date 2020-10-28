@@ -19,11 +19,13 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  9. Evitare alla persone di perdere tempo soldi e di fornendo programmi e servizi non adatti o peggio ancora dannosi
  10. Dare la possibilità alla persona di capire quale tipologia di professione è adatta a lui in base alla situazione della sua salute. Se una persona a bisogno di curare una patologia deve rivolgersi a un medico. Certo il medico dovrebbe conoscere anche l'operato delle altre professioni sanitarie del benessere delle discipline bionaturali e conoscere anche il professionista che le pratica per poter consigliare in modo corretto. 
  11. Poter educare le persone alla salute mentre si curano.
- 12. Poter Fornire Cose semplici alle person
- 13. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire e come, in base  ai risultati ottenuti e alla soddisfazione
- 14. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
- 15. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
- 16. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona se la persona a la possibilità e vuole utilizzare più denaro per essere seguito in modo personalizzato.
+ 12. Poter Fornire Cose semplici alle persone utili nella vita di tutti i giorni
+ 13. Utilizzare un atteggiamento di possibilità generativo e non inibitorio.
+ 14. Non curare una patologia ma curare una persona
+ 15. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire e come, in base  ai risultati ottenuti e alla soddisfazione
+ 16. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
+ 17. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
+ 18. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona se la persona a la possibilità e vuole utilizzare più denaro per essere seguito in modo personalizzato.
  
  
 
@@ -99,7 +101,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM5NjQxMjQsLTE2MDQ3MzI2MjgsLT
+eyJoaXN0b3J5IjpbLTEyNDQ1NTAxNzgsLTE2MDQ3MzI2MjgsLT
 YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
 NjQ2NzM3LDExOTI0OTc0XX0=
 -->
