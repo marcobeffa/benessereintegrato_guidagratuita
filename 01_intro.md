@@ -34,7 +34,8 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  7. I professionisti dovrebbero avere il giusto riconoscimento per il lavoro svolto.
  8. I professionisti dovrebbero avere degli strumenti per lavorare in team con altri professionisti e velocizzare la comunicazione con il paziente.
  9. Ci dovrebbe essere la possibilità di segnalare sistemi che non sono funzionali e discutere un miglioramento.
- 10. 
+ 10. I professionisti dovrebbero diventare anche dei produttori di prodotti informativi che possano aiutare la persona a mantenersi in salute o a ritrovarla
+ 11. I professionisti dovrebbero poter utilizzare anche le conoscenze e i servizi che hanno prodotto altri professionisti. 
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
@@ -85,7 +86,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5MzkxNTY0LC0xNjA0NzMyNjI4LC02MT
-MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
-NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTIxMDk3MTgzNzAsLTE2MDQ3MzI2MjgsLT
+YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
+NjQ2NzM3LDExOTI0OTc0XX0=
 -->
