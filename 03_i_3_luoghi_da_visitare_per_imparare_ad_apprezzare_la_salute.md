@@ -55,6 +55,8 @@ Perchè soffermarsi su questa osservazioni, che possono sembrare scontate e bana
 
 
 
+
+
 <!-- Reparto di pediatria Istinto Bio 
 Ospedale Relazione Psico
 Casa di riposo Differenziazione  Sociale 
@@ -67,6 +69,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjc2MDM2NiwxODQxOTY0NDg3LDEzNj
+eyJoaXN0b3J5IjpbMTc4Mjc5Nzc3OCwxODQxOTY0NDg3LDEzNj
 E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
