@@ -10,7 +10,7 @@
 <br>
 <img src="/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
 <br>
-<img src="/images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
+<img src="/images/emoticons/recupero-info.png">  Vuoi recuperare la tua condizione ottimale dopo un infortunio.
 <br>
 <img src="/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
 <br>
@@ -111,7 +111,7 @@ In caso di dubbi contattaci!
 E ora non ti resta che iniziare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODc4NjQzLC0xNjA0NzMyNjI4LC02MT
-MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
-NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbMTA0NTAzMzAxMSwtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
