@@ -24,7 +24,12 @@ Oggi si considera il corpo come un oggetto materiale fisico ma non ci si accorge
 
 Le scelte in particolare facciamo un esempio pratico.
 
-Pensa oggi di incontrare una persona che debba prendere una decisione e debba mantenerla per 3 anni.  Iniziare a fumare pesantemente 2 pacchetti di sigarette al giorno o iscriversi in palestra. (o al prg)
+Pensa oggi di incontrare 2 persone e tutte e due hanno preso  una decisione che manterranno per 3 anni.  
+
+ - La prima ha deciso di Iniziare a fumare pesantemente 2 pacchetti di sigarette al giorno 
+ - La seconda di iscriversi in palestra. 
+
+Ora pensa di incontrare queste due persone t
 
 
 Azioni bio - Sociali Relazioni - Pensieri -Psico 
@@ -110,7 +115,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDAzMDIzOSwtMTA4OTI2NDQ5NiwxOD
-QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
-NjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ2MzkxNDcsLTEwODkyNjQ0OTYsMT
+g0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMy
+MzY3MjUxXX0=
 -->
