@@ -79,7 +79,7 @@ Io penso invece che tutto questo sia possibile. Oggi abbiamo a disposizione cono
 
 Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi decidere di prendere parte a questo progetto ambizioso iniziando da pochi semplici passi.
 
-### Cosa trovi nella guida?
+## Cosa trovi nella guida?
 
 Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il necessario per mettere in pratica ogni giorno il tuo percorso per la salute potrai:
 
@@ -93,9 +93,11 @@ Benessereintegrato.it è un contenitore che ti aiuta a tenere in ordine tutto il
  - Seguire i risultati dei tuoi obiettivi
  - Unirti a un gruppo di persone nella tua stessa situazione con cui confrontarti e portare avanti il tuo percorso, e trovare un sostegno.
  
-Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi, perciò a te il primo strumento la nostra guida.
+Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi.
 
- La guida è pensate per accompagnarti nella prima parte del percorso. Presenta una parte teorica e una parte pratica.
+## La guida il primo strumento
+
+ La guida è pensata per accompagnarti nella prima parte del percorso. Presenta una parte teorica e una parte pratica.
 
 Nella parte teorica trovi i principi della nostra filosofia. 
 Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i principi teorici ecco i capitoli della guida:
@@ -105,7 +107,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgxMjEzMCwtMTYwNDczMjYyOCwtNj
+eyJoaXN0b3J5IjpbMjExNDI5ODU4OSwtMTYwNDczMjYyOCwtNj
 EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
 NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
