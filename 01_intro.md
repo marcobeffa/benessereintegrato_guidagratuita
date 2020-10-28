@@ -12,8 +12,11 @@ Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 an
  8. Poter fornire programmi non solo scientificamente validi ma anche che abbiano un efficacia pratica
  9. Evitare alla persone di perdere tempo soldi e di fornire programmi che non siano adatti a lei
  10. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire in base alla ai risultati ottenuti e alla soddisfazione 
- 11. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese mentre off professionisti preparati se una
- 12. Per chi vuole investire pochi soldi c'è la possibilità di mettere molto impegno personale e molto tempo lavorando in autonomia.
+ 11. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
+ 12. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
+ 13. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona a chi vuole utilizzare più denaro per essere seguito in modo personalizzato.
+ 14. 
+
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
@@ -64,7 +67,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTU1MTQxNiwtMTYwNDczMjYyOCwtNj
-EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
-NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbNDgxMTUwMjAxLC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
