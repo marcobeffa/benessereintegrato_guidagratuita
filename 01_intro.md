@@ -4,8 +4,9 @@ Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 an
 
 1. Capire la strada migliore da percorrere per risolvere un problema in base alle sue esigenze e possibilità 
  2. Poter chiedere a qualcuno che abbia avuto gli stessi problemi come ha fatto a trovare una soluzione 
- 3. Poter fornire un elenco di servizi di professionisti e degli strumenti di cui hai bisogno? 
- 4. I professionisti che ti seguono lavorano insieme per aiutarti a raggiungere
+ 3. Poter fornire un elenco di servizi di professionisti e di strumenti in linea con le risorse e con le preferenze della persona.
+ 4. Essere seguiti da un team di professionisti che lavorano insieme per aiutarti a raggiungere
+ 5. 
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
@@ -56,7 +57,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0ODQ3MDAxLC0xNjA0NzMyNjI4LC02MT
-MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
-NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTE3MTY2MjQxMjksLTE2MDQ3MzI2MjgsLT
+YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
+NjQ2NzM3LDExOTI0OTc0XX0=
 -->
