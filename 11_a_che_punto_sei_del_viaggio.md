@@ -18,8 +18,12 @@ Imparare a cambiare se ci sono problemi risolverli
 Dividere il viaffio in tappe  e arrivare all'obiettivo
 
 Certo un buon 90 % delle patologie sono risolvibili
-in altri casi si deve prendere atto che la patologia fa il suo corso e qui il parte rallentare e cercare di
+in altri casi si deve prendere atto che la patologia fa il suo corso e qui il compito è di rallentare e cercare di vivere al meglio il tempo concesso.
+
+Non è una gara contro gli altrie è un percorso con noi per scoprire chi siamo da dove veniamo ecc
+
+
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTM0NzE4MV19
+eyJoaXN0b3J5IjpbLTI4MDMwODYwOV19
 -->
