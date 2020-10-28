@@ -2,6 +2,7 @@ Durante il lungo percorso di fromazione e di lavoro ho avuto la possibilità e a
 Una persona cresce in base alle difficoltà che riesce ad affrontare.
 Chel che no strosa engrassa se avete sentito qualche video probabilmente vi sarete accorti del mio accento bresciano (probabilmente hahah!) Questo è un detto che dicevano sempre i nonni.
 
+Le difficolt
 
 <!-- Rebparto di pediatria Istinto Bio 
 Ospedale Relazione Psico
@@ -15,6 +16,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTcxNzM4NCwxMzYxNDQ1NDAyLC0xMT
-E4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
+eyJoaXN0b3J5IjpbMTg3NjQxMTg5LDEzNjE0NDU0MDIsLTExMT
+g0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
