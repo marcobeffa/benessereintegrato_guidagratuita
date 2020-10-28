@@ -35,7 +35,9 @@ L'ospedale è il secondo luogo che si deve visitare come abbiamo già visto prim
 
 ## Differenziazione
 
-Grazie alla società cresciamo e sviluppiamo la nostra vita ed è proprio dopo aver sviluppato le capacità di relazionarci che Ci differenz
+Grazie alla società cresciamo e sviluppiamo la nostra vita ed è proprio dopo aver sviluppato le capacità di relazionarci che Ci differenziamo e ogni persona svolge quello che per lui è importante quello che si sente chiamato a fare e qui passare in casa di riposo è importane perchè spesso ci si dimentica questo
+
+Una cosa che trovo assurda è vivere una vita frenetica per poi passare gli ultimi anni di vita frustrati in una casa di riposo forse sarebbero da ripensare un
 
 
 A questo
@@ -57,6 +59,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTAzNTI1NSwxMzYxNDQ1NDAyLC0xMT
-E4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
+eyJoaXN0b3J5IjpbODQxMjU3MjM4LDEzNjE0NDU0MDIsLTExMT
+g0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
