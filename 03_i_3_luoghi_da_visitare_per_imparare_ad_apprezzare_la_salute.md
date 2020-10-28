@@ -37,8 +37,9 @@ L'ospedale è il secondo luogo che si deve visitare come abbiamo già visto prim
 
 Grazie alla società cresciamo e sviluppiamo la nostra vita ed è proprio dopo aver sviluppato le capacità di relazionarci che Ci differenziamo e ogni persona svolge quello che per lui è importante quello che si sente chiamato a fare e qui passare in casa di riposo è importane perchè spesso ci si dimentica questo
 
-Una cosa che trovo assurda è vivere una vita frenetica per poi passare gli ultimi anni di vita frustrati in una casa di riposo forse sarebbero da ripensare un
+Una cosa che trovo assurda è vivere una vita frenetica per poi passare gli ultimi anni di vita frustrati in una casa di riposo forse sarebbero da ripensare alla nostra qualità di vita.
 
+La terza età è importantissima per tra
 
 A questo
 
@@ -59,6 +60,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxMjU3MjM4LDEzNjE0NDU0MDIsLTExMT
-g0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE4NzkxMjAzMjksMTM2MTQ0NTQwMiwtMT
+ExODQyNDg0MSwtMTAzMjM2NzI1MV19
 -->
