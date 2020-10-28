@@ -44,8 +44,9 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
 Be se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
+Io penso invece che tutto questo sia possibile. Oggi abbiamo a disposizione conoscenze e tecnologie per realizzare tutto questo per una medicina migliore, per un benessereintegrato
 
- qui c'è una guida che ti mostra come funziona questo posto...
+Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi divent
 
 ### La guida è per te se ti trovi in una di queste situazioni:
 
@@ -92,7 +93,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTM2MDUyNSwtMTYwNDczMjYyOCwtNj
-EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
-NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbMTY0MzMyMjA3LC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
