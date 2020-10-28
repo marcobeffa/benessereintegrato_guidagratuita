@@ -54,6 +54,7 @@ Ecco cosa è l'uomo questo significa anche biopsicosociale tenendo ben presente 
 
 
 Se tutta questa teoria non ti risuona ti invito a fare una cosa molto semplice quando avrai l'occasione passa in questi 3 luoghi.
+
  
 
 ## Bio (chimico - biologico )
@@ -132,7 +133,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjU5NTAwMSwtMTA4OTI2NDQ5NiwxOD
+eyJoaXN0b3J5IjpbMTMxMTg1NTg4MywtMTA4OTI2NDQ5NiwxOD
 QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
 NjcyNTFdfQ==
 -->
