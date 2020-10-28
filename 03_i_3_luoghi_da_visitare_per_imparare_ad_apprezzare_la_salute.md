@@ -63,7 +63,9 @@ A questo
 Le difficoltà
 
 ## Pensieri Relazioni e Azioni
-Ecco cosa è l'uomo questo significa anche biop
+
+Azioni bio - Sociali Relazioni - Pensieri 
+Ecco cosa è l'uomo questo significa anche biopsicosociale tenendo ben presente questo prima di un qualsiasi percorso per la salute, l'atteggiamento con cui si affronta un percorso è fondamentale per la buona riuscita.
 
 
 ## I Cicli e  il tuo percorso 
@@ -93,6 +95,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY3NzQzMDQsMTg0MTk2NDQ4NywxMz
-YxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
+eyJoaXN0b3J5IjpbMTQ5MTM2MDk4MCwxODQxOTY0NDg3LDEzNj
+E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
