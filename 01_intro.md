@@ -16,10 +16,12 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  7. Monitorare i risultati e sapere sempre a che punto si è arrivati
  8. Poter fornire programmi non solo scientificamente validi ma anche che abbiano un efficacia pratica e siano compatibili con lo stile di vita
  9. Evitare alla persone di perdere tempo soldi e di fornendo programmi e servizi non adatti o peggio ancora dannosi
- 10. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire e come, in base  ai risultati ottenuti e alla soddisfazione 
- 11. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
- 12. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
- 13. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona se la persona a la possibilità e vuole utilizzare più denaro per essere seguito in modo personalizzato.
+ 10. Dare la possibilità alla persona di capire quale tipologia di professione è adatta a lui in base alla situazione della sua salute. Se una persona a bisogno di curare una patologia deve rivolgersi a un medico. Certo il medico dovrebbe conoscere anche  
+ 11. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire e come, in base  ai risultati ottenuti e alla soddisfazione 
+ 12. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
+ 13. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
+ 14. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona se la persona a la possibilità e vuole utilizzare più denaro per essere seguito in modo personalizzato.
+ 
  
  Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello sapere che in questo posto oltre a migliorare la qualità di vita del paziente si migliori la qualità di vita del professionista
  
@@ -76,7 +78,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNTAxMjkyLC0xNjA0NzMyNjI4LC02MT
+eyJoaXN0b3J5IjpbODg4MzM3MTk1LC0xNjA0NzMyNjI4LC02MT
 MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
 NjczNywxMTkyNDk3NF19
 -->
