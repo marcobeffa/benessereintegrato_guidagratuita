@@ -27,10 +27,11 @@ Le scelte in particolare facciamo un esempio pratico.
 Pensa oggi di incontrare 2 persone e tutte e due hanno preso  una decisione che manterranno per 3 anni.  
 
  - La prima ha deciso di Iniziare a fumare pesantemente 2 pacchetti di sigarette al giorno 
- - La seconda di iscriversi in palestra. 
+ - La seconda di fare una passeggiata 2 volte a settimana in montagna.
 
-Ora pensa di incontrare queste due persone t
-
+Ora pensa di incontrare queste due persone tra 3 anni e
+ fare una lastra ai polmoni. Cosa racconterà quella fotografia?
+ Racconterà la storia delle due persone 
 
 Azioni bio - Sociali Relazioni - Pensieri -Psico 
 
@@ -115,7 +116,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ2MzkxNDcsLTEwODkyNjQ0OTYsMT
-g0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMy
-MzY3MjUxXX0=
+eyJoaXN0b3J5IjpbMTc0Nzc1NTk4OSwtMTA4OTI2NDQ5NiwxOD
+QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
+NjcyNTFdfQ==
 -->
