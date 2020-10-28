@@ -3,7 +3,8 @@
 Durante il lungo percorso di formazione e di lavoro ho avuto la possibilità e a volte ritengo la fortuna anche se a volte dolorosa non tutte le cose necessarie infatti sono piacevoli ma non esiste dolore senza piacere sono due aspetti importanti della vita senza uno non si può apprezzare l'altro come se il dolore scavi la buca per contenere il piacere  è insito nell'uomo.
 Una persona cresce in base alle difficoltà che riesce ad affrontare.
 Chel che no strosa engrassa se avete sentito qualche video probabilmente vi sarete accorti del mio accento bresciano (probabilmente hahah!) Questo è un detto che dicevano sempre i nonni.
-## So 
+
+## Bio
 Ritornando ai nostri luoghi senz'altro il primo luogo è il reparto di pediatria quando ero in quinta elementare ho subito una piccola operazione vicino al rene che mi ha lascito una discreta cicatrice li anche se non me ne sono reso conto subito ho incontrato bambini che avevano situazioni molto difficili.
 
 Ritornando poi per il tirocinio non in quell'ospedale ma al civile mi sono torntati alla mente tanti ricordi 
@@ -15,7 +16,11 @@ Se hai passato la tua infanzia allora hai fatto il primo passaggio e qui si sono
 
 Non tutti hanno questa fortuna! 
 
-## So 
+## Sociali
+
+L'ospedale è il secondo luogo che si deve visitare come abbiamo già visto prima fermarsi qualche minuto e riflettere sul fatto che è un attimo perdere la salute e che questa è un equilibrio sottile 
+
+Dopo le attività che riguardano la parte in
 
 A questo
 
@@ -33,6 +38,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzI0NDkwNiwxMzYxNDQ1NDAyLC0xMT
+eyJoaXN0b3J5IjpbLTIxMzA1NzY5MiwxMzYxNDQ1NDAyLC0xMT
 E4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
