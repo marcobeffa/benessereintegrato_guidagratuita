@@ -28,8 +28,9 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  1. Il professionista dovrebbe svolgere la mansione per cui è addetto e perciò concentrarsi sulla persona. Mentre spesso i professionisti diventano dei burocrati addetti alla compilazione di carte.
  2. I professionisti dovrebbero avere la possibilità di inquadrare il problema della persona e capire se può essere aiutata dai servizi offerti in modo efficace. In caso contrario dovrebbero avere la possibilità di poter costruire una rete di conoscenze che gli permettano di indirizzare la persona da un altro professionista se lo ritengono necessario, ma mantenendo una repsonsabilità sulla persona che si è rivolta a lui e ripone fiducia.
  3. Il professionista dovrebbe ricevere con la formazione anche gli strumenti burocratici, informatici, legali e amministrativi per svolgere il loro lavoro al meglio. 
- 4. Il professionista dovrebbe avere la libertà di utilizzare il metodo scientifico. Cioè di permettere 
- 5. 
+ 4. Il professionista dovrebbe avere la libertà di utilizzare il metodo scientifico. Cioè applicare e verificare le conoscenze acquisite nella formazione e apportare le sue osservazioni per permettere ai futuri studenti di migliorare le tecniche e accrescere il loro bagaglio di esperienze.
+ 5. I professionisti dovrebbero avere la possibilità di fare un prodi confrontarsi e parlare tra di loro
+ 6. 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
 Be qui c'è una guida che ti mostra come funziona questo posto...
@@ -79,7 +80,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIzMDEzNDksLTE2MDQ3MzI2MjgsLT
+eyJoaXN0b3J5IjpbLTIwMDk5NjQxMjYsLTE2MDQ3MzI2MjgsLT
 YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
 NjQ2NzM3LDExOTI0OTc0XX0=
 -->
