@@ -24,7 +24,7 @@ Oggi si considera il corpo come un oggetto materiale fisico ma non ci si accorge
 
 Le scelte in particolare facciamo un esempio pratico.
 
-Pensa oggi di prend
+Pensa oggi di incontrare una persona che debba prendere una decisione e debba mantenerla per 3 anni.  Iniziare a fumare pesantemente 2 pacchetti di sigarette al giorno o iscriversi in palestra. (o al prg)
 
 
 Azioni bio - Sociali Relazioni - Pensieri -Psico 
@@ -36,7 +36,7 @@ Ecco cosa è l'uomo questo significa anche biopsicosociale tenendo ben presente 
 
 ## Bio (chimico - biologico )
 
-
+Bacino 
 Ritornando ai nostri luoghi senz'altro il primo luogo è il reparto di pediatria quando ero in quinta elementare ho subito una piccola operazione vicino al rene che mi ha lascito una discreta cicatrice li anche se non me ne sono reso conto subito ho incontrato bambini che avevano situazioni molto difficili.
 
 Ritornando poi per il tirocinio non in quell'ospedale ma al civile mi sono torntati alla mente tanti ricordi 
@@ -110,7 +110,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM5MTg1MjYsLTEwODkyNjQ0OTYsMT
-g0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMy
-MzY3MjUxXX0=
+eyJoaXN0b3J5IjpbLTc2NDAzMDIzOSwtMTA4OTI2NDQ5NiwxOD
+QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
+NjcyNTFdfQ==
 -->
