@@ -2,15 +2,15 @@
 
 ### La guida è per te se ti trovi in una di queste situazioni:
 
-<img src="http://localhost:4000/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
+<img src="/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
 <br>
-<img src="http://localhost:4000/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirtoi.
+<img src="/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirtoi.
 <br>
-<img src="http://localhost:4000/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
+<img src="/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
 <br>
-<img src="http://localhost:4000/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
+<img src="/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
 <br>
-<img src="http://localhost:4000//images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
+<img src="/images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
 <br>
 <img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
 <br>
@@ -100,12 +100,18 @@ Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saran
  La guida è pensata oltre che per presentare BenessereIntegrato.it per accompagnarti nella prima parte del percorso. Perciò troverai una parte teorica e una parte pratica.
 
 Nella parte teorica trovi i principi della nostra filosofia. 
-Nella parte pratica troverai compiti che ti aiutano a iniziare il percorso per la tua salute 
+Nella parte pratica troverai compiti che ti aiutano a iniziare 
 
-Non ti resta che iniziare
+ - Il percorso per la tua salute,  
+ - Per risolvere un problema
+ - Per raggiungere un obiettivo
+
+In caso di dubbi contattaci!
+
+E ora non ti resta che iniziare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMzI5ODUwLC0xNjA0NzMyNjI4LC02MT
-MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
-NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTE5MDM1NjI1NTUsLTE2MDQ3MzI2MjgsLT
+YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
+NjQ2NzM3LDExOTI0OTc0XX0=
 -->
