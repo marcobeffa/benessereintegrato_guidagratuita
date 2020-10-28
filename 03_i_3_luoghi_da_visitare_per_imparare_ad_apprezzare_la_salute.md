@@ -1,4 +1,5 @@
-# 3 luoghi da visitare per imparare ad apprezzare la salute.
+Coming soon
+<!--- # 3 luoghi da visitare per imparare ad apprezzare la salute.
 
 La salute è assenza di malattia? L’OMS ormai da un trentennio, parlando di promozione della salute con la conferenza d’Alma Ata (1971) prima, e con la carta d’Ottawa (1986) poi, ha ribadito il concetto di salute e di benessere nella loro dimensione positiva.
 
@@ -78,7 +79,7 @@ Passiamo ora a vedere i 4 errori
 
 
 
-<!-- Reparto di pediatria Istinto Bio 
+Reparto di pediatria Istinto Bio 
 Ospedale Relazione Psico
 Casa di riposo Differenziazione  Sociale 
 Le tre eta -->
@@ -90,6 +91,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjgzNzM5LDE4NDE5NjQ0ODcsMTM2MT
-Q0NTQwMiwtMTExODQyNDg0MSwtMTAzMjM2NzI1MV19
+eyJoaXN0b3J5IjpbLTEwODkyNjQ0OTYsMTg0MTk2NDQ4NywxMz
+YxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
