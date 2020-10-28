@@ -16,7 +16,7 @@ legata dalla pancia della mamma impariamo a camminare!
 Se hai passato la tua infanzia allora hai fatto il primo passaggio e qui si sono sviluppate le tue abilità bio! 
 
 Non tutti hanno questa fortuna! 
-
+L'inizio 
 
 
 ## Relazionali
@@ -51,6 +51,7 @@ A questo
 
 Le difficolt
 
+Perchè soffermarsi su questa osservazioni, che possono sembrare scontate e banali? 
 
 
 
@@ -66,6 +67,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMT
-E4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
+eyJoaXN0b3J5IjpbMTM0Mjc2MDM2NiwxODQxOTY0NDg3LDEzNj
+E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
