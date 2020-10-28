@@ -31,9 +31,11 @@ Pensa oggi di incontrare 2 persone e tutte e due hanno preso  una decisione che 
 
 Ora pensa di incontrare queste due persone tra 3 anni e
  fare una lastra ai polmoni. Cosa racconterà quella fotografia?
- Racconterà la storia delle due persone 
+ Racconterà la storia delle due persone e i segni che si vedono saranno dovuti a quello che le persone hanno fatto in questi 3 anni.
 
-Azioni bio - Sociali Relazioni - Pensieri -Psico 
+E' vero che una sola decisione può cambiare la vita ma le cose non sono così semplici l'uomo non è fatto solo da qualo
+
+## Azioni bio - Sociali Relazioni - Pensieri -Psico 
 
 Ecco cosa è l'uomo questo significa anche biopsicosociale tenendo ben presente questo prima di un qualsiasi percorso per la salute, l'atteggiamento con cui si affronta un percorso è fondamentale per la buona riuscita.
 
@@ -116,7 +118,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Nzc1NTk4OSwtMTA4OTI2NDQ5NiwxOD
-QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
-NjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NDYyNzM5NjQsLTEwODkyNjQ0OTYsMT
+g0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMy
+MzY3MjUxXX0=
 -->
