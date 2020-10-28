@@ -20,11 +20,16 @@ Coming soon
 
 Foto da seduti come è cambiato il nostro tempo 
 
-L'importanza d
+L'importanza di creare un ambiente noi siamo l'ambiente in cui noi viviamo.
+Esempio del cavallo e della prateria Maltz
+
+Ripensare le abitudini e l'ambiente i movimenti arcaici vedi sulla nostra agenda
+
+
 
 
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTA0ODQyXX0=
+eyJoaXN0b3J5IjpbLTMwNzAyNDY4NF19
 -->
