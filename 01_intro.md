@@ -15,12 +15,13 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  6. Oltre all'intervento dei professionisti Avere un programma di lavoro giornaliero/Settimanale da svolgere in autonomia
  7. Monitorare i risultati e sapere sempre a che punto si è arrivati
  8. Poter fornire programmi non solo scientificamente validi ma anche che abbiano un efficacia pratica e siano compatibili con lo stile di vita
- 9. Evitare alla persone di perdere tempo soldi e di fornt programmi che non siano adatti a lei
- 10. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire in base alla ai risultati ottenuti e alla soddisfazione 
+ 9. Evitare alla persone di perdere tempo soldi e di fornendo programmi e servizi non adatti o peggio ancora dannosi
+ 10. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire e come, in base  ai risultati ottenuti e alla soddisfazione 
  11. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
  12. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
- 13. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona a chi vuole utilizzare più denaro per essere seguito in modo personalizzato.
- 14. 
+ 13. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona se la persona a la possibilità e vuole utilizzare più denaro per essere seguito in modo personalizzato.
+ 
+ Questi sono la
 
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
@@ -72,7 +73,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzY0NDIyMywtMTYwNDczMjYyOCwtNj
-EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
-NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbNDM5NjgxNTM1LC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
