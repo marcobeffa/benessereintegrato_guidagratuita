@@ -19,13 +19,20 @@ Non tutti hanno questa fortuna!
 
 
 
-## Sociali
+## Relazionali
+
+Dopo le attività che riguardano la parte istintiva crescendo sviluppiamo le abilità sociali di comunicazione e relazione 
+Gli imprevisti di percorso.
+
 
 L'ospedale è il secondo luogo che si deve visitare come abbiamo già visto prima fermarsi qualche minuto e riflettere sul fatto che è un attimo perdere la salute e che questa è un equilibrio sottile 
 
-Dopo le attività che riguardano la parte istintiva crescendo sviluppiamo le abilità sociali di comunicazione e relazione.
+.
 
 
+## Differenziazione
+
+Grazie alla società cresciamo e sviluppiamo la nostra vita ed è proprio
 
 
 A questo
@@ -33,9 +40,8 @@ A questo
 Le difficolt
 
 
-I luoghi del corpo e i luoghi dello spazio cosa centra questo con la tua salute? Conoscere il corpo e
- 
- Bio Psico 
+
+
 <!-- Reparto di pediatria Istinto Bio 
 Ospedale Relazione Psico
 Casa di riposo Differenziazione  Sociale 
@@ -48,6 +54,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NTMzMTAzLDEzNjE0NDU0MDIsLTExMT
-g0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTA5NDM5NTcsMTM2MTQ0NTQwMiwtMT
+ExODQyNDg0MSwtMTAzMjM2NzI1MV19
 -->
