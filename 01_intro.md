@@ -1,4 +1,4 @@
-# Non sarebbe fantastico se ci fosse un posto in cui in poco tempo
+#  Crea il tuo programma della salute
 
  1. Capire la strada migliore da percorrere per risolvere un problema in base alle tue esigenze e possibilità 
  2. Puoi chiedere a qualcuno che ha avuto i tuoi stessi problemi come ha fatto a trovare una soluzione 
@@ -54,7 +54,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ3MzI2MjgsLTYxMzI5OTU0NiwtMT
-E1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0
-OTc0XX0=
+eyJoaXN0b3J5IjpbMTI3NzgyMDAwMCwtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
