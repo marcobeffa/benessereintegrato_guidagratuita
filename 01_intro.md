@@ -1,5 +1,8 @@
-#  Ti piacerebbe creare un percorso
- 1. Capire la strada migliore da percorrere per risolvere un problema in base alle tue esigenze e possibilità 
+#  Crea il percorso di cui hai bisogno e risolvi il tuo problema! 
+
+Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista e ho pensato che se
+
+1. Capire la strada migliore da percorrere per risolvere un problema in base alle tue esigenze e possibilità 
  2. Puoi chiedere a qualcuno che ha avuto i tuoi stessi problemi come ha fatto a trovare una soluzione 
  3. Puoi farti un idea dei servizi, dei professionisti e degli strumenti di cui hai bisogno? 
  4. I professionisti che ti seguono lavorano insieme per aiutarti a raggiungere
@@ -53,7 +56,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE3NTE3NzEsLTE2MDQ3MzI2MjgsLT
-YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
-NjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbMTEyMTg3Mzg3OSwtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
