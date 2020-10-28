@@ -97,17 +97,15 @@ Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saran
 
 ## La guida il primo strumento
 
- La guida è pensata per accompagnarti nella prima parte del percorso. Presenta una parte teorica e una parte pratica.
+ La guida è pensata oltre che per presentare BenessereIntegrato.it per accompagnarti nella prima parte del percorso. Perciò troverai una parte teorica e una parte pratica.
 
 Nella parte teorica trovi i principi della nostra filosofia. 
-Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i principi teorici ecco i capitoli della guida:
- 
- - Una sitazione che non auguro al mio peggior nemico
- - Come puoi costruire il tuo benessere a 360 °
+Nella parte pratica troverai compiti che ti aiutano a iniziare il percorso per la tua salute 
 
+Non ti resta che iniziare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDI5ODU4OSwtMTYwNDczMjYyOCwtNj
-EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
-NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbMzQwMzI5ODUwLC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
