@@ -15,8 +15,16 @@ Coming soon
     
 -   #### 4) Scarsa Comunicazione
     
-    Per problemi organizzativi per mancanza di mezzi e modelli adeguati la comunicazione tra paziente e professionista o tra professionisti che ti seguono avviene in modo disorganizzato. Migliorare la relazione tra queste figure e utilizzare strumenti per rendere più facile la comunicazione aiuta a ottenere risultati! Patologie e difficoltà scafoide burn out frutrazione ricreca -->
+    Per problemi organizzativi per mancanza di mezzi e modelli adeguati la comunicazione tra paziente e professionista o tra professionisti che ti seguono avviene in modo disorganizzato. Migliorare la relazione tra queste figure e utilizzare strumenti per rendere più facile la comunicazione aiuta a ottenere risultati! Patologie e difficoltà scafoide burn out frutrazione ricreca 
+
+
+Foto da seduti come è cambiato il nostro tempo 
+
+L'importanza d
+
+
+-->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5ODQyMDcwXX0=
+eyJoaXN0b3J5IjpbMzA1NTA0ODQyXX0=
 -->
