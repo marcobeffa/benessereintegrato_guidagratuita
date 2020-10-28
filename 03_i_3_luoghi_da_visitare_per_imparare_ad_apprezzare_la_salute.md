@@ -4,7 +4,7 @@ La salute è assenza di malattia? L’OMS ormai da un trentennio, parlando di pr
 
 La definizione di salute dell’OMS, **«uno stato di benessere fisico, mentale e sociale e non solamente assenza di malattia o infermità»**, costituisce una svolta storica che permette il definitivo abbandono dell’interpretazione medicalista al benessere.
 
-Questo 
+Questo è quello che c'è scritto a Roma all'ingresso del ministero della salute ma cosa vuol dire? E cosa c'entra con i 3 luoghi da visitare
 
 Questo modello pur avend
 
@@ -59,7 +59,10 @@ A questo
 
 Le difficolt
 
-Perchè soffermarsi su questa osservazioni, che possono sembrare scontate e banali? 
+Capire l'importanza di un ciclo ffa
+
+
+
 
 
 
@@ -79,6 +82,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg4NDEwODMsMTg0MTk2NDQ4NywxMz
-YxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
+eyJoaXN0b3J5IjpbMjA2ODk3MDkwNSwxODQxOTY0NDg3LDEzNj
+E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
