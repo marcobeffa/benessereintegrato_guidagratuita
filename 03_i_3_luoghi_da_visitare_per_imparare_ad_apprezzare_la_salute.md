@@ -62,11 +62,6 @@ A questo
 
 Le difficoltà
 
-## Pensieri Relazioni e Azioni
-
-Azioni bio - Sociali Relazioni - Pensieri 
-Ecco cosa è l'uomo questo significa anche biopsicosociale tenendo ben presente questo prima di un qualsiasi percorso per la salute, l'atteggiamento con cui si affronta un percorso è fondamentale per la buona riuscita.
-
 
 ## I Cicli e  il tuo percorso 
 
@@ -95,6 +90,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTM2MDk4MCwxODQxOTY0NDg3LDEzNj
-E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTc1MjgzNzM5LDE4NDE5NjQ0ODcsMTM2MT
+Q0NTQwMiwtMTExODQyNDg0MSwtMTAzMjM2NzI1MV19
 -->
