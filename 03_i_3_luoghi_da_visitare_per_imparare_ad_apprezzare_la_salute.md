@@ -1,5 +1,13 @@
 # 3 luoghi da visitare per imparare ad apprezzare la salute.
 
+La salute è assenza di malattia? L’OMS ormai da un trentennio, parlando di promozione della salute con la conferenza d’Alma Ata (1971) prima, e con la carta d’Ottawa (1986) poi, ha ribadito il concetto di salute e di benessere nella loro dimensione positiva.
+
+La definizione di salute dell’OMS, **«uno stato di benessere fisico, mentale e sociale e non solamente assenza di malattia o infermità»**, costituisce una svolta storica che permette il definitivo abbandono dell’interpretazione medicalista al benessere.
+
+Questo 
+
+Questo modello pur avend
+
 
 Durante il lungo percorso di formazione e di lavoro ho avuto la possibilità e a volte ritengo la fortuna anche se a volte dolorosa non tutte le cose necessarie infatti sono piacevoli ma non esiste dolore senza piacere sono due aspetti importanti della vita senza uno non si può apprezzare l'altro come se il dolore scavi la buca per contenere il piacere  è insito nell'uomo.
 Una persona cresce in base alle difficoltà che riesce ad affrontare.
@@ -57,6 +65,8 @@ Perchè soffermarsi su questa osservazioni, che possono sembrare scontate e bana
 
 
 
+
+
 <!-- Reparto di pediatria Istinto Bio 
 Ospedale Relazione Psico
 Casa di riposo Differenziazione  Sociale 
@@ -69,6 +79,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mjc5Nzc3OCwxODQxOTY0NDg3LDEzNj
-E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTg4NDEwODMsMTg0MTk2NDQ4NywxMz
+YxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
