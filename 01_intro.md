@@ -10,12 +10,12 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
 1. Capire la strada migliore da percorrere per risolvere un problema in base alle esigenze e possibilità 
  2. Poter chiedere a qualcuno che abbia avuto gli stessi problemi come ha fatto a trovare una soluzione 
  3. Poter fornire un elenco di servizi di professionisti  in linea con le possibilità e con le risorse a disposizione
- 4. Essere seguiti da un team di professionisti che lavorano insieme per aiutarti a raggiungere i tuoi obiettivi.
- 5. Poter comunicare velocemente con loro e tenerli aggiornati dei tuoi percorsi
- 6. Avere un programma di lavoro giornaliero/Settimanale
+ 4. Poter essere seguiti da un team di professionisti che lavorano insieme per aiutarti a raggiungere i tuoi obiettivi.
+ 5. Poter comunicare velocemente con loro e tenerli aggiornati dei tuoi progressi o dei tuoi problemi per risolverli velocemente
+ 6. Oltre all'intervento dei professionisti Avere un programma di lavoro giornaliero/Settimanale da svolgere in autonomia
  7. Monitorare i risultati e sapere sempre a che punto si è arrivati
- 8. Poter fornire programmi non solo scientificamente validi ma anche che abbiano un efficacia pratica
- 9. Evitare alla persone di perdere tempo soldi e di fornire programmi che non siano adatti a lei
+ 8. Poter fornire programmi non solo scientificamente validi ma anche che abbiano un efficacia pratica e siano compatibili con lo stile di vita
+ 9. Evitare alla persone di perdere tempo soldi e di fornt programmi che non siano adatti a lei
  10. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire in base alla ai risultati ottenuti e alla soddisfazione 
  11. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
  12. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
@@ -72,7 +72,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjA0NDE5NywtMTYwNDczMjYyOCwtNj
+eyJoaXN0b3J5IjpbMTQzMzY0NDIyMywtMTYwNDczMjYyOCwtNj
 EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
 NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
