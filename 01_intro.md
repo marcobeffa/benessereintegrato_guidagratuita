@@ -21,7 +21,7 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  11. Poter educare le persone alla salute mentre si curano.
  12. Poter Fornire Cose semplici alle persone utili nella vita di tutti i giorni
  13. Utilizzare un atteggiamento di possibilità generativo e non inibitorio. Sfruttando le potenzialità del nostro corpo.
- 14. La malattia quasi sempre arriva per una mancato funzionamento di un sistema del nostro corpo perciò sempre prima fermare la malattia e togliersi dal pericolo, ma poi ripristinare la 
+ 14. La malattia quasi sempre arriva per una mancato funzionamento di un sistema del nostro corpo perciò sempre prima fermare la malattia e togliersi dal pericolo, ma poi ripristinare la funzionalità del corpo.
  15. Non curare una patologia ma curare una persona
  16. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire e come, in base  ai risultati ottenuti e alla soddisfazione
  17. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
@@ -49,10 +49,9 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  10. I professionisti dovrebbero diventare anche dei produttori di prodotti informativi che possano aiutare la persona a mantenersi in salute o a ritrovarla
  11. I professionisti dovrebbero poter utilizzare anche le conoscenze e i servizi che hanno prodotto altri professionisti. 
 
-
-
+ [Tutti sanno che una cosa è impossibile da realizzare, finché arriva uno sprovveduto che non lo sa e la inventa.](https://aforismi.meglio.it/aforisma.htm?id=238b)
  
-Be se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
+Se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
 Io penso invece che tutto questo sia possibile. Oggi abbiamo a disposizione conoscenze e tecnologie per realizzare tutto questo per una medicina migliore, per un benessereintegrato
 
 Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi decidere di prendere parte a questo progetto ambizioso iniziando da pochi semplici passi.
@@ -102,7 +101,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNjQxMDY3LC0xNjA0NzMyNjI4LC02MT
-MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
-NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTIxMjY2NDY5NDQsLTE2MDQ3MzI2MjgsLT
+YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
+NjQ2NzM3LDExOTI0OTc0XX0=
 -->
