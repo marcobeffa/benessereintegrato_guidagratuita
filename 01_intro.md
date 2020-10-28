@@ -4,12 +4,15 @@ Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 an
 
 1. Capire la strada migliore da percorrere per risolvere un problema in base alle sue esigenze e possibilità 
  2. Poter chiedere a qualcuno che abbia avuto gli stessi problemi come ha fatto a trovare una soluzione 
- 3. Poter fornire un elenco di servizi di professionisti e di strumenti in linea con la filosofia BenessereIntegrato.it e in linea anche con le possibilità della ple risorse e con le preferenze della persona.
+ 3. Poter fornire un elenco di servizi di professionisti e di strumenti in linea con la filosofia BenessereIntegrato.it e in linea anche con le possibilità della persona che si rivolge a noi.
  4. Essere seguiti da un team di professionisti che lavorano insieme per aiutarti a raggiungere i tuoi obiettivi.
  5. Poter comunicare velocemente con loro e tenerli aggiornati dei tuoi percorsi
- 6. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire in base alla ai risultati ottenuti e alla soddisfazione 
- 7. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
- 8. Per chi vuole investire pochi soldi c'è la possibilità di mettere molto impegno personale e molto tempo lavorando in autonomia.
+ 6. Avere un programma di lavoro giornaliero/Settimanale
+ 7. Monitorare i risultati e sapere sempre a che punto si è arrivati
+ 8. Poter fornire programmi non solo scientificamente validi ma anche che abbiamo
+ 9. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire in base alla ai risultati ottenuti e alla soddisfazione 
+ 10. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
+ 11. Per chi vuole investire pochi soldi c'è la possibilità di mettere molto impegno personale e molto tempo lavorando in autonomia.
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
@@ -60,7 +63,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTIxMzk0NCwtMTYwNDczMjYyOCwtNj
+eyJoaXN0b3J5IjpbLTY2MTYwNTE5NSwtMTYwNDczMjYyOCwtNj
 EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
 NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
