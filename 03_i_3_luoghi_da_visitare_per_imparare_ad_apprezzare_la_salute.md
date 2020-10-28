@@ -1,5 +1,5 @@
 Coming soon
-<!--- # 3 luoghi da visitare per imparare ad apprezzare la salute.
+<!-- # 3 luoghi da visitare per imparare ad apprezzare la salute.
 
 Cos'è la salute?
 La salute è assenza di malattia? L’OMS ormai da un trentennio, parlando di promozione della salute con la conferenza d’Alma Ata (1971) prima, e con la carta d’Ottawa (1986) poi, ha ribadito il concetto di salute e di benessere nella loro dimensione positiva.
@@ -134,7 +134,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI0MTcyNywtMTA4OTI2NDQ5NiwxOD
-QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
-NjcyNTFdfQ==
+eyJoaXN0b3J5IjpbMTA4MTQ3OTgxNiwtMTEzMjQxNzI3LC0xMD
+g5MjY0NDk2LDE4NDE5NjQ0ODcsMTM2MTQ0NTQwMiwtMTExODQy
+NDg0MSwtMTAzMjM2NzI1MV19
 -->
