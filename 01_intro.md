@@ -5,7 +5,7 @@ Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 an
  - Quando devo essere curato per una patologia 
  - Per migliorare la mia salute
 
-###  Cosa vorrei per i pazienti...
+###  Per chi vuole iniziare il percorso...
 Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
 
  1. Capire la strada migliore da percorrere per risolvere un problema in base alle esigenze e possibilità 
@@ -26,7 +26,7 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
 
  Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello sapere che in questo posto oltre a migliorare la qualità di vita del paziente si migliori la qualità di vita del professionista
  
- ## Cosa vorrei per i pazienti...
+ ## Per i professionisti 
  
  1. Il professionista dovrebbe svolgere la mansione per cui è addetto e perciò concentrarsi sulla persona. Mentre spesso i professionisti diventano dei burocrati addetti alla compilazione di carte.
  2. I professionisti dovrebbero avere la possibilità di inquadrare il problema della persona e capire se può essere aiutata dai servizi offerti in modo efficace. In caso contrario dovrebbero avere la possibilità di poter costruire una rete di conoscenze che gli permettano di indirizzare la persona da un altro professionista se lo ritengono necessario, ma mantenendo una repsonsabilità sulla persona che si è rivolta a lui e ripone fiducia.
@@ -40,9 +40,12 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  10. I professionisti dovrebbero diventare anche dei produttori di prodotti informativi che possano aiutare la persona a mantenersi in salute o a ritrovarla
  11. I professionisti dovrebbero poter utilizzare anche le conoscenze e i servizi che hanno prodotto altri professionisti. 
 
+
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
-Be qui c'è una guida che ti mostra come funziona questo posto...
+Be se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
+
+ qui c'è una guida che ti mostra come funziona questo posto...
 
 ### La guida è per te se ti trovi in una di queste situazioni:
 
@@ -89,7 +92,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjQ5NzE5NSwtMTYwNDczMjYyOCwtNj
+eyJoaXN0b3J5IjpbMTE5MTM2MDUyNSwtMTYwNDczMjYyOCwtNj
 EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
 NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
