@@ -32,7 +32,9 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  5. I professionisti dovrebbero avere la possibilità di fare un programma per la salute loro stessi, prima di farlo ad altre persone.
  6. I professionisti dovrebbero avere la possibilità di confrontarsi e parlare tra di loro per migliorare i servizi offerti per allenare le loro abilità.
  7. I professionisti dovrebbero avere il giusto riconoscimento per il lavoro svolto.
- 8. I pro 
+ 8. I professionisti dovrebbero avere degli strumenti per lavorare in team con altri professionisti e velocizzare la comunicazione con il paziente.
+ 9. Ci dovrebbe essere la possibilità di segnalare sistemi che non sono funzionali e discutere un miglioramento.
+ 10. 
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
@@ -83,7 +85,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY3Nzg4ODIsLTE2MDQ3MzI2MjgsLT
-YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
-NjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbNzk5MzkxNTY0LC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
