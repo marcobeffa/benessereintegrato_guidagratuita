@@ -3,13 +3,13 @@
 Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista. Dal primo giorno del mio lavoro ho sempre pensato di voler offrire ai miei pazienti qualcosa che io stesso possa  utilizzare:
 
  - Quando devo essere curato per una patologia 
- -  Perdovessi seguire un corso per migliorare la mia salute
+ - Per migliorare la mia salute
 
 Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
 
-1. Capire la strada migliore da percorrere per risolvere un problema in base alle sue esigenze e possibilità 
+1. Capire la strada migliore da percorrere per risolvere un problema in base alle esigenze e possibilità 
  2. Poter chiedere a qualcuno che abbia avuto gli stessi problemi come ha fatto a trovare una soluzione 
- 3. Poter fornire un elenco di servizi di professionisti e di strumenti in linea con la filosofia BenessereIntegrato.it e in linea anche con le possibilità della persona che si rivolge a noi.
+ 3. Poter fornire un elenco di servizi di professionisti  in linea con le possibilità e con le risorse a disposizione
  4. Essere seguiti da un team di professionisti che lavorano insieme per aiutarti a raggiungere i tuoi obiettivi.
  5. Poter comunicare velocemente con loro e tenerli aggiornati dei tuoi percorsi
  6. Avere un programma di lavoro giornaliero/Settimanale
@@ -72,7 +72,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NDE1NTEwLC0xNjA0NzMyNjI4LC02MT
-MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
-NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbMTUzNjA0NDE5NywtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
