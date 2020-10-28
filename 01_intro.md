@@ -25,8 +25,11 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  
 
  Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello sapere che in questo posto oltre a migliorare la qualità di vita del paziente si migliori la qualità di vita del professionista
+
  
  ## Per i professionisti 
+ 
+> E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
  1. Il professionista dovrebbe svolgere la mansione per cui è addetto e perciò concentrarsi sulla persona. Mentre spesso i professionisti diventano dei burocrati addetti alla compilazione di carte.
  2. I professionisti dovrebbero avere la possibilità di inquadrare il problema della persona e capire se può essere aiutata dai servizi offerti in modo efficace. In caso contrario dovrebbero avere la possibilità di poter costruire una rete di conoscenze che gli permettano di indirizzare la persona da un altro professionista se lo ritengono necessario, ma mantenendo una repsonsabilità sulla persona che si è rivolta a lui e ripone fiducia.
@@ -41,12 +44,12 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  11. I professionisti dovrebbero poter utilizzare anche le conoscenze e i servizi che hanno prodotto altri professionisti. 
 
 
-> E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
+
  
 Be se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
 Io penso invece che tutto questo sia possibile. Oggi abbiamo a disposizione conoscenze e tecnologie per realizzare tutto questo per una medicina migliore, per un benessereintegrato
 
-Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi divent
+Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi decidere di prendere parte a questo progetto ambizioso iniziando da pochi semplici passi.
 
 ### La guida è per te se ti trovi in una di queste situazioni:
 
@@ -93,7 +96,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzMyMjA3LC0xNjA0NzMyNjI4LC02MT
-MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
-NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbMjA5NDY2NDY1MCwtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
