@@ -4,7 +4,9 @@ Durante il lungo percorso di formazione e di lavoro ho avuto la possibilità e a
 Una persona cresce in base alle difficoltà che riesce ad affrontare.
 Chel che no strosa engrassa se avete sentito qualche video probabilmente vi sarete accorti del mio accento bresciano (probabilmente hahah!) Questo è un detto che dicevano sempre i nonni.
 
-Ritornando ai nostri luoghi senz'altro il primo luogo è il reparto di pediatria quando ero in quinta elementare ho subito una piccola operazione vicino al rene che mi ha lascito una discreta ci
+Ritornando ai nostri luoghi senz'altro il primo luogo è il reparto di pediatria quando ero in quinta elementare ho subito una piccola operazione vicino al rene che mi ha lascito una discreta cicatrice li anche se non me ne sono reso conto subito ho incontrato bambini che avevano situazioni molto difficili.
+
+Ritornando poi per il tirocinio non in quel
 
 Le difficolt
 
@@ -20,6 +22,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk3NzI1MjgsMTM2MTQ0NTQwMiwtMT
-ExODQyNDg0MSwtMTAzMjM2NzI1MV19
+eyJoaXN0b3J5IjpbLTk3NTQ2MTc3NCwxMzYxNDQ1NDAyLC0xMT
+E4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
