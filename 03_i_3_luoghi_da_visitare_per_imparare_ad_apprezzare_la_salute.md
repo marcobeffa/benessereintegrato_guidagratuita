@@ -57,13 +57,17 @@ Si perchè conoscere
 
 A questo
 
-Le difficolt
+Le difficoltà
+
+## Pensieri Relazioni e Azioni
+
+
+## Cicli
 
 Capire l'importanza di un ciclo farà cambiare il modo di osservare le cose, pensa a un qualsiasi cosa tu debbia compiere, avrà un inizio una fase intermedia e una fase finale e tutte e tre le fasi sono importanti per un buon risultato.
 Questo vale anche per il tuo percorso della salute e per tutte le cose che hai intenzione di fare nella tua vita
 
-
-
+Passiamo ora a veder i 
 
 
 
@@ -83,6 +87,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTE4NDYyNiwxODQxOTY0NDg3LDEzNj
+eyJoaXN0b3J5IjpbMTc5NzM4Mzg3NiwxODQxOTY0NDg3LDEzNj
 E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
