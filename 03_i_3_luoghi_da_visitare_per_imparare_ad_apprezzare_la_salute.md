@@ -62,12 +62,14 @@ Le difficoltà
 ## Pensieri Relazioni e Azioni
 
 
-## Cicli
+## I Cicli e  il tuo percorso 
 
 Capire l'importanza di un ciclo farà cambiare il modo di osservare le cose, pensa a un qualsiasi cosa tu debbia compiere, avrà un inizio una fase intermedia e una fase finale e tutte e tre le fasi sono importanti per un buon risultato.
 Questo vale anche per il tuo percorso della salute e per tutte le cose che hai intenzione di fare nella tua vita
 
-Passiamo ora a veder i 
+L'apprendimento è ciclico la crescita è ciclica l'anno le stagioni i mesi le settimane i giorni e solo chiudendo un ciclo e aprendone un altro si cresce per q
+
+Passiamo ora a vedere i 4 errori 
 
 
 
@@ -87,6 +89,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzM4Mzg3NiwxODQxOTY0NDg3LDEzNj
+eyJoaXN0b3J5IjpbMTEwNTYwNjkxNCwxODQxOTY0NDg3LDEzNj
 E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
