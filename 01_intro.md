@@ -7,8 +7,8 @@ Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 an
  3. Poter fornire un elenco di servizi di professionisti e di strumenti in linea con le risorse e con le preferenze della persona.
  4. Essere seguiti da un team di professionisti che lavorano insieme per aiutarti a raggiungere i tuoi obiettivi.
  5. Poter comunicare velocemente con loro e tenerli aggiornati dei tuoi percorsi
-. anche con un costo relativamente basso paragonandoli alla qualità offerta e poi decidere se si ottengono risultati di procedere con programmi più impegnativi. 
- 6. Poter modulare i servizi in modo di dare la possibilità alle persone che accedono di scegliere quali risorse utilizzare. 
+ 6. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire in base alla ai risultati ottenuti e alla soddisfazione 
+ 7. Poter poi dare a modulare i servizi in modo di dare la possibilità alle persone che accedono di scegliere quali risorse utilizzare. 
  8. Per chi vuole investire pochi soldi c'è la possibilità di mettere molto impegno personale e molto tempo lavorando in autonomia.
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
@@ -60,7 +60,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ1Mjc1MjEsLTE2MDQ3MzI2MjgsLT
-YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
-NjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbMjEzNzM5NTc0NiwtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
