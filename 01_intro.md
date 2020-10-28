@@ -1,10 +1,10 @@
 #  Crea il percorso di cui hai bisogno e risolvi il tuo problema! 
 
-Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista e ho pensato che se
+Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista e ho pensato che sarebbe bello offrire ai pazienti un posto in cui:
 
-1. Capire la strada migliore da percorrere per risolvere un problema in base alle tue esigenze e possibilità 
- 2. Puoi chiedere a qualcuno che ha avuto i tuoi stessi problemi come ha fatto a trovare una soluzione 
- 3. Puoi farti un idea dei servizi, dei professionisti e degli strumenti di cui hai bisogno? 
+1. Capire la strada migliore da percorrere per risolvere un problema in base alle sue esigenze e possibilità 
+ 2. Poter chiedere a qualcuno che abbia avuto gli stessi problemi come ha fatto a trovare una soluzione 
+ 3. Poter fornire un elenco di servizi di professionisti e degli strumenti di cui hai bisogno? 
  4. I professionisti che ti seguono lavorano insieme per aiutarti a raggiungere
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
@@ -56,7 +56,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTg3Mzg3OSwtMTYwNDczMjYyOCwtNj
-EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
-NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbMzg0ODQ3MDAxLC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
