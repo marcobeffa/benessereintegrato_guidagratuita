@@ -19,6 +19,7 @@
 
 <br>
 
+##  Come possiamo aiutarti?
 
 Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista. Dal primo giorno del mio lavoro ho sempre pensato di voler offrire ai miei pazienti qualcosa che io stesso possa  utilizzare:
 
@@ -104,7 +105,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTE2NTE0NSwtMTYwNDczMjYyOCwtNj
+eyJoaXN0b3J5IjpbLTExMzgxMjEzMCwtMTYwNDczMjYyOCwtNj
 EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
 NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
