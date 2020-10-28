@@ -23,9 +23,10 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  
  Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello sapere che in questo posto oltre a migliorare la qualità di vita del paziente si migliori la qualità di vita del professionista
  
- 1. Il professionista dovrebbe svolgere la mansione per cui è addetto e perciò concentrarsi sulla persona.
- 2. Il professionista dovrebbe avere la libert
-
+ 1. Il professionista dovrebbe svolgere la mansione per cui è addetto e perciò concentrarsi sulla persona. Mentre spesso i professionisti diventano dei burocrati addetti alla compilazione di carte.
+ 2. I professionis
+ 3. Il professionista dovrebbe avere la libertà di utilizzare il metodo scientifico. Cioè di permettere 
+ 4. 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
 Be qui c'è una guida che ti mostra come funziona questo posto...
@@ -75,7 +76,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjIyMzA5OCwtMTYwNDczMjYyOCwtNj
-EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
-NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbOTcxNTAxMjkyLC0xNjA0NzMyNjI4LC02MT
+MyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0
+NjczNywxMTkyNDk3NF19
 -->
