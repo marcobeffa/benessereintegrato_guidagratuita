@@ -20,7 +20,9 @@ Chel che no strosa engrassa se avete sentito qualche video probabilmente vi sare
 
 Ma vediamo cosa significa bio 
 ### Pensieri Relazioni e Azioni
-Ques
+Oggi si considera il corpo come un oggetto materiale fisico ma non ci si accorge che in realtà il corpo così com'è è solo un fotogramma e che la storia pensieri relazioni e azioni sono ciò che lo determinano.
+
+Le scelte in particolare facciamo un esempio pra
 
 Azioni bio - Sociali Relazioni - Pensieri -Psico 
 
@@ -100,7 +102,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjUwNTk0MSwtMTA4OTI2NDQ5NiwxOD
+eyJoaXN0b3J5IjpbMTA3MTQwNzAwNiwtMTA4OTI2NDQ5NiwxOD
 QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
 NjcyNTFdfQ==
 -->
