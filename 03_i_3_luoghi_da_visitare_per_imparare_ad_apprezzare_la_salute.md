@@ -4,10 +4,11 @@ La salute è assenza di malattia? L’OMS ormai da un trentennio, parlando di pr
 
 La definizione di salute dell’OMS, **«uno stato di benessere fisico, mentale e sociale e non solamente assenza di malattia o infermità»**, costituisce una svolta storica che permette il definitivo abbandono dell’interpretazione medicalista al benessere.
 
+
+
 Questo è quello che c'è scritto a Roma all'ingresso del ministero della salute ma cosa vuol dire? E cosa c'entra con i 3 luoghi da visitare
 
-Questo modello pur avend
-
+Il problema che a tutt'oggi spesso non solo si dimentica questo ma il fatto è che non viene nemmeno compreso e tanto meno messo in pratica.
 
 Durante il lungo percorso di formazione e di lavoro ho avuto la possibilità e a volte ritengo la fortuna anche se a volte dolorosa non tutte le cose necessarie infatti sono piacevoli ma non esiste dolore senza piacere sono due aspetti importanti della vita senza uno non si può apprezzare l'altro come se il dolore scavi la buca per contenere il piacere  è insito nell'uomo.
 Una persona cresce in base alle difficoltà che riesce ad affrontare.
@@ -67,7 +68,7 @@ Le difficoltà
 Capire l'importanza di un ciclo farà cambiare il modo di osservare le cose, pensa a un qualsiasi cosa tu debbia compiere, avrà un inizio una fase intermedia e una fase finale e tutte e tre le fasi sono importanti per un buon risultato.
 Questo vale anche per il tuo percorso della salute e per tutte le cose che hai intenzione di fare nella tua vita
 
-L'apprendimento è ciclico la crescita è ciclica l'anno le stagioni i mesi le settimane i giorni e solo chiudendo un ciclo e aprendone un altro si cresce per q
+L'apprendimento è ciclico la crescita è ciclica l'anno le stagioni i mesi le settimane i giorni e solo chiudendo un ciclo e aprendone un altro si cresce per questo è fondamentale. Tenere presente tutto questo 
 
 Passiamo ora a vedere i 4 errori 
 
@@ -89,6 +90,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTYwNjkxNCwxODQxOTY0NDg3LDEzNj
-E0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE2OTcxMTIyNTIsMTg0MTk2NDQ4NywxMz
+YxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
