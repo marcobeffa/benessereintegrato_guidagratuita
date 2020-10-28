@@ -33,11 +33,17 @@ Ora pensa di incontrare queste due persone tra 3 anni e
  fare una lastra ai polmoni. Cosa racconterà quella fotografia?
  Racconterà la storia delle due persone e i segni che si vedono saranno dovuti a quello che le persone hanno fatto in questi 3 anni.
 
-E' vero che una sola decisione può cambiare la vita ma le cose non sono così semplici l'uomo non è fatto solo da qualcosa di fisico non è un sasso che una volta spinto rotola e non si può più fermare.
+E' vero che una sola decisione può cambiare la vita ma le cose non sono così semplici l'uomo non è fatto solo da qualcosa di fisico non è solo come un sasso che una volta spinto rotola e non si può più fermare.
 
-Non è una macchina infatti la macchina più si utilizza e più si consuma mentre l'uomo se ha i giusti stimoli più si allena e più diventa forte
+Non è solo come una macchina infatti la macchina più si utilizza e più si consuma mentre l'uomo se ha i giusti stimoli più si allena e più diventa forte
 
-Non è una 
+Non è solo come una pianta che risponde agli stimoli della luce e della temperatura 
+
+Non è solo come un rettile che 
+Non è solo come un mammifero
+
+Non è solo come un primate
+L'uomo a delle facoltà in più O
 
 
 ## Azioni bio - Sociali Relazioni - Pensieri -Psico 
@@ -123,7 +129,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzk2MjIyNSwtMTA4OTI2NDQ5NiwxOD
-QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
-NjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYxMTc5MTksLTEwODkyNjQ0OTYsMT
+g0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMy
+MzY3MjUxXX0=
 -->
