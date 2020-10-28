@@ -43,7 +43,9 @@ Non è solo come un rettile che
 Non è solo come un mammifero
 
 Non è solo come un primate
-L'uomo a delle facoltà in più O
+L'uomo a delle facoltà in più Ora non voglio discutere su come e cosa siano queste facoltà le neuroscenze e i gruppi new age la religione magari si scontrano su certi aspetti
+
+Quello che interessa è far funzionare questo meraviglioso organismo al meglio 
 
 
 ## Azioni bio - Sociali Relazioni - Pensieri -Psico 
@@ -129,7 +131,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYxMTc5MTksLTEwODkyNjQ0OTYsMT
-g0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMy
-MzY3MjUxXX0=
+eyJoaXN0b3J5IjpbNzU3MjMxMDcxLC0xMDg5MjY0NDk2LDE4ND
+E5NjQ0ODcsMTM2MTQ0NTQwMiwtMTExODQyNDg0MSwtMTAzMjM2
+NzI1MV19
 -->
