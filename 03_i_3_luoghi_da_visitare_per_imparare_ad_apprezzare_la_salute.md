@@ -39,7 +39,13 @@ Grazie alla società cresciamo e sviluppiamo la nostra vita ed è proprio dopo a
 
 Una cosa che trovo assurda è vivere una vita frenetica per poi passare gli ultimi anni di vita frustrati in una casa di riposo forse sarebbero da ripensare alla nostra qualità di vita.
 
-La terza età è importantissima per tra
+La terza età è importantissima per trasmettere le esperienze che sono state vissute per avere un continum tra le nuove forze del giovane e le vecchie forze della fine 
+
+Le esperienze di vita sono fondamentali per aiutare la nostra società a mantenere l'equilibrio.
+
+Questa ci ricorda anche l'importanza delle tradizioni e ci aiuta a dare una prospettiva alla vita.
+
+Si perchè c
 
 A questo
 
@@ -60,6 +66,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkxMjAzMjksMTM2MTQ0NTQwMiwtMT
-ExODQyNDg0MSwtMTAzMjM2NzI1MV19
+eyJoaXN0b3J5IjpbMjI2NDk4MjI1LDEzNjE0NDU0MDIsLTExMT
+g0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
 -->
