@@ -21,8 +21,10 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  12. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
  13. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona se la persona a la possibilità e vuole utilizzare più denaro per essere seguito in modo personalizzato.
  
- Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello saper 
- 1. List item
+ Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello sapere che in questo posto oltre a migliorare la qualità di vita del paziente si migliori la qualità di vita del professionista
+ 
+ 1. Il professionista dovrebbe svolgere la mansione per cui è addetto e perciò concentrarsi sulla persona.
+ 2. Il professionista dovrebbe avere la libert
 
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
@@ -73,7 +75,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE3MjczMjUsLTE2MDQ3MzI2MjgsLT
-YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
-NjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbLTY1MjIyMzA5OCwtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
