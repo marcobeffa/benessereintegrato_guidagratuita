@@ -8,9 +8,11 @@ La definizione di salute dell’OMS, **«uno stato di benessere fisico, mentale 
 
 Questo è quello che c'è scritto a Roma all'ingresso del ministero della salute ma cosa vuol dire? E cosa c'entra con i 3 luoghi da visitare
 
-Il problema che a tutt'oggi spesso non solo si dimentica questo ma il fatto è che non viene nemmeno compreso e tanto meno messo in pratica.
+Il problema che a tutt'oggi spesso non solo si dimentica questo ma il fatto è che non viene nemmeno compreso e tanto meno messo in pratica. 
 
-Durante il lungo percorso di formazione e di lavoro ho avuto la possibilità e a volte ritengo la fortuna anche se a volte dolorosa non tutte le cose necessarie infatti sono piacevoli ma non esiste dolore senza piacere sono due aspetti importanti della vita senza uno non si può apprezzare l'altro come se il dolore scavi la buca per contenere il piacere  è insito nell'uomo.
+
+## Cosa significa? 
+Durante il lungo percorso di formazione ho avuto modo di capire meglio il significato e di lavoro ho avuto la possibilità e a volte ritengo la fortuna anche se a volte dolorosa non tutte le cose necessarie infatti sono piacevoli ma non esiste dolore senza piacere sono due aspetti importanti della vita senza uno non si può apprezzare l'altro come se il dolore scavi la buca per contenere il piacere  è insito nell'uomo.
 Una persona cresce in base alle difficoltà che riesce ad affrontare.
 Chel che no strosa engrassa se avete sentito qualche video probabilmente vi sarete accorti del mio accento bresciano (probabilmente hahah!) Questo è un detto che dicevano sempre i nonni.
 
@@ -61,6 +63,7 @@ A questo
 Le difficoltà
 
 ## Pensieri Relazioni e Azioni
+Ecco cosa è l'uomo questo significa anche biop
 
 
 ## I Cicli e  il tuo percorso 
@@ -90,6 +93,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcxMTIyNTIsMTg0MTk2NDQ4NywxMz
+eyJoaXN0b3J5IjpbLTE3OTY3NzQzMDQsMTg0MTk2NDQ4NywxMz
 YxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
