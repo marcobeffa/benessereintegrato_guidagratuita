@@ -1,5 +1,25 @@
 #  Crea il percorso di cui hai bisogno e risolvi il tuo problema! 
 
+### La guida è per te se ti trovi in una di queste situazioni:
+
+<img src="http://localhost:4000/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
+<br>
+<img src="http://localhost:4000/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirtoi.
+<br>
+<img src="http://localhost:4000/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
+<br>
+<img src="http://localhost:4000/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
+<br>
+<img src="http://localhost:4000//images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
+<br>
+<img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
+<br>
+<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
+
+
+<br>
+
+
 Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista. Dal primo giorno del mio lavoro ho sempre pensato di voler offrire ai miei pazienti qualcosa che io stesso possa  utilizzare:
 
  - Quando devo essere curato per una patologia 
@@ -49,31 +69,14 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  10. I professionisti dovrebbero diventare anche dei produttori di prodotti informativi che possano aiutare la persona a mantenersi in salute o a ritrovarla
  11. I professionisti dovrebbero poter utilizzare anche le conoscenze e i servizi che hanno prodotto altri professionisti. 
 
- [Tutti sanno che una cosa è impossibile da realizzare, finché arriva uno sprovveduto che non lo sa e la inventa.](https://aforismi.meglio.it/aforisma.htm?id=238b)
+ ## Le cose impossibili
+ 
+ > Tutti sanno che una cosa è impossibile da realizzare, finché arriva uno sprovveduto che non lo sa e la inventa. 
  
 Se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
 Io penso invece che tutto questo sia possibile. Oggi abbiamo a disposizione conoscenze e tecnologie per realizzare tutto questo per una medicina migliore, per un benessereintegrato
 
 Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi decidere di prendere parte a questo progetto ambizioso iniziando da pochi semplici passi.
-
-### La guida è per te se ti trovi in una di queste situazioni:
-
-<img src="http://localhost:4000/images/emoticons/prevenzione.gif">  Vuoi fare prevenzione in modo efficace e semplice. 
-<br>
-<img src="http://localhost:4000/images/emoticons/revisione.gif">  Piccoli acciacchi iniziano ad infastidirtoi.
-<br>
-<img src="http://localhost:4000/images/emoticons/malato.gif"> Vuoi trovare una soluzione a una patologia o a dolori.
-<br>
-<img src="http://localhost:4000/images/emoticons/obiettivi.gif"> Vuoi raggiungere i tuoi obiettivi nello sport.
-<br>
-<img src="http://localhost:4000//images/emoticons/recupero-info.png">  Vuoi recuperare dopo un infortunio.
-<br>
-<img src="http://localhost:4000/images/emoticons/performances.gif">Sei molto impegnato per il lavoro o  le tue attività ti richiedono tanta energia
-<br>
-<img src="http://localhost:4000/images/emoticons/graduated.gif"> Vuoi conoscere e mettere in pratica le migliori  nozioni sulla salute e sul benessere evitando di impiegare anni a cercare, testare e verificare quali siano le metodiche e le nozioni più efficaci? Potrai farti aiutare da professionisti esperti che ti aiuteranno ad orientarti.
-
-
-<br>
 
 ### Cosa trovi nella guida?
 
@@ -101,7 +104,7 @@ Nella parte pratica troverai compiti che ti aiutano a mettere in pratica i princ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY2NDY5NDQsLTE2MDQ3MzI2MjgsLT
-YxMzI5OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkw
-NjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbMTc4MTE2NTE0NSwtMTYwNDczMjYyOCwtNj
+EzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5NzkxLDIwOTA2
+NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
