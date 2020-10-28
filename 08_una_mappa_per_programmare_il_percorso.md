@@ -11,12 +11,12 @@ Ogni professionista studi la stessa cosa l'uomo ma da prospettive diverse
 storia dei saggi indiani che toccavano l'elefante 
 
 per questo proponiamo ai professionsiti un modello
-posturacorretta ma in futuro ne costruiremo altri per ora la parte più facile è il percorso educativo che è come fare un rodaggio testare la macchina nei box  
+posturacorretta ( ho scelto le migliori metodiche e i migliori percorsi essendo una scelta personale non la vincolo a benessere integr) ma in futuro ne costruiremo altri per ora la parte più facile è il percorso educativo che è come fare un rodaggio testare la macchina nei box  
 prima della gara vera 
 
 Certo come abbiamo detto non è per tutti per questo passiamo allo stato di salute
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MzU3ODA2LDgwNTk4MDEyN119
+eyJoaXN0b3J5IjpbLTEwNTE5OTMyOTgsODA1OTgwMTI3XX0=
 -->
