@@ -52,7 +52,8 @@ Quello che interessa è far funzionare questo meraviglioso organismo al meglio
 
 Ecco cosa è l'uomo questo significa anche biopsicosociale tenendo ben presente questo prima di un qualsiasi percorso per la salute, l'atteggiamento con cui si affronta un percorso è fondamentale per la buona riuscita.
 
-## Fisico 
+
+Se tutta questa teoria non ti risuona ti invito a fare una cosa molto semplice quando avrai l'occasione passa in questi 3 luoghi.
  
 
 ## Bio (chimico - biologico )
@@ -131,7 +132,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MjMxMDcxLC0xMDg5MjY0NDk2LDE4ND
-E5NjQ0ODcsMTM2MTQ0NTQwMiwtMTExODQyNDg0MSwtMTAzMjM2
-NzI1MV19
+eyJoaXN0b3J5IjpbMTIzMjU5NTAwMSwtMTA4OTI2NDQ5NiwxOD
+QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
+NjcyNTFdfQ==
 -->
