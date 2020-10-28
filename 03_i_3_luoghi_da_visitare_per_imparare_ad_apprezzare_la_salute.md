@@ -24,6 +24,9 @@ Non tutti hanno questa fortuna!
 Dopo le attività che riguardano la parte istintiva crescendo sviluppiamo le abilità sociali di comunicazione e relazione 
 Gli imprevisti di percorso.
 
+Effetto Bimbo Genitore Nonno il cambiare ruoli da bambino a nonno
+
+Il fatto di prepararsi a cosa potrebbe succedere il non attaccamento e la sofferenza
 
 L'ospedale è il secondo luogo che si deve visitare come abbiamo già visto prima fermarsi qualche minuto e riflettere sul fatto che è un attimo perdere la salute e che questa è un equilibrio sottile 
 
@@ -32,7 +35,7 @@ L'ospedale è il secondo luogo che si deve visitare come abbiamo già visto prim
 
 ## Differenziazione
 
-Grazie alla società cresciamo e sviluppiamo la nostra vita ed è proprio
+Grazie alla società cresciamo e sviluppiamo la nostra vita ed è proprio dopo aver sviluppato le capacità di relazionarci che Ci differenz
 
 
 A questo
@@ -54,6 +57,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA5NDM5NTcsMTM2MTQ0NTQwMiwtMT
-ExODQyNDg0MSwtMTAzMjM2NzI1MV19
+eyJoaXN0b3J5IjpbMTgxNTAzNTI1NSwxMzYxNDQ1NDAyLC0xMT
+E4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
