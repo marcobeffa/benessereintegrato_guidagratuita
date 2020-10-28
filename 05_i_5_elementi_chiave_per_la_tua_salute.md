@@ -73,8 +73,10 @@ Alimentazione
   
 
 Rilassamento respiro
+
+La fisiologia la coscienza la ricerca personale 
 --> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNTQwMTAyLDE2MTMyNTg0NzcsLTE4OT
+eyJoaXN0b3J5IjpbMzI2MDkyMTQ2LDE2MTMyNTg0NzcsLTE4OT
 IxMTY1NzRdfQ==
 -->
