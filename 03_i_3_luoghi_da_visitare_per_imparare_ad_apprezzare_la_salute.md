@@ -45,7 +45,7 @@ Le esperienze di vita sono fondamentali per aiutare la nostra società a mantene
 
 Questa ci ricorda anche l'importanza delle tradizioni e ci aiuta a dare una prospettiva alla vita.
 
-Si perchè c
+Si perchè conoscere 
 
 A questo
 
@@ -66,6 +66,6 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NDk4MjI1LDEzNjE0NDU0MDIsLTExMT
-g0MjQ4NDEsLTEwMzIzNjcyNTFdfQ==
+eyJoaXN0b3J5IjpbMTg0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMT
+E4NDI0ODQxLC0xMDMyMzY3MjUxXX0=
 -->
