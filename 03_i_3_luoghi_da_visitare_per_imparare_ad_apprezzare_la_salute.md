@@ -22,13 +22,21 @@ Ma vediamo cosa significa bio
 ### Pensieri Relazioni e Azioni
 Oggi si considera il corpo come un oggetto materiale fisico ma non ci si accorge che in realtà il corpo così com'è è solo un fotogramma e che la storia pensieri relazioni e azioni sono ciò che lo determinano.
 
-Le scelte in particolare facciamo un esempio pra
+Le scelte in particolare facciamo un esempio pratico.
+
+Pensa oggi di prend
+
 
 Azioni bio - Sociali Relazioni - Pensieri -Psico 
 
 Ecco cosa è l'uomo questo significa anche biopsicosociale tenendo ben presente questo prima di un qualsiasi percorso per la salute, l'atteggiamento con cui si affronta un percorso è fondamentale per la buona riuscita.
 
-## Bio
+## Fisico 
+ 
+
+## Bio (chimico - biologico )
+
+
 Ritornando ai nostri luoghi senz'altro il primo luogo è il reparto di pediatria quando ero in quinta elementare ho subito una piccola operazione vicino al rene che mi ha lascito una discreta cicatrice li anche se non me ne sono reso conto subito ho incontrato bambini che avevano situazioni molto difficili.
 
 Ritornando poi per il tirocinio non in quell'ospedale ma al civile mi sono torntati alla mente tanti ricordi 
@@ -102,7 +110,7 @@ Le tre eta -->
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTQwNzAwNiwtMTA4OTI2NDQ5NiwxOD
-QxOTY0NDg3LDEzNjE0NDU0MDIsLTExMTg0MjQ4NDEsLTEwMzIz
-NjcyNTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNjM5MTg1MjYsLTEwODkyNjQ0OTYsMT
+g0MTk2NDQ4NywxMzYxNDQ1NDAyLC0xMTE4NDI0ODQxLC0xMDMy
+MzY3MjUxXX0=
 -->
