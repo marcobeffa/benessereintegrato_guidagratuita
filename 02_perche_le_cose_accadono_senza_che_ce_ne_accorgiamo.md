@@ -135,12 +135,11 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 
 
-# Da aggiungere 
-interno esterno un mondo da scoprire chiudi gli occhi.
-Il respiro dolori voci tensioni un mondo esterno e un mondo interno pietro non riusciva più a comunicare con il mondo esterno mentre noi oggi non riusciamo più a comunicare con il mondo interno
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjczMjU4LC02MjE2NjI4MzYsLTE1MD
+eyJoaXN0b3J5IjpbMjgzNzU4Njk2LC02MjE2NjI4MzYsLTE1MD
 kzODY5MzAsLTE4OTA1NjAyN119
 -->
