@@ -135,9 +135,12 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 
 
+# Da aggiungere 
+interno esterno un mondo da scoprire chiudi gli occhi.
+Il respiro dolori voci tensioni un mondo esterno e un mondo inter
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTY2MjgzNiwtMTUwOTM4NjkzMCwtMT
-g5MDU2MDI3XX0=
+eyJoaXN0b3J5IjpbMTIzNDA4MzYwOCwtNjIxNjYyODM2LC0xNT
+A5Mzg2OTMwLC0xODkwNTYwMjddfQ==
 -->
