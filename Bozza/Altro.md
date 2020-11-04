@@ -31,6 +31,18 @@ Dal livello chimico a quello biologico psicologico sociale
 
 ---->>>>>>>>>>>>>>
 
+
+
+
+
+# 11 
+Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi territori
+
+
+11 Occhio intuito percezione coscienza elevata verità mutevolezza noia fatica odio tarocchi. Arcani maggiori 1 a 22 matto  giustizia -
+
+
+# 12 bottalo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzcyNTQ3OV19
+eyJoaXN0b3J5IjpbLTExMzA3NTYwMl19
 -->
