@@ -46,12 +46,12 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 
 
 
-- Qual è il prodotto
+- Qual è il prodotto chi sono?
 - Chi è il cliente
 - Beneficio principale che vuole
 - Frustrazione
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNjExMzI0XX0=
+eyJoaXN0b3J5IjpbLTkzMTU3NDQzMF19
 -->
