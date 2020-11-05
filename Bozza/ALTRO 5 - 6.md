@@ -97,6 +97,14 @@ Trovare un centro i
 Partire da una posizione di equilibrio
 Gestire l'energia. 
 Stabili quando qualcosa ci colpisce.
+
+Se tutta questa teoria ti crea confusione non mi sorprende, sono cose a cui si pensa poco, avrai tempo di rifletterci mentre ti farai una passeggiata al mare, in montagna o lungo le sponde di un fiume.
+
+
+Ripensare le abitudini e l'ambiente i movimenti arcaici vedi sulla nostra agenda
+
+
+Uno dei modelli più completi deriva dalla medicina cinese
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTcxMjI2OV19
+eyJoaXN0b3J5IjpbMTAxNzIwNTEyMSwxMzExNzEyMjY5XX0=
 -->
