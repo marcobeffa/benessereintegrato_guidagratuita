@@ -2,7 +2,7 @@
 # DA AGGIUNGERE 
 
 
-
+# 
 
 
 ## L'importanza delle storie e delle parole
@@ -53,5 +53,5 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTU3NDQzMF19
+eyJoaXN0b3J5IjpbLTk3NDgxMDUyM119
 -->
