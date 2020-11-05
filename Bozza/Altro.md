@@ -43,6 +43,15 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 
 
 # 12 bottalo
+
+
+
+- Qual è il prodotto
+- Chi è il cliente
+- Beneficio principale che vuole
+- Frustrazione
+- Emozioni associate Frustrazione+
+- Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA3NTYwMl19
+eyJoaXN0b3J5IjpbNjEzNjExMzI0XX0=
 -->
