@@ -36,7 +36,6 @@ In oltre abbiamo visto che ogni apprendimento è ciclico e che ogni volta si rin
 Eric campbell ci racconta che questo è quello che succede in ogni viaggio dell'eroe:
 
 
-
 C'è la chiamata a un avventura a partire per un viaggio!
 Ci sono le guardie della soglia che non vogliono lasciarti partire
 Finche si trova il coraggio di partire
@@ -77,6 +76,6 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4Mzk1NjQ1LDU0Njg3MjAzNSwtNDAxMD
+eyJoaXN0b3J5IjpbMjI5MDI5NDgzLDU0Njg3MjAzNSwtNDAxMD
 Y5NDQ0XX0=
 -->
