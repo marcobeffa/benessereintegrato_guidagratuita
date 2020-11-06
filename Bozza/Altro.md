@@ -1,6 +1,10 @@
 
 # 3 
 
+
+# Struttura -  funzione - Il cavallo e la prateria
+
+
 # i pensieri sono reali
  
 # 3 generatori di campi magnetici
@@ -73,5 +77,6 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2ODcyMDM1LC00MDEwNjk0NDRdfQ==
+eyJoaXN0b3J5IjpbNDg4Mzk1NjQ1LDU0Njg3MjAzNSwtNDAxMD
+Y5NDQ0XX0=
 -->
