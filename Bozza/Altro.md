@@ -1,4 +1,13 @@
 
+# 3 
+
+# i pensieri sono reali
+ 
+# 3 generatori di campi magnetici
+
+# Depuratori d'acqua produttori di energia
+
+
 # DA AGGIUNGERE 
 
 
@@ -64,5 +73,5 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTA2OTQ0NF19
+eyJoaXN0b3J5IjpbNTQ2ODcyMDM1LC00MDEwNjk0NDRdfQ==
 -->
