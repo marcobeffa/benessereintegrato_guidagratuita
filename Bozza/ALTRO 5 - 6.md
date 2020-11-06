@@ -60,43 +60,10 @@ Non conosciuto
   
 
   
-# Recupero movimento  fisico strutturA
-
-Esempio muscolo contratto:
-
-  
-
-Movimento stretching
-
-Automassaggio
-
-Muscoril calmante
-
-  
-
-Alimentazione
-
-  
-
-Rilassamento respiro
-
-La fisiologia la coscienza la ricerca personale 
 
 
-Lavoro con i professionisti 
-
-gowild
 
 
-I 5 movimenti
-
-Trovare un centro i
-
-# Equilibrio e bilanciamento
-
-Partire da una posizione di equilibrio
-Gestire l'energia. 
-Stabili quando qualcosa ci colpisce.
 
 Se tutta questa teoria ti crea confusione non mi sorprende, sono cose a cui si pensa poco, avrai tempo di rifletterci mentre ti farai una passeggiata al mare, in montagna o lungo le sponde di un fiume.
 
@@ -106,5 +73,5 @@ Ripensare le abitudini e l'ambiente i movimenti arcaici vedi sulla nostra agenda
 
 Uno dei modelli più completi deriva dalla medicina cinese
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzIwNTEyMSwxMzExNzEyMjY5XX0=
+eyJoaXN0b3J5IjpbODQxMTg3MTE2LDEzMTE3MTIyNjldfQ==
 -->
