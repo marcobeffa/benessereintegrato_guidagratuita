@@ -17,6 +17,12 @@
 
 # 8 
 
+-->
+
+ottuplice sentiero rosa dei venti 
+
+-> meridiani straordinari
+
 1.  1.  _**Retta parola**_, cioè l'assunzione della personale responsabilità delle nostre parole, ponendo attenzione nella loro scelta e ponderandole in modo che esse non producano effetti nocivi sugli altri e di conseguenza a noi stessi; ciò significa anche che il nostro agire deve essere improntato al nostro parlare e corrispondere ad esso.
     2.  _**Retta azione**_, cioè l'azione non motivata dalla ricerca di egoistici vantaggi, svolta senza attaccamento verso i suoi frutti.
     3.  _**Retta sussistenza**_, cioè vivere in modo equilibrato evitando gli eccessi, procurandosi un sostentamento adeguato con mezzi che non possano arrecare danno o sofferenza agli altri. Questo comporta anche la corretta padronanza delle proprie intenzioni, in modo che esse siano sempre orientate e dirette lungo la linea mediana di condotta di vita ([sanscrito](https://it.wikipedia.org/wiki/Sanscrito "Sanscrito")  _madhyamāpratipad_, pāli  _majjhimpaṭipāda_, cinese 中道  _zhōngdào_, giapp.  _chūdō_, tib.  _dbu 'i lam_) lontana dagli estremi dell'ascetismo e dell'edonismo.
@@ -94,6 +100,6 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MTQ2NzA1LDU0Njg3MjAzNSwtNDAxMD
+eyJoaXN0b3J5IjpbODMxMjM1NzY3LDU0Njg3MjAzNSwtNDAxMD
 Y5NDQ0XX0=
 -->
