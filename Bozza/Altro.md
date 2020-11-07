@@ -53,7 +53,20 @@ Dal livello chimico a quello biologico psicologico sociale
  il modello della vita, quasi si potrebbe chiamre il cerchio della vita come la canzone del Re leone!
 
 ---->>>>>>>>>>>>>>
+# 9
 
+
+gurdgef 
+
+7 peccati capitali più due sibaldi 
+
+
+## Stato di coscienza giusto in base al tempo e allo spazio mentale stato di coscienza giusto in base al tempo e allo spazio.  4 + 4 + 1 
+
+## Nove pianeti i miti greci 
+
+## 4 direzioni + 5 movimenti
+3 + 3 + 3
 
 
 
@@ -76,6 +89,6 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MDI5NDgzLDU0Njg3MjAzNSwtNDAxMD
-Y5NDQ0XX0=
+eyJoaXN0b3J5IjpbMTMwNTE5Mjc1NSw1NDY4NzIwMzUsLTQwMT
+A2OTQ0NF19
 -->
