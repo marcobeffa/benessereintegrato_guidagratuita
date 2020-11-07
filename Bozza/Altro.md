@@ -72,6 +72,11 @@ gurdgef
 
 
 # 11 
+
+
+
+sefirot
+
 Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi territori
 
 
@@ -89,6 +94,6 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 - Emozioni associate Frustrazione+
 - Cosa ti devo dimostrare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTE5Mjc1NSw1NDY4NzIwMzUsLTQwMT
-A2OTQ0NF19
+eyJoaXN0b3J5IjpbNjA4MTQ2NzA1LDU0Njg3MjAzNSwtNDAxMD
+Y5NDQ0XX0=
 -->
