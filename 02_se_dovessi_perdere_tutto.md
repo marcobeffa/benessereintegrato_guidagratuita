@@ -136,7 +136,9 @@ Prendere la vita ogni giorno come un nuovo inizio.
 Questo è un segreto importante. Ogni giorno abbiamo la possibilità di iniziare di nuovo. 
 Possiamo ripartire ogni giorno rincorrere i nostri sogni i nostri obiettivi! 
 
-Abbiamo tempo fino alla sera! Prima di ritornare a let
+Abbiamo tempo fino alla sera! Prima di ritornare a letto.
+
+La mattina perciò è importante 
 
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
@@ -166,6 +168,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzY1NTIxNSwxODAwMjE5MzA0LC0xMz
-AyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbLTE1MzU2OTg0MTcsMTgwMDIxOTMwNCwtMT
+MwMjQ0Nzc5MF19
 -->
