@@ -153,7 +153,9 @@ Mi trovavo a Leno come tirocinante qui incontrai per la prima volta il metodo co
 Vittorio Corberi un fisioterapista in gamba che purtroppo ha lasciato questo mondo, usava un modo strano di fare la riabilitazione.
 Così semplice che era quasi disarmante, ma di una raffinatezza e complessità intellettuale che mi lasciò incantato.
 
-Mentre si lavorava sul co
+Mentre si lavorava sulle articolazioni sui muscoli con i movimenti Vittorio raccontava come il corpo riassume in piccolo la rappresentazione di tutto quello che accade durante nella natura durante il giorno, e durante l'anno.
+
+Il corpo è legato all'ambiente ai cicli del giorno delle sta
 
 ## Corpo Mente 
 
@@ -171,6 +173,6 @@ La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno della n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDAzMDkwMywxODAwMjE5MzA0LC0xMz
+eyJoaXN0b3J5IjpbMTEzNjUzMTQxMSwxODAwMjE5MzA0LC0xMz
 AyNDQ3NzkwXX0=
 -->
