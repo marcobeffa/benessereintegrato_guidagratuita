@@ -173,10 +173,13 @@ Per corpo intendiamo tutta la parte fisica. Il nostro corpo è l'aspetto fisico 
 Questo concetto è difficile ma è molto potente. 
 La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno della nostra (mente coscienza). ll corpo è il circuito che ne permette l'esistenza e fa sia da supporto ma esso stesso è parte della mente-coscienza. 
 
+Possiamo sperimentare tutto questo con questo fantastico metodo somato-psichico di ginnastica dolce ideato da Georges Courchinoux.
+
+Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo di riabilitazione e cura preferito.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTc1NTIwNiwxODAwMjE5MzA0LC0xMz
+eyJoaXN0b3J5IjpbLTQwMTQzOTk3MCwxODAwMjE5MzA0LC0xMz
 AyNDQ3NzkwXX0=
 -->
