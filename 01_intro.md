@@ -67,9 +67,9 @@ Questa guida è qui per spiegarti come funziona questo posto e come anche tu puo
 
 ## Cosa trovi nella guida?
 
-Benessereintegrato.it è un sistema per affiancare alla cura tradizionale un sistema che ho sempre sognato per tenersi in salute. Che andasse dalla cura alla riabilitazi
- che ti aiuta a tenere in ordine tutto il necessario per mettere in pratica ogni giorno il tuo percorso per la salute potrai:
+Benessereintegrato.it è un sistema per affiancare alla cura tradizionale un sistema che ho sempre sognato per tenersi in salute. Che andasse dalla cura alla riabilitazione... 
 
+Ci sono vari strumenti che pian piano ti verranno offerti:
  - Tenere sott'occhio il tuo stato di salute
  - I tuoi appuntamenti con i professionisti della salute e del benessere.
  - Le tue routine di esercizi, 
@@ -98,8 +98,8 @@ In caso di dubbi contattaci!
 E ora non ti resta che iniziare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNTAwNDYzLDE3MzM2OTE5MTcsMTA0NT
-AzMzAxMSwtMTYwNDczMjYyOCwtNjEzMjk5NTQ2LC0xMTU1MDU0
-Mzk0LC0xOTg4NTM5NzkxLDIwOTA2NDY3MzcsMTE5MjQ5NzRdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMzIyNDAyMywxNzMzNjkxOTE3LDEwND
+UwMzMwMTEsLTE2MDQ3MzI2MjgsLTYxMzI5OTU0NiwtMTE1NTA1
+NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX
+0=
 -->
