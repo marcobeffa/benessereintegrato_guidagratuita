@@ -1,10 +1,9 @@
+# 4 errori che ti impediscono di raggiungere i tuoi risultati
 
-# 4 Movimento arcaico
+> Impara dagli errori degli altri. Non potrai mai vivere abbastanza a lungo per farli tutti da solo.  
+(Groucho Marx)
 
-# Segreto 4 
-
-Impariamo da tentativi ed errori
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTA5ODYxN119
+eyJoaXN0b3J5IjpbLTU2Nzk5MzU4MCwtODQ1MDk4NjE3XX0=
 -->
