@@ -1,10 +1,8 @@
 
-# 12 Frank merenda
+# 12 Scuola non scuola
 
 # 12
-
-La pratica 
-
+La storia della vita è ora di scrivere il tuo pezzo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODg3ODUzM119
+eyJoaXN0b3J5IjpbLTE4MTIwMzEzMDVdfQ==
 -->
