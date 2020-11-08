@@ -138,7 +138,7 @@ Possiamo ripartire ogni giorno rincorrere i nostri sogni i nostri obiettivi!
 
 Abbiamo tempo fino alla sera! Prima di ritornare a letto.
 
-La mattina perciò è importante 
+La mattina fermati  e prendi 3 decisioni importanti per questa giornata.
 
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
@@ -168,6 +168,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU2OTg0MTcsMTgwMDIxOTMwNCwtMT
-MwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbMjc3NTE2MTAsMTgwMDIxOTMwNCwtMTMwMj
+Q0Nzc5MF19
 -->
