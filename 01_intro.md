@@ -40,7 +40,7 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello sapere che in questo posto oltre a migliorare la qualità di vita del paziente si migliori la qualità di vita del professionista
 
  
- ## Per i professionisti 
+## Per i professionisti 
  
 > E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
  
@@ -87,8 +87,8 @@ Questa guida è qui per spiegarti come funziona questo posto e come anche tu puo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzQzODMwMSwxNzMzNjkxOTE3LDEwND
-UwMzMwMTEsLTE2MDQ3MzI2MjgsLTYxMzI5OTU0NiwtMTE1NTA1
-NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX
-0=
+eyJoaXN0b3J5IjpbLTE2NDkyNjExNDcsLTMxNzQzODMwMSwxNz
+MzNjkxOTE3LDEwNDUwMzMwMTEsLTE2MDQ3MzI2MjgsLTYxMzI5
+OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2Nz
+M3LDExOTI0OTc0XX0=
 -->
