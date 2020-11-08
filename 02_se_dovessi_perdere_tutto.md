@@ -133,12 +133,15 @@ Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gl
 
 Prendere la vita ogni giorno come un nuovo inizio.
 
+Questo è un segreto importante. Ogni giorno abbiamo la possibilità di iniziare di nuovo. 
+Possiamo ripartire ogni giorno rincorrere i nostri sogni i nostri obiettivi! 
 
+Abbiamo tempo fino alla sera! Prima di ritornare a let
 
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
 
-## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges courchinoux
+## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
 
 La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
 
@@ -163,6 +166,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU5NzU3OTcsMTgwMDIxOTMwNCwtMT
-MwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbMTIwMzY1NTIxNSwxODAwMjE5MzA0LC0xMz
+AyNDQ3NzkwXX0=
 -->
