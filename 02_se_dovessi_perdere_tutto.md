@@ -95,6 +95,10 @@ impara a farsi una rappresentazione del mondo.
 
 ## Esercizio
 
+La disabilità fin che non ci si incappa direttamente o tramite un conoscente stretto spesso è una condizione poco conosciuta.
+
+E di solito ci si incappa all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stai viaggiando tranquillo.
+
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
 
@@ -161,6 +165,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MzY4OTA1LDE4MDAyMTkzMDQsLTEzMD
+eyJoaXN0b3J5IjpbMjczNjM2NDI4LDE4MDAyMTkzMDQsLTEzMD
 I0NDc3OTBdfQ==
 -->
