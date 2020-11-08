@@ -4,7 +4,7 @@ Ci sono giorni che ho un energia incredibile, altri che mi sento a terra certame
 
 ## Noi siamo trasformatori di energia 
 
-Il corpo nasconde molto di più di quello che la scienza è riuscita a provare e una cosa che ho scoperto è che i 
+Il corpo nasconde molto di più di quello che la scienza è riuscita a provare e una cosa che ho scoperto è che i 3 centri di gravità sono delle batterie ma forse non solo batterie sono dei veri e propri **Trasformatori di energia.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTAzNzUwMl19
+eyJoaXN0b3J5IjpbLTU2MjI4MTk5N119
 -->
