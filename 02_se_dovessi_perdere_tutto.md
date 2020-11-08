@@ -83,6 +83,10 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 #  Esercizio 2
 
+Mi sono fatto con il tempo l'idea enso che sia meglio poter provare questa esperienza 
+
+
+
 
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
@@ -122,6 +126,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzQ3NDMzLDE4MDAyMTkzMDQsLTEzMD
-I0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTUxMDcwMTgxNSwxODAwMjE5MzA0LC0xMz
+AyNDQ3NzkwXX0=
 -->
