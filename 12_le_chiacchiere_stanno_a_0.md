@@ -1,8 +1,5 @@
-
-# 12 Medicina dei semplici
-
-# 12
+# Coming soon
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNjM4NTc0XX0=
+eyJoaXN0b3J5IjpbMTg2NDA1MzMwNV19
 -->
