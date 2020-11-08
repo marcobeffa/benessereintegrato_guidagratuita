@@ -5,7 +5,7 @@
 
 <br>
 
-##  Come possiamo aiutarti?
+##  Chi sono e come nasce Benessere Integrato
 
 Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista. Dal primo giorno del mio lavoro ho sempre pensato di voler offrire ai miei pazienti qualcosa che io stesso possa  utilizzare:
 
@@ -87,8 +87,8 @@ Questa guida è qui per spiegarti come funziona questo posto e come anche tu puo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkyNjExNDcsLTMxNzQzODMwMSwxNz
-MzNjkxOTE3LDEwNDUwMzMwMTEsLTE2MDQ3MzI2MjgsLTYxMzI5
-OTU0NiwtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2Nz
-M3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbLTY3MzY3ODc3MywtMTY0OTI2MTE0NywtMz
+E3NDM4MzAxLDE3MzM2OTE5MTcsMTA0NTAzMzAxMSwtMTYwNDcz
+MjYyOCwtNjEzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5Nz
+kxLDIwOTA2NDY3MzcsMTE5MjQ5NzRdfQ==
 -->
