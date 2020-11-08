@@ -5,8 +5,12 @@
 
 
 Ricominciare da 0 ogni giorno 
+Prima dei 4 errori e dei 5 elementi
 
-Inizia dalla lista di
+# Segreto 1 
+Le scoperte più interessanti puoi farle nei libri che non hai ancora letto e nelle esperienze che non hai ancora fatto
+
+
 
 
 
@@ -16,5 +20,5 @@ Inizia dalla lista di
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Nzc2ODg1N119
+eyJoaXN0b3J5IjpbLTEwNTgyMDE3MF19
 -->
