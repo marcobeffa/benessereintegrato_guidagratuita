@@ -148,8 +148,12 @@ La mattina fermati  e prendi 3 decisioni importanti per questa giornata.
 
 ## Uno strano modo di fare fisioterapia
 
-Mi trovavo a Leno come tirocinante qui incontrai per la prima volta il metodo corpo e coscienza.
-Vittorio corberi un fisioterapista in gamba che purtroppo ci ha l
+Mi trovavo a Leno come tirocinante qui incontrai per la prima volta il metodo corpo e coscienza ideato da Georges Courchinoux.
+
+Vittorio Corberi un fisioterapista in gamba che purtroppo ha lasciato questo mondo, usava un modo strano di fare la riabilitazione.
+Così semplice che era quasi disarmante, ma di una raffinatezza e complessità intellettuale che mi lasciò incantato.
+
+Mentre si lavorava sul co
 
 ## Corpo Mente 
 
@@ -167,6 +171,6 @@ La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno della n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQwNTQ3OTQsMTgwMDIxOTMwNCwtMT
-MwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbMTQxNDAzMDkwMywxODAwMjE5MzA0LC0xMz
+AyNDQ3NzkwXX0=
 -->
