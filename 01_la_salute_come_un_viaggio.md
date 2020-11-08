@@ -11,17 +11,9 @@ Sicuramente la competenza è fondamentale ogni professione e professionista hann
 In alcuni casi i medici preparati in situazioni rischiose grazie alle loro competenze e  abilità possono salvarci la vita, ma è importante ricordare che il professionista della salute e del benessere è anche li per accompagnare la persona nel suo percorso come una guida di montagna ti porta attraverso sentieri per giungere a una meta o come un giardiniere che si prende cura del tuo giardino lavorandolo per far crescere poi piante e fiori.
 
 ## La salute come un viaggio
-## Il primo errore da evitare  quando inizi un percorso della salute
 
-**Investire male le tue risorse**
-
-Questo è un errore che si fa spesso in ogni campo.
-
-> Quando sono in studio e arriva un paziente con un plico di carte, la cosa frustrante è che come professionista so già che il compito sarà arduo e in molti casi ti aspetta un duro lavoro e se non si insegna al paziente cosa è importante per la salute, non si otterranno risultati.
-
-Le persone spendono tempo e soldi perchè fissano obiettivi, fuori dalla loro portata, troppo difficili da raggiungere, e spesso ci si perde senza arrivare a un punto soddisfacente.
-
-Di questo mi sono accorto. Il problema è che non si considera che per ottenere risultati ci vuole tempo e a volte il lavoro  è lungo. 
+> 
+Quando si affront mi sono accorto. Il problema è che non si considera che per ottenere risultati ci vuole tempo e a volte il lavoro  è lungo. 
 
 E' necessario sia pianificare il percorso, sia agire e avere dei feedback.
 
@@ -92,6 +84,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU1MDMyOCwxNTc3NDE3NzMyLC00MD
+eyJoaXN0b3J5IjpbLTg2Nzc0MTMzMCwxNTc3NDE3NzMyLC00MD
 AxODA3ODFdfQ==
 -->
