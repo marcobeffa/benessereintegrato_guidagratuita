@@ -7,6 +7,10 @@
 Ricominciare da 0 ogni giorno 
 Prima dei 4 errori e dei 5 elementi
 
+# Fisioterapia
+
+ 
+
 # Segreto 1 
 Le scoperte più interessanti puoi farle nei libri che non hai ancora letto e nelle esperienze che non hai ancora fatto
 
@@ -21,5 +25,5 @@ Le scoperte più interessanti puoi farle nei libri che non hai ancora letto e ne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDg0Nzc4M119
+eyJoaXN0b3J5IjpbLTE1MDYzNTQ1ODRdfQ==
 -->
