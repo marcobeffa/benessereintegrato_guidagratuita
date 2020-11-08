@@ -145,29 +145,27 @@ La mattina fermati  e prendi 3 decisioni importanti per questa giornata.
 
 ## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
 
-La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
 
-Con la Fisioterapia si studia come riabilitare: 
+# Corpo Mente 
 
-Il sistema muscolo scheletrico
-Il sistema respiratorio
-Il sistema nervoso e apparato urogenitale
-Il sistema linfatico e digestivo
-Il sistema cardiocircolatorio
+Possiamo considerare il nostro corpo come 2 parti fuse una nell'altra:
+ 
+- Corpo, Materia
+- Mente, Energia
 
-Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone e li è nata l'idea di creare benessereintegrato: 
+Per corpo intendiamo tutta la parte fisica il nostro Hardware se fossimo dei computer, la grande differenza che l'hardware è l'aspetto fisico della mente. 
 
-Ecco i posti in cui ho lavorato, studiato e fatto corsi:
+Questo concetto è difficile ma è molto potente. 
+La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno mentale è il circuito che ne permette l'esistenza e fa sia da supporto ma esso stesso è parte della mente. 
 
-*Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
-
-
-
-
+Se si considera il corpo come un robot o un computer
+si hanno:
+Hardware - Corpo
+Software - Mente
 
 
-
+Ma vediamo di capire meglio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NTE2MTAsMTgwMDIxOTMwNCwtMTMwMj
-Q0Nzc5MF19
+eyJoaXN0b3J5IjpbLTE4OTcyMjk1MzIsMTgwMDIxOTMwNCwtMT
+MwMjQ0Nzc5MF19
 -->
