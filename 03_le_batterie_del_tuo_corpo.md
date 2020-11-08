@@ -28,12 +28,17 @@ Per evitare di cadere in quest'ultimo problema vediamo allora di capirne di più
 
 #  Esercizio 3
 
+I tre centri sono legati a questi 3 aspetti 
 
+## Esercizio dei 3 cervelli 
 
+## Esercizio dei cicli
 
 
  
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
+
+
 
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
@@ -44,5 +49,5 @@ Per evitare di cadere in quest'ultimo problema vediamo allora di capirne di più
 
 ## La struttura segue la funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY0NTM2MjksLTU2MjI4MTk5N119
+eyJoaXN0b3J5IjpbMjg0NDQzNjE3LC01NjIyODE5OTddfQ==
 -->
