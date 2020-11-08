@@ -151,21 +151,15 @@ La mattina fermati  e prendi 3 decisioni importanti per questa giornata.
 Possiamo considerare il nostro corpo come 2 parti fuse una nell'altra:
  
 - Corpo, Materia
-- Mente, Energia
+- Mente o meglio (Coscienza), Energia
 
-Per corpo intendiamo tutta la parte fisica il nostro Hardware se fossimo dei computer, la grande differenza che l'hardware è l'aspetto fisico della mente. 
+Per corpo intendiamo tutta la parte fisica. Il nostro corpo è l'aspetto fisico della mente. 
 
 Questo concetto è difficile ma è molto potente. 
-La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno mentale è il circuito che ne permette l'esistenza e fa sia da supporto ma esso stesso è parte della mente. 
-
-Se si considera il corpo come un robot o un computer
-si hanno:
-Hardware - Corpo
-Software - Mente
+La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno della nostra (mente coscienza). ll corpo è il circuito che ne permette l'esistenza e fa sia da supporto ma esso stesso è parte della mente-coscienza. 
 
 
-Ma vediamo di capire meglio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcyMjk1MzIsMTgwMDIxOTMwNCwtMT
-MwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbLTM3MzExNjk0NCwxODAwMjE5MzA0LC0xMz
+AyNDQ3NzkwXX0=
 -->
