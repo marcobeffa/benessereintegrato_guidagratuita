@@ -25,11 +25,8 @@ Il problema è che a tutt'oggi  esistono modelli ispirati a questo, ma spesso ci
 
 Per evitare di cadere in quest'ultimo problema vediamo allora di capirne di più, ne va della tua salute!
 
-Dove avevo già sentito queste parole?
-Durante il mio percorso di studi come fisioterapista all'università che avevo già sentito queste parole e  pian ho avuto modo di capirne meglio il significato  durante il corso degli anni di lavoro e di fomazione che continua anche dopo l'università. (La formazione per un professionista della salute e del benessere non finisce mai... :-) )
-
-
+Il 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNjczMzIyLC01NjIyODE5OTddfQ==
+eyJoaXN0b3J5IjpbMTM4ODI3ODI1NCwtNTYyMjgxOTk3XX0=
 -->
