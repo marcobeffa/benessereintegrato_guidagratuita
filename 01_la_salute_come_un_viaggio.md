@@ -44,7 +44,7 @@ Alla fine della guida sarai in grado di:
 
 
 
-# Primo Esercizio 1
+# Esercizio 1
 
 
 Il primo esercizio che ti propongo sembrerà banale ma prova a farlo prima di giudicare. 
@@ -91,7 +91,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU0NjQ1MjAsLTM4MDM2MTQwNCw2Mj
-Q5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgw
-NzgxXX0=
+eyJoaXN0b3J5IjpbLTQyMDAyMjU0NSwtMzgwMzYxNDA0LDYyND
+kzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3
+ODFdfQ==
 -->
