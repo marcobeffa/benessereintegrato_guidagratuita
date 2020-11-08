@@ -3,28 +3,12 @@
 
 
 
-<br>
-
-##  Chi sono e come nasce Benessere Integrato
-
 
 
 ## Cosa trovi nella guida?
 
-Benessereintegrato.it è un sistema per affiancare alla cura tradizionale un sistema che ho sempre sognato per tenersi in salute. Che andasse dalla cura alla riabilitazione... 
 
-Ci sono vari strumenti che pian piano ti verranno offerti e potrai facilmente:
- - Tenere sott'occhio il tuo stato di salute
- - I tuoi appuntamenti con i professionisti della salute e del benessere.
- - Le tue routine di esercizi, 
- - Il tuo momento per la meditazione, 
- - Le conoscenze più aggiornate sul corpo umano, 
- - Tenere sott'occhio la tua alimentazione
- - Cercare servizi e professionisti in linea con la nostra filosofia 
- - Seguire i risultati dei tuoi obiettivi
- - Unirti a un gruppo di persone nella tua stessa situazione con cui confrontarti e portare avanti il tuo percorso, e trovare un sostegno.
- 
-Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi.
+
 
 ## Le cose impossibili
  
@@ -39,8 +23,9 @@ Questa guida è qui per spiegarti come funziona questo posto e come anche tu puo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MTAwMzc3LC02NzM2Nzg3NzMsLTE2ND
-kyNjExNDcsLTMxNzQzODMwMSwxNzMzNjkxOTE3LDEwNDUwMzMw
-MTEsLTE2MDQ3MzI2MjgsLTYxMzI5OTU0NiwtMTE1NTA1NDM5NC
-wtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX0=
+eyJoaXN0b3J5IjpbLTE3ODQ4NDUyNDAsNDg0MTAwMzc3LC02Nz
+M2Nzg3NzMsLTE2NDkyNjExNDcsLTMxNzQzODMwMSwxNzMzNjkx
+OTE3LDEwNDUwMzMwMTEsLTE2MDQ3MzI2MjgsLTYxMzI5OTU0Ni
+wtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDEx
+OTI0OTc0XX0=
 -->
