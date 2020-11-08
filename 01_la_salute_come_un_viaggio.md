@@ -48,12 +48,14 @@ Alla fine della guida sarai in grado di:
 
 # Formazione 1 Fisioterapia
 
-La prima scuola di  formazione nel campo della salute  è stata la fisioterapiamia prima vera e propria formazione 
+La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul
 Il sistema muscolo scheletrico
 Il sistema respiratorio
 Il sistema nervoso
 Il sistema linfatico e digestivo
 Il sistema cardiocircolatorio
+
+Ma sono venuto a contatto anche con il mondo della malattia, 
 
 # Esercizio 
 
@@ -79,5 +81,5 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI1NzQ0NCwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbLTE0MDYyMTY1NTAsLTQwMDE4MDc4MV19
 -->
