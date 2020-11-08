@@ -12,7 +12,8 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 ## La salute come un viaggio
 
-> 
+> Durante un escursione non ci sono condizioni sfavorevoli, 
+
 Quando si affront mi sono accorto. Il problema è che non si considera che per ottenere risultati ci vuole tempo e a volte il lavoro  è lungo. 
 
 E' necessario sia pianificare il percorso, sia agire e avere dei feedback.
@@ -84,6 +85,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Nzc0MTMzMCwxNTc3NDE3NzMyLC00MD
+eyJoaXN0b3J5IjpbMTE1NjcyNTkwMCwxNTc3NDE3NzMyLC00MD
 AxODA3ODFdfQ==
 -->
