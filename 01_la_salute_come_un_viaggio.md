@@ -46,10 +46,38 @@ Alla fine della guida sarai in grado di:
 
 
 
+# Formazione 1 Fisioterapia
 
+La prima scuola di  formazione nel campo della salute  è stata la fisioterapiamia prima vera e propria formazione 
+Il sistema muscolo scheletrico
+Il sistema respiratorio
+Il sistema nervoso
+Il sistema linfatico e digestivo
+Il sistema cardiocircolatorio
+
+# Esercizio 
+
+
+Il primo esercizio di sembrerà banale ma prova per 10 secondi a fermarti e osservare la tua
+
+###  Un piccolo esercizio di consapevolezza, la. complessità di una mano
+
+Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
+
+Pensa alla complessità di processi perchè questo sia possibile.
+
+Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
+
+
+# Segreto 1
+> “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
+[BASIL WALSH]
+
+Il corpo umano è una cosa straordinaria
+Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA3NDE3MDgsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbLTE2NTI1NzQ0NCwtNDAwMTgwNzgxXX0=
 -->
