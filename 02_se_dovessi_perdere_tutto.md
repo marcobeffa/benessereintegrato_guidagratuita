@@ -10,7 +10,7 @@ Per questo questo voglio raccontarti del mio primo giorno di lavoro e del profon
 
 Là sul letto bianco vicino alla finestra che dava sul cortile interno, era sdraiato Pietro.
 
-Era un ragazzo di quarant’anni  e non era in grado di mettersi seduto. 
+Era un ragazzo di quarant’anni  e non era in grado di muoversi. 
 
 Non riusciva a controllare i movimenti.
 
@@ -27,7 +27,10 @@ Non era in grado di compiere quei gesti quotidiani che ogni giorno ogni mattina 
 
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NTk0MzcyLDE4MDAyMTkzMDQsLTEzMD
+eyJoaXN0b3J5IjpbNTY2ODEzODczLDE4MDAyMTkzMDQsLTEzMD
 I0NDc3OTBdfQ==
 -->
