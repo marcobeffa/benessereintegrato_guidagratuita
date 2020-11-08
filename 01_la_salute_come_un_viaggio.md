@@ -12,11 +12,13 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 ## La salute come un viaggio
 
-> Durante un escursione non ci sono condizioni sfavorevoli, solo non hai preparato gli strumenti adeguati per affrontare quella condizione.
+> Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
 E' necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
+
+> Il terapista è come una guida d
 
 Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono affrontare un viaggio per recuperare o migliorare le loro salute.
 
@@ -25,10 +27,7 @@ Per questo ho pensato di creare questa guida per aiutare tutti quelli che voglio
     
 Alla fine della guida sarai in grado di:
 
-- La salute come un viaggio
-- Se dovessi perdere tutto
-- Le 3 batterie 
--  Evitare 4 errori più comuni 
+-  Evitare 4 errori più comuni che la maggior parte delle persone compie quando inizia un percorso per la salute.
 -  I 5 elementi chiave della tua salute
 -  Di cosa hai bisogno per il tuo viaggio?
 - Conoscere il tuo stato di salute il tuo punto di partenza
@@ -86,6 +85,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MTM4MDg4LDE1Nzc0MTc3MzIsLTQwMD
-E4MDc4MV19
+eyJoaXN0b3J5IjpbLTczOTU3MzI3NSwxNTc3NDE3NzMyLC00MD
+AxODA3ODFdfQ==
 -->
