@@ -1,7 +1,7 @@
-# 10 Scuola non scuola
+# 10 Frank Merenda 
 
 # 10 
-I testi sacri 
+Le chiacchiere stanno a 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1OTA0NjI1XX0=
+eyJoaXN0b3J5IjpbLTYwMzIzMjMyNV19
 -->
