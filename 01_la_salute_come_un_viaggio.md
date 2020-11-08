@@ -67,7 +67,9 @@ Il corpo umano è una cosa straordinaria
 Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
 
 
-# Formazione 1 della salute che demi ha aiutato a cr Fisioterapia
+# Formazione 1 della salute che devo ringraziare per l'80% di quello che so oggi.
+
+## La Fisioterapia
 
 La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
 
@@ -87,6 +89,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzcyMzMzNCw2MjQ5MzkwNDUsLTE3Nj
+eyJoaXN0b3J5IjpbMTgyMzMyODc1OCw2MjQ5MzkwNDUsLTE3Nj
 k4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
