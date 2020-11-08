@@ -31,7 +31,7 @@ Per questo ho pensato di creare questa guida per preparare il tuo viaggio per la
     
 Alla fine della guida sarai in grado di:
 
--  Evitare gli errori più comuni 
+-  Evitare 4 errori più comuni 
 -  Pianificare il tuo viaggio e capire di quante e quali  risorse hai bisogno.
 - Avere un idea generale sulle aree su cui puoi lavorare 
 - Conoscere il tuo stato di salute il tuo punto di partenza
@@ -89,5 +89,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbMTQ3ODUyNjcwOCwxNTc3NDE3NzMyLC00MD
+AxODA3ODFdfQ==
 -->
