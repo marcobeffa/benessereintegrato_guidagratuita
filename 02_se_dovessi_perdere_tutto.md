@@ -99,6 +99,9 @@ La disabilità fin che non ci si incappa direttamente o tramite un conoscente st
 
 E di solito ci si incappa all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stai viaggiando tranquillo.
 
+
+## Alla scoperta del nostro mondo interno
+
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
 
@@ -121,9 +124,6 @@ In alcuni casi le patologie sono dovute a cause innate come per esempio problemi
 Ora niente era più naturale per Pietro, tutto ricominciava dall'inizio chissà che fine avevano fatto tutte le esperienze vissute. Se erano ancora li nella sua memoria se poteva ancora riconoscere i visi delle persone a lui care oppure se tutto era stato cancellato.
 
 Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
-
-
-
 
 
 
@@ -165,6 +165,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNjM2NDI4LDE4MDAyMTkzMDQsLTEzMD
-I0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbLTU3MTA1NDU1MSwxODAwMjE5MzA0LC0xMz
+AyNDQ3NzkwXX0=
 -->
