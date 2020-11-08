@@ -5,27 +5,17 @@
 
 
 
-## Cosa trovi nella guida?
 
 
 
-
-## Le cose impossibili
- 
- > Tutti sanno che una cosa è impossibile da realizzare, finché arriva uno sprovveduto che non lo sa e la inventa. 
- 
-Se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
-Io penso invece che tutto questo sia possibile. Oggi abbiamo a disposizione conoscenze e tecnologie per realizzare tutto questo per una medicina migliore, per un benessereintegrato
-
-Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi decidere di prendere parte a questo progetto ambizioso iniziando da pochi semplici passi.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ4NDUyNDAsNDg0MTAwMzc3LC02Nz
-M2Nzg3NzMsLTE2NDkyNjExNDcsLTMxNzQzODMwMSwxNzMzNjkx
-OTE3LDEwNDUwMzMwMTEsLTE2MDQ3MzI2MjgsLTYxMzI5OTU0Ni
-wtMTE1NTA1NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDEx
-OTI0OTc0XX0=
+eyJoaXN0b3J5IjpbNDY2NDIwOTkyLDQ4NDEwMDM3NywtNjczNj
+c4NzczLC0xNjQ5MjYxMTQ3LC0zMTc0MzgzMDEsMTczMzY5MTkx
+NywxMDQ1MDMzMDExLC0xNjA0NzMyNjI4LC02MTMyOTk1NDYsLT
+ExNTUwNTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0NjczNywxMTky
+NDk3NF19
 -->
