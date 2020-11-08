@@ -45,14 +45,14 @@ Alla fine della guida sarai in grado di:
 - Il tuo diario di bordo
 
 
-# Segreato 
+
 # Formazione
 # Esercizio
-
+# Segreto 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTY2MTg0Nl19
+eyJoaXN0b3J5IjpbMTY3MzU2Mzg2OV19
 -->
