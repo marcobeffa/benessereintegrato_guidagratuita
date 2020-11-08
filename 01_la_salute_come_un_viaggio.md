@@ -45,7 +45,6 @@ Alla fine della guida sarai in grado di:
 - Il tuo diario di bordo
 
 
-
 # Formazione 1 Fisioterapia
 
 La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
@@ -60,8 +59,9 @@ Il sistema cardiocircolatorio
 
 Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone e li è nata l'idea di creare benessereintegrato: 
 
-Ecco i posti in cui ho lavorato e studia
-Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa 
+Ecco i posti in cui ho lavorato, studiato e fatto corsi:
+
+*Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
   
 
 # Esercizio 
@@ -88,5 +88,5 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzE3ODE4NCwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbMTk4NDM0NjczOSwtNDAwMTgwNzgxXX0=
 -->
