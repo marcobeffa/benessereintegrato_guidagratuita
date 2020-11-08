@@ -1,8 +1,5 @@
-# 6 Mithoself experiences
 
-# Segreto 6 
 
-Partire da una posizione generativa di equilibrio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzI3MTU2OV19
+eyJoaXN0b3J5IjpbNDk3ODE4ODEwLDE4MzcyNzE1NjldfQ==
 -->
