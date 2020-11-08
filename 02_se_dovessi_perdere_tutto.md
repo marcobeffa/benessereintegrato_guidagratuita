@@ -146,7 +146,12 @@ La mattina fermati  e prendi 3 decisioni importanti per questa giornata.
 ## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
 
 
-# Corpo Mente 
+## Uno strano modo di fare fisioterapia
+
+Mi trovavo a Leno come tirocinante qui incontrai per la prima volta il metodo corpo e coscienza.
+Vittorio corberi un fisioterapista in gamba che purtroppo ci ha l
+
+## Corpo Mente 
 
 Possiamo considerare il nostro corpo come 2 parti fuse una nell'altra:
  
@@ -159,7 +164,9 @@ Questo concetto è difficile ma è molto potente.
 La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno della nostra (mente coscienza). ll corpo è il circuito che ne permette l'esistenza e fa sia da supporto ma esso stesso è parte della mente-coscienza. 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzExNjk0NCwxODAwMjE5MzA0LC0xMz
-AyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbLTE5MjQwNTQ3OTQsMTgwMDIxOTMwNCwtMT
+MwMjQ0Nzc5MF19
 -->
