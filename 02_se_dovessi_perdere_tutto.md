@@ -1,3 +1,5 @@
+Errore 2. Investire male le proprie risorse
+
 
 # Cosa faresti se dovessi perdere tutto 
 
@@ -13,5 +15,5 @@ Uno strano modo di lavorare L'incontro con
 # Segreto 2
 Ogni giorno un nuovo inizio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
