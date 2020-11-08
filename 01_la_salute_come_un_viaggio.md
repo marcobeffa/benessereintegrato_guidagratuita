@@ -42,12 +42,20 @@ Alla fine della guida sarai in grado di:
 
 
 
-
-
 # Esercizio 1
 
 
 Il primo esercizio che ti propongo sembrerà banale ma prova a farlo prima di giudicare. 
+
+###   Quante abilità sei in grado di fare e dai come scontate?
+
+Non si pensa mai a quante abilità ha il tuo corpo e dai per scontato che tutto funzioni sempre al meglio.
+
+- Parlare.
+- Muovere una mano.
+- Afferrare un oggetto come un bicchiere di plastica senza romperlo.
+- Restare in piedi in stazione eretta in equilibrio senza cadere
+- Respirare
 
 ###  Un piccolo esercizio di consapevolezza, la. complessità di una mano
 
@@ -56,6 +64,7 @@ Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muo
 Pensa alla complessità di processi perchè questo sia possibile.
 
 Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
+
 
 
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
@@ -91,7 +100,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDAyMjU0NSwtMzgwMzYxNDA0LDYyND
+eyJoaXN0b3J5IjpbMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyND
 kzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3
 ODFdfQ==
 -->
