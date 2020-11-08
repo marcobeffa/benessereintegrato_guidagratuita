@@ -7,7 +7,7 @@
 Ricominciare da 0 ogni giorno 
 Prima dei 4 errori e dei 5 elementi
 
-# Fisioterapia
+# 1 corso Fisioterapia
 
  
 
@@ -25,5 +25,5 @@ Le scoperte più interessanti puoi farle nei libri che non hai ancora letto e ne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYzNTQ1ODRdfQ==
+eyJoaXN0b3J5IjpbLTMxMDU2Mjc1NywtMTUwNjM1NDU4NF19
 -->
