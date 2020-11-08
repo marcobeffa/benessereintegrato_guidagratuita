@@ -58,7 +58,7 @@ Pensa alla complessità di processi perchè questo sia possibile.
 Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
 
 
-# Segreto 1
+# Segreto dei fisio 1
 
 > “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
 [BASIL WALSH]
@@ -67,7 +67,7 @@ Il corpo umano è una cosa straordinaria
 Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
 
 
-# Formazione 1 Fisioterapia
+# Formazione 1 della salute che demi ha aiutato a cr Fisioterapia
 
 La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
 
@@ -87,6 +87,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODE3NTI5Myw2MjQ5MzkwNDUsLTE3Nj
+eyJoaXN0b3J5IjpbLTM2MzcyMzMzNCw2MjQ5MzkwNDUsLTE3Nj
 k4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
