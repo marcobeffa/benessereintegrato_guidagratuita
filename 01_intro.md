@@ -7,54 +7,6 @@
 
 ##  Chi sono e come nasce Benessere Integrato
 
-Ti presento BenessereIntegrato.it mi chiamo Mark Postura lavoro da più di 10 anni come fisioterapista. Dal primo giorno del mio lavoro ho sempre pensato di voler offrire ai miei pazienti qualcosa che io stesso possa  utilizzare:
-
- - Quando devo essere curato per una patologia 
- - Per migliorare la mia salute
-
-###  Per chi vuole iniziare il percorso...
-Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
-
- 1. Capire la strada migliore da percorrere per risolvere un problema in base alle esigenze e possibilità 
- 2. Poter chiedere a qualcuno che abbia avuto gli stessi problemi come ha fatto a trovare una soluzione 
- 3. Poter fornire un elenco di servizi di professionisti  in linea con le possibilità e con le risorse a disposizione
- 4. Poter essere seguiti da un team di professionisti che lavorano insieme per aiutarti a raggiungere i tuoi obiettivi.
- 5. Poter comunicare velocemente con loro e tenerli aggiornati dei tuoi progressi o dei tuoi problemi per risolverli velocemente
- 6. Oltre all'intervento dei professionisti Avere un programma di lavoro giornaliero/Settimanale da svolgere in autonomia
- 7. Monitorare i risultati e sapere sempre a che punto si è arrivati
- 8. Poter fornire programmi non solo scientificamente validi ma anche che abbiano un efficacia pratica e siano compatibili con lo stile di vita
- 9. Evitare alla persone di perdere tempo soldi e di fornendo programmi e servizi non adatti o peggio ancora dannosi
- 10. Dare la possibilità alla persona di capire quale tipologia di professione è adatta a lui in base alla situazione della sua salute. Se una persona a bisogno di curare una patologia deve rivolgersi a un medico. Certo il medico dovrebbe conoscere anche l'operato delle altre professioni sanitarie del benessere delle discipline bionaturali e conoscere anche il professionista che le pratica per poter consigliare in modo corretto. 
- 11. Poter educare le persone alla salute mentre si curano.
- 12. Poter Fornire Cose semplici alle persone utili nella vita di tutti i giorni
- 13. Utilizzare un atteggiamento di possibilità generativo e non inibitorio. Sfruttando le potenzialità del nostro corpo.
- 14. La malattia quasi sempre arriva per una mancato funzionamento di un sistema del nostro corpo perciò sempre prima fermare la malattia e togliersi dal pericolo, ma poi ripristinare la funzionalità del corpo.
- 15. Non curare una patologia ma curare una persona
- 16. Poter far conoscere e provare il servizio ad un costo relativamente basso paragonandolo alla qualità offerta e poi far decidere alla persona se proseguire e come, in base  ai risultati ottenuti e alla soddisfazione
- 17. Poter poi dare la possibilità di procedere con programmi più impegnativi facendo scegliere quali risorse investire e utilizzare. 
- 18. Dare la possibilità di dare materiale gratuito a chi vuole lavorare in autonomia con poche spese 
- 19. Dare la possibilità di avere servizi efficenti e professionisti preparati che seguano la persona se la persona a la possibilità e vuole utilizzare più denaro per essere seguito in modo personalizzato.
- 
- 
-
- Questi sono la cose che mi piacerebbe trovare da paziente. Di solito non mi accontento ed essendo anche un professionista sarebbe bello sapere che in questo posto oltre a migliorare la qualità di vita del paziente si migliori la qualità di vita del professionista
-
- 
-## Per i professionisti 
- 
-> E' bene imparare dai propri errori ma è saggio imparare dagli errori altrui 
- 
- 1. Il professionista dovrebbe svolgere la mansione per cui è addetto e perciò concentrarsi sulla persona. Mentre spesso i professionisti diventano dei burocrati addetti alla compilazione di carte.
- 2. I professionisti dovrebbero avere la possibilità di inquadrare il problema della persona e capire se può essere aiutata dai servizi offerti in modo efficace. In caso contrario dovrebbero avere la possibilità di poter costruire una rete di conoscenze che gli permettano di indirizzare la persona da un altro professionista se lo ritengono necessario, ma mantenendo una repsonsabilità sulla persona che si è rivolta a lui e ripone fiducia.
- 3. Il professionista dovrebbe ricevere con la formazione anche gli strumenti burocratici, informatici, legali e amministrativi per svolgere il loro lavoro al meglio. 
- 4. Il professionista dovrebbe avere la libertà di utilizzare il metodo scientifico. Cioè applicare e verificare le conoscenze acquisite nella formazione e apportare le sue osservazioni per permettere ai futuri studenti di migliorare le tecniche e accrescere il loro bagaglio di esperienze.
- 5. I professionisti dovrebbero avere la possibilità di fare un programma per la salute loro stessi, prima di farlo ad altre persone.
- 6. I professionisti dovrebbero avere la possibilità di confrontarsi e parlare tra di loro per migliorare i servizi offerti per allenare le loro abilità.
- 7. I professionisti dovrebbero avere il giusto riconoscimento per il lavoro svolto.
- 8. I professionisti dovrebbero avere degli strumenti per lavorare in team con altri professionisti e velocizzare la comunicazione con il paziente.
- 9. Ci dovrebbe essere la possibilità di segnalare sistemi che non sono funzionali e discutere un miglioramento.
- 10. I professionisti dovrebbero diventare anche dei produttori di prodotti informativi che possano aiutare la persona a mantenersi in salute o a ritrovarla
- 11. I professionisti dovrebbero poter utilizzare anche le conoscenze e i servizi che hanno prodotto altri professionisti. 
 
 
 ## Cosa trovi nella guida?
@@ -87,8 +39,8 @@ Questa guida è qui per spiegarti come funziona questo posto e come anche tu puo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzY3ODc3MywtMTY0OTI2MTE0NywtMz
-E3NDM4MzAxLDE3MzM2OTE5MTcsMTA0NTAzMzAxMSwtMTYwNDcz
-MjYyOCwtNjEzMjk5NTQ2LC0xMTU1MDU0Mzk0LC0xOTg4NTM5Nz
-kxLDIwOTA2NDY3MzcsMTE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbNDg0MTAwMzc3LC02NzM2Nzg3NzMsLTE2ND
+kyNjExNDcsLTMxNzQzODMwMSwxNzMzNjkxOTE3LDEwNDUwMzMw
+MTEsLTE2MDQ3MzI2MjgsLTYxMzI5OTU0NiwtMTE1NTA1NDM5NC
+wtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX0=
 -->
