@@ -123,10 +123,6 @@ Ora niente era più naturale per Pietro, tutto ricominciava dall'inizio chissà 
 
 Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
 
-## Il concetto di yin yang 
-
-Ti propongo un altro esercizio prendi un foglio e scrivi relativo da una parte le cose yin e dall'altra parte le cose yang
-
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
 ## Segreto 2
@@ -180,6 +176,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MD
-AyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTcwMjU5OTg5NCwtODUyNzQ0NTY4LC0yOD
+c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
