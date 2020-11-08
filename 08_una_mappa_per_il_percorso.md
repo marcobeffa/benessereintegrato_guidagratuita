@@ -1,11 +1,4 @@
-
-
-# dove vai se una mappa non ce l'hai? 
-# 7 Il metodo jin shin do
-
-# 7 segreto
-
-Il corpo è il supporto delle nostre emozioni e ricordi
+# Coming soon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTkwOTU2MDRdfQ==
+eyJoaXN0b3J5IjpbMjA4Njk3MjEwN119
 -->
