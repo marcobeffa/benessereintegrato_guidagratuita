@@ -46,13 +46,17 @@ Alla fine della guida sarai in grado di:
 
 
 
-# Formazione
-# Esercizio
+# Formazione 1
+La fisioterapia è stata la prima scuola di formazione a
+
+# Esercizio 
+
+
 # Segreto 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzU2Mzg2OV19
+eyJoaXN0b3J5IjpbLTQwMDE4MDc4MV19
 -->
