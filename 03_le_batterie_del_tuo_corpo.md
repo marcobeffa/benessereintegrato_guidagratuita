@@ -32,6 +32,8 @@ I tre centri sono legati a questi 3 aspetti
 
 ## Esercizio dei 3 cervelli 
 
+### Rettili mammiferi e l'uomo
+
 ## Esercizio dei cicli
 
 
@@ -52,5 +54,5 @@ Fai una passeggiata su un lago su un fiume al mare in montagna in un prato e asc
 
 ## La struttura segue la funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDM0NTU5OSwtNTYyMjgxOTk3XX0=
+eyJoaXN0b3J5IjpbNjk1OTE3MDY2LC01NjIyODE5OTddfQ==
 -->
