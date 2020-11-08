@@ -125,7 +125,7 @@ Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gl
 
 ## Il concetto di yin yang 
 
-Ti propongo un altro esercizio prendi un foglio e scrivi relativo da una parte le cose yin e dall'altra parte le cose
+Ti propongo un altro esercizio prendi un foglio e scrivi relativo da una parte le cose yin e dall'altra parte le cose yang
 
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
@@ -180,6 +180,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjA3MzE0NywtMjg3ODgxMzUwLDE4MD
+eyJoaXN0b3J5IjpbLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MD
 AyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
 -->
