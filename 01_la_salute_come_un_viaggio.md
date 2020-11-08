@@ -1,5 +1,5 @@
 
-# Prologo inizia ora il tuo percoso per la salute
+#  Inizia ora il tuo percoso per la salute
 
 > “Non guariamo nessuno. Ognuno si ammala e guarisce da solo. Noi siamo lí a porgere il cerottino o un po’ di fiducia.”  
 LUCIANO LIGABUE
@@ -87,6 +87,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nz
-c0MTc3MzIsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbLTUxODE3NTI5Myw2MjQ5MzkwNDUsLTE3Nj
+k4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
