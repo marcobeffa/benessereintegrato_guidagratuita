@@ -3,6 +3,8 @@
 
 # Segreto 4 
 
+Impariamo da tentativi ed errori
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTA2NDE4NywtMzA3MDI0Njg0XX0=
+eyJoaXN0b3J5IjpbLTg0NTA5ODYxNywtMzA3MDI0Njg0XX0=
 -->
