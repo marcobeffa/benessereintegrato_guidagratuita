@@ -1,3 +1,4 @@
+
 #  Crea il percorso di cui hai bisogno e risolvi il tuo problema! 
 
 ### La guida è per te se ti trovi in una di queste situazioni:
@@ -97,7 +98,8 @@ In caso di dubbi contattaci!
 E ora non ti resta che iniziare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzY5MTkxNywxMDQ1MDMzMDExLC0xNj
-A0NzMyNjI4LC02MTMyOTk1NDYsLTExNTUwNTQzOTQsLTE5ODg1
-Mzk3OTEsMjA5MDY0NjczNywxMTkyNDk3NF19
+eyJoaXN0b3J5IjpbLTE4Nzg0NzM5NTMsMTczMzY5MTkxNywxMD
+Q1MDMzMDExLC0xNjA0NzMyNjI4LC02MTMyOTk1NDYsLTExNTUw
+NTQzOTQsLTE5ODg1Mzk3OTEsMjA5MDY0NjczNywxMTkyNDk3NF
+19
 -->
