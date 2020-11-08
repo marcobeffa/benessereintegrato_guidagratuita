@@ -129,18 +129,16 @@ Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gl
 
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
-## Segreto 1
+## Segreto 2
 
-> “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
-[BASIL WALSH]
+Prendere la vita ogni giorno come un nuovo inizio.
 
-Il corpo umano è una cosa straordinaria
-Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
+
 
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
 
-## La Fisioterapia
+## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges courchinoux
 
 La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
 
@@ -165,6 +163,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTA1NDU1MSwxODAwMjE5MzA0LC0xMz
-AyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbLTExODU5NzU3OTcsMTgwMDIxOTMwNCwtMT
+MwMjQ0Nzc5MF19
 -->
