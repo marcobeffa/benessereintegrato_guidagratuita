@@ -12,11 +12,11 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 ## La salute come un viaggio
 
-> Durante un escursione non ci sono condizioni sfavorevoli, 
+> Durante un escursione non ci sono condizioni sfavorevoli, solo non hai preparato gli strumenti adeguati per affrontare quella condizione.
 
-Quando si affront mi sono accorto. Il problema è che non si considera che per ottenere risultati ci vuole tempo e a volte il lavoro  è lungo. 
+Affrontare un percorso per la salute è come affrontare un viaggio. 
 
-E' necessario sia pianificare il percorso, sia agire e avere dei feedback.
+E' necessario sia pianificare il percorso, sia iniziare racco avere dei feedback.
 
 Per questo ho pensato di creare questa guida per preparare il tuo viaggio per la salute.
 
@@ -85,6 +85,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjcyNTkwMCwxNTc3NDE3NzMyLC00MD
-AxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTIxMzY2OTQ1MTQsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
