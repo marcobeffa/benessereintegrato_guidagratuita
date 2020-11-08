@@ -48,12 +48,16 @@ Alla fine della guida sarai in grado di:
 
 # Formazione 1 Fisioterapia
 
-La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul
+La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
+
+Con la Fisioterapia si studia come riabilitare: 
+
 Il sistema muscolo scheletrico
 Il sistema respiratorio
-Il sistema nervoso
+Il sistema nervoso e
 Il sistema linfatico e digestivo
 Il sistema cardiocircolatorio
+
 
 Ma sono venuto a contatto anche con il mondo della malattia, 
 
@@ -81,5 +85,5 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYyMTY1NTAsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbMTg4MjkwMDAyOSwtNDAwMTgwNzgxXX0=
 -->
