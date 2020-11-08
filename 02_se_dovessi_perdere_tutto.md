@@ -1,4 +1,4 @@
-# Cosa faresti se dovessi perdere tutto 
+# Cosa faresti se dovessi perdere tutto?
 
 Si questo è un capitolo tragico, capisco che possa turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto benessere integrato.
 
@@ -93,8 +93,6 @@ I segnali che arrivano da dentro possono essere  fisiologici come, fame, sonno, 
 impara a farsi una rappresentazione del mondo.
   
 
-## Esercizio
-
 La disabilità fin che non ci si incappa direttamente o tramite un conoscente stretto spesso è una condizione poco conosciuta.
 
 E di solito ci si incappa all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stai viaggiando tranquillo.
@@ -180,6 +178,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTQzOTk3MCwxODAwMjE5MzA0LC0xMz
+eyJoaXN0b3J5IjpbLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMz
 AyNDQ3NzkwXX0=
 -->
