@@ -37,7 +37,6 @@ Alla fine della guida sarai in grado di:
 -  Evitare 4 errori più comuni 
 -  I 5 elementi chiave della tua salute
 -  Di cosa hai bisogno per il tuo viaggio?
-- Avere un idea generale sulle aree su cui puoi lavorare 
 - Conoscere il tuo stato di salute il tuo punto di partenza
 - Avere una mappa del tuo problema 
 - Avere un idea dei professionisti a cui puoi rivolgerti
@@ -93,6 +92,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzAxNTc0NywxNTc3NDE3NzMyLC00MD
-AxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjI5MDU0MDQsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
