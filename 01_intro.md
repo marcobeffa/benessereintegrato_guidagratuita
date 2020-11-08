@@ -57,9 +57,6 @@ Per questo ho sempre pensato a un posto fisico ma anche virtuale dove si possa:
  11. I professionisti dovrebbero poter utilizzare anche le conoscenze e i servizi che hanno prodotto altri professionisti. 
 
 
-
-
-
 ## Cosa trovi nella guida?
 
 Benessereintegrato.it è un sistema per affiancare alla cura tradizionale un sistema che ho sempre sognato per tenersi in salute. Che andasse dalla cura alla riabilitazione... 
@@ -77,23 +74,20 @@ Ci sono vari strumenti che pian piano ti verranno offerti e potrai facilmente:
  
 Questo sarà possibile quando tutti gli strumenti di benessereintegrato.it saranno attivi.
 
-## La guida il primo strumento
+## Le cose impossibili
+ 
+ > Tutti sanno che una cosa è impossibile da realizzare, finché arriva uno sprovveduto che non lo sa e la inventa. 
+ 
+Se hai lavorato ancora in un ospedale o in qualsiasi altro studio pensarai che tutto questo sia impossibile.
+Io penso invece che tutto questo sia possibile. Oggi abbiamo a disposizione conoscenze e tecnologie per realizzare tutto questo per una medicina migliore, per un benessereintegrato
 
- La guida è pensata oltre che per presentare BenessereIntegrato.it per accompagnarti nella prima parte del percorso. Perciò troverai una parte teorica e una parte pratica.
+Questa guida è qui per spiegarti come funziona questo posto e come anche tu puoi decidere di prendere parte a questo progetto ambizioso iniziando da pochi semplici passi.
 
-Nella parte teorica trovi i principi della nostra filosofia. 
-Nella parte pratica troverai compiti che ti aiutano a iniziare 
 
- - Il percorso per la tua salute,  
- - Per risolvere un problema
- - Per raggiungere un obiettivo
 
-In caso di dubbi contattaci!
-
-E ora non ti resta che iniziare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDc1NjQ4NiwxNzMzNjkxOTE3LDEwND
+eyJoaXN0b3J5IjpbLTMxNzQzODMwMSwxNzMzNjkxOTE3LDEwND
 UwMzMwMTEsLTE2MDQ3MzI2MjgsLTYxMzI5OTU0NiwtMTE1NTA1
 NDM5NCwtMTk4ODUzOTc5MSwyMDkwNjQ2NzM3LDExOTI0OTc0XX
 0=
