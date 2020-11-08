@@ -83,7 +83,42 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 #  Esercizio 2
 
-Mi sono fatto con il tempo l'idea enso che sia meglio poter provare questa esperienza 
+## Sull'interno e sull'esterno 
+
+Era come se il mondo interno di Pietro non potesse più comunicare con il mondo estenerno.
+
+Quando nasciamo pian piano impariamo ad usare il corpo, impariamo a interpretarne i segnali che  arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
+
+I segnali che arrivano da dentro possono essere  fisiologici come, fame, sonno, senso di energia o più emotivi come tristezza rabbia, e pian piano ognuno di noi con i pensieri le immagini e il linguaggio
+impara a farsi una rappresentazione del mondo.
+  
+
+## Esercizio
+
+> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
+> CARY-HIROYUKI TAGAWA
+
+Per capire cosa intendo per mondo interno, prova a mettere una mano sulla pancia, porta l'attenzione sulla sensazione tattile del movimento che avviene mentre respiri  cerca di entrare nel ritmo e sentire quanto dura un inspiro quanto un espiro osserva se è veloce lento e fatti trasportare dalle sensazioni, prenditi qualche secondo e chiudi gli occhi per un attimo.
+
+Magari hai sentito solo il ritmo del tuo respiro, ma forse sei riuscito a mollare la presa, hai sentito come se la tensione si sia un pò abbassata, e da li si possono ascoltare molte cose.
+
+Parleremo più avanti di questo mondo interno, e di questa pratica (molti la chiamano meditazione, altri relax, altri l'inizio di pratiche di training autogeno, altri preghiera) per adesso non è necessario dare un nome a questo esercizio, basta imparare a staccare la testa per qualche minuto e già questo è di per se una cura.
+
+Pur non essendo certo penso che Pietro era chiuso nel suo mondo interno e aveva perso la capacità di comunicare con il mondo esterno l'esterno. 
+
+Quello che accade oggi è spesso il contrario oggi si fa fatica a comunicare con il mondo interno. 
+E' difficile trovare il tempo per fermarsi ed ascoltare le nostre sensazioni. 
+
+In alcuni casi le patologie sono dovute a cause innate come per esempio problemi quali malformazioni aneurismi già presenti fin dalla nascita, ma nella maggior parte dei casi rifletto su quanto le patologie giochino sull'ironia della sorte proprio quando non hai più tempo di ascoltarti il corpo si ferma e sei obbligato a passare per quella strada.
+
+ 
+### Conosciuto e non conosciuto. Ricominciare da 0
+
+Ora niente era più naturale per Pietro, tutto ricominciava dall'inizio chissà che fine avevano fatto tutte le esperienze vissute. Se erano ancora li nella sua memoria se poteva ancora riconoscere i visi delle persone a lui care oppure se tutto era stato cancellato.
+
+Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
+
+
 
 
 
@@ -126,6 +161,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDcwMTgxNSwxODAwMjE5MzA0LC0xMz
-AyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbODM3MzY4OTA1LDE4MDAyMTkzMDQsLTEzMD
+I0NDc3OTBdfQ==
 -->
