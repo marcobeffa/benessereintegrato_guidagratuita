@@ -84,17 +84,6 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 #  Esercizio 2
 
 
-Il primo esercizio che ti propongo sembrerà banale ma prova a farlo prima di giudicare. 
-
-###  Un piccolo esercizio di consapevolezza, la. complessità di una mano
-
-Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
-
-Pensa alla complessità di processi perchè questo sia possibile.
-
-Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
-
-
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
 ## Segreto 1
@@ -133,6 +122,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYxOTc5NjcsMTgwMDIxOTMwNCwtMT
-MwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbMTE3NzQ3NDMzLDE4MDAyMTkzMDQsLTEzMD
+I0NDc3OTBdfQ==
 -->
