@@ -25,6 +25,7 @@ Il problema è che a tutt'oggi  esistono modelli ispirati a questo, ma spesso ci
 
 Per evitare di cadere in quest'ultimo problema vediamo allora di capirne di più, ne va della tua salute!
 
+
 #  Esercizio 3
 
 
@@ -38,8 +39,10 @@ Per evitare di cadere in quest'ultimo problema vediamo allora di capirne di più
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
 
 
-## La struttura segue la funzione
+## L'osteopatia
+
+
 ## La struttura segue la funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjgzODczNCwtNTYyMjgxOTk3XX0=
+eyJoaXN0b3J5IjpbLTE3NjY0NTM2MjksLTU2MjI4MTk5N119
 -->
