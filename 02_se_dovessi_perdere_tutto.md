@@ -155,7 +155,11 @@ Così semplice che era quasi disarmante, ma di una raffinatezza e complessità i
 
 Mentre si lavorava sulle articolazioni sui muscoli con i movimenti Vittorio raccontava come il corpo riassume in piccolo la rappresentazione di tutto quello che accade durante nella natura durante il giorno, e durante l'anno.
 
-Il corpo è legato all'ambiente ai cicli del giorno delle sta
+Il corpo è legato all'ambiente ai cicli del giorno delle stagioni al ritmo luce buio.
+
+E ogni funzione ogni organo è un ingranaggio che si incastra in questo meccanismo meraviglioso.
+
+Fu qui che per la prima volta sentii parlare di medicina cinese. 
 
 ## Corpo Mente 
 
@@ -173,6 +177,6 @@ La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno della n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjUzMTQxMSwxODAwMjE5MzA0LC0xMz
+eyJoaXN0b3J5IjpbLTI0MTc1NTIwNiwxODAwMjE5MzA0LC0xMz
 AyNDQ3NzkwXX0=
 -->
