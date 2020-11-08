@@ -25,8 +25,21 @@ Il problema è che a tutt'oggi  esistono modelli ispirati a questo, ma spesso ci
 
 Per evitare di cadere in quest'ultimo problema vediamo allora di capirne di più, ne va della tua salute!
 
-Il 
+#  Esercizio 3
 
+
+
+
+
+ 
+# Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
+
+
+# Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
+
+
+## La struttura segue la funzione
+## La struttura segue la funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODI3ODI1NCwtNTYyMjgxOTk3XX0=
+eyJoaXN0b3J5IjpbLTI4NjgzODczNCwtNTYyMjgxOTk3XX0=
 -->
