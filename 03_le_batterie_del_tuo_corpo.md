@@ -38,6 +38,9 @@ I tre centri sono legati a questi 3 aspetti
  
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
+Imparare dalla natura. La visione ciclica del mondo. 
+
+Fai una passeggiata su un lago su un fiume al mare in montagna in un prato e ascolta le sensazioni del corpo.
 
 
 
@@ -49,5 +52,5 @@ I tre centri sono legati a questi 3 aspetti
 
 ## La struttura segue la funzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NDQzNjE3LC01NjIyODE5OTddfQ==
+eyJoaXN0b3J5IjpbMTkwNDM0NTU5OSwtNTYyMjgxOTk3XX0=
 -->
