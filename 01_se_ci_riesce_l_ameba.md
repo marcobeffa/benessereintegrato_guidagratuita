@@ -24,6 +24,7 @@ Le scoperte più interessanti puoi farle nei libri che non hai ancora letto e ne
 
 
 
+# Esercizio pratico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5OTUzMDE0XX0=
+eyJoaXN0b3J5IjpbMjAyNDUwOTYxNCw5OTk5NTMwMTRdfQ==
 -->
