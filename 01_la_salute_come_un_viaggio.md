@@ -44,7 +44,7 @@ Alla fine della guida sarai in grado di:
 
 
 
-# Esercizio 1
+# Primo Esercizio 1
 
 
 Il primo esercizio che ti propongo sembrerà banale ma prova a farlo prima di giudicare. 
@@ -58,7 +58,7 @@ Pensa alla complessità di processi perchè questo sia possibile.
 Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
 
 
-# Segreto dei fisio 1
+# Segreto 1  che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
 > “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
 [BASIL WALSH]
@@ -89,6 +89,6 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzMyODc1OCw2MjQ5MzkwNDUsLTE3Nj
+eyJoaXN0b3J5IjpbLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Nj
 k4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
