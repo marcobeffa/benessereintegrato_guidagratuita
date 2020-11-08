@@ -16,11 +16,12 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
-E' necessario sia pianificare il percorso, sia iniziare racco avere dei feedback.
+E' necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
 
-Per questo ho pensato di creare questa guida per preparare il tuo viaggio per la salute.
+Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono affrontare un viaggio per recuperare o migliorare le loro salute.
 
-# La salute come un viaggio
+# Il viaggio per la salute. Prepara il tuo percorso
+
     
 Alla fine della guida sarai in grado di:
 
@@ -85,6 +86,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY2OTQ1MTQsMTU3NzQxNzczMiwtND
-AwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbNDA5MTM4MDg4LDE1Nzc0MTc3MzIsLTQwMD
+E4MDc4MV19
 -->
