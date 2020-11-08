@@ -64,10 +64,10 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
 *Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
   
 
-# Esercizio 
+# Esercizio 1
 
 
-Il primo esercizio di sembrerà banale ma prova per 10 secondi a fermarti e osservare la tua
+Il primo esercizio che ti propongo sembrerà banale ma prova a farlo prima di giudicare. 
 
 ###  Un piccolo esercizio di consapevolezza, la. complessità di una mano
 
@@ -79,6 +79,7 @@ Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vas
 
 
 # Segreto 1
+
 > “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
 [BASIL WALSH]
 
@@ -88,5 +89,5 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDM0NjczOSwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
