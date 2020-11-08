@@ -18,9 +18,10 @@ Affrontare un percorso per la salute è come affrontare un viaggio.
 
 E' necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
 
-> Il terapista è come una guida d
+> Il terapista è come una guida di montagna ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
+[Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
 
-Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono affrontare un viaggio per recuperare o migliorare le loro salute.
+Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per recuperare o migliorare la loro salute e il loro beness.
 
 # Il viaggio per la salute. Prepara il tuo percorso
 
@@ -85,6 +86,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTU3MzI3NSwxNTc3NDE3NzMyLC00MD
+eyJoaXN0b3J5IjpbLTcyNDYwNTA3NywxNTc3NDE3NzMyLC00MD
 AxODA3ODFdfQ==
 -->
