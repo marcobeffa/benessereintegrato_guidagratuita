@@ -21,7 +21,7 @@ Questa però è una frase usata dal ministero della salute è stata però scritt
 
 La definizione di salute dell’OMS però per il 90 % dei casi resta solo una bella definizione che non trova spazio nel mondo reale.
 
-Il problema è che a tutt'oggi non solo non esistono modelli economicamente e socialmente sostenibili per mettere in atto tutto questo,  spesso ci si dimentica anche di questa definizione a volte invece non viene messa in pratica  perchè la definizione non viene compresa.
+Il problema è che a tutt'oggi  esistono modelli ispirati a questo, ma spesso ci si dimentica del significato di questa definizione e a volte invece non viene proprio messa in pratica  perchè la definizione non viene compresa.
 
 Per evitare di cadere in quest'ultimo problema vediamo allora di capirne di più, ne va della tua salute!
 
@@ -31,5 +31,5 @@ Durante il mio percorso di studi come fisioterapista all'università che avevo g
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDg2OTMwNiwtNTYyMjgxOTk3XX0=
+eyJoaXN0b3J5IjpbODMzNjczMzIyLC01NjIyODE5OTddfQ==
 -->
