@@ -44,13 +44,15 @@ Alla fine della guida sarai in grado di:
 	- Monitorare il viaggio test e valutazioni
 - Il tuo diario di bordo
 
-Una volta iniziato il percorso,  sarà  necessario verificare costantemente a che punto ci si trova del viaggio.
 
+# Segreato 
+# Formazione
+# Esercizio
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcwNTI5NjNdfQ==
+eyJoaXN0b3J5IjpbLTczOTY2MTg0Nl19
 -->
