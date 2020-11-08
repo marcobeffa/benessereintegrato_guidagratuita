@@ -54,12 +54,15 @@ Con la Fisioterapia si studia come riabilitare:
 
 Il sistema muscolo scheletrico
 Il sistema respiratorio
-Il sistema nervoso e
+Il sistema nervoso e apparato urogenitale
 Il sistema linfatico e digestivo
 Il sistema cardiocircolatorio
 
+Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone e li è nata l'idea di creare benessereintegrato: 
 
-Ma sono venuto a contatto anche con il mondo della malattia, 
+Ecco i posti in cui ho lavorato e studia
+Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa 
+  
 
 # Esercizio 
 
@@ -85,5 +88,5 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjkwMDAyOSwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbMTM5NzE3ODE4NCwtNDAwMTgwNzgxXX0=
 -->
