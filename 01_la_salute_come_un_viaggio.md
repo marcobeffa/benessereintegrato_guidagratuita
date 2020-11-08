@@ -32,6 +32,8 @@ Per questo ho pensato di creare questa guida per preparare il tuo viaggio per la
 Alla fine della guida sarai in grado di:
 
 - La salute come un viaggio
+- Se dovessi perdere tutto
+- Le 3 batterie 
 -  Evitare 4 errori più comuni 
 -  I 5 elementi chiave della tua salute
 -  Di cosa hai bisogno per il tuo viaggio?
@@ -91,6 +93,6 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDEwOTYxMSwxNTc3NDE3NzMyLC00MD
+eyJoaXN0b3J5IjpbMjExNzAxNTc0NywxNTc3NDE3NzMyLC00MD
 AxODA3ODFdfQ==
 -->
