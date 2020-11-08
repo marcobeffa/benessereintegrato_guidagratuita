@@ -41,24 +41,8 @@ Alla fine della guida sarai in grado di:
 - Il tuo diario di bordo
 
 
-# Formazione 1 Fisioterapia
 
-La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
 
-Con la Fisioterapia si studia come riabilitare: 
-
-Il sistema muscolo scheletrico
-Il sistema respiratorio
-Il sistema nervoso e apparato urogenitale
-Il sistema linfatico e digestivo
-Il sistema cardiocircolatorio
-
-Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone e li è nata l'idea di creare benessereintegrato: 
-
-Ecco i posti in cui ho lavorato, studiato e fatto corsi:
-
-*Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
-  
 
 # Esercizio 1
 
@@ -83,8 +67,26 @@ Il corpo umano è una cosa straordinaria
 Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
 
 
+# Formazione 1 Fisioterapia
+
+La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
+
+Con la Fisioterapia si studia come riabilitare: 
+
+Il sistema muscolo scheletrico
+Il sistema respiratorio
+Il sistema nervoso e apparato urogenitale
+Il sistema linfatico e digestivo
+Il sistema cardiocircolatorio
+
+Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone e li è nata l'idea di creare benessereintegrato: 
+
+Ecco i posti in cui ho lavorato, studiato e fatto corsi:
+
+*Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
+  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
-AwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nz
+c0MTc3MzIsLTQwMDE4MDc4MV19
 -->
