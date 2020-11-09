@@ -96,7 +96,7 @@ Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segna
 
 ###   Quante abilità sei in grado di fare e dai come scontate?
 
-Prima di fare il fisioterapista non mi er a quante abilità ha il tuo corpo e dai per scontato che tutto funzioni sempre al meglio.
+Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guardare quante abilità ha il corpo fa e davo per scontato che tutto fosse normale e dovesse sempre funzionare al meglio. 
 
 - Parlare.
 - Muovere una mano.
@@ -107,6 +107,8 @@ Prima di fare il fisioterapista non mi er a quante abilità ha il tuo corpo e da
 ###  Un piccolo esercizio di consapevolezza, la. complessità di una mano
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
+
+## La strana sensazione di soffiare sulle dita 
 
 Pensa alla complessità di processi perchè questo sia possibile.
 
@@ -154,6 +156,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDM3MTY0NSwtODUyNzQ0NTY4LC0yOD
-c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbLTE2NTg4NDgxNTUsLTg1Mjc0NDU2OCwtMj
+g3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
 -->
