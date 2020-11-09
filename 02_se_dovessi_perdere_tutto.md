@@ -123,18 +123,6 @@ Ora niente era più naturale per Pietro, tutto ricominciava dall'inizio chissà 
 
 Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
 
-# Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
-
-## Segreto 2
-
-Prendere la vita ogni giorno come un nuovo inizio.
-
-Questo è un segreto importante. Ogni giorno abbiamo la possibilità di iniziare di nuovo. 
-Possiamo ripartire ogni giorno rincorrere i nostri sogni i nostri obiettivi! 
-
-Abbiamo tempo fino alla sera! Prima di ritornare a letto.
-
-La mattina fermati  e prendi 3 decisioni importanti per questa giornata.
 
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
@@ -176,6 +164,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjU5OTg5NCwtODUyNzQ0NTY4LC0yOD
+eyJoaXN0b3J5IjpbMTEyODUyMzU3NCwtODUyNzQ0NTY4LC0yOD
 c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
