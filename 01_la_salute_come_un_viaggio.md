@@ -39,12 +39,11 @@ Alla fine della guida sarai in grado di:
 - Il tuo diario di bordo
 
 
-
-
 # Esercizio 1
 
+Fermati a riflettere. Prenditi un attimo per staccare la spina. Prima di prendere la decisione per partire per un viaggio è necessario.
 
-Il primo esercizio che ti propongo sembrerà banale ma prova a farlo prima di giudicare. 
+Ascolta le sensazioni del corpo prima di fare
 
 ###   Quante abilità sei in grado di fare e dai come scontate?
 
@@ -99,7 +98,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMjE2NjAwLDEyMTg3MzU1OTgsLTM4MD
-M2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzcz
-MiwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbLTE2MTM0MTYwNjMsMTIxODczNTU5OCwtMz
+gwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3
+NzMyLC00MDAxODA3ODFdfQ==
 -->
