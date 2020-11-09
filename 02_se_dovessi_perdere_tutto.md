@@ -90,7 +90,9 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
-#  Esercizio 2 il tempo di una sigaretta 
+#  Esercizio 2 il tempo di una sigaretta, per togliere lo stress
+
+Vediamo un esercizio percome possiamo togliere uno stress 
 
 ## Come si muove una mano?
 
@@ -129,7 +131,7 @@ E deve organizzare e riordinare tutte queste informazioni.
 
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
-## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
+## Tecnica di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
 
 
 ## Uno strano modo di fare fisioterapia
@@ -166,7 +168,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzQwNjA3NywxODkxOTM2ODY2LDE0MD
-Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
-MDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTI0OTcxOTIsMTg5MTkzNjg2NiwxNDA2NT
+c4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0
+LC0xMzAyNDQ3NzkwXX0=
 -->
