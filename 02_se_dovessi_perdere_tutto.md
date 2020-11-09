@@ -96,16 +96,16 @@ Vediamo come un semplice esercizio sia molto efficace per togliere lo stress.
 L'esercizio si componer di 3 parti:
 
  - Parte 1 Come si muove una mano
- - Parte 2
- - Parte 3 
+ - Parte 2 utilizzare il respiro
+ - Parte 3 utilizzare il respiro
  ma perchè l'esercizio funzioni occorre che tu conosca alcune informazioni importanti perciò vedaimo:
 
 
-## Come si muove una mano?
+### Parte 1 Come si muove una mano?
 
 Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segnali che arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
-
-###   Quante abilità sei in grado di fare e dai come scontate?
+ 
+ **Quante abilità sei in grado di fare e dai come scontate?**
 
 Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guardare quante abilità ha il corpo fa e davo per scontato che tutto fosse normale e dovesse sempre funzionare al meglio. 
 
@@ -115,7 +115,7 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 - Restare in piedi in stazione eretta in equilibrio senza cadere
 - Respirare
 
-###  Parte 1 Un piccolo esercizio di consapevolezza, la. complessità di una mano.
+###  Parte 2 Un piccolo esercizio di consapevolezza .
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
 
@@ -175,7 +175,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NzkxMTAsMTg5MTkzNjg2NiwxNDA2NT
-c4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0
-LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbLTIxMDc0MzE4MzgsMTg5MTkzNjg2NiwxND
+A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
+MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
