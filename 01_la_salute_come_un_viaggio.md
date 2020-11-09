@@ -55,9 +55,17 @@ Il sistema nervoso è sovraccaricato di informazioni ogni giorno, ci sono mille 
 Questi sono solo alcuni.
 
 Prenditi un attimo per staccare la spina. 
+
 Come si fa? E' semplicissimo chiudi gli occhi e conta mentalmente quanto durano 5 respiri.
 
-Ascolta le sensazioni che hai a occhi chiusi questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda però sono le più efficaci.
+Ascolta le sensazioni che hai a occhi chiusi. 
+
+## Metti il tuo processore in stand by
+
+Chiudendo gli occhi è come se il cervello debba elaborare il 40 % in meno di informazioni. Proprio come quando metti in stand by il computer.
+
+
+Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda però sono le più efficaci.
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 
@@ -117,7 +125,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDYzNjYyNCwxMjE4NzM1NTk4LC0zOD
-AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
-MzIsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbLTEyMTMzNzc2MTYsMTIxODczNTU5OCwtMz
+gwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3
+NzMyLC00MDAxODA3ODFdfQ==
 -->
