@@ -96,13 +96,16 @@ Lo sbadiglio e stiramento è uno dei gesti più sottovalutati ma che assolve tan
 Lo sbadiglio stiramento dovrebbe essere normalmente quasi un riflesso istintivo che il nostro corpo usa per:
 
 
-
 - Regola il tono muscolare di base
-- Inspirare profondamente
+- Ossigenare il corpo 
 - Togliere le tensione dall'articolazione temporomandibolare
 - Stimolare il diaframma
 - Favorire il passaggio da uno stato di veglia a uno di riposo e viceversa 
-- Regolare la pressione ar
+- Regolare la pressione arteriosa
+- Redistribuire le tensioni sull'apparato muscolo scheletrico
+
+Tutto questo in pochi secondi, è piacevole e potete farlo ovunque, be proprio ovunque no, diciamo che potete farlo quando s
+
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
 
@@ -145,7 +148,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzODAzMjI5LDE4OTE5MzY4NjYsMTQwNj
-U3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEzNTAsMTgwMDIxOTMw
-NCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbLTEzNzk1MzA4NTYsMTg5MTkzNjg2NiwxND
+A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
+MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
