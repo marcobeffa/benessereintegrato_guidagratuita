@@ -66,7 +66,8 @@ Ascolta le sensazioni che hai a occhi chiusi.
 
 Chiudendo gli occhi è come se il cervello debba elaborare il 40 % in meno di informazioni. Proprio come quando metti in stand by il computer.
 
-se fai fatica a stare at solo 10 secondi contando mentalmente il respiro equivalgono a un microsonno.
+se fai fatica a stare attento al respiro puoi anche solo contare mentalmente fino a 20 secondi.
+Questo esercizio equivale a fare un microsonno.
 
 Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda però sono le più efficaci.
 
@@ -128,7 +129,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzkwMjg4MywxMjE4NzM1NTk4LC0zOD
+eyJoaXN0b3J5IjpbMTIxMjU5MjQ3OSwxMjE4NzM1NTk4LC0zOD
 AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
 MzIsLTQwMDE4MDc4MV19
 -->
