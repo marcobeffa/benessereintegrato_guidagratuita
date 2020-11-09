@@ -92,13 +92,6 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 
 #  Esercizio 2 il tempo di una sigaretta, per togliere lo stress
 
-Vediamo come un semplice esercizio sia molto efficace per togliere lo stress.
-L'esercizio si componer di 2 parti:
-
- 1. Attivare la coordinazione oculo manuale
- 2. Attivare i recettori delle sensazioni tattili  
- 
-Perchè l'esercizio funzioni occorre che tu conosca alcune informazioni importanti perciò vedaimo:
 
 ###  Come si muove una mano?
 
@@ -114,8 +107,14 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 - Restare in piedi in stazione eretta in equilibrio senza cadere
 - Respirare
 
-###   Parte 1) Attivare la coordinazione oculo manuale
+## Esercizio
+Vediamo come un semplice esercizio sia molto efficace per togliere lo stress.
+L'esercizio si componer di 2 parti:
 
+ 1. Attivare la coordinazione oculo manuale
+ 2. Attivare i recettori delle sensazioni tattili  
+
+###   Parte 1) Attivare la coordinazione oculo manuale
 
 La **Coordinazione oculo manuale** è una funzione complessa che è resa possibile grazie all'attivazione di 
 
@@ -128,7 +127,7 @@ La **Coordinazione oculo manuale** è una funzione complessa che è resa possibi
  - Il sistema respiratorio che ossigeni il sangue,
  - Sistema linfatico che garantisce la raccolta e l'eliminazione delle sostanze di scarto 
 
-
+Metti la mano 
 
 ###  Parte 2)  attivare i recettori tattili
 
@@ -177,7 +176,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIxODU4NTUsMTg5MTkzNjg2NiwxND
+eyJoaXN0b3J5IjpbLTEwODYwMjA1NTcsMTg5MTkzNjg2NiwxND
 A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
 MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
