@@ -40,7 +40,8 @@ Alla fine della guida sarai in grado di:
 
 
 # Esercizio 1 
-## Calmare il sistema nervoso
+
+##  Un esercizio 
 
 Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di informazioni  ti elenco i principali:
 
@@ -72,7 +73,6 @@ Questo esercizio equivale a fare un microsonno.
 Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda però sono le più efficaci.
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
-
 
 
 
@@ -129,7 +129,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjU5MjQ3OSwxMjE4NzM1NTk4LC0zOD
+eyJoaXN0b3J5IjpbLTM2MDcyMDEwMSwxMjE4NzM1NTk4LC0zOD
 AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
 MzIsLTQwMDE4MDc4MV19
 -->
