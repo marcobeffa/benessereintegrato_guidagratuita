@@ -41,7 +41,8 @@ Alla fine della guida sarai in grado di:
 
 # Esercizio 1 
 
-##  Un esercizio 
+##  Riattiva il tuo sistema nervoso in 20 secondi, meglio di prendere un caffè 
+
 
 Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di informazioni  ti elenco i principali:
 
@@ -129,7 +130,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDcyMDEwMSwxMjE4NzM1NTk4LC0zOD
+eyJoaXN0b3J5IjpbMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zOD
 AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
 MzIsLTQwMDE4MDc4MV19
 -->
