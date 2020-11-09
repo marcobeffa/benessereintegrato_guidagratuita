@@ -104,7 +104,9 @@ Lo sbadiglio stiramento dovrebbe essere normalmente quasi un riflesso istintivo 
 - Regolare la pressione arteriosa
 - Redistribuire le tensioni sull'apparato muscolo scheletrico
 
-Tutto questo in pochi secondi, è piacevole e potete farlo ovunque, be proprio ovunque no, diciamo che potete farlo quando s
+Tutto questo in pochi secondi, è piacevole e potete farlo ovunque, be proprio ovunque no, diciamo che per questioni sociali meglio farlo quando si è soli.
+
+Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata sono al mattino appena svegli e la sera prima di addormentarsi.
 
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
@@ -148,7 +150,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk1MzA4NTYsMTg5MTkzNjg2NiwxND
-A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
-MzA0LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbLTQ5MjI1OTY3LDE4OTE5MzY4NjYsMTQwNj
+U3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEzNTAsMTgwMDIxOTMw
+NCwtMTMwMjQ0Nzc5MF19
 -->
