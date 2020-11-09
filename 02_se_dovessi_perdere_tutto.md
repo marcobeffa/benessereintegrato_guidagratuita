@@ -96,45 +96,24 @@ Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segna
 
 I segnali che arrivano da dentro possono essere  
 - fisiologici come:
+	- sensazioni
 	- fame, 
 	- sonno, 
 	- senso di energia  
 - emotivi come:
 	- tristezza 
-	- rabbia,
-- Mentali come
+	- rabbia
+- Mentali 
 	- immagini 
 	- pensieri
 	- linguaggio
 	- suoni
-e pan piano ognuno di noi 
+e pan piano ognuno di noi con queste sensazioni
 impara a farsi una rappresentazione del mondo.
  
  
 ## Alla scoperta del nostro mondo interno
 
-> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
-> CARY-HIROYUKI TAGAWA
-
-Per capire cosa intendo per mondo interno, prova a mettere una mano sulla pancia, porta l'attenzione sulla sensazione tattile del movimento che avviene mentre respiri  cerca di entrare nel ritmo e sentire quanto dura un inspiro quanto un espiro osserva se è veloce lento e fatti trasportare dalle sensazioni, prenditi qualche secondo e chiudi gli occhi per un attimo.
-
-Magari hai sentito solo il ritmo del tuo respiro, ma forse sei riuscito a mollare la presa, hai sentito come se la tensione si sia un pò abbassata, e da li si possono ascoltare molte cose.
-
-Parleremo più avanti di questo mondo interno, e di questa pratica (molti la chiamano meditazione, altri relax, altri l'inizio di pratiche di training autogeno, altri preghiera) per adesso non è necessario dare un nome a questo esercizio, basta imparare a staccare la testa per qualche minuto e già questo è di per se una cura.
-
-Pur non essendo certo penso che Pietro era chiuso nel suo mondo interno e aveva perso la capacità di comunicare con il mondo esterno l'esterno. 
-
-Quello che accade oggi è spesso il contrario oggi si fa fatica a comunicare con il mondo interno. 
-E' difficile trovare il tempo per fermarsi ed ascoltare le nostre sensazioni. 
-
-In alcuni casi le patologie sono dovute a cause innate come per esempio problemi quali malformazioni aneurismi già presenti fin dalla nascita, ma nella maggior parte dei casi rifletto su quanto le patologie giochino sull'ironia della sorte proprio quando non hai più tempo di ascoltarti il corpo si ferma e sei obbligato a passare per quella strada.
-
- 
-### Conosciuto e non conosciuto. Ricominciare da 0
-
-Ora niente era più naturale per Pietro, tutto ricominciava dall'inizio chissà che fine avevano fatto tutte le esperienze vissute. Se erano ancora li nella sua memoria se poteva ancora riconoscere i visi delle persone a lui care oppure se tutto era stato cancellato.
-
-Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
 
 
 
@@ -177,6 +156,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDg1OTQzOSwtODUyNzQ0NTY4LC0yOD
+eyJoaXN0b3J5IjpbLTE5MTUyODIxNiwtODUyNzQ0NTY4LC0yOD
 c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
