@@ -81,6 +81,12 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 
 
+# Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
+
+## Segreto 2
+
+> Dobbiamo imparare bene le regole, in modo da infrangerle nel modo giusto. Dalai Lama
+
 #  Esercizio 2
 
 ## Sull'interno e sull'esterno 
@@ -164,6 +170,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODUyMzU3NCwtODUyNzQ0NTY4LC0yOD
-c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbLTE0NTQ1NTE5OTAsLTg1Mjc0NDU2OCwtMj
+g3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
 -->
