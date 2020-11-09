@@ -112,8 +112,15 @@ Pensa alla complessità di processi perchè questo sia possibile. Hai appena att
 
 **Coordinazione oculo manuale**
 Perchè questa funzione sia possibile, il tuo corpo deve
-usadei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
+usare:
 
+ - I muscoli 
+ - Il sistema nervoso per portare le informazioni 
+ - Una rete di vasi sanguigni che nutra i muscoli e i tessuti 
+ - Un sistema che pulisca le sostanze di scarto il sistema di scarto
+ - Il sistema respiratorio che ossigeni il sangue,
+
+E deve o
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
 
@@ -156,6 +163,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxMjg1NTk3LC04NTI3NDQ1NjgsLTI4Nz
+eyJoaXN0b3J5IjpbNDk2OTcxNTY3LC04NTI3NDQ1NjgsLTI4Nz
 g4MTM1MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
