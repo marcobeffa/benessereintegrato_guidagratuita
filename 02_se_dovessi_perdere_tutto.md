@@ -92,20 +92,13 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 
 #  Esercizio 2 il tempo di una sigaretta. Cos'è la consapevolezza.
 
+Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segnali che arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
 
-Sono convinto che quando una per se il mondo interno di Pietro non potesse più comunicare con il mondo estenerno.
-
-Quando nasciamo pian piano impariamo ad usare il corpo, impariamo a interpretarne i segnali che  arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
-
-I segnali che arrivano da dentro possono essere  fisiologici come, fame, sonno, senso di energia o più emotivi come tristezza rabbia, e pian piano ognuno di noi con i pensieri le immagini e il linguaggio
+I segnali che arrivano da dentro possono essere  
+fisiologici come, fame, sonno, senso di energia o più emotivi come tristezza rabbia, e pian piano ognuno di noi con i pensieri le immagini e il linguaggio
 impara a farsi una rappresentazione del mondo.
-  
-
-La disabilità fin che non ci si incappa direttamente o tramite un conoscente stretto spesso è una condizione poco conosciuta.
-
-E di solito ci si incappa all’improvviso, come si incappa in una tempesta che distrugga in poche ore la nave su cui stai viaggiando tranquillo.
-
-
+ 
+ 
 ## Alla scoperta del nostro mondo interno
 
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
@@ -172,6 +165,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTE2OTAxMywtODUyNzQ0NTY4LC0yOD
-c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbLTEzMTgxMjU0NjksLTg1Mjc0NDU2OCwtMj
+g3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
 -->
