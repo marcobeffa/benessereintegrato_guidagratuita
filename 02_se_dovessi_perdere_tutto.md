@@ -115,8 +115,6 @@ Pensa alla complessità di processi perchè questo sia possibile.
 Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
 
 
-
-
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
 
 ## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
@@ -156,6 +154,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg4NDgxNTUsLTg1Mjc0NDU2OCwtMj
-g3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTM3MDY4ODA5LC04NTI3NDQ1NjgsLTI4Nz
+g4MTM1MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
