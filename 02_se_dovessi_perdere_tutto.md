@@ -92,7 +92,8 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 
 #  Esercizio 2 il tempo di una sigaretta. Cos'è la consapevolezza.
 
-Era come se il mondo interno di Pietro non potesse più comunicare con il mondo estenerno.
+
+Sono convinto che quando una per se il mondo interno di Pietro non potesse più comunicare con il mondo estenerno.
 
 Quando nasciamo pian piano impariamo ad usare il corpo, impariamo a interpretarne i segnali che  arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
 
@@ -171,6 +172,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDc2MzEwMywtODUyNzQ0NTY4LC0yOD
+eyJoaXN0b3J5IjpbLTUwOTE2OTAxMywtODUyNzQ0NTY4LC0yOD
 c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
