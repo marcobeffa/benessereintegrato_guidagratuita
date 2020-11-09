@@ -55,6 +55,8 @@ Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di info
 
 Questi sono solo alcuni ma ce ne sono altri!
 
+Assumendo il caffè noi chiediamo al nostro sistema nervoso di accelerare e questo va bene quando è necessario lavorare o correre più veloce una buon 
+
 ## Prenditi un attimo per staccare la spina. Metti il tuo cervello in pausa
 
 Come si fa? E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
@@ -129,7 +131,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMj
-E4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQx
-OTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbNzkyNDUzNjM5LC0xMTA0MTA0NjU4LDE1Nz
+M4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0
+NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ
+==
 -->
