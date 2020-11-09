@@ -1,6 +1,4 @@
 
-#  Inizia ora il tuo percoso per la salute
-
 > “Non guariamo nessuno. Ognuno si ammala e guarisce da solo. Noi siamo lí a porgere il cerottino o un po’ di fiducia.”  
 LUCIANO LIGABUE
 
@@ -10,7 +8,7 @@ Sicuramente la competenza è fondamentale ogni professione e professionista hann
 
 In alcuni casi i medici preparati in situazioni rischiose grazie alle loro competenze e  abilità possono salvarci la vita, ma è importante ricordare che il professionista della salute e del benessere è anche li per accompagnare la persona nel suo percorso come una guida di montagna ti porta attraverso sentieri per giungere a una meta o come un giardiniere che si prende cura del tuo giardino lavorandolo per far crescere poi piante e fiori.
 
-## La salute come un viaggio
+# La salute come un viaggio
 
 > Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
 
@@ -23,7 +21,7 @@ E' necessario sia pianificare il percorso, sia iniziare e stare attento dove met
 
 Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per recuperare o migliorare la loro salute e il loro benessere.
 
-# Il viaggio per la salute. Prepara il tuo percorso
+## Prepara il tuo percorso
     
 Alla fine della guida sarai in grado di:
 
@@ -39,6 +37,7 @@ Alla fine della guida sarai in grado di:
 	- Decidere le tappe  
 	- Monitorare il viaggio test e valutazioni
 - Il tuo diario di bordo
+
 
 
 
@@ -100,7 +99,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyND
-kzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3
-ODFdfQ==
+eyJoaXN0b3J5IjpbNzcyMjE2NjAwLDEyMTg3MzU1OTgsLTM4MD
+M2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzcz
+MiwtNDAwMTgwNzgxXX0=
 -->
