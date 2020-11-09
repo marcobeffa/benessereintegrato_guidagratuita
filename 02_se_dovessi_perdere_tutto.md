@@ -107,14 +107,14 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 - Restare in piedi in stazione eretta in equilibrio senza cadere
 - Respirare
 
-## Esercizio
+
 Vediamo come un semplice esercizio sia molto efficace per togliere lo stress.
 L'esercizio si componer di 2 parti:
 
  1. Attivare la coordinazione oculo manuale
  2. Attivare i recettori delle sensazioni tattili  
 
-###   Parte 1) Attivare la coordinazione oculo manuale
+###   Attivare la coordinazione oculo manuale
 
 La **Coordinazione oculo manuale** è una funzione complessa che è resa possibile grazie all'attivazione di 
 
@@ -127,7 +127,9 @@ La **Coordinazione oculo manuale** è una funzione complessa che è resa possibi
  - Il sistema respiratorio che ossigeni il sangue,
  - Sistema linfatico che garantisce la raccolta e l'eliminazione delle sostanze di scarto 
 
-Metti la mano 
+### Esercizio parte 1)
+
+Metti la mano id fronte a te 
 
 ###  Parte 2)  attivare i recettori tattili
 
@@ -176,7 +178,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYwMjA1NTcsMTg5MTkzNjg2NiwxND
+eyJoaXN0b3J5IjpbLTE4NDk4OTQ5NTEsMTg5MTkzNjg2NiwxND
 A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
 MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
