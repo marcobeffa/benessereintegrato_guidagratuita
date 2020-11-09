@@ -41,9 +41,13 @@ Alla fine della guida sarai in grado di:
 
 # Esercizio 1
 
-Fermati a riflettere. Prenditi un attimo per staccare la spina. Prima di prendere la decisione per partire per un viaggio è necessario.
+Fermati un attimo n. Prenditi un attimo per staccare la spina. Prima di prendere la decisione per partire per un viaggio è necessario.
 
-Ascolta le sensazioni del corpo prima di fare
+Ascolta le sensazioni del corpo prima di fare l'esercizio e dopo e nota le differenze. 
+
+**Fermarsi ad ascoltare è la prima forma di guarigione.**
+
+Questo può sembrare banale troppo semplice, 
 
 ###   Quante abilità sei in grado di fare e dai come scontate?
 
@@ -98,7 +102,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM0MTYwNjMsMTIxODczNTU5OCwtMz
-gwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3
-NzMyLC00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbMTE5NTEwMjIyNiwxMjE4NzM1NTk4LC0zOD
+AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
+MzIsLTQwMDE4MDc4MV19
 -->
