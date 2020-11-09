@@ -129,7 +129,11 @@ La **Coordinazione oculo manuale** è una funzione complessa che è resa possibi
 
 ### Esercizio parte 1)
 
-Metti la mano id fronte a te 
+- Metti la mano di fronte a te 
+- Porta l'idice sul naso.
+- Porta il tuo sguardo sull'indice 
+- Allontana l'indice lentamente ec
+
 
 ###  Parte 2)  attivare i recettori tattili
 
@@ -178,7 +182,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk4OTQ5NTEsMTg5MTkzNjg2NiwxND
+eyJoaXN0b3J5IjpbLTE2NTcxODYzNzgsMTg5MTkzNjg2NiwxND
 A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
 MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
