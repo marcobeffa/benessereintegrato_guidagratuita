@@ -108,14 +108,15 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
 
-Pensa alla complessità di processi perchè questo sia possibile.
+Pensa alla complessità di processi perchè questo sia possibile. Hai appena attivato un processo che si chiama
 
-Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
+**Coordinazione oculo manuale**
+Perchè questa funzione sia possibile, il tuo corpo deve
+usadei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
 
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
 
-[Tag:[corpo](https://www.frasicelebri.it/argomento/corpo/),  [guarire](https://www.frasicelebri.it/argomento/guarire/),  [meditazione](https://www.frasicelebri.it/argomento/meditazione/)]
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
 
 ## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
@@ -155,6 +156,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk5ODEyMDQsLTg1Mjc0NDU2OCwtMj
-g3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbNTYxMjg1NTk3LC04NTI3NDQ1NjgsLTI4Nz
+g4MTM1MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
