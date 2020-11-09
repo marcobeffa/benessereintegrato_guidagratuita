@@ -39,9 +39,15 @@ Alla fine della guida sarai in grado di:
 - Il tuo diario di bordo
 
 
-# Esercizio 1 
+# 1/12 Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
-##  Riattiva il tuo sistema nervoso in 20 secondi, meglio di prendere un caffè 
+> “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
+[BASIL WALSH]
+
+Il corpo umano è una cosa straordinaria
+Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
+
+# Esercizio 1   Riattiva il tuo sistema nervoso in 20 secondi, meglio di prendere un caffè 
 
 Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di informazioni  ti elenco i principali:
 
@@ -61,17 +67,6 @@ Il cervello ha un vantaggio necessita di pochissimo tempo per recuperare una min
 
 Ma come si fa?
 
-# Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
-
-## Segreto 1
-
-> “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
-[BASIL WALSH]
-
-Il corpo umano è una cosa straordinaria
-Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
-
-
 ## Bastano 20" per staccare la spina. Metti il tuo cervello in pausa
 
  E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
@@ -90,9 +85,6 @@ Questo esercizio equivale a fare un microsonno.
 Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda però sono le più efficaci.
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
-
-
-
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
 
@@ -116,8 +108,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjA0OTYyMiwtMTEwNDEwNDY1OCwxNT
-czODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5Mzkw
-NDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX
-0=
+eyJoaXN0b3J5IjpbLTEzMDg4MzY4OTUsLTExMDQxMDQ2NTgsMT
+U3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5
+MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV
+19
 -->
