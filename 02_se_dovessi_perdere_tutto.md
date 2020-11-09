@@ -95,8 +95,8 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 Vediamo come un semplice esercizio sia molto efficace per togliere lo stress.
 L'esercizio si componer di 2 parti:
 
- 1. Un piccolo esercizio di attenzione
- 2. Attivare i recettori sensazioni tattili  
+ 1. Attivare la coordinazione oculo manuale
+ 2. Attivare i recettori delle sensazioni tattili  
  
 Perchè l'esercizio funzioni occorre che tu conosca alcune informazioni importanti perciò vedaimo:
 
@@ -114,7 +114,9 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 - Restare in piedi in stazione eretta in equilibrio senza cadere
 - Respirare
 
-###   Parte 1) Un piccolo esercizio di attenzione.
+###   Parte 1) Attivare la coordinazione oculo manuale
+
+Abbiamo visto prima come disattivanto 
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
 
@@ -179,7 +181,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDE5OTA1NCwxODkxOTM2ODY2LDE0MD
+eyJoaXN0b3J5IjpbLTYxOTQ3NTg2MSwxODkxOTM2ODY2LDE0MD
 Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
 MDQsLTEzMDI0NDc3OTBdfQ==
 -->
