@@ -47,7 +47,7 @@ Alla fine della guida sarai in grado di:
 Il corpo umano è una cosa straordinaria
 Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
 
-# Esercizio 1   Riattiva il tuo sistema nervoso in 20 secondi, meglio di prendere un caffè 
+# Esercizio 1 meglio di prendere un caffè. Riattiva il tuo sistema nervoso in 20 secondi.
 
 Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di informazioni  ti elenco i principali:
 
@@ -108,8 +108,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg4MzY4OTUsLTExMDQxMDQ2NTgsMT
-U3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5
-MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV
-19
+eyJoaXN0b3J5IjpbLTE5MTc1MjIxLC0xMTA0MTA0NjU4LDE1Nz
+M4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0
+NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ
+==
 -->
