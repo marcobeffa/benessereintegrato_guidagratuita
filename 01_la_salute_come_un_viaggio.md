@@ -54,17 +54,19 @@ Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di info
 
 Questi sono solo alcuni ma ce ne sono altri!
 
-# Prenditi un attimo per staccare la spina. 
+## Prenditi un attimo per staccare la spina. Metti il tuo cervello in pausa
 
-Come si fa? E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è dentro l'aria e fuori l'aria.
+Come si fa? E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
 
+ -  un inspiro dentro l'aria 
+ - un espiro fuori l'aria
+
+Durante questi cinque cicli.
 Ascolta le sensazioni che hai a occhi chiusi. 
-
-## Metti il tuo cervello in pausa
 
 Chiudendo gli occhi è come se il cervello debba elaborare il 40 % in meno di informazioni. Proprio come quando metti in stand by il computer.
 
-anche solo 10 secondi contando mentalmente il respiro equivalgono a un microsonno.
+se fai fatica a stare at solo 10 secondi contando mentalmente il respiro equivalgono a un microsonno.
 
 Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda però sono le più efficaci.
 
@@ -126,7 +128,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ0NTMwMzEsMTIxODczNTU5OCwtMz
-gwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3
-NzMyLC00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzkwMjg4MywxMjE4NzM1NTk4LC0zOD
+AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
+MzIsLTQwMDE4MDc4MV19
 -->
