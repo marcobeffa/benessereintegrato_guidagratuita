@@ -57,11 +57,24 @@ Questi sono solo alcuni ma ce ne sono altri!
 
 Assumendo il caffè noi chiediamo al nostro sistema nervoso di accelerare e questo va bene quando è necessario lavorare o correre più veloce una buona strategia è **"frustare il cavallo"**.
 Ma se facessimo riposare un attimo il cavallo?
-Il cervello ha un vantaggio necessita di pochissimo tempo per recuperare una mini
+Il cervello ha un vantaggio necessita di pochissimo tempo per recuperare una minipausa ogni ora e mezza è un grande aiuto per il tuo sistema nervoso.
+
+Ma come si fa?
+
+# Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
+
+## Segreto 1
+
+> “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
+[BASIL WALSH]
+
+Il corpo umano è una cosa straordinaria
+Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
+
 
 ## Bastano 20" per staccare la spina. Metti il tuo cervello in pausa
 
-Come si fa? E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
+ E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
 
  -  un inspiro dentro l'aria 
  - un espiro fuori l'aria
@@ -79,36 +92,6 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 
 
-
-###   Quante abilità sei in grado di fare e dai come scontate?
-
-Non si pensa mai a quante abilità ha il tuo corpo e dai per scontato che tutto funzioni sempre al meglio.
-
-- Parlare.
-- Muovere una mano.
-- Afferrare un oggetto come un bicchiere di plastica senza romperlo.
-- Restare in piedi in stazione eretta in equilibrio senza cadere
-- Respirare
-
-###  Un piccolo esercizio di consapevolezza, la. complessità di una mano
-
-Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
-
-Pensa alla complessità di processi perchè questo sia possibile.
-
-Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
-
-
-
-# Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
-
-## Segreto 1
-
-> “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
-[BASIL WALSH]
-
-Il corpo umano è una cosa straordinaria
-Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
 
 
 # Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
@@ -133,8 +116,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNDU2MzkzLC0xMTA0MTA0NjU4LDE1Nz
-M4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0
-NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ
-==
+eyJoaXN0b3J5IjpbLTkzMjA0OTYyMiwtMTEwNDEwNDY1OCwxNT
+czODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5Mzkw
+NDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX
+0=
 -->
