@@ -90,7 +90,7 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
-#  Esercizio 2 il tempo di una sigaretta. Cos'è la consapevolezza.
+#  Esercizio 2 il tempo di una sigaretta. Come si muove una mano?
 
 Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segnali che arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
 
@@ -112,7 +112,23 @@ e pan piano ognuno di noi con queste sensazioni
 impara a farsi una rappresentazione del mondo.
  
  
-## Alla scoperta del nostro mondo interno
+###   Quante abilità sei in grado di fare e dai come scontate?
+
+Non si pensa mai a quante abilità ha il tuo corpo e dai per scontato che tutto funzioni sempre al meglio.
+
+- Parlare.
+- Muovere una mano.
+- Afferrare un oggetto come un bicchiere di plastica senza romperlo.
+- Restare in piedi in stazione eretta in equilibrio senza cadere
+- Respirare
+
+###  Un piccolo esercizio di consapevolezza, la. complessità di una mano
+
+Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
+
+Pensa alla complessità di processi perchè questo sia possibile.
+
+Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
 
 
 
@@ -156,6 +172,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUyODIxNiwtODUyNzQ0NTY4LC0yOD
+eyJoaXN0b3J5IjpbMTIwMTYyNTg0NCwtODUyNzQ0NTY4LC0yOD
 c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
