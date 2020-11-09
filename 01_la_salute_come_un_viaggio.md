@@ -55,9 +55,11 @@ Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di info
 
 Questi sono solo alcuni ma ce ne sono altri!
 
-Assumendo il caffè noi chiediamo al nostro sistema nervoso di accelerare e questo va bene quando è necessario lavorare o correre più veloce una buon 
+Assumendo il caffè noi chiediamo al nostro sistema nervoso di accelerare e questo va bene quando è necessario lavorare o correre più veloce una buona strategia è **"frustare il cavallo"**.
+Ma se facessimo riposare un attimo il cavallo?
+Il cervello ha un vantaggio necessita di pochissimo tempo per recuperare una mini
 
-## Prenditi un attimo per staccare la spina. Metti il tuo cervello in pausa
+## Bastano 20" per staccare la spina. Metti il tuo cervello in pausa
 
 Come si fa? E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
 
@@ -131,7 +133,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNDUzNjM5LC0xMTA0MTA0NjU4LDE1Nz
+eyJoaXN0b3J5IjpbMjcyNDU2MzkzLC0xMTA0MTA0NjU4LDE1Nz
 M4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0
 NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ
 ==
