@@ -92,9 +92,14 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 
 #  Esercizio 2 il tempo di una sigaretta, per togliere lo stress
 
-Vediamo come un semplice  esercizio sia molto efficace per togliere lo stress, ma perchè l'esercizio funzioni occorre che tu conosca alcune informazioni importanti perciò vedaimo:
+Vediamo come un semplice esercizio sia molto efficace per togliere lo stress.
+L'esercizio si componer di 3 parti:
 
- - List item
+ - Parte 1 Come si muove una mano
+ - Parte 2
+ - Parte 3 
+ ma perchè l'esercizio funzioni occorre che tu conosca alcune informazioni importanti perciò vedaimo:
+
 
 ## Come si muove una mano?
 
@@ -170,7 +175,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjI2NjE4MywxODkxOTM2ODY2LDE0MD
-Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
-MDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbNjM3NzkxMTAsMTg5MTkzNjg2NiwxNDA2NT
+c4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0
+LC0xMzAyNDQ3NzkwXX0=
 -->
