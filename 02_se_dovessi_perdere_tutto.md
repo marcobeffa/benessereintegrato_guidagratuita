@@ -108,8 +108,6 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
 
-## La strana sensazione di soffiare sulle dita 
-
 Pensa alla complessità di processi perchè questo sia possibile.
 
 Servono dei muscoli un sistema nervoso che porti le informazioni una rete di vasi che nutra i muscoli e i tessuti un sistema che pulisca le sostanze di scarto, qualcosa che ossigeni il sangue, e in oltre se hai mai visto come funziona un computer pensa alla quantità di informazioni che vengono elaborate in poco tempo.
@@ -154,6 +152,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDY4ODA5LC04NTI3NDQ1NjgsLTI4Nz
-g4MTM1MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbMTM3MTc5Mjk2OSwtODUyNzQ0NTY4LC0yOD
+c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
