@@ -117,13 +117,15 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 ###   Parte 1) Attivare la coordinazione oculo manuale
 
 
-La **Coordinazione oculo manuale** è una funzione complessa che quando viene attivata il tuo corpo deve
-usare:
+La **Coordinazione oculo manuale** è una funzione complessa che è resa possibile grazie all'attivazione di 
 
- - I muscoli 
- - Il sistema nervoso per portare le informazioni 
- - Una rete di vasi sanguigni che nutra i muscoli e i tessuti 
- - Un sistema che pulisca le sostanze di scarto il sistema di scarto
+ - Precise aree cerebrali
+ - Muscoli 
+ - Sistema nervoso per portare le informazioni 
+ - Rete di vasi sanguigni che nutra i muscoli e i tessuti 
+ 
+ Tutto questo non
+ - Sistema che pulisca le sostanze di scarto il sistema di scarto
  - Il sistema respiratorio che ossigeni il sangue,
 
 E deve organizzare e riordinare tutte queste informazioni.
@@ -175,7 +177,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAxMzEyNywxODkxOTM2ODY2LDE0MD
+eyJoaXN0b3J5IjpbMTI4NzE5NTM3MywxODkxOTM2ODY2LDE0MD
 Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
 MDQsLTEzMDI0NDc3OTBdfQ==
 -->
