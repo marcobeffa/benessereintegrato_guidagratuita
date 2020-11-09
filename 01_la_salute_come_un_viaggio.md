@@ -41,10 +41,10 @@ Alla fine della guida sarai in grado di:
 
 # Esercizio 1
 
-Fermati un attimo bastano 10 secondi con gli occhi chiusi. Prenditi un attimo per staccare la spina. 
+Calmare il sistema nervoso.  Prenditi un attimo per staccare la spina. 
+Come si fa? E' semplicissimo chiudi gli occhi per 10 secondi.
 
-Ascolta le sensazioni che hai a occhi chiusi questo è un esercizio banale scontato, ma chiudere gli occhi per 10 secondi calma il sistema nervoso.
-
+Ascolta le sensazioni che hai a occhi chiusi questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda che però sono le più efficaci.
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 
@@ -103,7 +103,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTY1MzEyNywxMjE4NzM1NTk4LC0zOD
+eyJoaXN0b3J5IjpbMTMwNDQ3NjQ0MCwxMjE4NzM1NTk4LC0zOD
 AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
 MzIsLTQwMDE4MDc4MV19
 -->
