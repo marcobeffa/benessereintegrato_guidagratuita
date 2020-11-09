@@ -120,7 +120,8 @@ usare:
  - Un sistema che pulisca le sostanze di scarto il sistema di scarto
  - Il sistema respiratorio che ossigeni il sangue,
 
-E deve o
+E deve organizzare e riordinare tutte queste informazioni.
+
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
 
@@ -163,6 +164,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2OTcxNTY3LC04NTI3NDQ1NjgsLTI4Nz
-g4MTM1MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbMTQwNjU3ODEzNiwtODUyNzQ0NTY4LC0yOD
+c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
