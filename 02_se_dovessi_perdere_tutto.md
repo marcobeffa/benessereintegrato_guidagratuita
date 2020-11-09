@@ -92,7 +92,7 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 
 #  Esercizio 2 il tempo di una sigaretta, per togliere lo stress
 
-Vediamo un esercizio percome possiamo togliere uno stress 
+Vediamo come un semplice  esercizio sia molto efficace per togliere lo stress, ma prima do
 
 ## Come si muove una mano?
 
@@ -168,7 +168,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTcxOTIsMTg5MTkzNjg2NiwxNDA2NT
-c4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0
-LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbMTA1MTI3Njg4MCwxODkxOTM2ODY2LDE0MD
+Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
+MDQsLTEzMDI0NDc3OTBdfQ==
 -->
