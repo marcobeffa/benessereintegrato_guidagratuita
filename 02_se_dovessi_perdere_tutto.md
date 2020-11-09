@@ -88,7 +88,7 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 > Dobbiamo imparare bene le regole, in modo da infrangerle nel modo giusto. 
 > [Dalai Lama]
 
-Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore.Spesso Non ne conosciamo il funzionamento e sottovalutiamo
+Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
 #  Esercizio 2
 
@@ -173,6 +173,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMDYwNjEsLTg1Mjc0NDU2OCwtMjg3OD
-gxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTA4MjkwNTEzOSwtODUyNzQ0NTY4LC0yOD
+c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
