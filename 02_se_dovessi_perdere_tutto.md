@@ -90,26 +90,8 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
-#  Esercizio 2 il tempo di uno sbadiglio per resettare lo stress 
-
-Lo sbadiglio e stiramento è uno dei gesti più sottovalutati ma che assolve tantissime funzioni! 
-Lo sbadiglio stiramento dovrebbe essere normalmente quasi un riflesso istintivo che il nostro corpo usa per:
 
 
-- Regola il tono muscolare di base
-- Ossigenare il corpo 
-- Togliere le tensione dall'articolazione temporomandibolare
-- Stimolare il diaframma
-- Favorire il passaggio da uno stato di veglia a uno di riposo e viceversa 
-- Regolare la pressione arteriosa
-- Redistribuire le tensioni sull'apparato muscolo scheletrico
-
-Tutto questo in pochi secondi, è piacevole e potete farlo ovunque, be proprio ovunque no, diciamo che per questioni sociali meglio farlo quando si è soli.
-
-Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata sono al mattino appena svegli e la sera prima di addormentarsi.
-
-> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
-> CARY-HIROYUKI TAGAWA
 
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
@@ -150,7 +132,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjI1OTY3LDE4OTE5MzY4NjYsMTQwNj
-U3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEzNTAsMTgwMDIxOTMw
-NCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbLTIxMTk5OTkyMSwxODkxOTM2ODY2LDE0MD
+Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
+MDQsLTEzMDI0NDc3OTBdfQ==
 -->
