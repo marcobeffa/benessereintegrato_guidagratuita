@@ -122,13 +122,13 @@ La **Coordinazione oculo manuale** è una funzione complessa che è resa possibi
  - Precise aree cerebrali
  - Muscoli 
  - Sistema nervoso per portare le informazioni 
- - Rete di vasi sanguigni che nutra i muscoli e i tessuti 
  
- Tutto questo non
- - Sistema che pulisca le sostanze di scarto il sistema di scarto
+ Tutto questo non potrebbe avvenire senza il buon funzionamento del:
+ - Rete di vasi sanguigni che nutra i muscoli e i tessuti 
  - Il sistema respiratorio che ossigeni il sangue,
+ - Sistema linfatico che garantisce la raccolta e l'eliminazione delle sostanze di scarto 
 
-E deve organizzare e riordinare tutte queste informazioni.
+
 
 ###  Parte 2)  attivare i recettori tattili
 
@@ -177,7 +177,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzE5NTM3MywxODkxOTM2ODY2LDE0MD
-Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
-MDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbLTIwODIxODU4NTUsMTg5MTkzNjg2NiwxND
+A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
+MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
