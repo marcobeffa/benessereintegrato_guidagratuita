@@ -90,7 +90,9 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
-#  Esercizio 2 il tempo di una sigaretta. Come si muove una mano?
+#  Esercizio 2 il tempo di una sigaretta 
+
+## Come si muove una mano?
 
 Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segnali che arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
 
@@ -164,6 +166,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjU3ODEzNiwtODUyNzQ0NTY4LC0yOD
-c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbMTg5MTkzNjg2NiwxNDA2NTc4MTM2LC04NT
+I3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMzAyNDQ3
+NzkwXX0=
 -->
