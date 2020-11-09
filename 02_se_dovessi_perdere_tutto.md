@@ -95,7 +95,19 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segnali che arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
 
 I segnali che arrivano da dentro possono essere  
-fisiologici come, fame, sonno, senso di energia o più emotivi come tristezza rabbia, e pian piano ognuno di noi con i pensieri le immagini e il linguaggio
+- fisiologici come:
+	- fame, 
+	- sonno, 
+	- senso di energia  
+- emotivi come:
+	- tristezza 
+	- rabbia,
+- Mentali come
+	- immagini 
+	- pensieri
+	- linguaggio
+	- suoni
+e pan piano ognuno di noi 
 impara a farsi una rappresentazione del mondo.
  
  
@@ -165,6 +177,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgxMjU0NjksLTg1Mjc0NDU2OCwtMj
-g3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMjAxMDg1OTQzOSwtODUyNzQ0NTY4LC0yOD
+c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
