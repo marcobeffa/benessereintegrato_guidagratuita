@@ -93,13 +93,18 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 #  Esercizio 2 il tempo di uno sbadiglio per resettare lo stress 
 
 Lo sbadiglio e stiramento è uno dei gesti più sottovalutati ma che assolve tantissime funzioni! 
-Lo sbadiglio stiramento quasi un riflesso istin
+Lo sbadiglio stiramento dovrebbe essere normalmente quasi un riflesso istintivo che il nostro corpo usa per:
 
-> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
-> CARY-HIROYUKI TAGAWA
+
 
 - Regola il tono muscolare di base
-- Inspira portando
+- Inspirare profondamente
+- Togliere le tensione dall'articolazione temporomandibolare
+- Stimolare il diaframma
+- Favorire il passaggio da uno stato di veglia a uno di riposo e viceversa 
+- Regolare la pressione ar
+> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
+> CARY-HIROYUKI TAGAWA
 
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
@@ -140,7 +145,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTAzNjY2LDE4OTE5MzY4NjYsMTQwNj
+eyJoaXN0b3J5IjpbNjQzODAzMjI5LDE4OTE5MzY4NjYsMTQwNj
 U3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEzNTAsMTgwMDIxOTMw
 NCwtMTMwMjQ0Nzc5MF19
 -->
