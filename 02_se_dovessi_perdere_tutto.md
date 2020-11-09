@@ -116,14 +116,8 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 
 ###   Parte 1) Attivare la coordinazione oculo manuale
 
-Abbiamo visto prima come disattivanto 
 
-Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
-
-Pensa alla complessità di processi perchè questo sia possibile. Hai appena attivato un processo che si chiama
-
-**Coordinazione oculo manuale**
-Perchè questa funzione sia possibile, il tuo corpo deve
+La **Coordinazione oculo manuale** è una funzione complessa che quando viene attivata il tuo corpo deve
 usare:
 
  - I muscoli 
@@ -181,7 +175,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTQ3NTg2MSwxODkxOTM2ODY2LDE0MD
+eyJoaXN0b3J5IjpbLTE4ODAxMzEyNywxODkxOTM2ODY2LDE0MD
 Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
 MDQsLTEzMDI0NDc3OTBdfQ==
 -->
