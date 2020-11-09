@@ -94,27 +94,9 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 
 Quando nasci pian piano impari ad usare il corpo, impari a interpretarne i segnali che arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
 
-I segnali che arrivano da dentro possono essere  
-- fisiologici come:
-	- sensazioni
-	- fame, 
-	- sonno, 
-	- senso di energia  
-- emotivi come:
-	- tristezza 
-	- rabbia
-- Mentali 
-	- immagini 
-	- pensieri
-	- linguaggio
-	- suoni
-e pan piano ognuno di noi con queste sensazioni
-impara a farsi una rappresentazione del mondo.
- 
- 
 ###   Quante abilità sei in grado di fare e dai come scontate?
 
-Non si pensa mai a quante abilità ha il tuo corpo e dai per scontato che tutto funzioni sempre al meglio.
+Prima di fare il fisioterapista non mi er a quante abilità ha il tuo corpo e dai per scontato che tutto funzioni sempre al meglio.
 
 - Parlare.
 - Muovere una mano.
@@ -172,6 +154,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTYyNTg0NCwtODUyNzQ0NTY4LC0yOD
+eyJoaXN0b3J5IjpbMjEyMDM3MTY0NSwtODUyNzQ0NTY4LC0yOD
 c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
