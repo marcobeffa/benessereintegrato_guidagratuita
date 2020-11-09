@@ -41,9 +41,10 @@ Alla fine della guida sarai in grado di:
 
 # Esercizio 1
 
-Fermati un attimo n. Prenditi un attimo per staccare la spina. Prima di prendere la decisione per partire per un viaggio è necessario.
+Fermati un attimo bastano 10 secondi con gli occhi chiusi. Prenditi un attimo per staccare la spina. 
 
-Ascolta le sensazioni del corpo prima di fare l'esercizio e dopo e nota le differenze. 
+Ascolta le sensazioni che hai a occhi chiusi questo è un esercizio banale scontato, ma chiudere gli occhi per 10 secondi calma il sistema nervoso.
+
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 
@@ -102,7 +103,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTEwMjIyNiwxMjE4NzM1NTk4LC0zOD
+eyJoaXN0b3J5IjpbLTg4OTY1MzEyNywxMjE4NzM1NTk4LC0zOD
 AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
 MzIsLTQwMDE4MDc4MV19
 -->
