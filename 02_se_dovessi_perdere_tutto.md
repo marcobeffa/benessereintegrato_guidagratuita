@@ -120,7 +120,9 @@ Questa prima parte è un esercizio che ti permette di fare un reset e di allenta
 
 E' un esercizio molto semplice di fucus, ti aiuta a resettare la tua attenzione, attivando le aree della coordinazione oculo manuale, il risultato è che il tono muscolare  si riadatta e diminuise la tensione generale.
 
-Se potessi misurare la resistenza dei tessuti della tua pelle noteremmo che cambierebbe la conduttività elettrica.
+Se potessi misurare la resistenza dei tessuti della tua pelle noteresti un cambiamento nella conduttività elettrica dopo aver eseguito l'esercizio.
+
+Questo avviene perchè vengono attivati 
 
 La **Coordinazione oculo manuale** è una funzione complessa che è resa possibile grazie all'attivazione di 
 
@@ -192,7 +194,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDgzNjk1LDE4OTE5MzY4NjYsMTQwNj
-U3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEzNTAsMTgwMDIxOTMw
-NCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbMTc5MTA1MDE3NSwxODkxOTM2ODY2LDE0MD
+Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
+MDQsLTEzMDI0NDc3OTBdfQ==
 -->
