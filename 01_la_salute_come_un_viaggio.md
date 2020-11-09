@@ -86,7 +86,7 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 
-# Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
+# Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
 ## La Fisioterapia
 
@@ -108,7 +108,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc1MjIxLC0xMTA0MTA0NjU4LDE1Nz
+eyJoaXN0b3J5IjpbOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1Nz
 M4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0
 NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ
 ==
