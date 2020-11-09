@@ -42,7 +42,13 @@ Alla fine della guida sarai in grado di:
 # Esercizio 1 
 ## Calmare il sistema nervoso
 
-Il sistema nervoso è sovraccaricato di informazioni.
+Il sistema nervoso è sovraccaricato di informazioni ogni giorno, ci sono mille motivi per cui il tuo sistema nervoso può essere in sovraccarico ti elenco i principali:
+
+ - Pensieri
+ - Preoccupazioni
+ - Troppo lavoro
+ - Troppo 
+
 Prenditi un attimo per staccare la spina. 
 Come si fa? E' semplicissimo chiudi gli occhi e conta mentalmente quanto durano 5 respiri.
 
@@ -106,7 +112,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjI4ODU0NiwxMjE4NzM1NTk4LC0zOD
-AzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3
-MzIsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbLTEwNzY2MTEwNjgsMTIxODczNTU5OCwtMz
+gwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3
+NzMyLC00MDAxODA3ODFdfQ==
 -->
