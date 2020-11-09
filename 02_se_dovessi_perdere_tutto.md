@@ -127,7 +127,7 @@ E deve organizzare e riordinare tutte queste informazioni.
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
 
-# Formazione della salute che devo ringraziare per l'80% di quello che so oggi:
+# Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
 ## Tecniche di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
 
@@ -166,7 +166,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTkzNjg2NiwxNDA2NTc4MTM2LC04NT
-I3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMzAyNDQ3
-NzkwXX0=
+eyJoaXN0b3J5IjpbMTI3NzQwNjA3NywxODkxOTM2ODY2LDE0MD
+Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
+MDQsLTEzMDI0NDc3OTBdfQ==
 -->
