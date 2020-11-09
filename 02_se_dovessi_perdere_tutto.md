@@ -132,7 +132,12 @@ La **Coordinazione oculo manuale** è una funzione complessa che è resa possibi
 - Metti la mano di fronte a te 
 - Porta l'idice sul naso.
 - Porta il tuo sguardo sull'indice 
-- Allontana l'indice lentamente ec
+- Allontana l'indice lentamente
+- Continua a fissare l'indice finchè arriva alla massima distanza del tuo viso
+- Rimetti a fuoco l'indice
+- Continua a mantenere lo sguardo sull'indice 
+- Riavvicina al naso l'indice 
+- Ripeti tutto da capo per 5 volte
 
 
 ###  Parte 2)  attivare i recettori tattili
@@ -182,7 +187,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcxODYzNzgsMTg5MTkzNjg2NiwxND
-A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
-MzA0LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbMTY1NDYzNzY1NywxODkxOTM2ODY2LDE0MD
+Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
+MDQsLTEzMDI0NDc3OTBdfQ==
 -->
