@@ -90,12 +90,16 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
-#  Esercizio 2 il tempo di uno sbadiglio per un reset del nostro corpo
+#  Esercizio 2 il tempo di uno sbadiglio per resettare lo stress 
 
-Lo sbadiglio è uno dei gesti più sottovalutati ma che assolve tantissime funzioni! 
+Lo sbadiglio e stiramento è uno dei gesti più sottovalutati ma che assolve tantissime funzioni! 
+Lo sbadiglio stiramento quasi un riflesso istin
 
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
+
+- Regola il tono muscolare di base
+- Inspira portando
 
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
@@ -136,7 +140,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjQ0MjMwMCwxODkxOTM2ODY2LDE0MD
-Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
-MDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTM2NTAzNjY2LDE4OTE5MzY4NjYsMTQwNj
+U3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEzNTAsMTgwMDIxOTMw
+NCwtMTMwMjQ0Nzc5MF19
 -->
