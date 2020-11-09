@@ -85,7 +85,10 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 ## Segreto 2
 
-> Dobbiamo imparare bene le regole, in modo da infrangerle nel modo giusto. Dalai Lama
+> Dobbiamo imparare bene le regole, in modo da infrangerle nel modo giusto. 
+> [Dalai Lama]
+
+Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore.Spesso Non ne conosciamo il funzionamento e sottovalutiamo
 
 #  Esercizio 2
 
@@ -170,6 +173,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ1NTE5OTAsLTg1Mjc0NDU2OCwtMj
-g3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbOTgzMDYwNjEsLTg1Mjc0NDU2OCwtMjg3OD
+gxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
 -->
