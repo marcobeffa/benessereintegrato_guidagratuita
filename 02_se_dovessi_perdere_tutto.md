@@ -92,7 +92,9 @@ Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diam
 
 #  Esercizio 2 il tempo di una sigaretta, per togliere lo stress
 
-Vediamo come un semplice  esercizio sia molto efficace per togliere lo stress, ma prima do
+Vediamo come un semplice  esercizio sia molto efficace per togliere lo stress, ma perchè l'esercizio funzioni occorre che tu conosca alcune informazioni importanti perciò vedaimo:
+
+ - List item
 
 ## Come si muove una mano?
 
@@ -108,7 +110,7 @@ Prima di fare il fisioterapista non mi era mai venuto in mente di stare a guarda
 - Restare in piedi in stazione eretta in equilibrio senza cadere
 - Respirare
 
-###  Un piccolo esercizio di consapevolezza, la. complessità di una mano.
+###  Parte 1 Un piccolo esercizio di consapevolezza, la. complessità di una mano.
 
 Prova a fermarti un attimo, guarda il palmo della tua mano, fai un respiro e muovi lentamente una ad una le dita, apri e chiudi ogni dito partendo dal pollice, poi prova con l'indice, il medio, l'anulare e il mignolo.
 
@@ -168,7 +170,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTI3Njg4MCwxODkxOTM2ODY2LDE0MD
+eyJoaXN0b3J5IjpbLTM0MjI2NjE4MywxODkxOTM2ODY2LDE0MD
 Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
 MDQsLTEzMDI0NDc3OTBdfQ==
 -->
