@@ -90,9 +90,7 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
-#  Esercizio 2
-
-## Sull'interno e sull'esterno 
+#  Esercizio 2 il tempo di una sigaretta la consapevolezza
 
 Era come se il mondo interno di Pietro non potesse più comunicare con il mondo estenerno.
 
@@ -173,6 +171,6 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjkwNTEzOSwtODUyNzQ0NTY4LC0yOD
+eyJoaXN0b3J5IjpbMTg4NzY4NDY5OSwtODUyNzQ0NTY4LC0yOD
 c4ODEzNTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
