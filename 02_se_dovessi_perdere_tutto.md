@@ -129,7 +129,9 @@ La **Coordinazione oculo manuale** è una funzione complessa che è resa possibi
 
 ### Esercizio parte 1)
 
-Questo esercizio ti permette di fare un reset
+Questa prima parte è un esercizio che ti permette di fare un reset e di allentare la tensione.
+
+E' un esercizio di fucus che aiuta a resettare la tua attenzione e attivando le aree della coordinaz
 
 - Metti la mano di fronte a te 
 - Porta l'idice sul naso.
@@ -188,7 +190,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUxNDk5MjQsMTg5MTkzNjg2NiwxND
-A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
-MzA0LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbMTYwMzg5MTE5OSwxODkxOTM2ODY2LDE0MD
+Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
+MDQsLTEzMDI0NDc3OTBdfQ==
 -->
