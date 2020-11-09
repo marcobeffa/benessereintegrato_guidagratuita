@@ -90,7 +90,7 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
-#  Esercizio 2 il tempo di una sigaretta, per togliere lo stress
+#  Esercizio 2 il tempo di una sigaretta, un reset per togliere lo stress
 
 
 ###  Come si muove una mano?
@@ -129,13 +129,16 @@ La **Coordinazione oculo manuale** è una funzione complessa che è resa possibi
 
 ### Esercizio parte 1)
 
+Questo esercizio ti permette di fare un reset
+
 - Metti la mano di fronte a te 
 - Porta l'idice sul naso.
 - Porta il tuo sguardo sull'indice 
-- Allontana l'indice lentamente oontinua a fissare l'indice finchè arriva alla massima distanza del tuo viso
+- Allontana l'indice lentamente e continua a fissare l'indice finchè arriva alla massima distanza del tuo viso
 - Cambia focus, metti a fuoco lo sfondo poi rimetti a fuoco l'indice
 - Continua a mantenere lo sguardo sull'indice mentre riavvicini al naso l'indice 
 - Ripeti tutto da capo per 3 volte
+
 
 
 ###  Parte 2)  attivare i recettori tattili
@@ -185,7 +188,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc4OTQ5NywxODkxOTM2ODY2LDE0MD
-Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
-MDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbLTE5MzUxNDk5MjQsMTg5MTkzNjg2NiwxND
+A2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5
+MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
