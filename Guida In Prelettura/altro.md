@@ -94,6 +94,14 @@ Errore 2. Investire male le proprie risorse
 
 # 3 
 
+Ciclo chen 
+La vita è ciclica.
+I tre centri sono legati a questi 3 aspetti 
+Bambino Adulto Anziano 
+Rettili mammiferi e l'uomo
+tronco encefalico zona limbica - corteccia 3 cervelli 
+neo archi paleo 
+ecto meso endo
 
 ## Produciamo energia
 
@@ -115,5 +123,5 @@ Centro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDIwMDA3NF19
+eyJoaXN0b3J5IjpbLTExMjc1NDA4MDZdfQ==
 -->
