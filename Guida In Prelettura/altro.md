@@ -1,5 +1,81 @@
 
 
+##  ikigai
+
+## Il concetto di yin yang 
+
+Ti propongo un altro esercizio prendi un foglio e scrivi relativo da una parte le cose yin e dall'altra parte le cose yang
+
+
+
+## Segreto 2
+
+Prendere la vita ogni giorno come un nuovo inizio.
+
+Questo è un segreto importante. Ogni giorno abbiamo la possibilità di iniziare di nuovo. 
+Possiamo ripartire ogni giorno rincorrere i nostri sogni i nostri obiettivi! 
+
+Abbiamo tempo fino alla sera! Prima di ritornare a letto.
+
+La mattina fermati  e prendi 3 decisioni importanti per questa giornata.
+
+
+
+
+
+## Esercizio
+
+
+Per capire cosa intendo per mondo interno, prova a mettere una mano sulla pancia, porta l'attenzione sulla sensazione tattile del movimento che avviene mentre respiri  cerca di entrare nel ritmo e sentire quanto dura un inspiro quanto un espiro osserva se è veloce lento e fatti trasportare dalle sensazioni, prenditi qualche secondo e chiudi gli occhi per un attimo.
+
+Magari hai sentito solo il ritmo del tuo respiro, ma forse sei riuscito a mollare la presa, hai sentito come se la tensione si sia un pò abbassata, e da li si possono ascoltare molte cose.
+
+Parleremo più avanti di questo mondo interno, e di questa pratica (molti la chiamano meditazione, altri relax, altri l'inizio di pratiche di training autogeno, altri preghiera) per adesso non è necessario dare un nome a questo esercizio, basta imparare a staccare la testa per qualche minuto e già questo è di per se una cura.
+
+Pur non essendo certo penso che Pietro era chiuso nel suo mondo interno e aveva perso la capacità di comunicare con il mondo esterno l'esterno. 
+
+Quello che accade oggi è spesso il contrario oggi si fa fatica a comunicare con il mondo interno. 
+E' difficile trovare il tempo per fermarsi ed ascoltare le nostre sensazioni. 
+
+In alcuni casi le patologie sono dovute a cause innate come per esempio problemi quali malformazioni aneurismi già presenti fin dalla nascita, ma nella maggior parte dei casi rifletto su quanto le patologie giochino sull'ironia della sorte proprio quando non hai più tempo di ascoltarti il corpo si ferma e sei obbligato a passare per quella strada.
+
+ 
+### Conosciuto e non conosciuto. Ricominciare da 0
+
+Ora niente era più naturale per Pietro, tutto ricominciava dall'inizio chissà che fine avevano fatto tutte le esperienze vissute. Se erano ancora li nella sua memoria se poteva ancora riconoscere i visi delle persone a lui care oppure se tutto era stato cancellato.
+
+Anche per me iniziava un avventura nuova, certo avevo già incontrato durante gli anni di università a tirocinio in ospedale persone con situazioni del genere, ma solitamente c'era un Fisioterapista a cui ero affiancato che era responsabile, ora ero io il responsabile della sua riabilitazione certo insieme allo staff di medici infermieri e preziosi collaboratori che si occupano di questa persona durante la sua permanenza in ospedale.
+
+
+
+
+
+
+
+
+
+
+
+02 Sbadiglio
+03 sigaretta recettori tattili
+oculo manuale
+visione periferica
+
+04 Tentativi errori il cestino
+05 Riequilibrio emotivo Posizione di equilibrio posizione generatica
+- Le 5 aree
+06 Cosa ti spinge a fare e a non fare
+autonomia o una guida?
+07 - gli ambiti stato di salute
+08 Preparare il viaggio di cosa ho bisogno? 
+Mappa del tuo problema scegliere aree e ambiti incrociare la legenda
+Il tuo professionista di fiducia
+In autonomia 
+09 Inizia con un programma semplice
+10 Misurare il risultato 
+11 Il diario
+12 Le chiacchiere stanno a 0
+ 
 
 > Written with [StackEdit](https://stackedit.io/).
 
@@ -39,5 +115,5 @@ Centro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODQ0NDk2M119
+eyJoaXN0b3J5IjpbLTYxMDIwMDA3NF19
 -->
