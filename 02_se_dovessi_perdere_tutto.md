@@ -70,7 +70,7 @@ Ora dopo parecchi corsi, molti studi e sperimentazione ore ed ore di lavoro di c
 
 ### BenessereIntegrato può fare la differenza per la tua salute?
 
-Con benessere integrato hai a disposizione uno strumento che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse questo ictus.  
+Con benessereintegrato.it ti mette a disposizione tanti strumenti che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse il suo ictus.  
 
 Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di incontrare la disabilità, ma sono certo che ne avrebbe ridotto drasticamente la probabilità che questo infausto evento accadesse.
 
@@ -150,7 +150,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjIyOTY3NywxODkxOTM2ODY2LDE0MD
+eyJoaXN0b3J5IjpbMTQ1NzMxMzg4MSwxODkxOTM2ODY2LDE0MD
 Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
 MDQsLTEzMDI0NDc3OTBdfQ==
 -->
