@@ -59,7 +59,7 @@ Perché intervenire solo quando era così tardi?
 Perché non era stato possibile per Pietro avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
 
 
-### Da dove nasce BenessereIntegrato.it
+### Se avessi potuto regalare questa guida a Pietro gli avrebbe cambiato la vita
 
 Ero disorientato mi sentivo impotente e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo tenere sotto controllo la salute e imparare a leggere i segnali del corpo prima di incappare in eventi traumatici irreversibili che portano a disabilità e a perdere la capacità di utilizzare questo fantastico corpo un dono prezioso che ci hanno regalato alla nascita.
 
@@ -179,8 +179,8 @@ Tiziano terzani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MTA2NjA4LDE5MjE0MDgxMjgsNzE0OD
-A1NDg4LDE0NTczMTM4ODEsMTg5MTkzNjg2NiwxNDA2NTc4MTM2
-LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMz
-AyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbLTExNTg2MzYxMzUsMTkyMTQwODEyOCw3MT
+Q4MDU0ODgsMTQ1NzMxMzg4MSwxODkxOTM2ODY2LDE0MDY1Nzgx
+MzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkzMDQsLT
+EzMDI0NDc3OTBdfQ==
 -->
