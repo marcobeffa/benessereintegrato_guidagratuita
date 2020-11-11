@@ -112,7 +112,12 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 ## La Fisioterapia
 
-La prima scuola di  formazione nel campo della salute  è stata la fisioterapia e qui ho imparato molto sul corpo umano con la fisioterapia insegna al fisioterapista come aiutare una persona con patologie che l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
+La prima scuola di  formazione nel campo della salute  è stata la fisioterapia. 
+E' un corso di laurea delle professioni sanitarie.
+
+Qui ho imparato molto sul corpo umano.
+
+La fisioterapia insegna al fisioterapista come aiutare una persona ad affrontare le patologie e come p l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
 
 Con la Fisioterapia si studia come riabilitare: 
 
@@ -130,8 +135,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA3OTExMzIsOTAwNjAyNTc2LC0xMT
-A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
-NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
-00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbMTc3MDQ2MzYzMyw5MDA2MDI1NzYsLTExMD
+QxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0
+MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLT
+QwMDE4MDc4MV19
 -->
