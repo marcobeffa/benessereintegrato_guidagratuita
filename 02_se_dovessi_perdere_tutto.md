@@ -96,7 +96,8 @@ James Joice
 
 La nostra salute dipende da cause che arrivano dal nostro esterno e cause che arrivano dal nostro interno.
 
-Nel capitolo 5 le aree chiave per la nostra salute.
+Nel capitolo 5 con le aree chiave per la tua salute entrerò più nel dettaglio! 
+Ora capiamo però cosa si intende per mondo esterno e mondo interno.
 
 ### Sull'interno e sull'esterno 
 
@@ -183,7 +184,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjIzNDAyOSwxNDU3MzEzODgxLDE4OT
-E5MzY4NjYsMTQwNjU3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEz
-NTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbNzE0ODA1NDg4LDE0NTczMTM4ODEsMTg5MT
+kzNjg2NiwxNDA2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1
+MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
