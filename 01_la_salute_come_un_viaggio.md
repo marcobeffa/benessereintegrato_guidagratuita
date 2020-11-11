@@ -10,7 +10,7 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 # La salute come un viaggio
 
-
+## In infradito a scalare l'everest... Lo stato d'animo, la prima cosa su cui puoi lavorare.
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
@@ -153,9 +153,9 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDM4MjAxNSwyMTEzMTYxNTU5LDEwOT
-Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
-NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
-I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
-MDc4MV19
+eyJoaXN0b3J5IjpbLTE2NjQyNjA3NTQsMjExMzE2MTU1OSwxMD
+k0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0
+NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LD
+YyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAx
+ODA3ODFdfQ==
 -->
