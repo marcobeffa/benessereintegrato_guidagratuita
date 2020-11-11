@@ -76,7 +76,7 @@ La regola è questa quando ti capita un problema:
 > 5 minuti a parlare del problema, il resto del tempo a trovare una soluzione!
 
 
-# Esercizio 1 Il tempo di prendere un caffè per Riattiva il tuo sistema nervoso.
+# Esercizio 1 Il tempo di prendere un caffè per riattivare il tuo sistema nervoso.
 
 Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di informazioni  ti elenco i principali:
 
@@ -138,11 +138,11 @@ Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a con
 
 *Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
   
-
+  
 Da qui nasce l'idea di creare benessereintegrato
-Non ho la pretesa di insegnare niente anzi ho sempre imparato da chi mi è stato vicino. Per questo in questa guida ti racconto i miei errori, le mie esperienze e come ho pensato di risolverli. 
+In questa guida ti racconto i miei errori, le mie esperienze e come ho pensato di risolverli. 
 
-Perchè mi sarebbe piaciuto che qualcuno li raccontasse a me avrei evitato dolori, perdita di tempo e soldi e adesso avrei già venduto la mia start up a **Google Health** e con la exit sarei già potuto essere in pensione. Ovviamente scherzo ;-) 
+Perchè mi sarebbe piaciuto che qualcuno li raccontasse a me avrei evitato dolori, perdite di tempo e soldi e adesso avrei già venduto la mia start up a **Google Health** e con la exit guadagnata sarei già potuto essere in pensione. Ovviamente scherzo ;-) 
 
 > Lo stolto sbaglia e non impara,
 L’intelligente impara dai propri errori,
@@ -160,9 +160,9 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTg2MTU0NiwyMTEzMTYxNTU5LDEwOT
-Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
-NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
-I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
-MDc4MV19
+eyJoaXN0b3J5IjpbLTE0MDU4MjY3OTcsMjExMzE2MTU1OSwxMD
+k0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0
+NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LD
+YyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAx
+ODA3ODFdfQ==
 -->
