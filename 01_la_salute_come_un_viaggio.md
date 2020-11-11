@@ -53,6 +53,7 @@ Alla fine della guida sarai in grado di:
 
 # 1/12 Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
+Il primo segreto che un fisioterapista impara è proprio questo! 
 
 > **Animum debes mutare, non caelum** 
 > Seneca
@@ -62,15 +63,18 @@ E' una frase in latino "Lingua latina" che si traduce letteralmente così:
 >"L'animo devi mutare, non il cielo".
 Seneca
 
-Il concetto era già stato espresso nell'esametro di  Orazio
+Il concetto era già stato espresso nell'esametro del poeta Orazio 
 > Caelum, non animum mutant qui trans mare currunt
 > "Il cielo, non l'animo mutano quelli che corron di là dal mare"
 >  "Epistole (Orazio)")_, I, XI, 27, "a Bullazio").
 
 Non diversa era la convinzione dei  greci "Antica Grecia": 
-> "Cambiare aria non fa diventare assennati, né toglie la stupidità", sentenzia uno dei  Sette Savi(https://it.wikipedia.org/wiki/Sette_Savi "Sette Savi"),  [Biante](https://it.wikipedia.org/wiki/Biante "Biante")  (presso Tosi, 108).
 
-La prima cosa che sa un fisioterapista è questa, L'ha imparata durante la sua esperienza.
+> "Cambiare aria non fa diventare assennati, né toglie la stupidità",  
+> Sette Savi Biante.
+
+
+
 
 
 
@@ -135,8 +139,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU2MTg3OTksOTAwNjAyNTc2LC0xMT
-A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
-NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
-00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbMjEyNDMxMTIwLDkwMDYwMjU3NiwtMTEwND
+EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
+NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
