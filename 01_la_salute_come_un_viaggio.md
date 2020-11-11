@@ -64,7 +64,9 @@ Lo stato d'animo è la prima cosa che puoi già cambiare ora.
 Come? Ricercando un atteggiamento mentale giusto!
 Nel corso della guida vedremo piccoli spunti che potrai mettere in pratica.
 
-Per ora ti lascio anche la prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore )
+Per ora ti lascio anche la prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore del mio paese natio che ho avuto l'onore di avere come paziente!)
+
+> 5 minuti a parlare del problema, il resto del tempo a trovare una soluzione!
 
 
 # Esercizio 1 meglio di prendere un caffè. Riattiva il tuo sistema nervoso in 20 secondi.
@@ -128,8 +130,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NDgwOTMsOTAwNjAyNTc2LC0xMTA0MT
-A0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0
-LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MD
-AxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTExNTA3OTExMzIsOTAwNjAyNTc2LC0xMT
+A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
+NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
+00MDAxODA3ODFdfQ==
 -->
