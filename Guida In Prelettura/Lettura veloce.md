@@ -28,12 +28,14 @@ L’[appuntamento](https://www.frasicelebri.it/argomento/appuntamenti/)[quotidia
 
 [L'occhio aperto e l'orecchio vigile trasformeranno le più piccole scosse in grandi esperienze.](https://aforismi.meglio.it/aforisma.htm?id=5b9a "Aforisma di Vasilij Kandinskij")
 
+[Il linguaggio sta alla mente più  di quanto la luce sta all'occhio.](https://aforismi.meglio.it/aforisma.htm?id=3794 "Aforisma di William Gibson")
 
 12 le chiacchiere stanno a 0 una giornata perfetta
 
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMjg5NDcwLC0xOTkwMTkwODA1LDE0ND
-A0MzE5MDEsLTEzNTg1NzIyNTUsMTYyNzMwNjA1NV19
+eyJoaXN0b3J5IjpbLTE4MTY0MTI2NTAsODAxMjg5NDcwLC0xOT
+kwMTkwODA1LDE0NDA0MzE5MDEsLTEzNTg1NzIyNTUsMTYyNzMw
+NjA1NV19
 -->
