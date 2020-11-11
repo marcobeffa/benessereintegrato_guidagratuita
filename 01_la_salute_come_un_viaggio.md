@@ -55,15 +55,17 @@ Alla fine della guida sarai in grado di:
 
 
 > **Animum debes mutare, non caelum** 
+> Seneca
 
-è una frase in latino "Lingua latina" che si traduce letteralmente così: "L'animo devi mutare, non il cielo".
+è una frase in latino "Lingua latina" che si traduce letteralmente così: 
+
+>"L'animo devi mutare, non il cielo".
+Seneca
 
 
-> “Noi non abbiamo bisogno di più  forza o più capacità o di maggiori  opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
-[BASIL WALSH]
+La prima cosa che sa un fisioterapista è questa, L'ha imparata durante la sua esperienza.
 
-Il corpo umano è una cosa straordinaria
-Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
+
 
 # Esercizio 1 meglio di prendere un caffè. Riattiva il tuo sistema nervoso in 20 secondi.
 
@@ -126,8 +128,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzM0NTAwMCw5MDA2MDI1NzYsLTExMD
-QxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0
-MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLT
-QwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbNjc2NDgyNDY2LDkwMDYwMjU3NiwtMTEwND
+EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
+NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
