@@ -33,11 +33,11 @@ L’[appuntamento](https://www.frasicelebri.it/argomento/appuntamenti/)[quotidia
 [Il linguaggio sta alla mente più  di quanto la luce sta all'occhio.](https://aforismi.meglio.it/aforisma.htm?id=3794 "Aforisma di William Gibson")
 
 12 le chiacchiere stanno a 0 una giornata perfetta
-
+Non è mai troppo tardi per rimettersi in salute
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgxMzM2MDksODAxMjg5NDcwLC0xOT
-kwMTkwODA1LDE0NDA0MzE5MDEsLTEzNTg1NzIyNTUsMTYyNzMw
-NjA1NV19
+eyJoaXN0b3J5IjpbLTM1Mjc1NzA0OSwtMTE2ODEzMzYwOSw4MD
+EyODk0NzAsLTE5OTAxOTA4MDUsMTQ0MDQzMTkwMSwtMTM1ODU3
+MjI1NSwxNjI3MzA2MDU1XX0=
 -->
