@@ -20,7 +20,9 @@ a chiunque
 
 > Di scalare l'Everest in infradito.
 
-a meno che ltu non sia uno scerpa o che tu sia nato e vissuto li su quelle cime, ti sconsiglio vivamente di scalare l'Everest in infradito! 
+a meno che la persona non sia uno scerpa o sia nata e vissuta li su quelle cime, 
+
+Spesso però come fisioterapista si rivolgono a me persone che stanno scalando in infradito la loro salute. 
 
 E' per questo che ho preparato questa guida.
 
@@ -35,7 +37,7 @@ Quando stai viaggiando è consigliabile pianificare il tuo viaggio scegliere il 
 
 Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per recuperare o migliorare la loro salute e il loro benessere.
 
-## Prepara il tuo percorso
+## Prepara il tuo viaggio
     
 Alla fine della guida sarai in grado di:
 
@@ -155,9 +157,9 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMjY1OTUzLDIxMTMxNjE1NTksMTA5ND
-gxNTIwLC0yMDc3MzQyODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1
-OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2Mj
-Q5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgw
-NzgxXX0=
+eyJoaXN0b3J5IjpbLTE0NzY0NDA0OTksMjExMzE2MTU1OSwxMD
+k0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0
+NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LD
+YyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAx
+ODA3ODFdfQ==
 -->
