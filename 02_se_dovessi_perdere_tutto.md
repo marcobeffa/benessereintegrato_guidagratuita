@@ -57,9 +57,6 @@ Perché intervenire solo quando era così tardi?
 
 Perché non era stato possibile per Pietro avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
 
-### Cause interne e cause esterne!
-
-La nostra salute dipende da cause che arrivano dal nostro esterno e cause che 
 
 ### Da dove nasce BenessereIntegrato.it
 
@@ -87,6 +84,14 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
 ## Segreto 2
+
+### Cause interne e cause esterne!
+
+La nostra salute dipende da cause che arrivano dal nostro esterno e cause che arrivano dal nostro interno.
+
+Parleremo dei come puoi controllare questi fattori nel capitolo 5 le aree chiave per la nostra salute.
+
+Per ora è importante sapere 
 
 > Dobbiamo imparare bene le regole, in modo da infrangerle nel modo giusto. 
 > [Dalai Lama]
@@ -153,7 +158,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU4ODY4ODQsMTQ1NzMxMzg4MSwxOD
-kxOTM2ODY2LDE0MDY1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgx
-MzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbNzg0NzM0ODU2LDE0NTczMTM4ODEsMTg5MT
+kzNjg2NiwxNDA2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1
+MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
