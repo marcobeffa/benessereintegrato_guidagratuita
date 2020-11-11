@@ -87,7 +87,7 @@ Assumendo il caffè noi chiediamo al nostro sistema nervoso di accelerare e ques
 Ma se facessimo riposare un attimo il cavallo?
 Il cervello ha un vantaggio necessita di pochissimo tempo per recuperare una minipausa ogni ora e mezza è un grande aiuto per il tuo sistema nervoso.
 
-Ma come si fa?
+Come si fa?
 
 ## Bastano 20" per staccare la spina. Metti il tuo cervello in pausa
 
@@ -153,7 +153,7 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTg2MzczOSwyMTEzMTYxNTU5LDEwOT
+eyJoaXN0b3J5IjpbLTU4NDM4MjAxNSwyMTEzMTYxNTU5LDEwOT
 Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
 NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
 I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
