@@ -34,10 +34,12 @@ L’[appuntamento](https://www.frasicelebri.it/argomento/appuntamenti/)[quotidia
 
 12 le chiacchiere stanno a 0 una giornata perfetta
 Non è mai troppo tardi per rimettersi in salute
+
+In ogni disciplina, prima le basi. L'educazione è la base per ottenere risultati
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mjc1NzA0OSwtMTE2ODEzMzYwOSw4MD
-EyODk0NzAsLTE5OTAxOTA4MDUsMTQ0MDQzMTkwMSwtMTM1ODU3
-MjI1NSwxNjI3MzA2MDU1XX0=
+eyJoaXN0b3J5IjpbNzc4Nzc4OTQ4LC0xMTY4MTMzNjA5LDgwMT
+I4OTQ3MCwtMTk5MDE5MDgwNSwxNDQwNDMxOTAxLC0xMzU4NTcy
+MjU1LDE2MjczMDYwNTVdfQ==
 -->
