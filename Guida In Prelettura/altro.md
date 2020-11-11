@@ -118,6 +118,9 @@ Mythoself experiences
 
 Centro
 
+## Rallentare e fermarsi a riflettere
+
+Questa è già da sola una delle più grandi cure che possano mai esistere per la nostra salute.  Fermarti a riflettere sulla vita, sulle nostre azioni e a su quello che stiamo facendo influenza in modo tangibile la tua salute, una cosa che puoi osservare è che ogni cosa è ciclica e questo è l'ultimo tassello di questo capitolo impegnativo, ti prometto che i prossimi saranno più leggeri!
 
 ## I Cicli e  il tuo percorso 
 
@@ -331,7 +334,10 @@ Puoi cercare su padre google e li trovi un sacco di info, ma penso che sia suffi
  
 
 
+>**I libri letti sono molto meno preziosi di quelli non letti**. Una biblioteca dovrebbe contenere la maggior parte di quello che non sappiamo. Accumuleremo sempre più libri e conoscenza, man mano che invecchieremo, e il numero crescente di libri non letti sugli scaffali ci guarderà in maniera sempre più minacciosa. Infatti, più aumenta il nostro sapere, più si allarga il numero di libri da leggere. Questa collezione di libri non letti possiamo chiamarla **anti-biblioteca**. 
+Umberto Eco
+> Tratto da (https://www.glistatigenerali.com/eventi-festival_letteratura/umberto-eco-biblioteca-libri-non-letti/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDIxMzg2NywtMTg5OTMyMjg1MV19
+eyJoaXN0b3J5IjpbLTUwMjE0ODE5MiwtMTg5OTMyMjg1MV19
 -->
