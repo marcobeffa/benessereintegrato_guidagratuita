@@ -64,18 +64,19 @@ Seneca
 
 Il primo segreto che un fisioterapista riguarda proprio lo stato d'animo.
 
-
 Lo stato d'animo è la prima cosa che puoi  cambiare già ora.
 
 Come? Ricercando un atteggiamento mentale giusto!
 Nel corso della guida vedremo piccoli spunti che potrai mettere in pratica.
 
-Per ora ti lascio anche la prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore del mio paese natio che ho avuto l'onore di avere come paziente!)
+Per ora ti lascio la prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore del mio paese natio che ho avuto l'onore di avere come paziente!)
+
+La regola è questa quando ti capita un problema: 
 
 > 5 minuti a parlare del problema, il resto del tempo a trovare una soluzione!
 
 
-# Esercizio 1 meglio di prendere un caffè. Riattiva il tuo sistema nervoso in 20 secondi.
+# Esercizio 1 Il tempo di prendere un caffè per Riattiva il tuo sistema nervoso.
 
 Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di informazioni  ti elenco i principali:
 
@@ -159,7 +160,7 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODMyODY2NywyMTEzMTYxNTU5LDEwOT
+eyJoaXN0b3J5IjpbMTkxMTg2MTU0NiwyMTEzMTYxNTU5LDEwOT
 Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
 NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
 I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
