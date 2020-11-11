@@ -111,7 +111,16 @@ Desideri la sefirot della conoscenza il diario dei desiderei scoprire nuovi terr
 Imparare dalla natura. La visione ciclica del mondo. 
 
 Fai una passeggiata su un lago su un fiume al mare in montagna in un prato e ascolta le sensazioni del corpo.
+
+# Esercizio 6 
+
+Lavorare sulle catene muscolari
+Le catene muscolari esercizio
+L'ameba esercizio della motivazione
+Piacere e Dolore 
+Autonomia o una guida Professionista 
+Il tutor BenessereIntegrato e costruire un percorso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE2MDYxOTIsODMxMjM1NzY3LDU0Nj
-g3MjAzNSwtNDAxMDY5NDQ0XX0=
+eyJoaXN0b3J5IjpbMTk3MDE0OTMwNSwtMTAyMTYwNjE5Miw4Mz
+EyMzU3NjcsNTQ2ODcyMDM1LC00MDEwNjk0NDRdfQ==
 -->
