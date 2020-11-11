@@ -14,7 +14,7 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 6  Si guarisce quando si è stanchi di essere malati
  Usa le tue risorse. le 6 direzioni di movimento  
 
-7  Sette Porte per conoscere la tua salute e il tuo corpo 
+7  7 Porte per la tua salute e 7 per il tuo corpo 
 
 8 Conosci te stesso crea il tuo profilo
 
@@ -29,6 +29,6 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzQ0NDAzOCwtMTM1ODU3MjI1NSwxNj
+eyJoaXN0b3J5IjpbMTQ5NjY0NjgzOSwtMTM1ODU3MjI1NSwxNj
 I3MzA2MDU1XX0=
 -->
