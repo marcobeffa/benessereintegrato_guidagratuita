@@ -133,10 +133,12 @@ Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a con
   
 Da qui nasce l'idea di creare benessereintegrato mi piacerebbe passare quello che ho imparato perchè ritengo tu sia una persona saggia!
 
-
+> “Lo stolto sbaglia e non impara,
+L’intelligente impara dai propri errori,
+Il saggio impara dagli errori degli altri”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUyODc3MzgsOTAwNjAyNTc2LC0xMT
-A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
-NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
-00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbMTM5NzMyMTIyLDkwMDYwMjU3NiwtMTEwND
+EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
+NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
