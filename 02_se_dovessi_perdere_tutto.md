@@ -94,9 +94,6 @@ James Joice
 
 La nostra salute dipende da cause che arrivano dal nostro esterno e cause che arrivano dal nostro interno.
 
-Nel capitolo 5 con le aree chiave per la tua salute entrerò più nel dettaglio! 
-Ora capiamo però cosa si intende per mondo esterno e mondo interno.
-
 ### Sull'interno e sull'esterno 
 
 Quando nasciamo pian piano impariamo ad usare il corpo, impariamo a interpretarne i segnali che  arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
@@ -118,7 +115,6 @@ Quello che accade oggi è spesso il contrario oggi si fa fatica a comunicare con
 E' difficile trovare il tempo per fermarsi ed ascoltare le nostre sensazioni. 
 
 In alcuni casi le patologie sono dovute a cause innate come per esempio problemi quali malformazioni aneurismi già presenti fin dalla nascita, ma nella maggior parte dei casi rifletto su quanto le patologie giochino sull'ironia della sorte proprio quando non hai più tempo di ascoltarti il corpo si ferma e sei obbligato a passare per quella strada.
-
 
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
@@ -179,8 +175,8 @@ Tiziano terzani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg2MzYxMzUsMTkyMTQwODEyOCw3MT
-Q4MDU0ODgsMTQ1NzMxMzg4MSwxODkxOTM2ODY2LDE0MDY1Nzgx
-MzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkzMDQsLT
-EzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NDY0ODA4NjgsLTExNTg2MzYxMzUsMT
+kyMTQwODEyOCw3MTQ4MDU0ODgsMTQ1NzMxMzg4MSwxODkxOTM2
+ODY2LDE0MDY1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLD
+E4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
 -->
