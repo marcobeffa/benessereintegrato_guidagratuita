@@ -142,7 +142,8 @@ L’intelligente impara dai propri errori,
 Il saggio impara dagli errori degli altri”
 
 Ritengo che tu sia una persona saggia e magari hai delle soluzioni che io non ho colto!
-Nel caso scrivim
+
+Nel caso scrivimi pure valuteremo la possibilità di portare miglioramenti a benessereintegrato.it
 
 
 
@@ -150,8 +151,8 @@ Nel caso scrivim
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTU5NjY2NCwtMjA3NzM0Mjg0NSw5MD
-A2MDI1NzYsLTExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1
-NTk4LC0zODAzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLD
-E1Nzc0MTc3MzIsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbMTA5NDgxNTIwLC0yMDc3MzQyODQ1LDkwMD
+YwMjU3NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1
+OTgsLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMT
+U3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
