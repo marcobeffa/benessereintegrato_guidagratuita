@@ -59,12 +59,12 @@ Alla fine della guida sarai in grado di:
 Seneca
 
 Il primo segreto che un fisioterapista impara è proprio questo! 
-
 Lo stato d'animo è la prima cosa che puoi già cambiare ora.
 
-Imparare a costruire un atteggiamento mentale giusto è fondamentale!
+Come? Ricercando un atteggiamento mentale giusto!
+Nel corso della guida vedremo piccoli spunti che potrai mettere in pratica.
 
-La prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore )
+Per ora ti lascio anche la prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore )
 
 
 # Esercizio 1 meglio di prendere un caffè. Riattiva il tuo sistema nervoso in 20 secondi.
@@ -128,8 +128,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1ODE5Njk3LDkwMDYwMjU3NiwtMTEwND
-EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
-NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
-AwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbNjU4NDgwOTMsOTAwNjAyNTc2LC0xMTA0MT
+A0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0
+LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MD
+AxODA3ODFdfQ==
 -->
