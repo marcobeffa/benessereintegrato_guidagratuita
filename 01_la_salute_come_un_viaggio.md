@@ -135,11 +135,14 @@ Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a con
 L’intelligente impara dai propri errori,
 Il saggio impara dagli errori degli altri”
 
-Da qui nasce l'idea di creare benessereintegrato mi piacerebbe passare quello che ho imparato perchè avrei voluto io stesso evitare grossi errori, dolorosi che mi hanno fatto perdere tempo, soldi e a volte anche salute ritengo tu sia una persona saggia!
+Da qui nasce l'idea di creare benessereintegrato
+perchè ritengo che tu sia una persona saggia.
+
+Non ho la pretesa di insegnare niente anzi ho sempre imparato mi piacerebbe passare quello che ho imparato perchè avrei voluto io stesso evitare grossi errori, dolorosi che mi hanno fatto perdere tempo, soldi e a volte anche salute ritengo tu sia una persona saggia!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMzNzkzNDQsOTAwNjAyNTc2LC0xMT
+eyJoaXN0b3J5IjpbLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMT
 A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
 NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
 00MDAxODA3ODFdfQ==
