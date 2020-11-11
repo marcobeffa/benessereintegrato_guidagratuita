@@ -53,7 +53,6 @@ Alla fine della guida sarai in grado di:
 
 # 1/12 Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
-Il primo segreto che un fisioterapista impara è proprio questo! 
 
 > **Animum debes mutare, non caelum** 
 > Seneca
@@ -73,8 +72,11 @@ Non diversa era la convinzione dei  greci "Antica Grecia":
 > "Cambiare aria non fa diventare assennati, né toglie la stupidità",  
 > Sette Savi Biante.
 
+Il primo segreto che un fisioterapista impara è proprio questo! 
 
+Lo stato d'animo è la prima cosa che puoi già cambiare ora.
 
+Imparare a costruire un atteggiamento mentale giusto è fondamentale!
 
 
 
@@ -139,8 +141,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDMxMTIwLDkwMDYwMjU3NiwtMTEwND
-EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
-NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
-AwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbLTE0MDI2NTAxNzIsOTAwNjAyNTc2LC0xMT
+A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
+NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
+00MDAxODA3ODFdfQ==
 -->
