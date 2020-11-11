@@ -117,9 +117,9 @@ E' un corso di laurea delle professioni sanitarie.
 
 Qui ho imparato molto sul corpo umano.
 
-La fisioterapia insegna al fisioterapista come aiutare una persona ad affrontare le patologie e come p l'hanno portato in una condizione di Disabilità a ritrovare la propria autonomia.
+La fisioterapia insegna al fisioterapista come aiutare una persona ad affrontare le patologie e come passare da una condizione di Disabilità a una condizione in cui ritrova la propria autonomia.
 
-Con la Fisioterapia si studia come riabilitare: 
+La Fisioterapia insegna come rimettere in salute: 
 
 Il sistema muscolo scheletrico
 Il sistema respiratorio
@@ -127,16 +127,14 @@ Il sistema nervoso e apparato urogenitale
 Il sistema linfatico e digestivo
 Il sistema cardiocircolatorio
 
-Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone e li è nata l'idea di creare benessereintegrato: 
-
-Ecco i posti in cui ho lavorato, studiato e fatto corsi:
+Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone. per lavoro
 
 *Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
   
-
+e li è nata l'idea di creare benessereintegrato:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDQ2MzYzMyw5MDA2MDI1NzYsLTExMD
-QxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0
-MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLT
-QwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbMjQ5ODIwMDU1LDkwMDYwMjU3NiwtMTEwND
+EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
+NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
