@@ -191,6 +191,9 @@ L'esercizio serve per spostare l'attenzione del sistema cerebrale modo si crea u
 
 # Fine esercizio 3
 
+
+> Dobbiamo imparare bene le regole, in modo da infrangerle nel modo giusto. 
+> [Dalai Lama]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNTg0NTk2LC0xODk5MzIyODUxXX0=
+eyJoaXN0b3J5IjpbNjQ0MDU2MTU0LC0xODk5MzIyODUxXX0=
 -->
