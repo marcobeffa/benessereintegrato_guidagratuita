@@ -14,7 +14,13 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
-Spesso nell'esperienza da fisioterapista persone che stavano 
+Spesso come fisioterapista si sono rivolte a me persone che stavano tentando 
+
+> Di scalare l'everest in infradito.
+
+A meno che tu non sia uno scerpa nato li io te lo sconsiglio vivamente! 
+
+E' per questo che ho preparato   
 
 E' necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
 
@@ -110,7 +116,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTkzMTkzMSw5MDA2MDI1NzYsLTExMD
+eyJoaXN0b3J5IjpbLTIxMzAwNTQ5NSw5MDA2MDI1NzYsLTExMD
 QxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0
 MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLT
 QwMDE4MDc4MV19
