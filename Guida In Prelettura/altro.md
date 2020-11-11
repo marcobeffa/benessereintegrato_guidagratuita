@@ -357,7 +357,8 @@ Iniziamo dalla testa prova portare la testa prima avanti e poi indietro rispetto
 
 ## Svuota la testa l'esercizio che ti propongo qui è un esercizio che serve per liberare la testa quando hai troppi pensieri che ti girano in testa
 
+# Le cose che non usi vanno perse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzcwNDI3NywtNTAyMTQ4MTkyLC0xOD
+eyJoaXN0b3J5IjpbLTY4ODA1ODMyOCwtNTAyMTQ4MTkyLC0xOD
 k5MzIyODUxXX0=
 -->
