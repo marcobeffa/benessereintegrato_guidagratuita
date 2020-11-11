@@ -8,6 +8,7 @@
 Istinto emozioni e pensieri per salvaguardare la tua salute
 
 4 Errori L'equilibrio con il mondo esterno spazio e tempo 
+Tra spazio e temmpo. Il tuo corpo ha perso la bussola?  Limportanza dei bioritmi
 
 5  Trova il tuo centro - le 5 aree della salute
 
@@ -39,7 +40,7 @@ In ogni disciplina, prima le basi. L'educazione è la base per ottenere risultat
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk0MzU3OCwtMTE2ODEzMzYwOSw4MD
-EyODk0NzAsLTE5OTAxOTA4MDUsMTQ0MDQzMTkwMSwtMTM1ODU3
-MjI1NSwxNjI3MzA2MDU1XX0=
+eyJoaXN0b3J5IjpbOTAzNDI3MjYzLC0xMjg5NDM1NzgsLTExNj
+gxMzM2MDksODAxMjg5NDcwLC0xOTkwMTkwODA1LDE0NDA0MzE5
+MDEsLTEzNTg1NzIyNTUsMTYyNzMwNjA1NV19
 -->
