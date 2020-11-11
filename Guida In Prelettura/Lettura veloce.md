@@ -45,8 +45,10 @@ Quando pulisci pulisci
 >Noi vediamo, sentiamo, parliamo, ma non sappiamo quale energia ci fa vedere, sentire, parlare e pensare. E quel che è peggio, non ce ne importa nulla. Eppure noi siamo quell'energia. Questa è l'apoteosi dell'ignoranza umana.
 
 > Se l'umanità deve sopravvivere, avremo bisogno di un vero e proprio nuovo modo di pensare.
+
+> Il valore di un uomo, per la comunità in cui vive, dipende anzitutto dalla misura in cui i suoi sentimenti, i suoi pensieri e le sue azioni contribuiscono allo sviluppo dell'esistenza degli altri individui.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDIyNTA4OCwtMTQxMTQxMzUyMiwtMT
+eyJoaXN0b3J5IjpbMTY4OTgxMjQ5OCwtMTQxMTQxMzUyMiwtMT
 I4OTQzNTc4LC0xMTY4MTMzNjA5LDgwMTI4OTQ3MCwtMTk5MDE5
 MDgwNSwxNDQwNDMxOTAxLC0xMzU4NTcyMjU1LDE2MjczMDYwNT
 VdfQ==
