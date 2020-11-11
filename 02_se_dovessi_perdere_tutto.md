@@ -150,17 +150,9 @@ Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata s
 
 ## Il Movimento arcaico
 
-Senz'altro uno dei grandi insegnamenti di
-> “Questo è un altro aspetto rasserenante della natura: la sua immensa bellezza è lì per tutti. Nessuno può pensare di portarsi a casa un'alba o un tramonto.”
-
-
-
-> “Che errore è stato allontanarsi dalla natura! Nella sua varietà, nella sua bellezza, nella sua crudeltà, nella sua infinita, ineguagliabile grandezza c’è tutto il senso della vita.”
-Tiziano terzani
-
 Il movimento arcaico ideato da Massimo Mondini non è una filosofia e un corso aperto a tutti non solo ai professionisti della salute.
 
-Pur non condividendo Tutto al 100% Massimo ha avuto il grande merito di usare principi importanti che mi hanno aiutato nel mio lavoro professionale!
+Massimo ha avuto il grande merito di usare principi importanti che mi hanno aiutato nel mio lavoro professionale! Anche se magari alcune cose non 
 
 ### parentesi
 *Sicuramente lui li avrebbe espressi con parole migliori.
@@ -178,6 +170,9 @@ non sono di natura molto portato ai discorsi hahaha!
 ## I principi del movimento arcaico
 
 - La natura insegna
+> “Che errore è stato allontanarsi dalla natura! Nella sua varietà, nella sua bellezza, nella sua crudeltà, nella sua infinita, ineguagliabile grandezza c’è tutto il senso della vita.”
+Tiziano terzani
+
 - L'ambiente è la nostra palestra naturale, se non riceviamo abbastanza stimoli dall'ambiente il nostro corpo funziona male:
 	- Camminare su superfici piane
 	- Stare troppo seduti
@@ -192,11 +187,12 @@ non sono di natura molto portato ai discorsi hahaha!
 - Libera i tuoi movimenti e Istintivamente il corpo ritroverà la salute
 - Passare del tempo in un ambiente naturale è già questa una cura
 
+> “Questo è un altro aspetto rasserenante della natura: la sua immensa bellezza è lì per tutti. Nessuno può pensare di portarsi a casa un'alba o un tramonto.”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3ODM0NDkwLDE5MjE0MDgxMjgsNzE0OD
-A1NDg4LDE0NTczMTM4ODEsMTg5MTkzNjg2NiwxNDA2NTc4MTM2
-LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMz
-AyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbLTEwODU3MTg2NzEsMTkyMTQwODEyOCw3MT
+Q4MDU0ODgsMTQ1NzMxMzg4MSwxODkxOTM2ODY2LDE0MDY1Nzgx
+MzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkzMDQsLT
+EzMDI0NDc3OTBdfQ==
 -->
