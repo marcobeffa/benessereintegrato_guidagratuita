@@ -11,7 +11,8 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 
 5  Trova il tuo centro - le 5 aree della salute
 
-6  Si guarisce quando si è stanchi di essere malati le 6 direzioni di movimento  Impara a Usa le tue risorse
+6  Si guarisce quando si è stanchi di essere malati
+ Usa le tue risorse. le 6 direzioni di movimento  
 
 7 Lo stato di salute e le Sette Porte per conoscere il corpo 
 
@@ -28,6 +29,6 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NDQ4NzgyLC0xMzU4NTcyMjU1LDE2Mj
-czMDYwNTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MjA1NTIyMTcsLTEzNTg1NzIyNTUsMT
+YyNzMwNjA1NV19
 -->
