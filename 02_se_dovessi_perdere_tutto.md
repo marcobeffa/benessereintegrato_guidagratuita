@@ -152,20 +152,8 @@ Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata s
 
 Il movimento arcaico ideato da Massimo Mondini non è una filosofia e un corso aperto a tutti non solo ai professionisti della salute.
 
-Massimo ha avuto il grande merito di usare principi importanti che mi hanno aiutato nel mio lavoro professionale! Anche se magari alcune cose non 
-
-### parentesi
-*Sicuramente lui li avrebbe espressi con parole migliori.
-Tutte le persone nate a Parma hanno una parlantina che affascina di più rispetto alla parlantina Bresciana.* 
-
-> A volte penso che ogni lingua corrisponda all'attitudine più sviluppata nelle persone di quella zona. 
-
-Essendo nato nella bassa bresciana in cui le attitudini dominanti sono da riferirsi a un misto tra:
-- cultura industriale del ferro e del tondino   
-- cultura edile condivisa nello scenario comune con la provincia bergamasca.
-- cultura agricola
-
-non sono di natura molto portato ai discorsi hahaha! 
+Massimo ha avuto il grande merito di basare il suo lavoro su principi importanti che mi hanno aiutato nel campo professionale! 
+Anche se su alcune cose non le condivido!
 
 ## I principi del movimento arcaico
 
@@ -191,7 +179,7 @@ Tiziano terzani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU3MTg2NzEsMTkyMTQwODEyOCw3MT
+eyJoaXN0b3J5IjpbLTIwNzI0MzI1NTIsMTkyMTQwODEyOCw3MT
 Q4MDU0ODgsMTQ1NzMxMzg4MSwxODkxOTM2ODY2LDE0MDY1Nzgx
 MzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkzMDQsLT
 EzMDI0NDc3OTBdfQ==
