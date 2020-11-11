@@ -26,11 +26,14 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 L’[appuntamento](https://www.frasicelebri.it/argomento/appuntamenti/)[quotidiano](https://www.frasicelebri.it/argomento/quotidiani/)  con la pagina bianca costringe a prestare più  [attenzione](https://www.frasicelebri.it/argomento/attenzione/)  ai fatti della giornata – ad  [ascoltare](https://www.frasicelebri.it/argomento/ascoltare/)  meglio, a  [pensare](https://www.frasicelebri.it/argomento/pensare/)  più a  [fondo](https://www.frasicelebri.it/argomento/coerenza/), a  [guardare](https://www.frasicelebri.it/argomento/osservare/)  più intensamente.”  
 [SYLVAIN TESSON](https://www.frasicelebri.it/frasi-di/sylvain-tesson/)
 
+[L'occhio aperto e l'orecchio vigile trasformeranno le più piccole scosse in grandi esperienze.](https://aforismi.meglio.it/aforisma.htm?id=5b9a "Aforisma di Vasilij Kandinskij")
+
+
 12 le chiacchiere stanno a 0 una giornata perfetta
 
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAxOTA4MDUsMTQ0MDQzMTkwMSwtMT
-M1ODU3MjI1NSwxNjI3MzA2MDU1XX0=
+eyJoaXN0b3J5IjpbODAxMjg5NDcwLC0xOTkwMTkwODA1LDE0ND
+A0MzE5MDEsLTEzNTg1NzIyNTUsMTYyNzMwNjA1NV19
 -->
