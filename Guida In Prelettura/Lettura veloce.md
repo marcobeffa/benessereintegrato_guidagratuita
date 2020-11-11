@@ -1,4 +1,4 @@
-1 La prima cosa che puoi migliorare della tua salute è l'umore
+1 La prima cosa che puoi migliorare della tua salute è il tuo umore
 
 2 La tua salute dipende da cause esterne e cause interne
 
@@ -28,5 +28,5 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzMwNjA1NV19
+eyJoaXN0b3J5IjpbLTEzNTg1NzIyNTUsMTYyNzMwNjA1NV19
 -->
