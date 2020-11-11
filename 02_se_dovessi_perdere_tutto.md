@@ -104,7 +104,7 @@ Per capire cosa intendo per mondo interno, prova a mettere una mano sulla pancia
 
 Magari hai sentito solo il ritmo del tuo respiro, ma forse sei riuscito a mollare la presa, hai sentito come se la tensione si sia un pò abbassata, e da li si possono ascoltare molte cose.
 
-Parleremo più avanti di come si laquesto mondo interno, e di questa pratica (molti la chiamano meditazione, altri relax, altri l'inizio di pratiche di training autogeno, altri preghiera) per adesso non è necessario dare un nome a questo esercizio, basta imparare a staccare la testa per qualche minuto e già questo è di per se una cura.
+Parleremo più avanti di come si lavora su questo mondo interno, per adesso, basta imparare a stare in questa condizione per qualche minuto già questo è di per se una cura.
 
 Pur non essendo certo penso che Pietro era chiuso nel suo mondo interno e aveva perso la capacità di comunicare con il mondo esterno l'esterno. 
 
@@ -176,7 +176,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNzQ5ODQyLDE0NTczMTM4ODEsMTg5MT
+eyJoaXN0b3J5IjpbNTE0NDQ2NTI3LDE0NTczMTM4ODEsMTg5MT
 kzNjg2NiwxNDA2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1
 MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
