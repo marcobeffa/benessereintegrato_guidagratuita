@@ -347,7 +347,13 @@ Certo non possiamo scambiarci messaggi come fa un cellulare.
 
 Cicli aperti e cicli chiusi
 
+
+## Allineare i 3 centri di gravità
+
+Puoi provare a fare questo esercizio da seduto o in piedi.
+
+Iniziamo dalla testa prova portare la testa prima avanti e poi indietro rispetto agli altri due centri di gravità che ora 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjA0NjU2NywtNTAyMTQ4MTkyLC0xOD
-k5MzIyODUxXX0=
+eyJoaXN0b3J5IjpbOTYwNjQ3ODI1LC01MDIxNDgxOTIsLTE4OT
+kzMjI4NTFdfQ==
 -->
