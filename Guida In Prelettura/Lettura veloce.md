@@ -16,7 +16,7 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 
 7  7 Porte per la tua salute e 7 per il tuo corpo 
 
-8 Conosci te stesso crea il tuo profilo
+8 L'Ottava porta. Conosci te stesso, crea il tuo profilo
 
 9 Cosa scegliere per la tua salute 
 
@@ -29,6 +29,6 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjY0NjgzOSwtMTM1ODU3MjI1NSwxNj
+eyJoaXN0b3J5IjpbMTQ0MDQzMTkwMSwtMTM1ODU3MjI1NSwxNj
 I3MzA2MDU1XX0=
 -->
