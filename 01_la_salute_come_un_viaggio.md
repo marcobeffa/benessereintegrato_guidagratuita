@@ -55,22 +55,8 @@ Alla fine della guida sarai in grado di:
 
 
 > **Animum debes mutare, non caelum** 
-> Seneca
-
-E' una frase in latino "Lingua latina" che si traduce letteralmente così: 
-
 >"L'animo devi mutare, non il cielo".
 Seneca
-
-Il concetto era già stato espresso nell'esametro del poeta Orazio 
-> Caelum, non animum mutant qui trans mare currunt
-> "Il cielo, non l'animo mutano quelli che corron di là dal mare"
->  "Epistole (Orazio)")_, I, XI, 27, "a Bullazio").
-
-Non diversa era la convinzione dei  greci "Antica Grecia": 
-
-> "Cambiare aria non fa diventare assennati, né toglie la stupidità",  
-> Sette Savi Biante.
 
 Il primo segreto che un fisioterapista impara è proprio questo! 
 
@@ -78,6 +64,7 @@ Lo stato d'animo è la prima cosa che puoi già cambiare ora.
 
 Imparare a costruire un atteggiamento mentale giusto è fondamentale!
 
+La prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore )
 
 
 # Esercizio 1 meglio di prendere un caffè. Riattiva il tuo sistema nervoso in 20 secondi.
@@ -141,8 +128,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI2NTAxNzIsOTAwNjAyNTc2LC0xMT
-A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
-NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
-00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbNDg1ODE5Njk3LDkwMDYwMjU3NiwtMTEwND
+EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
+NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
