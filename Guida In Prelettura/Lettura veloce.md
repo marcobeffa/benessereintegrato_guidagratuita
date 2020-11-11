@@ -8,8 +8,11 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 
 4 L'equilibrio con il mondo esterno spazio e tempo 
 5 Trova il tuo centro - le 5 aree della salute
-6 Si guarisce quando si è stanchi di essere malati le 6 direzioni di movimento del
+6 Si guarisce quando si è stanchi di essere malati le 6 direzioni di movimento 
+7 Lo stato di salute e le Sette Porte per conoscere il corpo 
+8 Conosci te stesso crea il tuo profilo
+9 Cosa scegliere per la tua s
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTQ1MzUxMF19
+eyJoaXN0b3J5IjpbLTkzNzI4ODQyMF19
 -->
