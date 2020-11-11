@@ -127,14 +127,16 @@ Il sistema nervoso e apparato urogenitale
 Il sistema linfatico e digestivo
 Il sistema cardiocircolatorio
 
-Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone. per lavoro
+Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone, per lavoro, formazione, e corsi:
 
 *Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
   
-e li è nata l'idea di creare benessereintegrato:
+Da qui nasce l'idea di creare benessereintegrato mi piacerebbe passare quello che ho imparato perchè ritengo tu sia una persona saggia!
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5ODIwMDU1LDkwMDYwMjU3NiwtMTEwND
-EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
-NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
-AwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbLTE1ODUyODc3MzgsOTAwNjAyNTc2LC0xMT
+A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
+NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
+00MDAxODA3ODFdfQ==
 -->
