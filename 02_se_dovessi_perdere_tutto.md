@@ -150,7 +150,13 @@ Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata s
 
 ## Il Movimento arcaico
 
+Senz'altro uno dei grandi insegnamenti di
+> “Questo è un altro aspetto rasserenante della natura: la sua immensa bellezza è lì per tutti. Nessuno può pensare di portarsi a casa un'alba o un tramonto.”
 
+
+
+> “Che errore è stato allontanarsi dalla natura! Nella sua varietà, nella sua bellezza, nella sua crudeltà, nella sua infinita, ineguagliabile grandezza c’è tutto il senso della vita.”
+Tiziano terzani
 
 Il movimento arcaico ideato da Massimo Mondini non è una filosofia e un corso aperto a tutti non solo ai professionisti della salute.
 
@@ -162,7 +168,7 @@ Tutte le persone nate a Parma hanno una parlantina che affascina di più rispett
 
 > A volte penso che ogni lingua corrisponda all'attitudine più sviluppata nelle persone di quella zona. 
 
-Essendo io della bassa bresciana in cui le attitudini dominanti sono da riferirsi a un misto tra:
+Essendo nato nella bassa bresciana in cui le attitudini dominanti sono da riferirsi a un misto tra:
 - cultura industriale del ferro e del tondino   
 - cultura edile condivisa nello scenario comune con la provincia bergamasca.
 - cultura agricola
@@ -189,8 +195,8 @@ non sono di natura molto portato ai discorsi hahaha!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTQwODEyOCw3MTQ4MDU0ODgsMTQ1Nz
-MxMzg4MSwxODkxOTM2ODY2LDE0MDY1NzgxMzYsLTg1Mjc0NDU2
-OCwtMjg3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ
-==
+eyJoaXN0b3J5IjpbNjA3ODM0NDkwLDE5MjE0MDgxMjgsNzE0OD
+A1NDg4LDE0NTczMTM4ODEsMTg5MTkzNjg2NiwxNDA2NTc4MTM2
+LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMz
+AyNDQ3NzkwXX0=
 -->
