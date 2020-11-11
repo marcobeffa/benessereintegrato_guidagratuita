@@ -45,9 +45,9 @@ Alla fine della guida sarai in grado di:
 -  I 5 elementi chiave della tua salute
 -  Di cosa hai bisogno per il tuo viaggio?
 - Conoscere il tuo stato di salute il tuo punto di partenza
-- Avere una mappa del tuo problema 
+- Avere un tuo profilo da usare come mappa 
 - Avere un idea dei professionisti a cui puoi rivolgerti
-- Come il tutor benessere integrato ti aiuta a 
+- Sapere come
 	- Scegliere la destinazione 
 	- Tracciare la rotta 
 	- Decidere le tappe  
@@ -62,8 +62,10 @@ Alla fine della guida sarai in grado di:
 >"L'animo devi mutare, non il cielo".
 Seneca
 
-Il primo segreto che un fisioterapista impara è proprio questo! 
-Lo stato d'animo è la prima cosa che puoi già cambiare ora.
+Il primo segreto che un fisioterapista riguarda proprio lo stato d'animo.
+
+
+Lo stato d'animo è la prima cosa che puoi  cambiare già ora.
 
 Come? Ricercando un atteggiamento mentale giusto!
 Nel corso della guida vedremo piccoli spunti che potrai mettere in pratica.
@@ -157,9 +159,9 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY0NDA0OTksMjExMzE2MTU1OSwxMD
-k0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0
-NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LD
-YyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAx
-ODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTkwODMyODY2NywyMTEzMTYxNTU5LDEwOT
+Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
+NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
+I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
+MDc4MV19
 -->
