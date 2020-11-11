@@ -41,8 +41,13 @@ Non è mai troppo tardi per chi ha volontà
 In ogni disciplina, prima le basi. L'educazione è la base per ottenere risultati
 Quando pulisci pulisci
 
+
+>Noi vediamo, sentiamo, parliamo, ma non sappiamo quale energia ci fa vedere, sentire, parlare e pensare. E quel che è peggio, non ce ne importa nulla. Eppure noi siamo quell'energia. Questa è l'apoteosi dell'ignoranza umana.
+
+> Se l'umanità deve sopravvivere, avremo bisogno di un vero e proprio nuovo modo di pensare.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE0MTM1MjIsLTEyODk0MzU3OCwtMT
-E2ODEzMzYwOSw4MDEyODk0NzAsLTE5OTAxOTA4MDUsMTQ0MDQz
-MTkwMSwtMTM1ODU3MjI1NSwxNjI3MzA2MDU1XX0=
+eyJoaXN0b3J5IjpbLTk5MDIyNTA4OCwtMTQxMTQxMzUyMiwtMT
+I4OTQzNTc4LC0xMTY4MTMzNjA5LDgwMTI4OTQ3MCwtMTk5MDE5
+MDgwNSwxNDQwNDMxOTAxLC0xMzU4NTcyMjU1LDE2MjczMDYwNT
+VdfQ==
 -->
