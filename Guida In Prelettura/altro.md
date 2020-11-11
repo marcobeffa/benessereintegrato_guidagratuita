@@ -8,7 +8,7 @@ Ti propongo un altro esercizio prendi un foglio e scrivi relativo da una parte l
 
 
 
-## Segreto 2
+## Segreto 12
 
 Prendere la vita ogni giorno come un nuovo inizio.
 
@@ -192,5 +192,5 @@ L'esercizio serve per spostare l'attenzione del sistema cerebrale modo si crea u
 # Fine esercizio 3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkzMjI4NTFdfQ==
+eyJoaXN0b3J5IjpbMzUzNTg0NTk2LC0xODk5MzIyODUxXX0=
 -->
