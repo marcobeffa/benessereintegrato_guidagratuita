@@ -194,6 +194,9 @@ L'esercizio serve per spostare l'attenzione del sistema cerebrale modo si crea u
 
 > Dobbiamo imparare bene le regole, in modo da infrangerle nel modo giusto. 
 > [Dalai Lama]
+
+> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
+> CARY-HIROYUKI TAGAWA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MDU2MTU0LC0xODk5MzIyODUxXX0=
+eyJoaXN0b3J5IjpbLTk4MTI0MDg5LC0xODk5MzIyODUxXX0=
 -->
