@@ -20,7 +20,7 @@ Istinto emozioni e pensieri per salvaguardare la tua salute
 
 9 Cosa scegliere per la tua salute 
 
-10 Misurare i risultati e aggiustare la rotta
+10 Misurare i risultati e aggiustare la rotta. Qual è il miglior programma?
 
 11 diario di bordo l'occhio che vede tutto
 L’[appuntamento](https://www.frasicelebri.it/argomento/appuntamenti/)[quotidiano](https://www.frasicelebri.it/argomento/quotidiani/)  con la pagina bianca costringe a prestare più  [attenzione](https://www.frasicelebri.it/argomento/attenzione/)  ai fatti della giornata – ad  [ascoltare](https://www.frasicelebri.it/argomento/ascoltare/)  meglio, a  [pensare](https://www.frasicelebri.it/argomento/pensare/)  più a  [fondo](https://www.frasicelebri.it/argomento/coerenza/), a  [guardare](https://www.frasicelebri.it/argomento/osservare/)  più intensamente.”  
@@ -35,7 +35,7 @@ L’[appuntamento](https://www.frasicelebri.it/argomento/appuntamenti/)[quotidia
 Quando pulisci pulisci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY0MTI2NTAsODAxMjg5NDcwLC0xOT
-kwMTkwODA1LDE0NDA0MzE5MDEsLTEzNTg1NzIyNTUsMTYyNzMw
-NjA1NV19
+eyJoaXN0b3J5IjpbLTk3MDQ3NDc2NCw4MDEyODk0NzAsLTE5OT
+AxOTA4MDUsMTQ0MDQzMTkwMSwtMTM1ODU3MjI1NSwxNjI3MzA2
+MDU1XX0=
 -->
