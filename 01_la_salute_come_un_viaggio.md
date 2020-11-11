@@ -131,14 +131,16 @@ Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a con
 
 *Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
   
-Da qui nasce l'idea di creare benessereintegrato mi piacerebbe passare quello che ho imparato perchè ritengo tu sia una persona saggia!
-
 > Lo stolto sbaglia e non impara,
 L’intelligente impara dai propri errori,
 Il saggio impara dagli errori degli altri”
+
+Da qui nasce l'idea di creare benessereintegrato mi piacerebbe passare quello che ho imparato perchè avrei voluto io stesso evitare grossi errori, dolorosi che mi hanno fatto perdere tempo, soldi e a volte anche salute ritengo tu sia una persona saggia!
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjAzMzc4Miw5MDA2MDI1NzYsLTExMD
-QxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0
-MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLT
-QwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbLTEyNjMzNzkzNDQsOTAwNjAyNTc2LC0xMT
+A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
+NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
+00MDAxODA3ODFdfQ==
 -->
