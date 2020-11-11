@@ -10,7 +10,7 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 # La salute come un viaggio
 
-> Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
+
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
@@ -20,9 +20,13 @@ Spesso come fisioterapista si sono rivolte a me persone che stavano tentando
 
 A meno che tu non sia uno scerpa nato li io te lo sconsiglio vivamente! 
 
-E' per questo che ho preparato   
+E' per questo che ho preparato questa guida.
 
-E' necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
+Perchè purtroppo la vita ci conduce inaspettatamente  su sentieri difficili e essere preparati fa tutta la differenza sopratutto se si tratta della tua salute.
+
+> Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
+
+Quando stai viaggiando è consigliabile necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
 
 > Il terapista è come una guida di montagna ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
@@ -116,8 +120,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAwNTQ5NSw5MDA2MDI1NzYsLTExMD
-QxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0
-MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLT
-QwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbNTI2NjAwMTM2LDkwMDYwMjU3NiwtMTEwND
+EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
+NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
+AwMTgwNzgxXX0=
 -->
