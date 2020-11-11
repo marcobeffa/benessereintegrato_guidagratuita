@@ -343,7 +343,11 @@ Certo non possiamo scambiarci messaggi come fa un cellulare.
 
 > C'è elettricità nell'aria
 
+## Esercizio dei cicli
+
+Cicli aperti e cicli chiusi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDcxMTMyNywtNTAyMTQ4MTkyLC0xOD
+eyJoaXN0b3J5IjpbMTE5MjA0NjU2NywtNTAyMTQ4MTkyLC0xOD
 k5MzIyODUxXX0=
 -->
