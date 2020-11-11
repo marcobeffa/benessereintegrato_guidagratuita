@@ -143,7 +143,9 @@ Il saggio impara dagli errori degli altri”
 
 Ritengo che tu sia una persona saggia e magari hai delle soluzioni che qui non abbiamo colto!
 
-Nel caso scrivimi pure valuteremo la possibilità di portare miglioramenti a benessereintegrato.it
+Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure terremo in considerazione le tue osservazioni! 
+
+Buon viaggio!
 
 
 
@@ -151,8 +153,9 @@ Nel caso scrivimi pure valuteremo la possibilità di portare miglioramenti a ben
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNz
-czNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMy
-OTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMT
-c2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbMTY0OTg2MzczOSwyMTEzMTYxNTU5LDEwOT
+Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
+NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
+I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
+MDc4MV19
 -->
