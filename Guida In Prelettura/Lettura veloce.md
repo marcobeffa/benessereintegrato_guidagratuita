@@ -47,9 +47,11 @@ Quando pulisci pulisci
 > Se l'umanità deve sopravvivere, avremo bisogno di un vero e proprio nuovo modo di pensare.
 
 > Il valore di un uomo, per la comunità in cui vive, dipende anzitutto dalla misura in cui i suoi sentimenti, i suoi pensieri e le sue azioni contribuiscono allo sviluppo dell'esistenza degli altri individui.
+
+>Il vero valore di un essere umano è rivelato dalla sua capacità di raggiungere la liberazione da se stesso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTgxMjQ5OCwtMTQxMTQxMzUyMiwtMT
-I4OTQzNTc4LC0xMTY4MTMzNjA5LDgwMTI4OTQ3MCwtMTk5MDE5
-MDgwNSwxNDQwNDMxOTAxLC0xMzU4NTcyMjU1LDE2MjczMDYwNT
-VdfQ==
+eyJoaXN0b3J5IjpbLTE3OTAyMjEyODEsLTE0MTE0MTM1MjIsLT
+EyODk0MzU3OCwtMTE2ODEzMzYwOSw4MDEyODk0NzAsLTE5OTAx
+OTA4MDUsMTQ0MDQzMTkwMSwtMTM1ODU3MjI1NSwxNjI3MzA2MD
+U1XX0=
 -->
