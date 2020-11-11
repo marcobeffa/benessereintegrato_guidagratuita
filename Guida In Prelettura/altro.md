@@ -213,6 +213,40 @@ Essendo nato nella bassa bresciana in cui le attitudini dominanti sono da riferi
 
 non sono di natura molto portato ai discorsi hahaha! 
 
+
+
+Ogni parte del corpo ha una vocazione, è nata per svolgere delle funzioni.
+
+*Questo esercizio è un esercizio tratto da un corso di una tecnica avanzata di fisioterapia che si chiama Corpo e Coscienza Ideato da Georges Courchinoux come spiegato nel capitolo 2*
+
+Se vuoi ti svelo un segreto ma devi promettermi che lo prenderai con le pinze e non ne farai parola con nessuno, tantomeno con Georges.
+
+Georges Courchinoux è un fisioterpista, un ricercatore e per me rispecchia la figura ormai scomparsa del *medico di una volta* e (anche di una persona saggia).
+Non che operi e tolga i denti ci mancherebbe, ma conosce 
+
+ - il corpo 
+ - la fisiologia 
+ - la biomeccanica 
+ - le piante e le loro funzioni
+ - la fenomenologia
+ - la funzione fisiologica delle tradizioni
+ - la natura e i suoi cicli
+ - la cronobiologia
+ - le neurologia
+ - l'importanza del linguaggio
+ - la medicina occidentale
+ - la medicina orientale 
+ - le funzioni energetica (scusate se uso questa parola sicuramente è una parola abusata che verrà dalla maggior parte delle persone  interpretata male :-( )
+
+E in realtà a lui non piace molto la tecnologia e non approva nemmeno molto internet e i video e la scrittura perchè questi non riescono a passare l'intera gamma dell'esperienza. 
+
+> Le conoscenze per essere vere dovrebbero passare da Ombelico a ombelico e il vero lavoro è basato sull'esperienza personale.
+
+Un esempio veloce è il video, il video passa dal canale visivo e dal canale uditivo.
+
+Mancano il canale olfattivo, il canale tattile, e altri pezzi che ora sarebbero difficili da spiegare, magari ne parleremo in un altra occasione.
+
+**Per questo spero come allievo di essere perdonato se utilizzo alcune tecniche fuori dal contesto e spero che se stai leggendo questa guida hai il buon cuore di riflettere profondamente sulle tecniche che ti sto passando. Perchè se prese alla leggera e non provate con calma non  funzionano e rischiano tra virgolette di essere passami il termine "sputtanate"**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzMxOTQ4OSwtMTg5OTMyMjg1MV19
+eyJoaXN0b3J5IjpbNzc5NTIwNTQ1LC0xODk5MzIyODUxXX0=
 -->
