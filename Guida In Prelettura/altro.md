@@ -119,6 +119,45 @@ Mythoself experiences
 Centro
 
 
+## I Cicli e  il tuo percorso 
+
+Si gli aspetti bio psico sociale sono legati al fatto che:
+
+> La vita e la natura sono cicliche
+
+L'apprendimento è ciclico, la crescita è ciclica la natura è ciclica, il tempo, l'anno le stagioni i mesi le settimane i giorni e solo chiudendo un ciclo e aprendone un altro si cresce per questo è fondamentale tenere presente tutto questo.
+
+Pensa a un qualsiasi cosa tu debbia compiere, avrà un inizio una fase intermedia e una fase finale e tutte e tre le fasi sono importanti per ottenere un buon risultato.
+
+Gli orientali hanno usato questo concetto base per costruire tutta la filosofia della medicina cinese.
+
+Suddividere le cose in cicli ti aiuterà a portarle a termine con successo i percorsi che inizi, ti aiuterà in oltre a trovare un giusto ritmo.
+
+Si mi dirai ma cosa c'entra questo con la visione bio-psico-sociale?
+
+Ogni aspetto è legato a un livello di evoluzione nella vita della persona.
+
+- inizio 
+- fase intermedia 
+- fine
+
+## Bio - Inizio
+L'aspetto bio è legato alla parte istintiva che si esplora e si sviluppa nella prima fase della vita, questo ha una forte correlazione funzionale e simbolica con il primo centro di gravità il bacino.
+
+## Sociale - Intermedia
+
+L'aspetto sociale relazionale è legato alla parte emotiva e si sviluppa molto in una fase intermedia quando la persona deve trovare posto nella società ed è legata da una forte correlazione funzionale e simbolica con il secondo centro di gravità il torace.
+
+## Psico - Fine
+
+L'aspetto psico  è legato alla parte mentale o forse meglio usare le parole coscienza/consapevolezza e si sviluppa molto in una fase finale dello sviluppo di una persona. Quando la persona deve trovare il suo scopo nella vita ed è chiamato a rispondere a domande cosa ci faccio qui? e questo ha una forte correlazione funzionale e simbolica con il terzo centro di gravità la testa.
+
+Un libro che a me è piaciuto molto e che propone un un buon modello di lettura del fenomeno è 
+
+>   Libro: "Il cammino dell'anima" 
+>   Autore: Franco Bottalo
+
+Forse queste riflessioni ti sembreranno strane ma tienile li e più avanti potrai apprezzarne i frutti! 
 
 
 # Esercizio 3
@@ -294,6 +333,5 @@ Puoi cercare su padre google e li trovi un sacco di info, ma penso che sia suffi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkxNjIyNTUsLTE4OTkzMjI4NTFdfQ
-==
+eyJoaXN0b3J5IjpbMTU5MDIxMzg2NywtMTg5OTMyMjg1MV19
 -->
