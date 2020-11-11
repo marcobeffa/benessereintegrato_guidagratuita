@@ -14,6 +14,8 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
+Spesso nell'esperienza da fisioterapista persone che stavano 
+
 E' necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
 
 > Il terapista è come una guida di montagna ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
@@ -108,8 +110,8 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1Nz
-M4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0
-NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ
-==
+eyJoaXN0b3J5IjpbMTUzMTkzMTkzMSw5MDA2MDI1NzYsLTExMD
+QxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0
+MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLT
+QwMDE4MDc4MV19
 -->
