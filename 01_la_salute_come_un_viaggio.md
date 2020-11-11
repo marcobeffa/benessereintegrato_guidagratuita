@@ -14,11 +14,13 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
-Spesso come fisioterapista si sono rivolte a me persone che stavano tentando 
 
-> Di scalare l'everest in infradito.
+Penso che tu sia d'accordo con me e sconsiglieresti
+a chiunque
 
-A meno che tu non sia uno scerpa o che tu sia nato e vissuto li su quelle cime, ti sconsiglio vivamente di scalare l'Everest in infradito! 
+> Di scalare l'Everest in infradito.
+
+a meno che ltu non sia uno scerpa o che tu sia nato e vissuto li su quelle cime, ti sconsiglio vivamente di scalare l'Everest in infradito! 
 
 E' per questo che ho preparato questa guida.
 
@@ -153,7 +155,7 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjU5NTg5LDIxMTMxNjE1NTksMTA5ND
+eyJoaXN0b3J5IjpbNjcyMjY1OTUzLDIxMTMxNjE1NTksMTA5ND
 gxNTIwLC0yMDc3MzQyODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1
 OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2Mj
 Q5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgw
