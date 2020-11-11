@@ -1,5 +1,8 @@
 # Cosa faresti se dovessi perdere tutto?
 
+
+## La tua salute dipende da cause interne e da cause esterne.
+
 Si questo è un capitolo tragico, capisco che possa turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto benessere integrato.
 
 Troppo spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti.
@@ -84,6 +87,8 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 # Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
 ## Segreto 2
+
+
 
 ### Cause interne e cause esterne!
 
@@ -176,7 +181,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDczMDExMTIsMTQ1NzMxMzg4MSwxOD
-kxOTM2ODY2LDE0MDY1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgx
-MzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMTAwODc1MDIxMCwxNDU3MzEzODgxLDE4OT
+E5MzY4NjYsMTQwNjU3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEz
+NTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
