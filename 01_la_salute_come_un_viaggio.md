@@ -135,11 +135,14 @@ Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a con
 Da qui nasce l'idea di creare benessereintegrato
 Non ho la pretesa di insegnare niente anzi ho sempre imparato da chi mi è stato vicino. Per questo in questa guida ti racconto i miei errori, le mie esperienze e come ho pensato di risolverli. 
 
+Perchè mi sarebbe piaciuto che qualcuno li raccontasse a me avrei evitato dolori, perdita di tempo e soldi e adesso avrei già venduto la mia start up a **Google Health** e con la exit sarei già potuto essere in pensione. Ovviamente scherzo ;-) 
+
 > Lo stolto sbaglia e non impara,
 L’intelligente impara dai propri errori,
 Il saggio impara dagli errori degli altri”
 
-Ritengo che tu sia una persona saggia e magari hai delle soluzioni a cui io non sono arrivato!
+Ritengo che tu sia una persona saggia e magari hai delle soluzioni che io non ho colto!
+Nel caso scrivim
 
 
 
@@ -147,7 +150,7 @@ Ritengo che tu sia una persona saggia e magari hai delle soluzioni a cui io non 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjcxNTUwMiwtMjA3NzM0Mjg0NSw5MD
+eyJoaXN0b3J5IjpbMTIyNTU5NjY2NCwtMjA3NzM0Mjg0NSw5MD
 A2MDI1NzYsLTExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1
 NTk4LC0zODAzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLD
 E1Nzc0MTc3MzIsLTQwMDE4MDc4MV19
