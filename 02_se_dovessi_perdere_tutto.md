@@ -88,13 +88,15 @@ Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui son
 
 ## Segreto 2
 
+> La vita è come un'eco: se non ti piace quello che ti rimanda, devi cambiare il messaggio che invii.
+James Joice
 
 
 ### Cause interne e cause esterne!
 
 La nostra salute dipende da cause che arrivano dal nostro esterno e cause che arrivano dal nostro interno.
 
-Parleremo dei come puoi controllare questi fattori nel capitolo 5 le aree chiave per la nostra salute.
+Nel capitolo 5 le aree chiave per la nostra salute.
 
 ### Sull'interno e sull'esterno 
 
@@ -181,7 +183,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODc1MDIxMCwxNDU3MzEzODgxLDE4OT
+eyJoaXN0b3J5IjpbMTAyMjIzNDAyOSwxNDU3MzEzODgxLDE4OT
 E5MzY4NjYsMTQwNjU3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEz
 NTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
