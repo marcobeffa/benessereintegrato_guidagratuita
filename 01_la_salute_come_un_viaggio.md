@@ -141,7 +141,7 @@ Perchè mi sarebbe piaciuto che qualcuno li raccontasse a me avrei evitato dolor
 L’intelligente impara dai propri errori,
 Il saggio impara dagli errori degli altri”
 
-Ritengo che tu sia una persona saggia e magari hai delle soluzioni che io non ho colto!
+Ritengo che tu sia una persona saggia e magari hai delle soluzioni che qui non abbiamo colto!
 
 Nel caso scrivimi pure valuteremo la possibilità di portare miglioramenti a benessereintegrato.it
 
@@ -151,8 +151,8 @@ Nel caso scrivimi pure valuteremo la possibilità di portare miglioramenti a ben
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDgxNTIwLC0yMDc3MzQyODQ1LDkwMD
-YwMjU3NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1
-OTgsLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMT
-U3NzQxNzczMiwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNz
+czNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMy
+OTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMT
+c2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
 -->
