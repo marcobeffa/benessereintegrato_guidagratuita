@@ -153,9 +153,11 @@ Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata s
 Il movimento arcaico ideato da Massimo Mondini non è una filosofia e un corso aperto a tutti non solo ai professionisti della salute.
 
 Massimo ha avuto il grande merito di basare il suo lavoro su principi importanti che mi hanno aiutato nel campo professionale! 
-Anche se su alcune cose non le condivido!
+Anche se su alcuni aspetti abbiamo opinioni diverse ritengo che questi: 
 
-## I principi del movimento arcaico
+## Principi del movimento arcaico
+
+Siano davvero importanti:
 
 - La natura insegna
 > “Che errore è stato allontanarsi dalla natura! Nella sua varietà, nella sua bellezza, nella sua crudeltà, nella sua infinita, ineguagliabile grandezza c’è tutto il senso della vita.”
@@ -179,8 +181,8 @@ Tiziano terzani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI0MzI1NTIsMTkyMTQwODEyOCw3MT
-Q4MDU0ODgsMTQ1NzMxMzg4MSwxODkxOTM2ODY2LDE0MDY1Nzgx
-MzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkzMDQsLT
-EzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbNTg2MzM5NTE0LDE5MjE0MDgxMjgsNzE0OD
+A1NDg4LDE0NTczMTM4ODEsMTg5MTkzNjg2NiwxNDA2NTc4MTM2
+LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMz
+AyNDQ3NzkwXX0=
 -->
