@@ -353,7 +353,11 @@ Cicli aperti e cicli chiusi
 Puoi provare a fare questo esercizio da seduto o in piedi.
 
 Iniziamo dalla testa prova portare la testa prima avanti e poi indietro rispetto agli altri due centri di gravità che ora 
+
+
+## Svuota la testa l'esercizio che ti propongo qui è un esercizio che serve per liberare la testa quando hai troppi pensieri che ti girano in testa
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNjQ3ODI1LC01MDIxNDgxOTIsLTE4OT
-kzMjI4NTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMzcwNDI3NywtNTAyMTQ4MTkyLC0xOD
+k5MzIyODUxXX0=
 -->
