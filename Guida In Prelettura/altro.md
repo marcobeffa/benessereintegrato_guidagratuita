@@ -197,6 +197,22 @@ L'esercizio serve per spostare l'attenzione del sistema cerebrale modo si crea u
 
 > “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
 > CARY-HIROYUKI TAGAWA
+
+
+
+### parentesi
+*Sicuramente lui li avrebbe espressi con parole migliori.
+Tutte le persone nate a Parma hanno una parlantina che affascina di più rispetto alla parlantina Bresciana.* 
+
+> A volte penso che ogni lingua corrisponda all'attitudine più sviluppata nelle persone di quella zona. 
+
+Essendo nato nella bassa bresciana in cui le attitudini dominanti sono da riferirsi a un misto tra:
+- cultura industriale del ferro e del tondino   
+- cultura edile condivisa nello scenario comune con la provincia bergamasca.
+- cultura agricola
+
+non sono di natura molto portato ai discorsi hahaha! 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTI0MDg5LC0xODk5MzIyODUxXX0=
+eyJoaXN0b3J5IjpbLTkzNzMxOTQ4OSwtMTg5OTMyMjg1MV19
 -->
