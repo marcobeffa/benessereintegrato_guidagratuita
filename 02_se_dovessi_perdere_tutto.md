@@ -93,24 +93,18 @@ Parleremo dei come puoi controllare questi fattori nel capitolo 5 le aree chiave
 
 ### Sull'interno e sull'esterno 
 
-Era come se il mondo interno di Pietro non potesse più comunicare con il mondo estenerno.
-
 Quando nasciamo pian piano impariamo ad usare il corpo, impariamo a interpretarne i segnali che  arrivano dal mondo esterno con i sensi come l'udito la vista il tatto il gusto l'odorato e a metterli d'accordo con le sensazioni che arrivano da dentro. 
 
 I segnali che arrivano da dentro possono essere  fisiologici come, fame, sonno, senso di energia o più emotivi come tristezza rabbia, e pian piano ognuno di noi con i pensieri le immagini e il linguaggio
 impara a farsi una rappresentazione del mondo.
   
-
-## Esercizio
-
-> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
-> CARY-HIROYUKI TAGAWA
+### Ascoltare il mondo interno
 
 Per capire cosa intendo per mondo interno, prova a mettere una mano sulla pancia, porta l'attenzione sulla sensazione tattile del movimento che avviene mentre respiri  cerca di entrare nel ritmo e sentire quanto dura un inspiro quanto un espiro osserva se è veloce lento e fatti trasportare dalle sensazioni, prenditi qualche secondo e chiudi gli occhi per un attimo.
 
 Magari hai sentito solo il ritmo del tuo respiro, ma forse sei riuscito a mollare la presa, hai sentito come se la tensione si sia un pò abbassata, e da li si possono ascoltare molte cose.
 
-Parleremo più avanti di questo mondo interno, e di questa pratica (molti la chiamano meditazione, altri relax, altri l'inizio di pratiche di training autogeno, altri preghiera) per adesso non è necessario dare un nome a questo esercizio, basta imparare a staccare la testa per qualche minuto e già questo è di per se una cura.
+Parleremo più avanti di come si laquesto mondo interno, e di questa pratica (molti la chiamano meditazione, altri relax, altri l'inizio di pratiche di training autogeno, altri preghiera) per adesso non è necessario dare un nome a questo esercizio, basta imparare a staccare la testa per qualche minuto e già questo è di per se una cura.
 
 Pur non essendo certo penso che Pietro era chiuso nel suo mondo interno e aveva perso la capacità di comunicare con il mondo esterno l'esterno. 
 
@@ -182,7 +176,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTQ4NjczNSwxNDU3MzEzODgxLDE4OT
-E5MzY4NjYsMTQwNjU3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEz
-NTAsMTgwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
+eyJoaXN0b3J5IjpbOTIxNzQ5ODQyLDE0NTczMTM4ODEsMTg5MT
+kzNjg2NiwxNDA2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1
+MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
 -->
