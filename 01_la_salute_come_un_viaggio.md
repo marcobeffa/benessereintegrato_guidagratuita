@@ -150,7 +150,7 @@ Il saggio impara dagli errori degli altri”
 
 Ritengo che tu sia una persona saggia e magari hai delle soluzioni che qui non abbiamo colto!
 
-Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure terremo in considerazione le tue osservazioni! 
+Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure le terrò in considerazione! 
 
 Buon viaggio!
 
@@ -160,9 +160,9 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU4MjY3OTcsMjExMzE2MTU1OSwxMD
-k0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0
-NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LD
-YyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAx
-ODA3ODFdfQ==
+eyJoaXN0b3J5IjpbOTM3ODcyOTgwLDIxMTMxNjE1NTksMTA5ND
+gxNTIwLC0yMDc3MzQyODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1
+OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2Mj
+Q5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgw
+NzgxXX0=
 -->
