@@ -52,9 +52,11 @@ Quando pulisci pulisci
 
 > Ho imparato così tanto dai miei errori che sto pensando di continuare a farne.  
 (Anonimo)
+
+Se ci fosse un mezzo per poter leggere questo campo magnetico creato dai pensieri e dalle emozioni forse potremmo scambiarci messaggi come fa un cellulare.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTgxNDI2NywtMTQxMTQxMzUyMiwtMT
-I4OTQzNTc4LC0xMTY4MTMzNjA5LDgwMTI4OTQ3MCwtMTk5MDE5
-MDgwNSwxNDQwNDMxOTAxLC0xMzU4NTcyMjU1LDE2MjczMDYwNT
-VdfQ==
+eyJoaXN0b3J5IjpbMTgxOTkxNTEwMiwyMTI5ODE0MjY3LC0xND
+ExNDEzNTIyLC0xMjg5NDM1NzgsLTExNjgxMzM2MDksODAxMjg5
+NDcwLC0xOTkwMTkwODA1LDE0NDA0MzE5MDEsLTEzNTg1NzIyNT
+UsMTYyNzMwNjA1NV19
 -->
