@@ -10,8 +10,6 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 # La salute come un viaggio
 
-> Se vogliamo vivere bene dobbiamo studiare e capire bene la materia più importante di tutte la vita stessa: 
-> Lucio Anneo Seneca
 
 ## In infradito a scalare l'everest... 
 
@@ -163,9 +161,9 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjY1ODczOCwyMTEzMTYxNTU5LDEwOT
-Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
-NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
-I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
-MDc4MV19
+eyJoaXN0b3J5IjpbLTE4MTAyMjU2MjYsMjExMzE2MTU1OSwxMD
+k0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0
+NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LD
+YyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAx
+ODA3ODFdfQ==
 -->
