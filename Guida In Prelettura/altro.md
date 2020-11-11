@@ -248,8 +248,10 @@ Mancano il canale olfattivo, il canale tattile, e altri pezzi che ora sarebbero 
 
 **Per questo spero come allievo di essere perdonato se utilizzo alcune tecniche fuori dal contesto e spero che se stai leggendo questa guida hai il buon cuore di riflettere profondamente sulle tecniche che ti sto passando. Perchè se prese alla leggera e non provate con calma non  funzionano e rischiano tra virgolette di essere passami il termine "sputtanate"**
 
+-------------
+Il corpo nasconde molto di più di quello che la scienza è riuscita a provare. E anche noi ogni giorno siamo di fronte a qualcosa di nuovo da poter provare che prima non conoscevamo. 
 
-
+> Se anche facessimo ogni minuto una scoperta in una vita non riusciremmo a scoprire tutto. 
 ## Non mettere vino nuovo in otri vecchie
 
 Non avevo mai capito questa frase, fin che un bel giorno a un corso non ci stavo capendo più niente.
@@ -288,6 +290,10 @@ Puoi cercare su padre google e li trovi un sacco di info, ma penso che sia suffi
 -   Analizzare i dati degli esperimenti.
 -   Conclusione sulla base di risultati degli esperimenti.
  
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODI5NjI2LC0xODk5MzIyODUxXX0=
+eyJoaXN0b3J5IjpbLTIxMDkxNjIyNTUsLTE4OTkzMjI4NTFdfQ
+==
 -->
