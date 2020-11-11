@@ -30,8 +30,6 @@ Non era in grado di compiere quei gesti quotidiani che ogni giorno ogni mattina 
 
 Nella mia testa si fecero largo molte domande e tutt’oggi queste domande sono sempre li ben presenti alla mia vista!
 
-Ecco dove era rimasta la mia mente mentre la persona che stavo seguendo operata di protesi d'anca mi stava raccontando dei suoi problemi, avrei voluto farle anche a lui queste domande.
-
 Perchè capitano queste situazioni?
 
 Cosa ha causato l’ictus?
@@ -181,7 +179,7 @@ Tiziano terzani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2MzM5NTE0LDE5MjE0MDgxMjgsNzE0OD
+eyJoaXN0b3J5IjpbNDg0MTA2NjA4LDE5MjE0MDgxMjgsNzE0OD
 A1NDg4LDE0NTczMTM4ODEsMTg5MTkzNjg2NiwxNDA2NTc4MTM2
 LC04NTI3NDQ1NjgsLTI4Nzg4MTM1MCwxODAwMjE5MzA0LC0xMz
 AyNDQ3NzkwXX0=
