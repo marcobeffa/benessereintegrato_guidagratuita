@@ -138,12 +138,12 @@ Il saggio impara dagli errori degli altri”
 Da qui nasce l'idea di creare benessereintegrato
 perchè ritengo che tu sia una persona saggia.
 
-Non ho la pretesa di insegnare niente anzi ho sempre imparato mi piacerebbe passare quello che ho imparato perchè avrei voluto io stesso evitare grossi errori, dolorosi che mi hanno fatto perdere tempo, soldi e a volte anche salute ritengo tu sia una persona saggia!
+Non ho la pretesa di insegnare niente anzi ho sempre imparato da chi mi è stato vicino e conoscendo più persone penso di poter imparare di più. Per questo ti racconto i miei errori e le mie piacerebbe passare quello che ho imparato perchè avrei voluto io stesso evitare grossi errori, dolorosi che mi hanno fatto perdere tempo, soldi e a volte anche salute ritengo tu sia una persona saggia!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMT
-A0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYx
-NDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC
-00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTk2OTg2MDIwOCwtMjA3NzM0Mjg0NSw5MD
+A2MDI1NzYsLTExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1
+NTk4LC0zODAzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLD
+E1Nzc0MTc3MzIsLTQwMDE4MDc4MV19
 -->
