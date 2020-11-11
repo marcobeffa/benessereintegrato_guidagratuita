@@ -57,6 +57,9 @@ Perché intervenire solo quando era così tardi?
 
 Perché non era stato possibile per Pietro avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
 
+### Cause interne e cause esterne!
+
+La nostra salute dipende da cause che arrivano dal nostro esterno e cause che 
 
 ### Da dove nasce BenessereIntegrato.it
 
@@ -150,7 +153,7 @@ Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzMxMzg4MSwxODkxOTM2ODY2LDE0MD
-Y1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLDE4MDAyMTkz
-MDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODU4ODY4ODQsMTQ1NzMxMzg4MSwxOD
+kxOTM2ODY2LDE0MDY1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgx
+MzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
 -->
