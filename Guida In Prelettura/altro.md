@@ -247,6 +247,47 @@ Un esempio veloce è il video, il video passa dal canale visivo e dal canale udi
 Mancano il canale olfattivo, il canale tattile, e altri pezzi che ora sarebbero difficili da spiegare, magari ne parleremo in un altra occasione.
 
 **Per questo spero come allievo di essere perdonato se utilizzo alcune tecniche fuori dal contesto e spero che se stai leggendo questa guida hai il buon cuore di riflettere profondamente sulle tecniche che ti sto passando. Perchè se prese alla leggera e non provate con calma non  funzionano e rischiano tra virgolette di essere passami il termine "sputtanate"**
+
+
+
+## Non mettere vino nuovo in otri vecchie
+
+Non avevo mai capito questa frase, fin che un bel giorno a un corso non ci stavo capendo più niente.
+
+Così il mio professore mi ha detto:
+
+> Lascia andare il tuo vecchio modo di pensare. Lascia spazio alla tua esperienza e dopo trai le conclusioni.
+(Georges Courchinoux)
+
+Spesso partiamo con preconcetti e siamo legati a nozioni che non ci permettono di poter far nascere qualcosa da un nuovo seme! 
+
+E' importante allora quando si inizia una nuova esperienza creare uno spazio nuovo dove l'esperienza possa essere esperita elaborata e solo dopo confrontata con le cose che già sapevamo.
+
+ 
+> La struttura alare del calabrone in relazione al suo peso, non è adatta al volo, ma lui non lo sa e vola lo stesso.
+
+## La scienza vs il metodo scientifico
+
+Quello che spesso succede oggi è di confondere la scienza con il metodo scientifico.
+
+La scienza crea così dogmi e leggi, non è più un modo di pensare ma anzi diventa un limite alle nostre scoperte.
+
+## Il metodo scientifico
+
+Sul metodo scientifico si potrebbe parlare per ore.
+Puoi cercare su padre google e li trovi un sacco di info, ma penso che sia sufficiente ricordare che 
+
+> Il metodo scientifico o metodo sperimentale è la modalità per scoprire la conoscenza di una una realtà oggettiva, non falsificabile e condivisibile.
+
+**Le fasi del metodo scientifico**  si dividono in sei categorie:
+
+-   Enunciato del problema
+-   Ipotesi delle sue cause
+-   Esperimenti destinati a verificare ciascun ipotesi.
+-   Raccogliere i dati degli esperimenti.
+-   Analizzare i dati degli esperimenti.
+-   Conclusione sulla base di risultati degli esperimenti.
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NTIwNTQ1LC0xODk5MzIyODUxXX0=
+eyJoaXN0b3J5IjpbLTY1ODI5NjI2LC0xODk5MzIyODUxXX0=
 -->
