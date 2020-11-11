@@ -26,9 +26,9 @@ Perchè purtroppo la vita ci conduce inaspettatamente  su sentieri difficili e e
 
 > Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
 
-Quando stai viaggiando è consigliabile necessario sia pianificare il percorso, sia iniziare e stare attento dove metti i piedi.
+Quando stai viaggiando è consigliabile pianificare il tuo viaggio scegliere il tuo percorso, e poi in ogni momento dovrai stare attento a dove metti i piedi.
 
-> Il terapista è come una guida di montagna ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
+> Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
 
 Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per recuperare o migliorare la loro salute e il loro benessere.
@@ -120,7 +120,7 @@ Ecco i posti in cui ho lavorato, studiato e fatto corsi:
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NjAwMTM2LDkwMDYwMjU3NiwtMTEwND
+eyJoaXN0b3J5IjpbMjYzMzMyMTM2LDkwMDYwMjU3NiwtMTEwND
 EwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQw
 NCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtND
 AwMTgwNzgxXX0=
