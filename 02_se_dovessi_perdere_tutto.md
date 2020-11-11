@@ -147,44 +147,50 @@ Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata s
 
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
-## Tecnica di fisioterapia avanzata il metodo Corpo e Coscienza di Georges Courchinoux
+
+## Il Movimento arcaico
 
 
-## Uno strano modo di fare fisioterapia
 
-Mi trovavo a Leno come tirocinante qui incontrai per la prima volta il metodo corpo e coscienza ideato da Georges Courchinoux.
+Il movimento arcaico ideato da Massimo Mondini non è una filosofia e un corso aperto a tutti non solo ai professionisti della salute.
 
-Vittorio Corberi un fisioterapista in gamba che purtroppo ha lasciato questo mondo, usava un modo strano di fare la riabilitazione.
-Così semplice che era quasi disarmante, ma di una raffinatezza e complessità intellettuale che mi lasciò incantato.
+Pur non condividendo Tutto al 100% Massimo ha avuto il grande merito di usare principi importanti che mi hanno aiutato nel mio lavoro professionale!
 
-Mentre si lavorava sulle articolazioni sui muscoli con i movimenti Vittorio raccontava come il corpo riassume in piccolo la rappresentazione di tutto quello che accade durante nella natura durante il giorno, e durante l'anno.
+### parentesi
+*Sicuramente lui li avrebbe espressi con parole migliori.
+Tutte le persone nate a Parma hanno una parlantina che affascina di più rispetto alla parlantina Bresciana.* 
 
-Il corpo è legato all'ambiente ai cicli del giorno delle stagioni al ritmo luce buio.
+> A volte penso che ogni lingua corrisponda all'attitudine più sviluppata nelle persone di quella zona. 
 
-E ogni funzione ogni organo è un ingranaggio che si incastra in questo meccanismo meraviglioso.
+Essendo io della bassa bresciana in cui le attitudini dominanti sono da riferirsi a un misto tra:
+- cultura industriale del ferro e del tondino   
+- cultura edile condivisa nello scenario comune con la provincia bergamasca.
+- cultura agricola
 
-Fu qui che per la prima volta sentii parlare di medicina cinese. 
+non sono di natura molto portato ai discorsi hahaha! 
 
-## Corpo Mente 
+## I principi del movimento arcaico
 
-Possiamo considerare il nostro corpo come 2 parti fuse una nell'altra:
- 
-- Corpo, Materia
-- Mente o meglio (Coscienza), Energia
-
-Per corpo intendiamo tutta la parte fisica. Il nostro corpo è l'aspetto fisico della mente. 
-
-Questo concetto è difficile ma è molto potente. 
-La parte fisica è l'esatta corrispondenza nel mondo fisico del fenomeno della nostra (mente coscienza). ll corpo è il circuito che ne permette l'esistenza e fa sia da supporto ma esso stesso è parte della mente-coscienza. 
-
-Possiamo sperimentare tutto questo con questo fantastico metodo somato-psichico di ginnastica dolce ideato da Georges Courchinoux.
-
-Inutile dire che mi ha fin da subito appassionato ed è diventato il mio metodo di riabilitazione e cura preferito.
+- La natura insegna
+- L'ambiente è la nostra palestra naturale, se non riceviamo abbastanza stimoli dall'ambiente il nostro corpo funziona male:
+	- Camminare su superfici piane
+	- Stare troppo seduti
+	- Non avere ostacoli da superare
+	- Impoverire i nostri gesti e i nostri schemi motori quotidiani
+- Alcuni movimenti necessari per la soppravvivenza hanno permesso l'evoluzione del nostro sistema muscolo scheletrico:
+	- Quadrupedia 
+	- Salto
+	- Corsa
+	- Arrampicata
+	- Lancio
+- Libera i tuoi movimenti e Istintivamente il corpo ritroverà la salute
+- Passare del tempo in un ambiente naturale è già questa una cura
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0ODA1NDg4LDE0NTczMTM4ODEsMTg5MT
-kzNjg2NiwxNDA2NTc4MTM2LC04NTI3NDQ1NjgsLTI4Nzg4MTM1
-MCwxODAwMjE5MzA0LC0xMzAyNDQ3NzkwXX0=
+eyJoaXN0b3J5IjpbMTkyMTQwODEyOCw3MTQ4MDU0ODgsMTQ1Nz
+MxMzg4MSwxODkxOTM2ODY2LDE0MDY1NzgxMzYsLTg1Mjc0NDU2
+OCwtMjg3ODgxMzUwLDE4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ
+==
 -->
