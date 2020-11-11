@@ -10,7 +10,7 @@ In alcuni casi i medici preparati in situazioni rischiose grazie alle loro compe
 
 # La salute come un viaggio
 
-## In infradito a scalare l'everest... Lo stato d'animo, la prima cosa su cui puoi lavorare.
+## In infradito a scalare l'everest... 
 
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
@@ -18,7 +18,7 @@ Spesso come fisioterapista si sono rivolte a me persone che stavano tentando
 
 > Di scalare l'everest in infradito.
 
-A meno che tu non sia uno scerpa nato li io te lo sconsiglio vivamente! 
+A meno che tu non sia uno scerpa o che tu sia nato e vissuto li su quelle cime, ti sconsiglio vivamente di scalare l'Everest in infradito! 
 
 E' per questo che ho preparato questa guida.
 
@@ -153,9 +153,9 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQyNjA3NTQsMjExMzE2MTU1OSwxMD
-k0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2LC0xMTA0MTA0
-NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMzgwMzYxNDA0LD
-YyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3NzMyLC00MDAx
-ODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTI5NjU5NTg5LDIxMTMxNjE1NTksMTA5ND
+gxNTIwLC0yMDc3MzQyODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1
+OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2Mj
+Q5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgw
+NzgxXX0=
 -->
