@@ -333,11 +333,17 @@ Puoi cercare su padre google e li trovi un sacco di info, ma penso che sia suffi
 -   Conclusione sulla base di risultati degli esperimenti.
  
 
-
 >**I libri letti sono molto meno preziosi di quelli non letti**. Una biblioteca dovrebbe contenere la maggior parte di quello che non sappiamo. Accumuleremo sempre più libri e conoscenza, man mano che invecchieremo, e il numero crescente di libri non letti sugli scaffali ci guarderà in maniera sempre più minacciosa. Infatti, più aumenta il nostro sapere, più si allarga il numero di libri da leggere. Questa collezione di libri non letti possiamo chiamarla **anti-biblioteca**. 
 Umberto Eco
 > Tratto da (https://www.glistatigenerali.com/eventi-festival_letteratura/umberto-eco-biblioteca-libri-non-letti/)
 
+Come le onde che trasmettono un messaggio sullo smartphone.
+
+Certo non possiamo scambiarci messaggi come fa un cellulare. 
+
+> C'è elettricità nell'aria
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjE0ODE5MiwtMTg5OTMyMjg1MV19
+eyJoaXN0b3J5IjpbLTQzNDcxMTMyNywtNTAyMTQ4MTkyLC0xOD
+k5MzIyODUxXX0=
 -->
