@@ -132,14 +132,14 @@ Un corso per ritornare bambini che assurdità!
 
 Il corso che ti insegna ad agire da una posizione generativa! Trova la posizione generativa! Non devi partire da una posizione di bisogno! 
 
-<a href="http://dspace.unive.it/bitstream/handle/10579/4102/784783-53260.pdf?sequence=2"> </a>
+<a href="http://dspace.unive.it/bitstream/handle/10579/4102/784783-53260.pdf?sequence=2">Chiara Fornasiero nella sua tesi</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgzMTgzMjAsLTgxMTU1NjIwMywtNj
-c5ODA0MDcxLDIxMTMxNjE1NTksMTA5NDgxNTIwLC0yMDc3MzQy
-ODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLD
-EyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4
-NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbMTgwNTcxMjg2MiwtODExNTU2MjAzLC02Nz
+k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
+NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
+IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
+MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
 -->
