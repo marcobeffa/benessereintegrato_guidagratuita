@@ -128,16 +128,19 @@ Come mai chi ha entusiasmo riesce molto di più Perchè l'entusiasmo è contagio
 
 ## Mythoself experiences
 
-Il corso che tiTrova la posizione generativa! La posizione generativa 
+Un corso per ritornare bambini che assurdità! 
+
+Il corso che ti insegna ad agire da una posizione generativa! Trova la posizione generativa! Non devi partire da una posizione di bisogno! 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc5Mjg3NzgsLTgxMTU1NjIwMywtNj
-c5ODA0MDcxLDIxMTMxNjE1NTksMTA5NDgxNTIwLC0yMDc3MzQy
-ODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLD
-EyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4
-NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbMjEyODA1NzQ5LC04MTE1NTYyMDMsLTY3OT
+gwNDA3MSwyMTEzMTYxNTU5LDEwOTQ4MTUyMCwtMjA3NzM0Mjg0
+NSw5MDA2MDI1NzYsLTExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMj
+E4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQx
+OTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV19
 -->
