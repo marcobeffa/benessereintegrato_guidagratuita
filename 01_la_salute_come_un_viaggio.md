@@ -119,14 +119,15 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
 
-# Mytho
+## Mythoself experiences
 
+La posizione generativa
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjMxMTMzOCwyMTEzMTYxNTU5LDEwOT
+eyJoaXN0b3J5IjpbMTc0OTcwNDc3NywyMTEzMTYxNTU5LDEwOT
 Q4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2
 NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNj
 I0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4
