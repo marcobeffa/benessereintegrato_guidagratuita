@@ -129,8 +129,9 @@ Mythoself è un corso che ti reinsegna a pensare come bambini.
 Un corso per ritornare bambini che assurdità! 
 La prima cosa che ti chiederai vale la pena spender tempo e soldi per un corso del genere?
 
-
-Il corso che ti insegna ad agire da una posizione generativa! Trova la posizione generativa! Non devi partire da una posizione di bisogno! 
+Il corso che ti insegna ad agire da una posizione generativa! 
+In cui si parte da una posizione di equilibrio
+Trova la posizione generativa! Non devi partire da una posizione di bisogno! 
 
 ## Contagiati dall'entusiasmo!
 
@@ -143,7 +144,7 @@ Se vuoi approfondie l'argomento un corso per ritornare bambini che assurdità.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjUyNTIwNiwtODExNTU2MjAzLC02Nz
+eyJoaXN0b3J5IjpbMTAzMDgzODYwNywtODExNTU2MjAzLC02Nz
 k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
 NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
 IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
