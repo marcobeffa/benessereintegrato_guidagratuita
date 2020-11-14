@@ -125,6 +125,8 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 ## Mythoself experiences
 
+Mythoself è un corso che ti reinsegna a pensare come bambini l'ha prima cosa che ti chiederai vale la pena spender tempo e soldi per un corso del genere?
+
 Un corso per ritornare bambini che assurdità! 
 
 Il corso che ti insegna ad agire da una posizione generativa! Trova la posizione generativa! Non devi partire da una posizione di bisogno! 
@@ -134,15 +136,15 @@ Il corso che ti insegna ad agire da una posizione generativa! Trova la posizione
 Come mai chi ha entusiasmo riesce molto di più Perchè l'entusiasmo è contagioso! 
 
 
-Per approfondire un corso per ritornare bambini che assurdità.
+Se vuoi approfondie l'argomento un corso per ritornare bambini che assurdità.
 <a href="http://dspace.unive.it/bitstream/handle/10579/4102/784783-53260.pdf?sequence=2">Chiara Fornasiero nella sua tesi</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYyMzI0MzEsLTgxMTU1NjIwMywtNj
-c5ODA0MDcxLDIxMTMxNjE1NTksMTA5NDgxNTIwLC0yMDc3MzQy
-ODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLD
-EyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4
-NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbLTUzMzk5MDU4MSwtODExNTU2MjAzLC02Nz
+k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
+NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
+IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
+MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
 -->
