@@ -121,16 +121,21 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
 
-## La capoeira Ido Portal just move
-
-La filosofia di ido portal è una delle
+## La capoeira e Ido Portal 
 
 
 
+La capoeira è un arte marziale nata tra gli schiavi 
+
+filosofia di ido portal è una delle filosofie che mi
+
+
+# just move
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzc4Mzc3MCwtODExNTU2MjAzLC02Nz
-k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
-NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
-IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
-MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbMjU3ODk4MDI4LC0zMjc3ODM3NzAsLTgxMT
+U1NjIwMywtNjc5ODA0MDcxLDIxMTMxNjE1NTksMTA5NDgxNTIw
+LC0yMDc3MzQyODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1OCwxNT
+czODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5Mzkw
+NDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX
+0=
 -->
