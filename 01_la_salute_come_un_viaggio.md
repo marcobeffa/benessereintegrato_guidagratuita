@@ -124,20 +124,20 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 ## Contagiati dall'entusiasmo!
 
-Come mai chi ha entusiasmo riesce molto di più Perchè l'entusiasmo è contagioso
+Come mai chi ha entusiasmo riesce molto di più Perchè l'entusiasmo è contagioso! 
 
 ## Mythoself experiences
 
-La posizione generativa 
+Il corso che tiTrova la posizione generativa! La posizione generativa 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTAzNzUyMywtODExNTU2MjAzLC02Nz
-k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
-NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
-IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
-MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTE3MDc5Mjg3NzgsLTgxMTU1NjIwMywtNj
+c5ODA0MDcxLDIxMTMxNjE1NTksMTA5NDgxNTIwLC0yMDc3MzQy
+ODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLD
+EyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4
+NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
