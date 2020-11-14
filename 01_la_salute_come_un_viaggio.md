@@ -125,20 +125,19 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 ## Contagiati dall'entusiasmo!
 
 Come mai chi ha entusiasmo riesce molto di più Perchè l'entusiasmo è contagioso
+
 ## Mythoself experiences
 
 La posizione generativa 
 
 
-**Platone diceva che “il Vero si nasconde dietro al Bello” ed ecco che la Bellezza, la Meraviglia, sono la porta per la Verità**.
 
-> Stare nella Meraviglia, in pratica,  **significa riconoscere un’Anima alle cose**, così che esse non siano solo più il nostro riflesso (o un giudizio), ma sia cariche della loro vita e, quindi, di informazioni e segreti per noi.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTU1NjIwMywtNjc5ODA0MDcxLDIxMT
-MxNjE1NTksMTA5NDgxNTIwLC0yMDc3MzQyODQ1LDkwMDYwMjU3
-NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLT
-M4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQx
-NzczMiwtNDAwMTgwNzgxXX0=
+eyJoaXN0b3J5IjpbLTc3NTAzNzUyMywtODExNTU2MjAzLC02Nz
+k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
+NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
+IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
+MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
 -->
