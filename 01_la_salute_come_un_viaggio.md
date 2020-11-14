@@ -121,16 +121,16 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
 
-## Ido Portal
+## La capoeira Ido Portal just move
 
 La filosofia di ido portal è una delle
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NTAwNjU2LC04MTE1NTYyMDMsLTY3OT
-gwNDA3MSwyMTEzMTYxNTU5LDEwOTQ4MTUyMCwtMjA3NzM0Mjg0
-NSw5MDA2MDI1NzYsLTExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMj
-E4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQx
-OTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbLTMyNzc4Mzc3MCwtODExNTU2MjAzLC02Nz
+k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
+NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
+IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
+MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
 -->
