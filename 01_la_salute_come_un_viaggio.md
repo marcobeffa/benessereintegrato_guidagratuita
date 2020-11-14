@@ -130,18 +130,19 @@ La capoeira è un arte marziale nata tra gli schiavi
 
 filosofia di ido portal è una delle filosofie che mi
 
-## L'aikido la capoeira dei nonni
 
 
 ## Ido portal 
 
 
-# just move
+### Just move
+
+L'importante è muoversi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzU1ODgyNSwtMzI3NzgzNzcwLC04MT
-E1NTYyMDMsLTY3OTgwNDA3MSwyMTEzMTYxNTU5LDEwOTQ4MTUy
-MCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2NTgsMT
-U3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5
-MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV
-19
+eyJoaXN0b3J5IjpbLTExMTAyMTI1OTAsLTUxMzU1ODgyNSwtMz
+I3NzgzNzcwLC04MTE1NTYyMDMsLTY3OTgwNDA3MSwyMTEzMTYx
+NTU5LDEwOTQ4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLT
+ExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAz
+NjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3Mz
+IsLTQwMDE4MDc4MV19
 -->
