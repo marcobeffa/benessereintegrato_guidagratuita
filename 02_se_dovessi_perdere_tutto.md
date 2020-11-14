@@ -142,41 +142,35 @@ Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata s
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
 
-## Il Movimento arcaico
+## Prendere contatto con il mondo interno Lo sport, le tecniche corporee, le arti marziali, il ballo, il teatro, 
 
-Il movimento arcaico ideato da Massimo Mondini non è una filosofia e un corso aperto a tutti non solo ai professionisti della salute.
+Dopo essermi laureato in fisioterapia ho frequentato molti corsi che lavoravano a livello corporeo.
 
-Massimo ha avuto il grande merito di basare il suo lavoro su principi importanti che mi hanno aiutato nel campo professionale! 
-Anche se su alcuni aspetti abbiamo opinioni diverse ritengo che questi: 
+Ogni attività ha delle caratteristiche particolari e lavorano su aspetti corporei.
 
-## Principi del movimento arcaico
+Lo yoga, il tai chi, il feldenkrais, il kung fu, l'aikido, il ballo liscio, bougy, latino americano, le lezioni di teatro sono tutte discipline che utilizzano il corpo come espressione corporea.
 
-Siano davvero importanti:
+Sono ottime abitudini che oltre a tenerti in forma possono farti scoprire aspetti nuovi di te che non conoscevi.
 
-- La natura insegna
-> “Che errore è stato allontanarsi dalla natura! Nella sua varietà, nella sua bellezza, nella sua crudeltà, nella sua infinita, ineguagliabile grandezza c’è tutto il senso della vita.”
-Tiziano terzani
+Questi lavori sfruttano molti meccanismi che altrimenti verrebbero difficilmente utilizzati:
+ 
+- il movimento espressivo
+- il ritmo 
+- il contatto fisico
+- la voce
+- l'uso del respiro
+- la coordinazione
+- la postura
+- il controllo del movimento
+- l'ascolto della musica
+- la preparazione fisica
 
-- L'ambiente è la nostra palestra naturale, se non riceviamo abbastanza stimoli dall'ambiente il nostro corpo funziona male:
-	- Camminare su superfici piane
-	- Stare troppo seduti
-	- Non avere ostacoli da superare
-	- Impoverire i nostri gesti e i nostri schemi motori quotidiani
-- Alcuni movimenti necessari per la soppravvivenza hanno permesso l'evoluzione del nostro sistema muscolo scheletrico:
-	- Quadrupedia 
-	- Salto
-	- Corsa
-	- Arrampicata
-	- Lancio
-- Libera i tuoi movimenti e Istintivamente il corpo ritroverà la salute
-- Passare del tempo in un ambiente naturale è già questa una cura
-
-> “Questo è un altro aspetto rasserenante della natura: la sua immensa bellezza è lì per tutti. Nessuno può pensare di portarsi a casa un'alba o un tramonto.”
-
+Si ha una vera e propria educazione alla corporeità! 
+Questi se fatti bene sono veri e propri lavori somato psichici che aiutano a crescere e riescono ad armonizzare il corpo e la mente di chi li pratica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDY0ODA4NjgsLTExNTg2MzYxMzUsMT
-kyMTQwODEyOCw3MTQ4MDU0ODgsMTQ1NzMxMzg4MSwxODkxOTM2
-ODY2LDE0MDY1NzgxMzYsLTg1Mjc0NDU2OCwtMjg3ODgxMzUwLD
-E4MDAyMTkzMDQsLTEzMDI0NDc3OTBdfQ==
+eyJoaXN0b3J5IjpbMjA5MjYwMjA2NSwtMTE1ODYzNjEzNSwxOT
+IxNDA4MTI4LDcxNDgwNTQ4OCwxNDU3MzEzODgxLDE4OTE5MzY4
+NjYsMTQwNjU3ODEzNiwtODUyNzQ0NTY4LC0yODc4ODEzNTAsMT
+gwMDIxOTMwNCwtMTMwMjQ0Nzc5MF19
 -->
