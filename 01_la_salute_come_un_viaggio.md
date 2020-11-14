@@ -120,33 +120,17 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
-> “Se ti limiti a guardare senza giudicare, la meraviglia è nell’osservare” – Bruce Lee
 
+## Ido Portal
 
-## Mythoself experiences
-
-Mythoself è un corso che ti reinsegna a pensare come bambini.
-Un corso per ritornare bambini che assurdità! 
-La prima cosa che ti chiederai vale la pena spender tempo e soldi per un corso del genere?
-
-Il corso che ti insegna ad agire da una posizione generativa! 
-In cui si parte da una posizione di equilibrio
-Trova la posizione generativa! Non devi partire da una posizione di bisogno! 
-
-## Contagiati dall'entusiasmo!
-
-Come mai chi ha entusiasmo riesce molto di più Perchè l'entusiasmo è contagioso! 
-
-
-Se vuoi approfondie l'argomento un corso per ritornare bambini che assurdità.
-<a href="http://dspace.unive.it/bitstream/handle/10579/4102/784783-53260.pdf?sequence=2">Chiara Fornasiero nella sua tesi</a>
+La filosofia di ido portal è una delle
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDgzODYwNywtODExNTU2MjAzLC02Nz
-k4MDQwNzEsMjExMzE2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4
-NDUsOTAwNjAyNTc2LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMT
-IxODczNTU5OCwtMzgwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0
-MTk3MywxNTc3NDE3NzMyLC00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbNTE5NTAwNjU2LC04MTE1NTYyMDMsLTY3OT
+gwNDA3MSwyMTEzMTYxNTU5LDEwOTQ4MTUyMCwtMjA3NzM0Mjg0
+NSw5MDA2MDI1NzYsLTExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMj
+E4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQx
+OTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV19
 -->
