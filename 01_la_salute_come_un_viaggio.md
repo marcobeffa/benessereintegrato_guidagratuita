@@ -130,12 +130,15 @@ Come mai chi ha entusiasmo riesce molto di più Perchè l'entusiasmo è contagio
 La posizione generativa 
 
 
+**Platone diceva che “il Vero si nasconde dietro al Bello” ed ecco che la Bellezza, la Meraviglia, sono la porta per la Verità**.
+
+> Stare nella Meraviglia, in pratica,  **significa riconoscere un’Anima alle cose**, così che esse non siano solo più il nostro riflesso (o un giudizio), ma sia cariche della loro vita e, quindi, di informazioni e segreti per noi.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4MTMxNzI5LC02Nzk4MDQwNzEsMjExMz
-E2MTU1OSwxMDk0ODE1MjAsLTIwNzczNDI4NDUsOTAwNjAyNTc2
-LC0xMTA0MTA0NjU4LDE1NzM4MDMyOTIsMTIxODczNTU5OCwtMz
-gwMzYxNDA0LDYyNDkzOTA0NSwtMTc2OTg0MTk3MywxNTc3NDE3
-NzMyLC00MDAxODA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTgxMTU1NjIwMywtNjc5ODA0MDcxLDIxMT
+MxNjE1NTksMTA5NDgxNTIwLC0yMDc3MzQyODQ1LDkwMDYwMjU3
+NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLDEyMTg3MzU1OTgsLT
+M4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4NDE5NzMsMTU3NzQx
+NzczMiwtNDAwMTgwNzgxXX0=
 -->
