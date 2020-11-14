@@ -124,7 +124,6 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 ## La capoeira e Ido Portal 
 
 
-
 La capoeira è un arte marziale nata tra gli schiavi 
 
 filosofia di ido portal è una delle filosofie che mi
@@ -132,10 +131,10 @@ filosofia di ido portal è una delle filosofie che mi
 
 # just move
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3ODk4MDI4LC0zMjc3ODM3NzAsLTgxMT
-U1NjIwMywtNjc5ODA0MDcxLDIxMTMxNjE1NTksMTA5NDgxNTIw
-LC0yMDc3MzQyODQ1LDkwMDYwMjU3NiwtMTEwNDEwNDY1OCwxNT
-czODAzMjkyLDEyMTg3MzU1OTgsLTM4MDM2MTQwNCw2MjQ5Mzkw
-NDUsLTE3Njk4NDE5NzMsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX
-0=
+eyJoaXN0b3J5IjpbLTE2ODAwMzk0MiwtMzI3NzgzNzcwLC04MT
+E1NTYyMDMsLTY3OTgwNDA3MSwyMTEzMTYxNTU5LDEwOTQ4MTUy
+MCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLTExMDQxMDQ2NTgsMT
+U3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAzNjE0MDQsNjI0OTM5
+MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3MzIsLTQwMDE4MDc4MV
+19
 -->
