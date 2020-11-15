@@ -1,12 +1,5 @@
 
-> “Non guariamo nessuno. Ognuno si ammala e guarisce da solo. Noi siamo lí a porgere il cerottino o un po’ di fiducia.”  
-LUCIANO LIGABUE
 
-Ti voglio dare il benvenuto con questa frase perchè penso che il compito di ogni professionista della salute e del benessere sia quello di accompagnare una persona.
-
-Sicuramente la competenza è fondamentale ogni professione e professionista hanno ruoli diversi per risolvere problemi anche complessi che necessitano della giusta formazione e competenza per essere affrontati. 
-
-In alcuni casi i medici preparati in situazioni rischiose grazie alle loro competenze e  abilità possono salvarci la vita, ma è importante ricordare che il professionista della salute e del benessere è anche li per accompagnare la persona nel suo percorso come una guida di montagna ti porta attraverso sentieri per giungere a una meta o come un giardiniere che si prende cura del tuo giardino lavorandolo per far crescere poi piante e fiori.
 
 # La salute come un viaggio
 
@@ -139,10 +132,10 @@ filosofia di ido portal è una delle filosofie che mi
 
 L'importante è muoversi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAyMTI1OTAsLTUxMzU1ODgyNSwtMz
-I3NzgzNzcwLC04MTE1NTYyMDMsLTY3OTgwNDA3MSwyMTEzMTYx
-NTU5LDEwOTQ4MTUyMCwtMjA3NzM0Mjg0NSw5MDA2MDI1NzYsLT
-ExMDQxMDQ2NTgsMTU3MzgwMzI5MiwxMjE4NzM1NTk4LC0zODAz
-NjE0MDQsNjI0OTM5MDQ1LC0xNzY5ODQxOTczLDE1Nzc0MTc3Mz
-IsLTQwMDE4MDc4MV19
+eyJoaXN0b3J5IjpbMTU2OTU1MDkzMiwtMTExMDIxMjU5MCwtNT
+EzNTU4ODI1LC0zMjc3ODM3NzAsLTgxMTU1NjIwMywtNjc5ODA0
+MDcxLDIxMTMxNjE1NTksMTA5NDgxNTIwLC0yMDc3MzQyODQ1LD
+kwMDYwMjU3NiwtMTEwNDEwNDY1OCwxNTczODAzMjkyLDEyMTg3
+MzU1OTgsLTM4MDM2MTQwNCw2MjQ5MzkwNDUsLTE3Njk4NDE5Nz
+MsMTU3NzQxNzczMiwtNDAwMTgwNzgxXX0=
 -->
