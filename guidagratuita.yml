@@ -1,0 +1,26 @@
+course:
+  title: "Guida Gratuita"
+  link_file: "lib/course/guidagratuita.yml"
+  type: course
+  author: "Mark Postura"
+  image_tag: "home/mark_postura.png"
+
+  file_chapters:
+    0:
+      date_last_release:
+      header: true
+      title: "00 intro"
+      description: "introduzione alla guida Benessere Integrato"
+      link_github: 000_intro
+      chapter: 000_intro
+      author:
+      image_tag:
+    1:
+      date_last_release:
+      header: true
+      title: "01 La salute come un viaggio"
+      description: "In infradito a scalare l'Everest... Lo stato d'animo, la prima cosa su cui puoi lavorare."
+      link_github: 001_la_salute_come_un_viaggio
+      chapter: 001_la_salute_come_un_viaggio
+      author:
+      image_tag:
