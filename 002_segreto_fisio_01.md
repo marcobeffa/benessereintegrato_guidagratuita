@@ -84,7 +84,7 @@ Ogni giorno è un nuovo inizio hai sempre la possibilità di decidere di poter c
 
 
 
-## La visione - 
+## La visione - accorgersi che si può cambiare ogni giorno e trovare dove
 
 ## IL potere delle decisioni e delle scelte tagliare i rami secchi
 
@@ -92,5 +92,5 @@ La vi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MjcwNjI4LDE2Nzg1MTA0OV19
+eyJoaXN0b3J5IjpbMTIxMzkyMzM3NCwxNjc4NTEwNDldfQ==
 -->
