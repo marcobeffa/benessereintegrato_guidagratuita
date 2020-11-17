@@ -90,7 +90,10 @@ Il nostro stato d'animo è la capacità di prendere padronanza con questo e sape
 
 Pensieri ed emozioni sono legati con la secrezione ormonale 
 
-una cosa semplice per restare 
+## una cosa semplice 
+
+Osservare e accorgesi meravigliarsi chiedersi il perchè s
+
 
 ## Il modo di vedere le cose è ciò che influenza la nostra secrezione ormonale
 
@@ -106,5 +109,5 @@ Es.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA3MTM3MjddfQ==
+eyJoaXN0b3J5IjpbMjA0OTE3MzE5OF19
 -->
