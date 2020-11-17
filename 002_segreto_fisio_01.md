@@ -78,10 +78,13 @@ filosofia di ido portal è una delle filosofie che mi
 
 ### Just move
 
-L'importante è muoversi
+L'importante è accorgersi e iniziare a muoversi 
+
+
+# Cicli 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTU4OTA0XX0=
+eyJoaXN0b3J5IjpbLTE1NjA4NTc2MDBdfQ==
 -->
