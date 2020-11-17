@@ -92,7 +92,16 @@ Pensieri ed emozioni sono legati con la secrezione ormonale
 
 Se per esempio fate un pensiero che vi rende tristi
 
-## Il modo di vedere le cose è ciò che influen
+## Il modo di vedere le cose è ciò che influenza la nostra secrezione ormonale
+
+In base al modello del realtà che ti costruisci fai si che il tuo corpo secerna ormoni diversi.
+
+# Il tono muscolare l'equilibrio il soffio e l'atteggiamento mentale 
+
+
+Es.  
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE2ODQzNTZdfQ==
+eyJoaXN0b3J5IjpbLTE1ODgxMDc2MTBdfQ==
 -->
