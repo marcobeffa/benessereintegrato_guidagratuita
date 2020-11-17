@@ -86,7 +86,13 @@ Lo stato d'animo è legato alla capacità di controllare il nostro aspetto ormon
 
 In ogni istante il nostro corpo produce e secerne migliaia di ormoni, siamo un vero e proprio laboratorio chimico
 
-ç
+Il nostro stato d'animo è la capacità di prendere padronanza con questo e saper guidare questo meraviglioso laboratorio
+
+Pensieri ed emozioni sono legati con la secrezione ormonale 
+
+Se per esempio fate un pensiero che vi rende tristi
+
+## Il modo di vedere le cose è ciò che influen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzMzODMyMF19
+eyJoaXN0b3J5IjpbLTIwMzE2ODQzNTZdfQ==
 -->
