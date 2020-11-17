@@ -90,13 +90,18 @@ Il nostro stato d'animo è la capacità di prendere padronanza con questo e sape
 
 Pensieri ed emozioni sono legati con la secrezione ormonale 
 
-## una cosa semplice e complessa
+## Smascherare le abitudini
 
+
+## Una cosa semplice e complessa
+Una domanda accorgersi del perchè delle cose
+Accorgersi e iniziare a osservare le cose
 Lavorare con il sistema percezione 
 Osservare e accorgesi meravigliarsi chiedersi il perchè stupirsi 
 Meravigliarsi
 
 Questo fa cambiare il sistema percettivo
+
 
 
 
@@ -114,5 +119,5 @@ Es.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc0NzQ2NjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDg4MzQ5NTddfQ==
 -->
