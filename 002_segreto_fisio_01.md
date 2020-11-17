@@ -90,9 +90,12 @@ Il nostro stato d'animo è la capacità di prendere padronanza con questo e sape
 
 Pensieri ed emozioni sono legati con la secrezione ormonale 
 
-Se per esempio fate un pensiero che vi rende tristi
+una cosa semplice per restare 
 
 ## Il modo di vedere le cose è ciò che influenza la nostra secrezione ormonale
+
+Se per esempio fate un pensiero che vi rende tristi
+
 
 In base al modello del realtà che ti costruisci fai si che il tuo corpo secerna ormoni diversi.
 
@@ -103,5 +106,5 @@ Es.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgxMDc2MTBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjA3MTM3MjddfQ==
 -->
