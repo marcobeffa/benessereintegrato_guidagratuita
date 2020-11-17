@@ -80,45 +80,8 @@ filosofia di ido portal è una delle filosofie che mi
 
 L'importante è muoversi
 
-# Una cura potente e gratuita alla portata di tutti ma proprio di tutti che puoi iniziare a prendere fin da subito
-
-Lo stato d'animo è legato alla capacità di controllare il nostro aspetto ormonale.
-
-In ogni istante il nostro corpo produce e secerne migliaia di ormoni, siamo un vero e proprio laboratorio chimico
-
-Il nostro stato d'animo è la capacità di prendere padronanza con questo e saper guidare questo meraviglioso laboratorio
-
-Pensieri ed emozioni sono legati con la secrezione ormonale 
-
-## Smascherare le abitudini
-
-Le abitudini sono uno cosa profonda non solo uno schema di pensiero, uno schema nella costruzione delle percezioni
-
-## Una cosa semplice e complessa
-Una domanda accorgersi del perchè delle cose
-Accorgersi e iniziare a osservare le cose
-Lavorare con il sistema percezione 
-Osservare e accorgesi meravigliarsi chiedersi il perchè stupirsi 
-Meravigliarsi
-
-Questo fa cambiare il sistema percettivo
-
-
-
-
-## Il modo di vedere le cose è ciò che influenza la nostra secrezione ormonale
-
-Se per esempio fate un pensiero che vi rende tristi
-
-
-In base al modello del realtà che ti costruisci fai si che il tuo corpo secerna ormoni diversi.
-
-# Il tono muscolare l'equilibrio il soffio e l'atteggiamento mentale 
-
-
-Es.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTQyNTQwXX0=
+eyJoaXN0b3J5IjpbMTY1MTU4OTA0XX0=
 -->
