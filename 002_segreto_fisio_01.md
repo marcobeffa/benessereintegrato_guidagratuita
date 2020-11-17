@@ -75,8 +75,15 @@ Ogni giorno è un nuovo inizio hai sempre la possibilità di decidere di poter c
 ## apprendimento è circolare perchè non impariamo subito
 
 
-## Si invecchia quando il nostro sistema or
+## Si invecchia quando il nostro sistema ormonale perde la capacità di adattarsi agli ambienti esterni
+
+
+## Rifiuto di adattarmi a una condizione che non mi piace resistenza all'adattamento o adattamento a nuove condizioni interne ed esterne
+
+## Adattarsi a un nuovo modo 
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI0OTg1MjldfQ==
+eyJoaXN0b3J5IjpbMTY3ODUxMDQ5XX0=
 -->
