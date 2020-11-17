@@ -66,6 +66,17 @@ L'importante è accorgersi e iniziare a muoversi
 
 Ogni giorno è un nuovo inizio hai sempre la possibilità di decidere di poter cambiare la tua posizione attuale se non ti piace.
 
+## Ogni cosa che facciamo ha un impatto immediato sul nostro sistema nervoso e ormonale
+
+## L'adattamento la memoria delle abitudini
+
+## resistenza al cambiamento 
+
+## apprendimento è circolare perchè non impariamo subito
+
+
+## Si invecchia quando il nostro sistema or
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQwMjYyNThdfQ==
+eyJoaXN0b3J5IjpbLTExODI0OTg1MjldfQ==
 -->
