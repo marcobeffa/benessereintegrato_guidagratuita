@@ -83,8 +83,8 @@ L'importante è accorgersi e iniziare a muoversi
 
 # Cicli 
 
-Ogni giorno è un nuovo inizio
+Ogni giorno è un nuovo inizio hai sempre la possibilità di decidere di poter cambiare la tua posizione attuale se non ti piace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg2NjcxNDldfQ==
+eyJoaXN0b3J5IjpbMTk1MzA2NDA2Ml19
 -->
