@@ -92,6 +92,7 @@ Pensieri ed emozioni sono legati con la secrezione ormonale
 
 ## Smascherare le abitudini
 
+Le abitudini sono uno cosa profonda non solo uno schema di pensiero, uno schema nella costruzione delle percezioni
 
 ## Una cosa semplice e complessa
 Una domanda accorgersi del perchè delle cose
@@ -119,5 +120,5 @@ Es.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg4MzQ5NTddfQ==
+eyJoaXN0b3J5IjpbMTE2OTQyNTQwXX0=
 -->
