@@ -119,25 +119,46 @@ In alcuni casi le patologie sono dovute a cause innate come per esempio problemi
 Abbiamo a disposizione una macchina meravigliosa il nostro corpo. E non gli diamo il giusto valore. Spesso non ci preoccupiamo di come funziona a meno che non si guasti.
 
 
-#  Esercizio 2 il tempo di uno sbadiglio per resettare lo stress 
+# Esercizio 1 Il tempo di prendere un caffè per riattivare il tuo sistema nervoso.
 
-Lo sbadiglio e stiramento è uno dei gesti più sottovalutati ma che assolve tantissime funzioni! 
-Lo sbadiglio stiramento dovrebbe essere normalmente quasi un riflesso istintivo che il nostro corpo usa per:
+Il sistema nervoso ogni giorno ha mille motivi per essere sovraccaricato di informazioni  ti elenco i principali:
 
-- Regola il tono muscolare di base
-- Ossigenare il corpo 
-- Togliere le tensione dall'articolazione temporomandibolare
-- Stimolare il diaframma
-- Favorire il passaggio da uno stato di veglia a uno di riposo e viceversa 
-- Regolare la pressione arteriosa
-- Redistribuire le tensioni sull'apparato muscolo scheletrico
+ - Pensieri
+ - Preoccupazioni
+ - Troppo lavoro
+ - Troppo stress
+ - Ritmi frenetici
+ - Utilizzo di schermi
+ - Insonnia mancanza di recupero  
 
-Tutto questo in pochi secondi, è piacevole e potete farlo ovunque, be proprio ovunque no, diciamo che per questioni sociali meglio farlo quando si è soli.
+Questi sono solo alcuni ma ce ne sono altri!
 
-Ma i due momenti fondamentali della giornata dove darsi una bella stiracchiata sono al mattino appena svegli e la sera prima di addormentarsi.
+Assumendo il caffè noi chiediamo al nostro sistema nervoso di accelerare e questo va bene quando è necessario lavorare o correre più veloce una buona strategia è **"frustare il cavallo"**.
+Ma se facessimo riposare un attimo il cavallo?
+Il cervello ha un vantaggio necessita di pochissimo tempo per recuperare una minipausa ogni ora e mezza è un grande aiuto per il tuo sistema nervoso.
 
-> “Il tuo corpo espelle più tossine con la respirazione che in qualsiasi altro modo.”  
-> CARY-HIROYUKI TAGAWA
+Come si fa?
+
+## Bastano 20" per staccare la spina. Metti il tuo cervello in pausa
+
+ E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
+
+ -  un inspiro dentro l'aria 
+ - un espiro fuori l'aria
+
+Durante questi cinque cicli.
+Ascolta le sensazioni che hai a occhi chiusi. 
+
+Chiudendo gli occhi è come se il cervello debba elaborare il 40 % in meno di informazioni. Proprio come quando metti in stand by il computer.
+
+se fai fatica a stare attento al respiro puoi anche solo contare mentalmente fino a 20 secondi.
+Questo esercizio equivale a fare un microsonno.
+
+Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose semplici ricorda però sono le più efficaci.
+
+**Fermarsi ad ascoltare è la prima forma di guarigione.**
+
+
 
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
@@ -246,5 +267,5 @@ In base al modello del realtà che ti costruisci fai si che il tuo corpo secerna
 
 Es.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ5ODkzMjhdfQ==
+eyJoaXN0b3J5IjpbLTIxNDExMjYyOTVdfQ==
 -->
