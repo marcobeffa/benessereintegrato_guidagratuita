@@ -83,8 +83,8 @@ L'importante è accorgersi e iniziare a muoversi
 
 # Cicli 
 
-
+Ogni giorno è un nuovo inizio
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA4NTc2MDBdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjg2NjcxNDldfQ==
 -->
