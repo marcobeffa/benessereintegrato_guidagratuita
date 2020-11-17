@@ -84,7 +84,9 @@ L'importante è muoversi
 
 Lo stato d'animo è legato alla capacità di controllare il nostro aspetto ormonale.
 
-In ogni istante il nostro corpo produce e secerne migliaia di ormoni, 
+In ogni istante il nostro corpo produce e secerne migliaia di ormoni, siamo un vero e proprio laboratorio chimico
+
+ç
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODY4Mzk2N119
+eyJoaXN0b3J5IjpbMTk3MzMzODMyMF19
 -->
