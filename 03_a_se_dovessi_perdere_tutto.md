@@ -206,6 +206,8 @@ Questi lavori sfruttano molti meccanismi che altrimenti verrebbero difficilmente
 Si ha una vera e propria educazione alla corporeità! 
 Questi se fatti bene sono veri e propri lavori somato psichici che aiutano a crescere e riescono ad armonizzare il corpo e la mente di chi li pratica.
 
+# ????
+
 # Una cura potente e gratuita alla portata di tutti ma proprio di tutti che puoi iniziare a prendere fin da subito
 
 Lo stato d'animo è legato alla capacità di controllare il nostro aspetto ormonale.
@@ -244,5 +246,5 @@ In base al modello del realtà che ti costruisci fai si che il tuo corpo secerna
 
 Es.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NjgzNTAzXX0=
+eyJoaXN0b3J5IjpbLTE0NzQ5ODkzMjhdfQ==
 -->
