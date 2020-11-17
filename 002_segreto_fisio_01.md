@@ -80,7 +80,11 @@ filosofia di ido portal è una delle filosofie che mi
 
 L'importante è muoversi
 
-# Una cura potente e gratuita alla portata di tutti ma proprio di tutti che puoi iniziare a me
+# Una cura potente e gratuita alla portata di tutti ma proprio di tutti che puoi iniziare a prendere fin da subito
+
+Lo stato d'animo è legato alla capacità di controllare il nostro aspetto ormonale.
+
+In ogni istante il nostro corpo produce e secerne migliaia di ormoni, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDQxNDUxMF19
+eyJoaXN0b3J5IjpbLTczODY4Mzk2N119
 -->
