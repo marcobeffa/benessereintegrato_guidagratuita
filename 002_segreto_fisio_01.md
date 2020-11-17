@@ -81,10 +81,10 @@ filosofia di ido portal è una delle filosofie che mi
 L'importante è accorgersi e iniziare a muoversi 
 
 
-# Cicli 
+# La vita è fatta a cicli
 
 Ogni giorno è un nuovo inizio hai sempre la possibilità di decidere di poter cambiare la tua posizione attuale se non ti piace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzA2NDA2Ml19
+eyJoaXN0b3J5IjpbMTcwNTY2NzgyNF19
 -->
