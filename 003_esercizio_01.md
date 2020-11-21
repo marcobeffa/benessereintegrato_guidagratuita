@@ -9,9 +9,11 @@ Perciò prendi carta e penna e rispondi a queste domande!
  2. Come hai risolto il problema?
  3. Come ti sei trovato?
  4. Cosa ti è stato utile?
- 5. C'era qualc
- 6. Cosa invece non hai trovato e ti sarebbe piaciuto trovare?
+ 5. Cosa invece non hai trovato e ti sarebbe piaciuto trovare?
+ 6. Cosa ti è piaciuto?
+ 7. Cosa non ti è piaciuto?
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTczOTI5NF19
+eyJoaXN0b3J5IjpbLTEyNTY0NzU1NzJdfQ==
 -->
