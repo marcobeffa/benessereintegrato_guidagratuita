@@ -1,4 +1,12 @@
-## Bastano 20" per staccare la spina. Metti il tuo cervello in pausa e ascolta le sensazioni!
+
+Accorgersi che qualcosa si muove dentro di noi come si fa?
+
+Il respiro il battito cardiaco sono solo due dei rumori.
+
+Sonno Veglia -Simpatico Parasimpatico
+
+## Impara a Fermarti! Bastano 20" per staccare la spina. Metti il tuo cervello in pausa e ascolta le sensazioni!
+
 
  E' semplicissimo chiudi gli occhi e conta per la durata di 5 cicli respiratori. Un ciclo è composto da:
 
@@ -17,5 +25,5 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMjk5NjE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTk4NDc4NzMsNzMwOTk4MTE2XX0=
 -->
