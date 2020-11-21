@@ -2,7 +2,7 @@
 
 ## Un viaggio inaspettato
 
-Nel capitolo precedente abbiamo visto come molte persone giungono impreparate su percorsi difficili, in situazioni che non conoscono.
+Nel capitolo precedente abbiamo visto come molte persone giungano impreparate su percorsi difficili, in situazioni che non conoscono.
 
 Lo studio del corpo è una materia che ritengo dovrebbe essere una materia scolastica! 
 
@@ -15,5 +15,5 @@ Si servirebbe proprio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NTEzMjc1LC0yMTQxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbODc4OTIzMTgxLC0yMTQxMTI2Mjk1XX0=
 -->
