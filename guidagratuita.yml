@@ -20,8 +20,8 @@ course:
       header: true
       title: "01 La salute come un viaggio"
       description: "In infradito a scalare l'Everest..."
-      link_github: 001_la_salute_come_un_viaggio
-      chapter: 001_la_salute_come_un_viaggio
+      link_github: 001_00_la_salute_come_un_viaggio
+      chapter: 001_00_la_salute_come_un_viaggio
       author:
       image_tag:
     2:
@@ -29,8 +29,8 @@ course:
       header: false
       title: "Primo segreto"
       description: "Le condizioni di viaggio"
-      link_github: 002_segreto_fisio_01
-      chapter: 001_la_salute_come_un_viaggio
+      link_github: 001_01_segreto_fisio_01
+      chapter: 001_00_la_salute_come_un_viaggio
       author:
       image_tag:
     3:
@@ -38,8 +38,8 @@ course:
       header: false
       title: "Primo esercizio"
       description: "La tua esperienza"
-      link_github: 003_esercizio_01
-      chapter: 001_la_salute_come_un_viaggio
+      link_github: 001_02_esercizio_01
+      chapter: 001_00_la_salute_come_un_viaggio
       author:
       image_tag:
     4:
@@ -47,8 +47,8 @@ course:
       header: false
       title: "Primo segreto"
       description: "Un duro colpo..."
-      link_github: 004_formazione_esperienza_01
-      chapter: 001_la_salute_come_un_viaggio
+      link_github: 001_03_formazione_esperienza_01
+      chapter: 001_00_la_salute_come_un_viaggio
       author:
       image_tag:  
 
