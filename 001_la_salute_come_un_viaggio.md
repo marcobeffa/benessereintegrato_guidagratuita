@@ -37,7 +37,7 @@ Questa guida è rivolta anche  ai **professionisti della salute e del benessere*
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
 
 
-## Prepara il tuo perc viaggio
+## Prepara il tuo percorso della salute come fosse un viaggio!
     
 Alla fine della guida sarai in grado di:
 
@@ -56,6 +56,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM4Nzg5MjUsLTE0MzU2MzQwNCw1Mj
-A0NDc4ODcsLTU4Mzc1MDA5MSwxNTY5NTUwOTMyXX0=
+eyJoaXN0b3J5IjpbMTQyNTg3MDYzNCwtMTQzNTYzNDA0LDUyMD
+Q0Nzg4NywtNTgzNzUwMDkxLDE1Njk1NTA5MzJdfQ==
 -->
