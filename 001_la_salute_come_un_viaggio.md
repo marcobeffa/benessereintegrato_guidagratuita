@@ -15,12 +15,11 @@ a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il ter
 
 Lavoro come **fisioterapista** e le persone si rivolgono a me chiedende un aiuto per trovare una soluzione a **dolori o patologie**.
 
-Tutti i professionisti della salute e del benesseresi trovano a dover aiutare le persone  
-Talvolta però la situazione che mi chiedono di risolvere è molto complessa!  
+Tutti i **professionisti della salute e del benessere** si trovano a dover aiutare le persone a ritrovare la loro salute o il loro benessere o a cercare di migliorarli.
 
+Talvolta però la situazione che si devono risolvere sono molto complesse!  
 
-
-Allora mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna.
+Per questo mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna.
 
 La domanda che mi faccio è:
 
@@ -56,6 +55,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTc1NjU3LC0xNDM1NjM0MDQsNTIwND
+eyJoaXN0b3J5IjpbODAwMzk4OTU3LC0xNDM1NjM0MDQsNTIwND
 Q3ODg3LC01ODM3NTAwOTEsMTU2OTU1MDkzMl19
 -->
