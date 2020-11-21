@@ -1,3 +1,6 @@
+# Quello che facciamo ha un influenza sul nostro corpo e sulla nostra vita.
+L'azione. 
+# Lo stato d'animo, la prima cosa su cui puoi lavorare
 
 # 3 
 
@@ -121,6 +124,6 @@ Piacere e Dolore
 Autonomia o una guida Professionista 
 Il tutor BenessereIntegrato e costruire un percorso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDE0OTMwNSwtMTAyMTYwNjE5Miw4Mz
+eyJoaXN0b3J5IjpbMTc4MjAxOTUwMSwtMTAyMTYwNjE5Miw4Mz
 EyMzU3NjcsNTQ2ODcyMDM1LC00MDEwNjk0NDRdfQ==
 -->
