@@ -13,12 +13,15 @@ a chiunque di
 
 a meno che la persona non sia nata e vissuta li su quelle cime e quello per lui sia un territorio conosciuto.
 
+## Perchè questa guida?
 
 Spesso lavorando come **fisioterapista** ho l'occasione di ricevere persone che si rivolgono a me chiedendo aiuto per **dolori o patologie**, ma talvolta la situazione che mi chiedono di risolvere è talmente complessa che a me viene  in mente l'immagine di una **persona che si è persa in infradito** su un pericoloso sentiero di montagna. 
 
-Come posso ricondurla in salvo dai pericoli, se non c'è la bencheminima presenza di strumenti adatti per affrontare sentieri così difficili?
+La domanda che mi faccio è:
 
-E' per questo che ho preparato questa guida.
+> Come posso ricondurre questa persona in salvo dai pericoli, se non c'è la bencheminima presenza di strumenti adatti per affrontare sentieri così difficili?
+
+E' **per questo** che ho preparato questa guida.
 
 Perchè purtroppo la vita ci conduce inaspettatamente su sentieri difficili e essere preparati fa tutta la differenza sopratutto se si tratta della tua salute.
 
@@ -46,6 +49,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzA1ODc0OCwtNTgzNzUwMDkxLDE1Nj
+eyJoaXN0b3J5IjpbLTg5NjYyNzgwNSwtNTgzNzUwMDkxLDE1Nj
 k1NTA5MzJdfQ==
 -->
