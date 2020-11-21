@@ -19,7 +19,7 @@ course:
       date_last_release:
       header: true
       title: "01 La salute come un viaggio"
-      description: "In infradito a scalare l'Everest... Lo stato d'animo, la prima cosa su cui puoi lavorare."
+      description: "In infradito a scalare l'Everest..."
       link_github: 001_la_salute_come_un_viaggio
       chapter: 001_la_salute_come_un_viaggio
       author:
