@@ -7,7 +7,7 @@ Gli infortuni nello sportivo sono una di quelle situazioni in cui è necessario 
 
 Giocando a Rugby all'età di 16 anni per una caduta subii la frattura di questo piccolo osso, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto.
 
-Devo confessare che feci tutto quello che un paziente non dovrebbe fare. Ora da fisioterapista  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la paura e la non conoscenza delle cose mi avevano paralizzato, e ci ho messo il doppio del tempo per risolvere il problema, che non si è completamente risolto!
+Devo confessare che feci tutto quello che un paziente non dovrebbe fare. Ora da fisioterapista  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la paura e la non conoscenza delle cose mi avevano paralizzato, e ci ho messo il doppio del tempo per risolvere il problema, che si è risolto in malo modo perchè il mio scafoide tutt'ora non è ancora saldato, ma comunque con le giuste cure funziona a dovere anche così!
 
 Posso dire che questa lezione mi è servita perchè ho capito come la paura e la mancanza di una corretta informazione e gestione possono portare a fare scelte che peggiorano molto la situazione.
 
@@ -27,6 +27,6 @@ Ora posso dire si avevo ragione, basta cercare e tranne in alcuni casi dove i pr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgxNjU0NjMsLTY2OTM3NDYzMyw5NT
+eyJoaXN0b3J5IjpbLTE5NjMwOTMyMzQsLTY2OTM3NDYzMyw5NT
 UzMjczNDcsLTU5ODg3NTAzMl19
 -->
