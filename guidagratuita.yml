@@ -24,3 +24,32 @@ course:
       chapter: 001_la_salute_come_un_viaggio
       author:
       image_tag:
+    2:
+      date_last_release:
+      header: false
+      title: "Primo segreto"
+      description: "Le condizioni di viaggio"
+      link_github: 002_segreto_fisio_01
+      chapter: 001_la_salute_come_un_viaggio
+      author:
+      image_tag:
+    3:
+      date_last_release:
+      header: false
+      title: "Primo esercizio"
+      description: "La tua esperienza"
+      link_github: 003_esercizio_01
+      chapter: 001_la_salute_come_un_viaggio
+      author:
+      image_tag:
+    4:
+      date_last_release:
+      header: false
+      title: "Primo segreto"
+      description: "Un duro colpo..."
+      link_github: 004_formazione_esperienza_01
+      chapter: 001_la_salute_come_un_viaggio
+      author:
+      image_tag:  
+
+
