@@ -31,7 +31,7 @@ Perchè purtroppo la vita può condurti **inaspettatamente** su sentieri diffici
 > Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
 
-Questa  guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
+Questa  guida ti può aiutare sia che tu sia all'inizio di un percorso, sia che tu ne stia  già affrontando uno,  per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
 
 ## Prepara il tuo viaggio
     
@@ -52,6 +52,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1NjE2OTYyLDUyMDQ0Nzg4NywtNTgzNz
-UwMDkxLDE1Njk1NTA5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE0MzU2MzQwNCw1MjA0NDc4ODcsLTU4Mz
+c1MDA5MSwxNTY5NTUwOTMyXX0=
 -->
