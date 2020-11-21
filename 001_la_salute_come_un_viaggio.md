@@ -1,13 +1,11 @@
-
 # La salute come un viaggio
 
 
 ## In infradito a scalare l'everest... 
 
-Affrontare un percorso per la salute è come affrontare un viaggio. 
+Con la guida benessere integrato imparerai ad affrontare un percorso per la salute come se stessi affrontando un viaggio. 
 
-Penso che tu sia d'accordo con me e **sconsiglieresti**
-a chiunque di
+Penso che anche tu **sconsiglieresti** a chiunque di
 
 > scalare l'Everest in infradito.
 
@@ -52,6 +50,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU2MzQwNCw1MjA0NDc4ODcsLTU4Mz
-c1MDA5MSwxNTY5NTUwOTMyXX0=
+eyJoaXN0b3J5IjpbLTE0MjI5MzE3NDUsLTE0MzU2MzQwNCw1Mj
+A0NDc4ODcsLTU4Mzc1MDA5MSwxNTY5NTUwOTMyXX0=
 -->
