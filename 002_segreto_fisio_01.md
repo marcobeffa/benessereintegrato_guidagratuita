@@ -1,5 +1,5 @@
 
-# 1/12 Segreti che i fisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
+# 1/12 Segreti delefisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
 
 
 > **Animum debes mutare, non caelum** 
@@ -105,6 +105,6 @@ La vi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTAxNDE0MCwxMjEzOTIzMzc0LDE2Nz
-g1MTA0OV19
+eyJoaXN0b3J5IjpbLTYzMDA2NDM0NSwtNDExMDE0MTQwLDEyMT
+M5MjMzNzQsMTY3ODUxMDQ5XX0=
 -->
