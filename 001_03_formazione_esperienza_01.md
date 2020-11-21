@@ -13,9 +13,11 @@ Ricordo ancora la disperazione che mi prese quando il medico mi disse che con qu
 
 In effetti non è stata una bella esperienza e proprio il fatto che sembrava non ci fosse una soluzione è stata una delle  cause che mi hanno spinto a scegliere la scuola di fisioterapia!
 
-Mi ripetevo sempre le patologie o i problemi avranno un modo per essere risolti voglio capire perch
+Mi ripetevo sempre le patologie o i problemi avranno un modo per essere risolti voglio capire perché come funziona il corpo e prima o poi troverò una soluzione!
 
-Ora posso dire si, basta cercare e a meno di avere problemi gravi nella maggior parte dei casi c'è sempre una Soluzione!
+Ora posso dire si avevo ragione, basta cercare e tranne in alcuni casi dove i problemi di salute sono gravi o sono arrivati ad un punto tale da essre irreversibili:
+
+> Nella maggior parte dei casi c'è sempre una Soluzione!
 
 
 
@@ -23,6 +25,6 @@ Ora posso dire si, basta cercare e a meno di avere problemi gravi nella maggior 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI5MDY3NTYsOTU1MzI3MzQ3LC01OT
-g4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbLTY2OTM3NDYzMyw5NTUzMjczNDcsLTU5OD
+g3NTAzMl19
 -->
