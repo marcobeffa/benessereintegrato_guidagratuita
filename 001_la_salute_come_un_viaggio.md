@@ -19,17 +19,13 @@ Tutti i **professionisti della salute e del benessere** si trovano a dover aiuta
 
 Talvolta però la situazione che si devono risolvere sono molto complesse!  
 
-Per questo mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna.
+Per questo mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un sentiero di montagna molto arduo e impegnativo.
 
 La domanda che mi faccio è:
 
-> Come posso ricondurre questa persona fuori da questa situazione? 
+> Come è possibile ricondurre questa persona al sicuro, fuori da questa situazione? 
 
-Quando si affronta un viaggio è necessario essere preparati, partire con l'attrezzatura giusta.
-
-E' **per questo** che ho preparato questa guida.
-
-Perchè purtroppo la vita può condurti **inaspettatamente** su sentieri difficili e **essere preparati** fa tutta la differenza sopratutto se si tratta della tua **salute.**
+Per affrontare un viaggio è necessario essere preparati, partire con l'attrezzatura giusta. P purtroppo la vita può condurti **inaspettatamente** su sentieri difficili e **essere preparati** fa tutta la differenza sopratutto se si tratta della tua **salute.**
 
 > Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
@@ -55,6 +51,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMzk4OTU3LC0xNDM1NjM0MDQsNTIwND
-Q3ODg3LC01ODM3NTAwOTEsMTU2OTU1MDkzMl19
+eyJoaXN0b3J5IjpbLTE0ODg1NzAzNDIsLTE0MzU2MzQwNCw1Mj
+A0NDc4ODcsLTU4Mzc1MDA5MSwxNTY5NTUwOTMyXX0=
 -->
