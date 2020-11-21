@@ -3,7 +3,7 @@
 > “Non guariamo nessuno. Ognuno si ammala e guarisce da solo. Noi siamo lí a porgere il cerottino o un po’ di fiducia.”  
 LUCIANO LIGABUE
 
-Ti voglio dare il **benvenuto** con questa frase perchè penso che il **compito di ogni professionista** della salute e del benessere sia quello di **accompagnare** una persona.
+Ti  dò il **benvenuto** con questa frase perchè penso che il **compito di ogni professionista** della salute e del benessere sia quello di **accompagnare** una persona.
 
 ## La competenza è importante
 Sicuramente la **competenza è fondamentale**, ogni ruolo professionale e ogni professionista hanno mansioni diverse necessarie per risolvere **problemi**, anche **complessi** che necessitano della giusta formazione e competenza per essere affrontati. 
@@ -15,5 +15,5 @@ In alcuni casi i **medici preparati** in situazioni rischiose, grazie alle loro 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwMDY3MTU1LC0xMDA4NzEyNzk1XX0=
+eyJoaXN0b3J5IjpbMTE2MDE1MTAyNSwtMTAwODcxMjc5NV19
 -->
