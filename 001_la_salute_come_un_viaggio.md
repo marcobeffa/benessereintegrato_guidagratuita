@@ -16,7 +16,7 @@ a chiunque
 
 a meno che la persona non sia nata e vissuta li su quelle cime e quello per lui sia un territorio conosciuto.
 
-Spesso lavorando come fisioterapista ho l'occazisi rivolgono a me persone che stanno scalando in infradito la loro salute. 
+Spesso lavorando come fisioterapista ho l'occasione di ricevere persone che si rivolgono a me chiedendo aiuto per dolori o patologie. E a me viene allora in mente l'immagine di una persona che si è persa  siano persi che stanno scalando in infradito la loro salute. 
 
 E' per questo che ho preparato questa guida.
 
@@ -50,6 +50,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MDE4Njc0LC01ODM3NTAwOTEsMTU2OT
-U1MDkzMl19
+eyJoaXN0b3J5IjpbMTkwMTMxNjk5MiwtNTgzNzUwMDkxLDE1Nj
+k1NTA5MzJdfQ==
 -->
