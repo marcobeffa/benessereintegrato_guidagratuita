@@ -5,13 +5,12 @@ Molti esercizi sono dei compiti che richiedono di rispondere ad alcune domande a
 
 Perciò prendi carta e penna e rispondi a queste domande!
 
-Prendi del tempo per curare la tua salute?
-
-Cosa stai già facendo o cosa stavi facendo e magari ai dovuto interrompere?
-
-
+ 1.  Prendi del tempo per curare la tua salute?
+ 2. Cosa stai già facendo o cosa stavi facendo e magari ai dovuto interrompere?
+ 3. Hai dei professionisti di riferimento?
+ 4. Chi sono?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzQ1ODE3Nl19
+eyJoaXN0b3J5IjpbLTg5MTU2MzgxN119
 -->
