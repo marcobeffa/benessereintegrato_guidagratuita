@@ -9,7 +9,7 @@ Penso che anche tu **sconsiglieresti** a chiunque di
 
 > scalare l'Everest in infradito.
 
- si può fare forse eccezzione  che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio.
+a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio.
 
 ## Perchè questa guida?
 
@@ -56,6 +56,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMDI0MDU3LC0xNDM1NjM0MDQsNTIwND
-Q3ODg3LC01ODM3NTAwOTEsMTU2OTU1MDkzMl19
+eyJoaXN0b3J5IjpbMTQyNTg3MDYzNCwtMTQzNTYzNDA0LDUyMD
+Q0Nzg4NywtNTgzNzUwMDkxLDE1Njk1NTA5MzJdfQ==
 -->
