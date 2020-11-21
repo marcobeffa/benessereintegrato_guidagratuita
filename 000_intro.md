@@ -1,7 +1,8 @@
+## Benvenuto
+
 > “Non guariamo nessuno. Ognuno si ammala e guarisce da solo. Noi siamo lí a porgere il cerottino o un po’ di fiducia.”  
 LUCIANO LIGABUE
 
-## Benvenuto
 Ti voglio dare il **benvenuto** con questa frase perchè penso che il **compito di ogni professionista** della salute e del benessere sia quello di **accompagnare** una persona.
 
 ## La competenza è importante
@@ -14,5 +15,5 @@ In alcuni casi i **medici preparati** in situazioni rischiose, grazie alle loro 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg3MTI3OTVdfQ==
+eyJoaXN0b3J5IjpbNDkwMDY3MTU1LC0xMDA4NzEyNzk1XX0=
 -->
