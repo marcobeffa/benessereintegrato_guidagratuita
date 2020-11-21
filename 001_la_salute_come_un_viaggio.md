@@ -16,7 +16,8 @@ a chiunque
 
 a meno che la persona non sia nata e vissuta li su quelle cime e quello per lui sia un territorio conosciuto.
 
-Spesso lavorando come fisioterapista ho l'occasione di ricevere persone che si rivolgono a me chiedendo aiuto per dolori o patologie. E a me viene allora in mente l'immagine di una persona che si è persa  siano persi che stanno scalando in infradito la loro salute. 
+Spesso lavorando come fisioterapista ho l'occasione di ricevere persone che si rivolgono a me chiedendo aiuto per dolori o patologie, ma talvolta la situazione che mi chiedono di risolvere è talmente complessa che a me viene  in mente l'immagine di una persona che si è persa in infradito su un pericoloso sentiero di montagna. 
+Come posso ricondurla in salvo dai pericoli.
 
 E' per questo che ho preparato questa guida.
 
@@ -50,6 +51,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTMxNjk5MiwtNTgzNzUwMDkxLDE1Nj
+eyJoaXN0b3J5IjpbLTczMjcyMjA3MiwtNTgzNzUwMDkxLDE1Nj
 k1NTA5MzJdfQ==
 -->
