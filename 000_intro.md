@@ -13,11 +13,11 @@ In situazioni rischiose **medici preparati** possono salvarci la **VITA**. E' un
 
 Nella maggior parte dei casi il professionista della salute e del benessere è li però, per **accompagnare** la persona nel suo percorso. 
 
-Come una **guida di montagna** ti porta attraverso sentieri per giungere a una meta, o come un **giardiniere** che si prende cura del tuo giardino lavorandolo per far crescere poi piante e fiori.
+Come una **guida di montagna** ti conduce  attraverso sentieri per giungere a una meta o in alcuni casi come un **giardiniere** che si prende cura del tuo giardino lavorandolo per preparare il terreno in cui cresceranno piante e fiori.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MjQxNTg2LC0xMDA4NzEyNzk1XX0=
+eyJoaXN0b3J5IjpbLTk5OTM1MjIzNCwtMTAwODcxMjc5NV19
 -->
