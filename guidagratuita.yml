@@ -10,7 +10,7 @@ course:
       date_last_release:
       header: true
       title: "00 intro"
-      description: "introduzione alla guida Benessere Integrato"
+      description: "Introduzione alla guida Benessere Integrato"
       link_github: 000_intro
       chapter: 000_intro
       author:
