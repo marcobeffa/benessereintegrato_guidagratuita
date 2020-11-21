@@ -14,7 +14,13 @@ a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il ter
 ## Perchè questa guida?
 
 Lavoro come **fisioterapista** e le persone si rivolgono a me chiedende un aiuto per trovare una soluzione a **dolori o patologie**.
-Talvolta però la situazione che mi chiedono di risolvere è molto complessa!  Allora mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna.
+
+Tutti i professionisti della salute e del benesseresi trovano a dover aiutare le persone  
+Talvolta però la situazione che mi chiedono di risolvere è molto complessa!  
+
+
+
+Allora mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna.
 
 La domanda che mi faccio è:
 
@@ -50,6 +56,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODcyNzc4NSwtMTQzNTYzNDA0LDUyMD
-Q0Nzg4NywtNTgzNzUwMDkxLDE1Njk1NTA5MzJdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTc1NjU3LC0xNDM1NjM0MDQsNTIwND
+Q3ODg3LC01ODM3NTAwOTEsMTU2OTU1MDkzMl19
 -->
