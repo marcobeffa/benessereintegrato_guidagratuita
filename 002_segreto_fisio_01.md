@@ -1,5 +1,10 @@
 
-# 1/12 Segreti delefisioterapisti utilizzano per lavorare più di 12 ore al giorno senza avere un minimo dolore!
+# Primo Segreto del fisio
+
+> Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
+
+Quando stai viaggiando è consigliabile pianificare il tuo viaggio scegliere il tuo percorso, e poi in ogni momento dovrai stare attento a dove metti i piedi.
+
 
 
 > **Animum debes mutare, non caelum** 
@@ -105,6 +110,6 @@ La vi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDA2NDM0NSwtNDExMDE0MTQwLDEyMT
-M5MjMzNzQsMTY3ODUxMDQ5XX0=
+eyJoaXN0b3J5IjpbLTE2MDU2OTk3NTMsLTQxMTAxNDE0MCwxMj
+EzOTIzMzc0LDE2Nzg1MTA0OV19
 -->
