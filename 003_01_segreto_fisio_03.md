@@ -3,7 +3,7 @@
 
 # causa effetto 
 
-# la scelta
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTkyMDc4Nl19
+eyJoaXN0b3J5IjpbNzA1MjY0ODIwXX0=
 -->
