@@ -23,7 +23,7 @@ La domanda che mi faccio è:
 
 E' **per questo** che ho preparato questa guida.
 
-Perchè purtroppo la vita ci conduce inaspettatamente su sentieri difficili e essere preparati fa tutta la differenza sopratutto se si tratta della tua salute.
+Perchè purtroppo la vita può condurti **inaspettatamente** su sentieri difficili e **essere preparati** fa tutta la differenza sopratutto se si tratta della tua **salute.**
 
 > Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
@@ -49,6 +49,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjYyNzgwNSwtNTgzNzUwMDkxLDE1Nj
-k1NTA5MzJdfQ==
+eyJoaXN0b3J5IjpbNTIwNDQ3ODg3LC01ODM3NTAwOTEsMTU2OT
+U1MDkzMl19
 -->
