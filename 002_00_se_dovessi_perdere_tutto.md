@@ -2,7 +2,10 @@
 
 ## Un viaggio inaspettato
 
-Abbiamo visto che spesso si giunge imprepar
+Nel capitolo precedente abbiamo visto come molte persone giungono impreparate su percorsi difficili, in situazioni che non conoscono.
+
+Lo studio del corpo è una materia che ritengo dovrebbe e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODcxNjA4NSwtMjE0MTEyNjI5NV19
+eyJoaXN0b3J5IjpbLTExMjQzMDUwMjMsLTIxNDExMjYyOTVdfQ
+==
 -->
