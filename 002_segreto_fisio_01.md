@@ -1,5 +1,7 @@
 
-# Primo Segreto del fisio
+# Prima regola segreta dei fisioterapisti!
+
+Ecco a te la prima regola
 
 > Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
 
@@ -110,6 +112,6 @@ La vi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU2OTk3NTMsLTQxMTAxNDE0MCwxMj
-EzOTIzMzc0LDE2Nzg1MTA0OV19
+eyJoaXN0b3J5IjpbLTQ3OTMzNzA2MCwtNDExMDE0MTQwLDEyMT
+M5MjMzNzQsMTY3ODUxMDQ5XX0=
 -->
