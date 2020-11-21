@@ -1,6 +1,4 @@
 
-
-
 # La salute come un viaggio
 
 
@@ -16,9 +14,9 @@ a chiunque
 
 > Di scalare l'Everest in infradito.
 
-a meno che la persona non sia uno scerpa o sia nata e vissuta li su quelle cime, 
+a meno che la persona non sia nata e vissuta li su quelle cime e quello per lui sia un territorio conosciuto.
 
-Spesso però come fisioterapista si rivolgono a me persone che stanno scalando in infradito la loro salute. 
+Spesso lavorando come fisioterapista ho l'occazisi rivolgono a me persone che stanno scalando in infradito la loro salute. 
 
 E' per questo che ho preparato questa guida.
 
@@ -52,5 +50,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzc1MDA5MSwxNTY5NTUwOTMyXX0=
+eyJoaXN0b3J5IjpbODI0MDE4Njc0LC01ODM3NTAwOTEsMTU2OT
+U1MDkzMl19
 -->
