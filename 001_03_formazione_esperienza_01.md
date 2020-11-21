@@ -7,17 +7,13 @@ Gli infortuni nello sportivo sono una di quelle situazioni in cui è necessario 
 
 Giocando a Rugby all'età di 15 anni per una caduta subii la frattura di questo piccolo osso, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto.
 
-Devo confessare che feci tutto quello che non andava fatto e che adesso da fisioterapista non farei più, ma mi è servito a rendermi conto quanto la paura e la non conoscenza delle cose possano portare a fare scepeggiorare molto la situazione.
+Devo confessare che feci tutto quello che non andava fatto e che adesso da fisioterapista non farei più, ma mi è servito a rendermi conto quanto la paura e la non conoscenza delle cose possano portare a fare scelte che peggiorano molto la situazione.
 
 Ricordo ancora la disperazione che mi prese quando il medico mi disse che con questa frattura non avrei più potuto giocare a Rugby se non si fosse saldata! 
 
+In effetti non è stata una bella esperienza e proprio il fatto che sembrava non ci fosse una soluzione è stata una delle  cause che mi ha spinto a scegliere la scuola di fisioterapia!
 
-
-
-
-In effetti non è stata una bella esperienza perchè non volevo stare fermo nella gestione dell'infortunio ho fatto tutto quello che non si doveva fare! 
-
-
+Le patologie o i problem
 
 
 
@@ -25,6 +21,6 @@ In effetti non è stata una bella esperienza perchè non volevo stare fermo nell
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0MjcwMzE4LDk1NTMyNzM0NywtNTk4OD
+eyJoaXN0b3J5IjpbNjgzNTU5ODk3LDk1NTMyNzM0NywtNTk4OD
 c1MDMyXX0=
 -->
