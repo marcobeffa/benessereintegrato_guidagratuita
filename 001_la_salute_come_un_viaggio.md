@@ -16,11 +16,11 @@ a meno che la persona non sia nata e vissuta li su quelle cime e conosca bene il
 ## Perchè questa guida?
 
 Lavoro come **fisioterapista** e le persone si rivolgono a me chiedende un aiuto per trovare una soluzione a **dolori o patologie**.
-Talvolta però la situazione che mi chiedono di risolvere è molto complessa!  Allora mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna. 
+Talvolta però la situazione che mi chiedono di risolvere è molto complessa!  Allora mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna.
 
 La domanda che mi faccio è:
 
-> Come posso ricondurre questa persona in salvo dai pericoli, se non c'è la bencheminima presenza di strumenti adatti per affrontare sentieri così difficili?
+> Come posso ricondurre questa persona in salvo dai pericoli, e come posso aiutarla ad attrezzarsi e adatti per affrontare sentieri così difficili?
 
 E' **per questo** che ho preparato questa guida.
 
@@ -50,6 +50,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDU3ODUzMSw1MjA0NDc4ODcsLTU4Mz
-c1MDA5MSwxNTY5NTUwOTMyXX0=
+eyJoaXN0b3J5IjpbLTEwODA0MzYsNTIwNDQ3ODg3LC01ODM3NT
+AwOTEsMTU2OTU1MDkzMl19
 -->
