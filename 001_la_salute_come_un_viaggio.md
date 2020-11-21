@@ -9,10 +9,10 @@
 Affrontare un percorso per la salute è come affrontare un viaggio. 
 
 
-Penso che tu sia d'accordo con me e sconsiglieresti
-a chiunque
+Penso che tu sia d'accordo con me e **sconsiglieresti**
+a chiunque di
 
-> Di scalare l'Everest in infradito.
+> scalare l'Everest in infradito.
 
 a meno che la persona non sia nata e vissuta li su quelle cime e quello per lui sia un territorio conosciuto.
 
@@ -47,6 +47,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzMwNjk1MiwtNTgzNzUwMDkxLDE1Nj
+eyJoaXN0b3J5IjpbLTM4NDYzOTA1NCwtNTgzNzUwMDkxLDE1Nj
 k1NTA5MzJdfQ==
 -->
