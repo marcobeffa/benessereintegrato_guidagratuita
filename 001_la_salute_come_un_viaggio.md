@@ -26,13 +26,7 @@ Perchè purtroppo la vita ci conduce inaspettatamente su sentieri difficili e es
 > Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
 
-
-> Durante un escursione non ci sono condizioni sfavorevoli, può capitare invece di non aver preparato gli strumenti adeguati per affrontare quella condizioni.
-
-Quando stai viaggiando è consigliabile pianificare il tuo viaggio scegliere il tuo percorso, e poi in ogni momento dovrai stare attento a dove metti i piedi.
-
-
-Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per recuperare o migliorare la loro salute e il loro benessere.
+Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
 
 ## Prepara il tuo viaggio
     
@@ -53,6 +47,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjUzNDMyLC01ODM3NTAwOTEsMTU2OT
-U1MDkzMl19
+eyJoaXN0b3J5IjpbMTU3NzMwNjk1MiwtNTgzNzUwMDkxLDE1Nj
+k1NTA5MzJdfQ==
 -->
