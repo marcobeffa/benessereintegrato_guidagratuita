@@ -11,11 +11,11 @@ a chiunque di
 
 > scalare l'Everest in infradito.
 
-a meno che la persona non sia nata e vissuta li su quelle cime e quello per lui sia un territorio conosciuto.
+a meno che la persona non sia nata e vissuta li su quelle cime e conosca bene il territorio.
 
 ## Perchè questa guida?
 
-Spesso lavorando come **fisioterapista** ho l'occasione di ricevere persone che si rivolgono a me chiedendo aiuto per **dolori o patologie**, ma talvolta la situazione che mi chiedono di risolvere è talmente complessa che a me viene  in mente l'immagine di una **persona che si è persa in infradito** su un pericoloso sentiero di montagna. 
+Lavoro come **fisioterapista** e le persone si rivolgono a me chiedende un aiuto per trovare una soluzione a **dolori o patologie**, ma talvolta la situazione che mi chiedono di risolvere è talmente complessa che a me viene  in mente l'immagine di una **persona che si è persa in infradito** su un pericoloso sentiero di montagna. 
 
 La domanda che mi faccio è:
 
@@ -49,6 +49,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNDQ3ODg3LC01ODM3NTAwOTEsMTU2OT
-U1MDkzMl19
+eyJoaXN0b3J5IjpbLTEyODE5NzI0MTIsNTIwNDQ3ODg3LC01OD
+M3NTAwOTEsMTU2OTU1MDkzMl19
 -->
