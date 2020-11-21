@@ -25,12 +25,13 @@ La domanda che mi faccio è:
 
 > Come è possibile ricondurre questa persona al sicuro, fuori da questa situazione? 
 
-Per affrontare un viaggio è necessario essere preparati, partire con l'attrezzatura giusta. P purtroppo la vita può condurti **inaspettatamente** su sentieri difficili e **essere preparati** fa tutta la differenza sopratutto se si tratta della tua **salute.**
+Per affrontare un viaggio è necessario essere preparati, partire con l'attrezzatura giusta. Purtroppo la vita ci presenta situazioni **inaspettatate** e improvvisamente ci si trova su sentieri difficili. **Essere preparati** all'evenienza fa tutta la differenza sopratutto quando si tratta della tua **salute.**
+
+E' **per questo** che ho preparato questa guida. Questa  guida ti può aiutare sia che tu sia all'inizio di un percorso, sia che tu ne stia  già affrontando uno,  per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
 
 > Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
 
-Questa  guida ti può aiutare sia che tu sia all'inizio di un percorso, sia che tu ne stia  già affrontando uno,  per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
 
 ## Prepara il tuo viaggio
     
@@ -51,6 +52,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg1NzAzNDIsLTE0MzU2MzQwNCw1Mj
-A0NDc4ODcsLTU4Mzc1MDA5MSwxNTY5NTUwOTMyXX0=
+eyJoaXN0b3J5IjpbMjA1MTc2NjQ1MiwtMTQzNTYzNDA0LDUyMD
+Q0Nzg4NywtNTgzNzUwMDkxLDE1Njk1NTA5MzJdfQ==
 -->
