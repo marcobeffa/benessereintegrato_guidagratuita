@@ -25,7 +25,7 @@ course:
     2:
       date_last_release:
       header: false
-      title: "Primo segreto"
+      title: "Segreto 01"
       description: "Le condizioni di viaggio"
       link_github: 001_01_segreto_fisio_01
       author:
@@ -33,7 +33,7 @@ course:
     3:
       date_last_release:
       header: false
-      title: "Primo esercizio"
+      title: "Esercizio 01"
       description: "La tua esperienza"
       link_github: 001_02_esercizio_01
       author:
@@ -41,7 +41,7 @@ course:
     4:
       date_last_release:
       header: false
-      title: "Primo segreto"
+      title: "Formazione esperienza 01 "
       description: "Un duro colpo..."
       link_github: 001_03_formazione_esperienza_01
       author:
