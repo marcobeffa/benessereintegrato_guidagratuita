@@ -18,11 +18,11 @@ a meno che la persona non sia nata e vissuta li su quelle cime e conosca bene il
 Lavoro come **fisioterapista** e le persone si rivolgono a me chiedende un aiuto per trovare una soluzione a **dolori o patologie**.
 Talvolta però la situazione che mi chiedono di risolvere è molto complessa!  Allora mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un difficile sentiero di montagna.
 
-
-
 La domanda che mi faccio è:
 
 > Come posso ricondurre questa persona fuori da questa situazione? 
+
+Quando si affronta un viaggio è necessario essere preparati, partire con l'attrezzatura giusta.
 
 E' **per questo** che ho preparato questa guida.
 
@@ -31,7 +31,7 @@ Perchè purtroppo la vita può condurti **inaspettatamente** su sentieri diffici
 > Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
 
-Per questo ho pensato di creare questa guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
+Questa  guida per aiutare tutti quelli che vogliono iniziare o stanno già affrontando un viaggio per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
 
 ## Prepara il tuo viaggio
     
@@ -52,6 +52,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzUyODk2Myw1MjA0NDc4ODcsLTU4Mz
-c1MDA5MSwxNTY5NTUwOTMyXX0=
+eyJoaXN0b3J5IjpbOTk1NjE2OTYyLDUyMDQ0Nzg4NywtNTgzNz
+UwMDkxLDE1Njk1NTA5MzJdfQ==
 -->
