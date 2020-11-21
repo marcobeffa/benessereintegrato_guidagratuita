@@ -13,7 +13,7 @@ Posso dire che questa lezione mi è servita perchè ho capito come la paura e la
 
 Ricordo ancora la disperazione che mi prese quando il medico mi disse che con questa frattura non avrei più potuto giocare a Rugby se non si fosse saldata! 
 
-In effetti non è stata una bella esperienza e proprio il fatto che sembrava non ci fosse una soluzione è stata una delle  cause che mi hanno spinto a scegliere la scuola di fisioterapia!
+In effetti non è stata una bella esperienza e forse una delle maggiori cause che mi hanno spinto a scegliere la scuola di fisioterapia era proprio perchè volevo capire come potesse un osso non saldarsi e finire in pseudoartrosi sembrava non ci fosse una soluzione e la curiosità di voler scoprire penso abbia guidato la mia scelta.
 
 Mi ripetevo sempre le patologie o i problemi avranno un modo per essere risolti voglio capire perché come funziona il corpo e prima o poi troverò una soluzione!
 
@@ -27,6 +27,6 @@ Ora posso dire si avevo ragione, basta cercare e tranne in alcuni casi dove i pr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMwOTMyMzQsLTY2OTM3NDYzMyw5NT
-UzMjczNDcsLTU5ODg3NTAzMl19
+eyJoaXN0b3J5IjpbMTI1MDQ5NjI1NiwtNjY5Mzc0NjMzLDk1NT
+MyNzM0NywtNTk4ODc1MDMyXX0=
 -->
