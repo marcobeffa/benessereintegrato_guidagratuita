@@ -31,7 +31,7 @@ Purtroppo la vita ci presenta situazioni **inaspettatate** e improvvisamente ci 
 
 E' **per questo** che ho preparato questa guida. Perchè spero  ti possa aiutare sia che tu *sia all'inizio* di un percorso, sia che tu ne *stia  già* affrontando uno,  per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
 
-Questa guida è anche per i professionisti della sa
+Questa guida è rivolta anche  ai **professionisti della salute perchè qui sono raccolti anche tutti i principi di benessereintegrato.it e stiamo cercando guide di montagna che condividano la nostra filosofia!
 
 > Il professionista della salute e del benessere dovrebbe essere come una guida di montagna che ti accompagna attraverso i sentieri del corpo e ti aiuta nei passaggi difficili.
 [Georges Courchinoux Fondatore del metodo Corpo e Coscienza]
@@ -56,6 +56,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTk0ODQ2LC0xNDM1NjM0MDQsNTIwND
-Q3ODg3LC01ODM3NTAwOTEsMTU2OTU1MDkzMl19
+eyJoaXN0b3J5IjpbLTQzMzM5NDQyOSwtMTQzNTYzNDA0LDUyMD
+Q0Nzg4NywtNTgzNzUwMDkxLDE1Njk1NTA5MzJdfQ==
 -->
