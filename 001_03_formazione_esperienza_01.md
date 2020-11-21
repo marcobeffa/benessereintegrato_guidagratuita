@@ -13,7 +13,9 @@ Ricordo ancora la disperazione che mi prese quando il medico mi disse che con qu
 
 In effetti non è stata una bella esperienza e proprio il fatto che sembrava non ci fosse una soluzione è stata una delle  cause che mi ha spinto a scegliere la scuola di fisioterapia!
 
-Le patologie o i problem
+Mi ripetevo sempre le patologie o i problemi avranno un modo per essere risolti!
+
+Ora posso dire si, basta cercare e a meno di avere problemi gravi nella maggior parte dei casi c'è sempre una Soluzione!
 
 
 
@@ -21,6 +23,6 @@ Le patologie o i problem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNTU5ODk3LDk1NTMyNzM0NywtNTk4OD
-c1MDMyXX0=
+eyJoaXN0b3J5IjpbLTExMTA4NzEwMjksOTU1MzI3MzQ3LC01OT
+g4NzUwMzJdfQ==
 -->
