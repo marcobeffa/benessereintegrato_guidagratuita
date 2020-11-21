@@ -1,6 +1,8 @@
 # Cosa faresti se dovessi perdere tutto?
 
 
+
+
 ## La tua salute dipende da cause interne e da cause esterne.
 
 Si questo è un capitolo tragico, capisco che possa turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto benessere integrato.
@@ -267,5 +269,5 @@ In base al modello del realtà che ti costruisci fai si che il tuo corpo secerna
 
 Es.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDExMjYyOTVdfQ==
+eyJoaXN0b3J5IjpbMTA4MjYzNDc2NSwtMjE0MTEyNjI5NV19
 -->
