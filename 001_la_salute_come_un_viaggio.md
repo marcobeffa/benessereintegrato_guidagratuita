@@ -3,13 +3,13 @@
 
 ## In infradito a scalare l'everest... 
 
-Con la guida benessere integrato imparerai ad affrontare un percorso per la salute come se stessi affrontando un viaggio. 
+Con la guida **BenessereIntegrato.it** imparerai ad affrontare un **percorso per la salute** come se stessi affrontando un **viaggio**. 
 
 Penso che anche tu **sconsiglieresti** a chiunque di
 
 > scalare l'Everest in infradito.
 
-a meno che la persona non sia nata e vissuta li su quelle cime e conosca bene il territorio.
+a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio.
 
 ## Perchè questa guida?
 
@@ -50,6 +50,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI5MzE3NDUsLTE0MzU2MzQwNCw1Mj
-A0NDc4ODcsLTU4Mzc1MDA5MSwxNTY5NTUwOTMyXX0=
+eyJoaXN0b3J5IjpbMTY5ODcyNzc4NSwtMTQzNTYzNDA0LDUyMD
+Q0Nzg4NywtNTgzNzUwMDkxLDE1Njk1NTA5MzJdfQ==
 -->
