@@ -1,6 +1,6 @@
 # Formazione che devo ringraziare per l'80% di quello che so oggi sulla salute:
 
-## Alle soglie di un nuovo mondo dalla terra dell'industria del tondino e dell'al
+## Alle soglie di un nuovo mondo dalla terra dell'industria del tondino e dell'allevamento al corpo.
 
 ## La Fisioterapia
 
@@ -39,5 +39,5 @@ Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure le 
 
 Buon viaggio!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NTg3MTg0LC0yNjU3MTI0NDRdfQ==
+eyJoaXN0b3J5IjpbMTA4NTkzNzQ5MywtMjY1NzEyNDQ0XX0=
 -->
