@@ -1,6 +1,6 @@
 
 
-## Alle soglie di un nuovo mondo dalla terra dell'industria del tondino e dell'allevamento al corpo.
+## Alle soglie di un nuovo mondo dalla terra dell'industria del tondino e dell'agraria alla scoperta del corpo.
 
 ## La Fisioterapia
 
@@ -41,5 +41,5 @@ Buon viaggio!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNzUwMTgxLC03NTE0MDU3OTldfQ==
+eyJoaXN0b3J5IjpbMTgyNDI5OTMzMywtNzUxNDA1Nzk5XX0=
 -->
