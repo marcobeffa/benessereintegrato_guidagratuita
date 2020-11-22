@@ -1,4 +1,13 @@
-# Coming soon
+
+## Programmi standard 
+
+
+Esistono percorsi standard già strutturati che funzionano per la maggior parte delle persone ma puoi sempre decidere di crearne uno personalizzato.
+
+
+## Programmi personalizzati
+
+Creare un percorso personalizzato con la tua guida
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Njk3MjEwN119
+eyJoaXN0b3J5IjpbLTE2NTYyMDk5MDBdfQ==
 -->
