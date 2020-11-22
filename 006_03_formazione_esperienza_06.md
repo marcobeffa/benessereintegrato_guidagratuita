@@ -1,7 +1,4 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# Sui Corsi Efficacia personale impara a gestire le tue risorse Time 43xperiences 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg0MTk2MTcxNF19
 -->
