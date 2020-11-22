@@ -12,9 +12,13 @@
 
 Un impegno per la salute esempio maestro bruno 
 
+# La storia i modelli le Convinzioni che ti motivano
+
+non so se il modello è giusto 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzA5NjM5LDExNTg0NjY4NDBdfQ==
+eyJoaXN0b3J5IjpbMTIzMjgwMDc3NiwxMTU4NDY2ODQwXX0=
 -->
