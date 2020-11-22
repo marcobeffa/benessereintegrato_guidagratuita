@@ -1,4 +1,4 @@
-
+# Ognuno ha bisogno di cose diverse ma le basi sono uguali per tutti
 --
 **Platone diceva che “il Vero si nasconde dietro al Bello” ed ecco che la Bellezza, la Meraviglia, sono la porta per la Verità**.
 
@@ -7,5 +7,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY1OTA4NTBdfQ==
+eyJoaXN0b3J5IjpbMTE1MDUzMDQzOV19
 -->
