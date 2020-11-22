@@ -1,14 +1,12 @@
 # Il programma educativo di un mese
 
-## Programmi standard 
 
+# La presentazione
 
-Esistono percorsi standard già strutturati che funzionano per la maggior parte delle persone ma puoi sempre decidere di crearne uno personalizzato.
+# un incontro a settimana
 
+# 1 
 
-## Programmi personalizzati
-
-Creare un percorso personalizzato con la tua guida
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0OTU3MTRdfQ==
+eyJoaXN0b3J5IjpbLTY2MDQ5NjE1NCw5MjQ5NTcxNF19
 -->
