@@ -2,8 +2,6 @@
 # Causa effetto 
 
 
-
-
 # ogni azione che facciamo ha una conseguenza 
 
 # L'importanza dell'educazione
@@ -18,5 +16,5 @@ Un impegno per la salute esempio maestro bruno
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDU3MTIzLDExNTg0NjY4NDBdfQ==
+eyJoaXN0b3J5IjpbLTczMzA5NjM5LDExNTg0NjY4NDBdfQ==
 -->
