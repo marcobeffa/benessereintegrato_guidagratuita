@@ -1,16 +1,22 @@
 
-# L'apprendimento è ciclico le stagioni
+## Animum
 
-# Girare in tondo 
+> **Animum debes mutare, non caelum** 
+>"L'animo devi mutare, non il cielo".
+Seneca
 
+Il primo segreto che un fisioterapista riguarda proprio lo stato d'animo.
 
-# il corpo è accordato con la natura e fa parte di essa un micromondo e macromondo
+Lo stato d'animo è la prima cosa che puoi  cambiare già ora.
 
+Come? Ricercando un atteggiamento mentale giusto!
+Nel corso della guida vedremo piccoli spunti che potrai mettere in pratica.
 
+# La posizione generativa
 
-# I cicli il corpo e la natura
+# Il bambino l'equilibrio sui 3 centri
 
-
+# Il segreto non è il cosa ma il come e il perchè si fanno le cose.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzYwOTU2NF19
+eyJoaXN0b3J5IjpbMTQ0NjYxMTcxOV19
 -->
