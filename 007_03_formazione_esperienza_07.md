@@ -1,10 +1,5 @@
 # L'osteopatia e il resto
-# Il metodo gds le 7 posture
-
-Potenziale Acquisito Facciata
-
-
-Fisico e mentale legati dal movimento 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY1NTYwNjYsLTY2OTk0NTk1N119
+eyJoaXN0b3J5IjpbLTM2MTQ0MDY2LC02Njk5NDU5NTddfQ==
 -->
