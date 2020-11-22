@@ -1,9 +1,4 @@
-# Posizione generativa
 
-# Collasso desider
-# In autonomia o con una guida che conosce il territorio?
-
-# Quando si gira in tondo 
 
 # L'apprendimento è ciclico le stagioni
 
@@ -16,5 +11,5 @@
 
 # I cicli il corpo e la natura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDQ2OTM4XX0=
+eyJoaXN0b3J5IjpbLTE4NDE3NDgxMzRdfQ==
 -->
