@@ -1,7 +1,12 @@
 
 
+## Crea il tuo profilo
 
-> Written with [StackEdit](https://stackedit.io/).
+- Med semplici? 
+- Corpo e coscienza 
+- Psicocomportamentale? Vedremo in seguito
+- Movimento 
+- Atteggiamente emotivo e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU2ODIwNDhdfQ==
 -->
