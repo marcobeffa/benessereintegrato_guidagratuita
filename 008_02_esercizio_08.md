@@ -4,7 +4,6 @@
 
 
 
-
 ## Crea il tuo profilo
 
 
@@ -16,6 +15,6 @@
 
 ## Riconoscere i triangoli del tuo corpo il corpo è abitato la vocazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ3MDExMjcsMTc2NzI3Mzc3Nyw2Mj
-g3NzEzMiwxNDI3MjQ3NDI2XX0=
+eyJoaXN0b3J5IjpbNDgxOTg0NDU5LDE3NjcyNzM3NzcsNjI4Nz
+cxMzIsMTQyNzI0NzQyNl19
 -->
