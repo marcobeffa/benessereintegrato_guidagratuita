@@ -7,7 +7,9 @@
 
 > Stare nella Meraviglia, in pratica,  **significa riconoscere un’Anima alle cose**, così che esse non siano solo più il nostro riflesso (o un giudizio), ma sia cariche della loro vita e, quindi, di informazioni e segreti per noi.
 
+# La tua storia 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTUzNzMwOF19
+eyJoaXN0b3J5IjpbLTE5MDI2ODI2ODZdfQ==
 -->
