@@ -1,5 +1,8 @@
 
 
+
+# Prima le basi
+
 >  Ignoranti quem portum petat nullus suus ventus est.
 >  
 >  Nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare.  
@@ -18,5 +21,5 @@ Misurare
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjI4NDA5MywxNjgyMjcwNzgxXX0=
+eyJoaXN0b3J5IjpbLTE3MzQzNzQ4NzUsMTY4MjI3MDc4MV19
 -->
