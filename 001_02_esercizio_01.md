@@ -5,6 +5,7 @@ Molti esercizi sono dei compiti che richiedono di rispondere ad alcune domande a
 
 Perciò prendi carta e penna e rispondi a queste domande!
 
+## Se ti trovi in una situazione difficile ora
  1.  Ti è mai capitato di trovarti in situazioni di difficoltà riguardo la tua salute? 
  2. Come hai risolto il problema?
  3. Come ti sei trovato?
@@ -12,8 +13,10 @@ Perciò prendi carta e penna e rispondi a queste domande!
  5. Cosa invece non hai trovato e ti sarebbe piaciuto trovare?
  6. Cosa ti è piaciuto?
  7. Cosa non ti è piaciuto?
+ 
+## Se ti trovi in una situazione difficile ora
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY0NzU1NzJdfQ==
+eyJoaXN0b3J5IjpbMTU5MTgzNjI3NF19
 -->
