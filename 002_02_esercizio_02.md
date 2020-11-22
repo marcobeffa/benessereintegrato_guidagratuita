@@ -18,6 +18,10 @@ Come vorresti sentirti quando hai raggiunto il tuo obiettivo
 Perchè vuoi uscire da questa situazione?
 Come vorresti sentirti?
 
+
+# La storia i modelli le Convinzioni che ti motivano
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDE5MTg5Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTU1NzQ2MDEzLDczMDk5ODExNl19
 -->
