@@ -1,4 +1,6 @@
 
+## Imparare ad ascoltare per accorgersi la percezione
+
 Accorgersi che qualcosa si muove dentro di noi come si fa?
 
 Il respiro il battito cardiaco sono solo due dei rumori.
@@ -25,5 +27,6 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mzk3NzQ0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExNTg1NjIxMjAsLTIwODg3NDY2MTJdfQ
+==
 -->
