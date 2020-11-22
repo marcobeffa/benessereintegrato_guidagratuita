@@ -1,7 +1,5 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# L'importanza dell'educazione 
+# impara le regole per infrangerle 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzg1NDMyNzZdfQ==
 -->
