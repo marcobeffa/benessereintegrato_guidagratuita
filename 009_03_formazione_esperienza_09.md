@@ -1,10 +1,11 @@
 
 # Il metodo gds le 7 posture
 
-# Fisico e mentale legati dal movimento
+# Fisico e mentale legati dal movimento 
 
-# Catene psicocomportam
+# Catene psicocomportamentali
 
+# Psicosomatica - Somatopsichiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NjAyNDI3XX0=
+eyJoaXN0b3J5IjpbMTE2MDU3ODEzMF19
 -->
