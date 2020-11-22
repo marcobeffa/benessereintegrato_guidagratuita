@@ -11,9 +11,9 @@ Quando si va a fare la patente ti fanno studiare la macchina, come funziona, le 
 Con il corpo dovrebbe essere uguale! 
 Potresti prendere questa guida come la teoria per prendere la patente del corpo!
 
-Si servirebbe proprio  
+Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4OTIzMTgxLC0yMTQxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbLTUwNjg0NjgzLC0yMTQxMTI2Mjk1XX0=
 -->
