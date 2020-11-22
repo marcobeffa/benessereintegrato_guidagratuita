@@ -3,10 +3,8 @@
 
 # la scelta e l'errore puoi decidere
 
-# Le cose che non facciamo hanno un effetto
 
-#
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ1NzcyNjVdfQ==
+eyJoaXN0b3J5IjpbOTIxMTM1NjEyXX0=
 -->
