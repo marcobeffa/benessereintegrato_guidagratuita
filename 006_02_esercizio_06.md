@@ -1,5 +1,3 @@
-
-
 # Stimolo risposta 
 
 # Quanto tempo potresti dedicare a settimana?
@@ -14,6 +12,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ1MTg2MDIsLTIxNDA2Mzk2NDMsND
-IzMjc5ODBdfQ==
+eyJoaXN0b3J5IjpbMzIyMzEyNzIyLC0yMTQwNjM5NjQzLDQyMz
+I3OTgwXX0=
 -->
