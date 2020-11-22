@@ -2,9 +2,8 @@
 
 Potenziale Acquisito Facciata
 
-Qual è la tua predisposizione
 
-Psicocomportamentale?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MjU0MTYyXX0=
+eyJoaXN0b3J5IjpbLTY2OTk0NTk1N119
 -->
