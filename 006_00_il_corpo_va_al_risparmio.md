@@ -1,7 +1,8 @@
+# risorse e abitudini
 
+Smantella ciò che non usa
 
-
-> Written with [StackEdit](https://stackedit.io/).
+# La dittatura delle abitudini
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTgxNzY1Njg5NF19
 -->
