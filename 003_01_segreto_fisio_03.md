@@ -3,7 +3,7 @@
 
 # causa effetto 
 
-# ogni azione che facc
+# ogni azione che facciamo ha una conseguenza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMDUxMjk1XX0=
+eyJoaXN0b3J5IjpbMTE3Mzk0NTM2OF19
 -->
