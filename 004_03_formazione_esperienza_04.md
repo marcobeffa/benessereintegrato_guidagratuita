@@ -10,7 +10,8 @@
 
 # Il gruppo dei pari
 
+# L'influenza sociale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMjM4MzU3XX0=
+eyJoaXN0b3J5IjpbMTYyMzM5NTk4N119
 -->
