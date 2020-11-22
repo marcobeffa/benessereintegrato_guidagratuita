@@ -1,7 +1,9 @@
+# 
 # Un duro colpo
 
-
 Una delle prime esperienze che mi hanno fatto entrare in contatto con il mondo della salute è stata la **frattura dello scafoide.** 
+
+# Infortuni nello sportivo
 
 Gli infortuni nello sportivo sono una di quelle situazioni in cui è necessario intraprendere un buon percorso per poter ritornare in campo in forma!
 
@@ -30,6 +32,6 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTIwODI3OCwtMzQ1NTE2NTU0LC02Nj
-kzNzQ2MzMsOTU1MzI3MzQ3LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbMjI1MTE3NjUyLC0zNDU1MTY1NTQsLTY2OT
+M3NDYzMyw5NTUzMjczNDcsLTU5ODg3NTAzMl19
 -->
