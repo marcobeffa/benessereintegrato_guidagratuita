@@ -1,4 +1,6 @@
+# Ogni giorno è un giorno nuovo
 
+# Trova il bello delle cose
 
 --
 **Platone diceva che “il Vero si nasconde dietro al Bello” ed ecco che la Bellezza, la Meraviglia, sono la porta per la Verità**.
@@ -7,5 +9,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDEzNzg4Nl19
+eyJoaXN0b3J5IjpbMTEyOTUzNzMwOF19
 -->
