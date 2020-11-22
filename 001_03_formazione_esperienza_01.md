@@ -1,13 +1,17 @@
-# 
-# Un duro colpo
+# Formazione / Esperienza 1
+
+## Un duro colpo
 
 Una delle prime esperienze che mi hanno fatto entrare in contatto con il mondo della salute è stata la **frattura dello scafoide.** 
 
-# Infortuni nello sportivo
+## Infortuni nello sportivo
 
 Gli infortuni nello sportivo sono una di quelle situazioni in cui è necessario intraprendere un buon percorso per poter ritornare in campo in forma!
 
 Giocando a Rugby all'età di 16 anni per una caduta subii la frattura di questo piccolo osso, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto.
+
+
+## Quello 
 
 Devo confessare che feci tutto quello che un paziente non dovrebbe fare. Ora da fisioterapista  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la paura e la non conoscenza delle cose mi avevano paralizzato, e ci ho messo il doppio del tempo per risolvere il problema, che si è risolto in malo modo perchè il mio scafoide tutt'ora non è ancora saldato, ma comunque con le giuste cure funziona a dovere anche così!
 
@@ -32,6 +36,6 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MTE3NjUyLC0zNDU1MTY1NTQsLTY2OT
+eyJoaXN0b3J5IjpbOTA2ODQ5NTc0LC0zNDU1MTY1NTQsLTY2OT
 M3NDYzMyw5NTUzMjczNDcsLTU5ODg3NTAzMl19
 -->
