@@ -1,5 +1,9 @@
 # L'osteopatia e il resto
  
+# Una visione globale 
+
+
+# Un approccio alla guarigione olistico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTQ0MDY2LC02Njk5NDU5NTddfQ==
+eyJoaXN0b3J5IjpbLTE5OTA5NjYxMTIsLTY2OTk0NTk1N119
 -->
