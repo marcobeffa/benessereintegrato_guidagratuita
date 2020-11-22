@@ -8,14 +8,16 @@ Lo studio del corpo è una materia che ritengo dovrebbe essere una materia scola
 
 ## BenessereIntegrato la patente per la tua salute
 
-Quando si va a fare la patente ti studi ogni cosa riguarda la circolazione , come funziona la macchina, le varie spie, poi ti insegnano come si guida la macchina, quali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
+Quando si va a fare la patente ti **studi** ogni cosa riguarda la **circolazione stradale**. Come funziona la macchina, a cosa servono le varie spie, come si guida, quali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
 
 Con il corpo dovrebbe essere uguale! 
-Potresti prendere questa guida come la teoria per prendere la patente del corpo!
+Potresti prendere questa **guida** come la teoria per prendere la **patente della salute**!
 
-Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti
+Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti!
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODM3NDA5LC0yMTQxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbLTc2MzcwNTE1MSwtMjE0MTEyNjI5NV19
 -->
