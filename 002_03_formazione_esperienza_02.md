@@ -1,6 +1,3 @@
-
-# La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano
-
 # Il piacere della scoperta!  Come funziona il sistema ormonale la dieta il corpo conoscere nuovi modelli e seguire un metodo 
 
 
@@ -25,6 +22,6 @@ Un impegno per la salute esempio maestro bruno
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI2MTkwNDIsLTE3NTE5NTkwNzcsLT
+eyJoaXN0b3J5IjpbLTEyODIzNzgzMjcsLTE3NTE5NTkwNzcsLT
 I2NTcxMjQ0NF19
 -->
