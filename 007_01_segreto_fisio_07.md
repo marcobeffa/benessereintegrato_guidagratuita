@@ -10,6 +10,8 @@ Il tuo corpo è un supporto il dna registra la postura
 Il tuo corpo è un supporto il dna registra la postura
 # Bivio 
 # Scelta
+
+# In base al nostro potenziale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzQyOTUxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzkzMDA0MDEwLDczMDk5ODExNl19
 -->
