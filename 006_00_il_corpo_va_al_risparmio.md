@@ -2,13 +2,13 @@
 
 Smantella ciò che non usa
 
-# La dittatura delle abitudini
+# Usare il cervello per ribellarsi alla dittatura delle abitudini
 
-# C
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1ODk0NjY4XX0=
+eyJoaXN0b3J5IjpbLTIwOTg0MjI5NDBdfQ==
 -->
