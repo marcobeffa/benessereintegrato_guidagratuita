@@ -1,7 +1,6 @@
 
 # Causa effetto 
 
-
 # ogni azione che facciamo ha una conseguenza 
 
 # L'importanza dell'educazione
@@ -20,5 +19,5 @@ non so se il modello è giusto
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjgwMDc3NiwxMTU4NDY2ODQwXX0=
+eyJoaXN0b3J5IjpbLTE0ODM4MzgxNTQsMTE1ODQ2Njg0MF19
 -->
