@@ -10,6 +10,8 @@
 
 # adulti non hanno tempo  salute salute
 # anziani salute soldi e tempo
+
+# Posizione genera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMjc5ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzk1Mzg4MzksNDIzMjc5ODBdfQ==
 -->
