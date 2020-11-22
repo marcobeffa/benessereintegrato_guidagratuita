@@ -1,10 +1,10 @@
 
-
 # Il metodo gds le 7 posture
 
-Fisico e mentale legati dal movimento
+# Fisico e mentale legati dal movimento
 
-## Potenziale Acquisito Facciata
+# Catene psicocomportam
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjMwNjAyMF19
+eyJoaXN0b3J5IjpbNDE1NjAyNDI3XX0=
 -->
