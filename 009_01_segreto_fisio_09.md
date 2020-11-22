@@ -11,10 +11,12 @@ Lo stato d'animo è la prima cosa che puoi  cambiare già ora.
 
 Come? Ricercando un atteggiamento mentale giusto!
 Nel corso della guida vedremo piccoli spunti che potrai mettere in pratica.
-# La p
 
+# La posizione generativa
+
+# Il bambino l'equilibrio sui 3 centri
 
 # Il segreto non è il cosa ma il come e il perchè si fanno le cose.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDQ2OTQ2XX0=
+eyJoaXN0b3J5IjpbMTQ0NjYxMTcxOV19
 -->
