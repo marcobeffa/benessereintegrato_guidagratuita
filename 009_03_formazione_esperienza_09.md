@@ -1,7 +1,6 @@
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
+# Il programma educativo di un mese
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg2NzI4Nzg4OF19
 -->
