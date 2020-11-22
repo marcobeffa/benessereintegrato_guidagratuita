@@ -16,6 +16,12 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 
 
 # Quello che non viene usato viene smantellato
+
+# Stimolo Bio 
+# Risposta  azione Sociale
+# Gratificazione Psico
+
+Stimolo elaborazione risposta automatica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MjIxNjY4LC0xMzYwODcxMjc1XX0=
+eyJoaXN0b3J5IjpbLTM3NTk1MDgxNSwtMTM2MDg3MTI3NV19
 -->
