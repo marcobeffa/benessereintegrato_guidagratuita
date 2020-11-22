@@ -21,10 +21,10 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 # Risposta  
 # Gratificazione 
 
-Difendersi salla dittatura delle abitudini  nostro sistema nervoso come lotta
+## Difendersi salla dittatura delle abitudini imparando ad usare il nostro sistema nervoso 
 Percezione - Stimolo 
 elaborazione e modulazione vs risposta automatica 
 Ricompensa vs rielaborazione dell'accaduto e valutazione delle conseguenze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTYwNzY1NiwtMTM2MDg3MTI3NV19
+eyJoaXN0b3J5IjpbMjExMjUwMDM5LC0xMzYwODcxMjc1XX0=
 -->
