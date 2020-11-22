@@ -16,6 +16,7 @@ Ricordo ancora la disperazione che mi prese quando il medico mi disse che con qu
 In effetti non è stata una bella esperienza e forse una delle maggiori cause che mi hanno spinto a scegliere la scuola di fisioterapia era proprio perchè volevo capire come potesse un osso non saldarsi e finire in pseudoartrosi sembrava non ci fosse una soluzione e la curiosità di voler scoprire penso abbia guidato la mia scelta.
 
 Mi ripetevo sempre:
+
 > Le patologie e i problemi di salute, hanno delle cause e avranno anche un modo per essere risolti. 
 Voglio capire perché come funziona il corpo e prima o poi troverò una soluzione!
 
@@ -29,6 +30,6 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTUxNjU1NCwtNjY5Mzc0NjMzLDk1NT
-MyNzM0NywtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbLTE0MTk3MDg3NjQsLTM0NTUxNjU1NCwtNj
+Y5Mzc0NjMzLDk1NTMyNzM0NywtNTk4ODc1MDMyXX0=
 -->
