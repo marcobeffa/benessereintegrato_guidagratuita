@@ -29,7 +29,7 @@ Per affrontare un viaggio è necessario essere preparati, partire con l'attrezza
 
 Purtroppo la vita ci presenta situazioni **inaspettatate** e improvvisamente ci si trova su sentieri difficili. **Essere preparati** all'evenienza fa tutta la differenza sopratutto quando si tratta della tua **salute.**
 
-E' **per questo** che ho preparato questa guida. Perchè spero  ti possa aiutare nel caso tu *sia all'inizio* o nel un percorso, sia che tu ne *stia  già* affrontando uno,  per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
+E' **per questo** che ho preparato questa guida. Perchè spero  ti possa aiutare nel caso tu *sia all'inizio* di un percorso, sia nel caso tu ne *stia  già* affrontando uno,  per risolvere un problema o per raggiungere un obiettivo che riguarda il corpo la salute e il benessere.
 
 Questa guida è rivolta anche  ai **professionisti della salute e del benessere** perchè qui sono raccolti i principi di benessereintegrato.it e stiamo cercando **guide di montagna** che condividano la nostra filosofia e vogliano unirsi al progetto!
 
@@ -56,5 +56,5 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzkyNTIyNSwxNDI1ODcwNjM0XX0=
+eyJoaXN0b3J5IjpbLTYxODM4ODM2NywxNDI1ODcwNjM0XX0=
 -->
