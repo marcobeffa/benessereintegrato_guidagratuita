@@ -15,6 +15,8 @@ Avere un obiettivo misurare e aggiustare la rotta.
 Misurare
 
 # Ognuno ha bisogno di cose diverse ma le basi sono uguali per tutti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDQzODYyNSwxNjgyMjcwNzgxXX0=
+eyJoaXN0b3J5IjpbMjAwMjI4NDA5MywxNjgyMjcwNzgxXX0=
 -->
