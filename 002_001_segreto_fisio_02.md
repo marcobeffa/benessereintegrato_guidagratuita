@@ -3,7 +3,7 @@
 
 # ogni azione che facciamo ha una conseguenza 
 
-# L'importanza dell'educazione
+
 
 # Come funziona il sistema ormonale la dieta il corpo conoscere nuovi modelli e seguire un metodo 
 
@@ -19,5 +19,5 @@ non so se il modello è giusto
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM4MzgxNTQsMTE1ODQ2Njg0MF19
+eyJoaXN0b3J5IjpbMTk4NTM5NDcxNiwxMTU4NDY2ODQwXX0=
 -->
