@@ -1,4 +1,5 @@
 
+# L'importanza dell'educazione
 
 # L'educazione la curiosità
 
@@ -16,5 +17,6 @@ Un impegno per la salute esempio maestro bruno
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE5NTkwNzcsLTI2NTcxMjQ0NF19
+eyJoaXN0b3J5IjpbLTE3MjU0NDcwOTcsLTE3NTE5NTkwNzcsLT
+I2NTcxMjQ0NF19
 -->
