@@ -1,11 +1,6 @@
 
-# Causa effetto 
+# Causa effetto ogni azione che facciamo ha una conseguenza 
 
-# ogni azione che facciamo ha una conseguenza 
-
-
-
-# Come funziona il sistema ormonale la dieta il corpo conoscere nuovi modelli e seguire un metodo 
 
 # la costanza paga
 
@@ -19,5 +14,5 @@ non so se il modello è giusto
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTM5NDcxNiwxMTU4NDY2ODQwXX0=
+eyJoaXN0b3J5IjpbNDkyMTY2NzY0LDExNTg0NjY4NDBdfQ==
 -->
