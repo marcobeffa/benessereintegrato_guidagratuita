@@ -1,8 +1,10 @@
-# Il corpo è una macchina che lavora a risparmio
+# Le cose che non facciamo hanno un effetto
 
+# L'esperienza
 
+# impara le regole per infrangerle 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY1NjExNDEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg2NzQ1MTk4MCw3MzA5OTgxMTZdfQ==
 -->
