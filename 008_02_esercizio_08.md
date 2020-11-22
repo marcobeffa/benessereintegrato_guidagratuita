@@ -1,3 +1,11 @@
+# Posizione generativa
+
+# Collasso desiderio aspettativa
+# In autonomia o con una guida che conosce il territorio?
+
+# Quando si gira in tondo 
+
+
 ## Crea il tuo profilo
 
 
@@ -12,5 +20,5 @@
 
 ## Quali altri modelli conosci?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzI0NzQyNl19
+eyJoaXN0b3J5IjpbNjI4NzcxMzIsMTQyNzI0NzQyNl19
 -->
