@@ -1,7 +1,10 @@
 
 
+# Stimolo risposta 
 
-> Written with [StackEdit](https://stackedit.io/).
+# Quanto tempo potresti dedicare a settimana?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQxNTk1OTQ0Ml19
 -->
