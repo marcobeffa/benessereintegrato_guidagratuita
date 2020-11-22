@@ -1,3 +1,5 @@
+# Profilo come modello comune per il condividere il lavoro con il team
+
 - Corpo e coscienza 
 - Psicocomportamentale? Vedremo in seguito
 - Movimento 
@@ -7,5 +9,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTk3NzE0MV19
+eyJoaXN0b3J5IjpbMzMzNjQyNDAwXX0=
 -->
