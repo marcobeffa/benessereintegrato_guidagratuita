@@ -18,7 +18,7 @@ Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli impre
 
 ## La tua salute dipende da cause interne e da cause esterne.
 
-Questa parte di capitole è tragica, capisco che possa turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto benessereintegrato.
+Questa parte di capitole è tragica, capisco che possa turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.**
 
 Troppo spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti.
 
@@ -84,18 +84,7 @@ Ecco in quel giorno decisi di iniziare la mia ricerca avrei trovato una soluzion
 
 Ora dopo parecchi corsi, molti studi e sperimentazione ore ed ore di lavoro di confronto con professionisti sono riuscito a trovare quello che cercavo e pian piano sto costruendo questo fantastico progetto!
 
-### BenessereIntegrato può fare la differenza per la tua salute?
-
-Con benessereintegrato.it ti mette a disposizione tanti strumenti che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse il suo ictus.  
-
-Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di incontrare la disabilità, ma sono certo che ne avrebbe ridotto drasticamente la probabilità che questo infausto evento accadesse.
-
-In oltre sono quasi sicuro che tutto il percorso di riabilitazione sarebbe stato molto più facile. 
-
-Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io stesso lo utilizzo quando inizio a sentire i primi sintomi di qualche dolore. Per esempio il dolore al ginocchio. Metto in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono, a volte ammetto che devo chiedere aiuto a qualche amico fisioterapista e se la situazione è grave fortunatamente ci sono medici ed ospedali.
-
-Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzY5ODkyNSwtNzYzNzA1MTUxLC0yMT
+eyJoaXN0b3J5IjpbMjA0MjY5MTQxMywtNzYzNzA1MTUxLC0yMT
 QxMTI2Mjk1XX0=
 -->
