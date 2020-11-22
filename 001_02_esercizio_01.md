@@ -19,15 +19,16 @@ Perciò prendi carta e penna e rispondi a queste domande!
 
 ## Da quale situazione vuoi allontanarti?
 
-Come ti senti? 
+Come ti senti ora? 
 Cosa ti ha portato a questa situazione?
 
-## Vers
+
+## Verso quale situazione vuoi iniziare a muoverti?
 
 Cosa ti piacerebbe ottenere da un percorso per la salute?
 Quali obiettivi ti piacerebbe raggiungere? 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTU1MDE3OF19
+eyJoaXN0b3J5IjpbLTE3NTc5NDUyMjVdfQ==
 -->
