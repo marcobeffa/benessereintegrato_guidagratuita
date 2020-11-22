@@ -3,7 +3,7 @@
 
 # causa effetto 
 
-
+# ogni azione che facc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MjY0ODIwXX0=
+eyJoaXN0b3J5IjpbOTQwMDUxMjk1XX0=
 -->
