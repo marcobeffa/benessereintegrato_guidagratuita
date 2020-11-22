@@ -1,12 +1,10 @@
 
 
-# La medicina dei semplici
+# Il metodo gds le 7 posture
 
-vs le conoscenze perdute delle piante 
+Fisico e mentale legati dal movimento
 
-# Giovita
-# Tra scienza e tradizione
-
+## Potenziale Acquisito Facciata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUxNzM1ODJdfQ==
+eyJoaXN0b3J5IjpbMjAwNjMwNjAyMF19
 -->
