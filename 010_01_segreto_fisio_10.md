@@ -1,7 +1,6 @@
 
 
 
-# Prima le basi
 
 >  Ignoranti quem portum petat nullus suus ventus est.
 >  
@@ -17,9 +16,11 @@ Avere un obiettivo misurare e aggiustare la rotta.
 
 Misurare
 
+# Prima le basi
+
 # Ognuno ha bisogno di cose diverse ma le basi sono uguali per tutti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQzNzQ4NzUsMTY4MjI3MDc4MV19
+eyJoaXN0b3J5IjpbLTE5MjYwNTU2NTMsMTY4MjI3MDc4MV19
 -->
