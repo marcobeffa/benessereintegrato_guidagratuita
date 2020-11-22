@@ -1,7 +1,7 @@
 
+“Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
 
-
-> Written with [StackEdit](https://stackedit.io/).
+Eraclito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTc0NzI4OTAxMV19
 -->
