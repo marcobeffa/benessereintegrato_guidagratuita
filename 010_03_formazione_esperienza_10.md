@@ -1,6 +1,7 @@
 
 # Corpo e coscienza
 
+# Crono biologia
 
 le 4 direzioni tra young intuito e una prospettiva sul mondo
 
@@ -16,5 +17,5 @@ I cicli corpo e coscienza la natura
 
 ## Importanza dei punti di riferimento e Misurare
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODA1Mzc0Myw1MTQ0MTIxMTVdfQ==
+eyJoaXN0b3J5IjpbMTI2NzM2NzM3OSw1MTQ0MTIxMTVdfQ==
 -->
