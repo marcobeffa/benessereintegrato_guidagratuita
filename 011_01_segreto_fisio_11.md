@@ -9,7 +9,12 @@
 
 # La tua storia 
 
+# La tua strada è scritta nel tuo cuore 
+segui il cuore quello che ti fa battere il cuore e troverai la tua strada
+
+che serve per trovare la tua strada il diario è prendersi un attimo per ascoltare il cuore
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI2ODI2ODZdfQ==
+eyJoaXN0b3J5IjpbLTEyOTI0MTM0OTZdfQ==
 -->
