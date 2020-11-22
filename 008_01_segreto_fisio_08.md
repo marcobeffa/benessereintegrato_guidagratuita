@@ -1,5 +1,6 @@
 # Posizione generativa
 
+# Collasso desider
 # In autonomia o con una guida che conosce il territorio?
 
 # Quando si gira in tondo 
@@ -15,5 +16,5 @@
 
 # I cicli il corpo e la natura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjcwNDU3M119
+eyJoaXN0b3J5IjpbMTQzNDQ2OTM4XX0=
 -->
