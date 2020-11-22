@@ -9,7 +9,7 @@
 # Il problema dei corsi è quando torni a casa
 
  
-# Time 43xperiences atteggi
+# Time 43xperiences atteggiamento emotivo e mentale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDQxMjMyNywxODQxOTYxNzE0XX0=
+eyJoaXN0b3J5IjpbLTI0NTAxMzAyMywxODQxOTYxNzE0XX0=
 -->
