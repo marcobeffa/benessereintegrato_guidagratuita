@@ -4,7 +4,13 @@
 
 # impara le regole per infrangerle 
 
+## apprendiamo con tentativi ed errori
+
+## Se non facciamo tentativi non impariamo
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzQ1MTk4MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc3NjcxMTgyMCwxODY3NDUxOTgwLDczMD
+k5ODExNl19
 -->
