@@ -2,9 +2,7 @@
 
 # Collasso desiderio aspettativa
 
-# In autonomia o con una guida che conosce il territorio?
 
-# Quando si gira in tondo 
 
 
 ## Crea il tuo profilo
@@ -18,6 +16,6 @@
 
 ## Riconoscere i triangoli del tuo corpo il corpo è abitato la vocazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzI3Mzc3Nyw2Mjg3NzEzMiwxNDI3Mj
-Q3NDI2XX0=
+eyJoaXN0b3J5IjpbLTIwNzQ3MDExMjcsMTc2NzI3Mzc3Nyw2Mj
+g3NzEzMiwxNDI3MjQ3NDI2XX0=
 -->
