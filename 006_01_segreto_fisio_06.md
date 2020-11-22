@@ -10,8 +10,12 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 - Il movimento è vita l'acquisito l'innato la facciata
 - Il problema è quando non usi una cosa il corpo la smantella
 
+# il corpo costruisce uno Schema e ne fa un abitudine
 
 # Stimolo risposta e gratificazione le abitudini
+
+
+# Quello che non viene usato viene smantellato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA4NzEyNzVdfQ==
+eyJoaXN0b3J5IjpbMzg2MjIxNjY4LC0xMzYwODcxMjc1XX0=
 -->
