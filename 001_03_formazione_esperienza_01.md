@@ -27,6 +27,8 @@ Quello che pensavo e che penso tutt'ora è:
 > Le patologie e i problemi di salute, hanno delle cause e avranno anche un modo per essere risolti. 
 Voglio capire perché come funziona il corpo e prima o poi troverò una soluzione!
 
+## Chi cerca trova!
+
 Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i problemi di salute sono gravi o sono arrivati ad un punto tale da essre irreversibili:
 
 > Nella maggior parte dei casi c'è sempre una Soluzione!
@@ -37,6 +39,6 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjMzMjQxNCwtMzQ1NTE2NTU0LC02Nj
+eyJoaXN0b3J5IjpbMTY4NzQ5MTA3NSwtMzQ1NTE2NTU0LC02Nj
 kzNzQ2MzMsOTU1MzI3MzQ3LC01OTg4NzUwMzJdfQ==
 -->
