@@ -33,8 +33,12 @@ Ricompensa vs rielaborazione dell'accaduto e valutazione delle conseguenze
 
 # Il problema dei corsi è quando torni a casa
 
+# Dipendenza da terapie
 
+# Non perdere il cliente 
+
+# Moderato malessere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTU0MzEzLDIxMTI1MDAzOSwtMTM2MD
-g3MTI3NV19
+eyJoaXN0b3J5IjpbMTgzNTM1MTkzMiwyMTEyNTAwMzksLTEzNj
+A4NzEyNzVdfQ==
 -->
