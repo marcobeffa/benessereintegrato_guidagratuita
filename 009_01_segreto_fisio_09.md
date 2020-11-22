@@ -1,8 +1,3 @@
-# Ognuno ha bisogno di cose diverse ma le basi sono uguali per tutti
---
-**Platone diceva che “il Vero si nasconde dietro al Bello” ed ecco che la Bellezza, la Meraviglia, sono la porta per la Verità**.
-
-> Stare nella Meraviglia, in pratica,  **significa riconoscere un’Anima alle cose**, così che esse non siano solo più il nostro riflesso (o un giudizio), ma sia cariche della loro vita e, quindi, di informazioni e segreti per noi.
 
 ## Animum
 
@@ -25,5 +20,5 @@ La regola è questa quando ti capita un problema:
 
 # Il segreto non è il cosa ma il come e il perchè si fanno le cose.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIzNjMzOTNdfQ==
+eyJoaXN0b3J5IjpbNDAwNTIzMjBdfQ==
 -->
