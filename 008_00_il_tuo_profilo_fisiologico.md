@@ -1,4 +1,10 @@
 # Profilo come modello comune per il condividere il lavoro con il team
+
+Molte letture 
+Una lettura del corpo.
+
+Modelli in comune Linguaggio comune ognuno parla la sua lingua.
+
 Struttura - Liquidi - Sistema ormonale - Nervoso - Immunitario 
 
 
@@ -11,5 +17,5 @@ Struttura - Liquidi - Sistema ormonale - Nervoso - Immunitario
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNDk3ODU2XX0=
+eyJoaXN0b3J5IjpbLTIxMjc4MDk0NjYsNDQyNDk3ODU2XX0=
 -->
