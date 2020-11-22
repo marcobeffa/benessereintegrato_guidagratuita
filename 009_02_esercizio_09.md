@@ -1,24 +1,10 @@
-# Il programma educativo di un mese
 
-# Non è per tutti! Prima il test
+# La tua catena muscolare
 
-# La presentazione
+Atteggiamento psicocomportamentale
 
-# un incontro a settimana
-
-
-# Incontro 1 
-# Compiti prima settiamana
-
-# Incontro 2 
-# Compiti prima settiamana
-
-# Incontro 3 
-# Compiti prima settiamana
-
-# Incontro 4 
-# Compiti prima settiamana
+il corpo è abitato le 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTQwMDk4Niw5MjQ5NTcxNF19
+eyJoaXN0b3J5IjpbLTExNzgzNzUyMTIsOTI0OTU3MTRdfQ==
 -->
