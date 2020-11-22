@@ -1,7 +1,7 @@
 
+# La tua catena muscolare
 
-
-> Written with [StackEdit](https://stackedit.io/).
+Atteggiamento psicocomportamentale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU1NjE0MzY2M119
 -->
