@@ -4,7 +4,12 @@
 
 # Quanto tempo potresti dedicare a settimana?
 
+# Qual è la risorsa che fai più fatica a gestire?
 
+# I giovani non hanno soldi
+
+# adulti non hanno tempo  salute salute
+# anziani salute soldi e tempo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTk1OTQ0Ml19
+eyJoaXN0b3J5IjpbNDIzMjc5ODBdfQ==
 -->
