@@ -1,8 +1,3 @@
-# Ripartire da una Posizione generativa
-
-# Mithoself experiences
-
-# Collasso desiderio aspettativa
 
 
 
@@ -19,6 +14,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0OTAxNTMyLDE3NjcyNzM3NzcsNjI4Nz
-cxMzIsMTQyNzI0NzQyNl19
+eyJoaXN0b3J5IjpbLTE4MjcxMDkxNDgsMTc2NzI3Mzc3Nyw2Mj
+g3NzEzMiwxNDI3MjQ3NDI2XX0=
 -->
