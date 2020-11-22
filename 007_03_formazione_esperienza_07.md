@@ -3,7 +3,7 @@
 Potenziale Acquisito Facciata
 
 
-
+Fisico e mentale legati dal movimento 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTk0NTk1N119
+eyJoaXN0b3J5IjpbOTk4MTQ5NzA0LC02Njk5NDU5NTddfQ==
 -->
