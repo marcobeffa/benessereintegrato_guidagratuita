@@ -11,20 +11,13 @@
 # Hai già fatto sport o cose varie
 
 
-## Se ti trovi in una situazione difficile ora
 
-Come ti senti? 
-Cosa ti ha portato a questa situazione?
+Perchè vuoi raggiungere quell'obiettivo?
+Come vorresti sentirti quando hai raggiunto il tuo obiettivo
+
 Perchè vuoi uscire da questa situazione?
 Come vorresti sentirti?
 
-
-## Raggiungere un obiettivo
-
-Cosa ti piacerebbe ottenere da un percorso per la salute?
-Quali obiettivi ti piacerebbe raggiungere? 
-Perchè vuoi raggiungere quell'obiettivo?
-Come vorresti sentirti quando hai raggiunto il tuo obiettivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIwMzQ2NDksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTUwMDE5MTg5Myw3MzA5OTgxMTZdfQ==
 -->
