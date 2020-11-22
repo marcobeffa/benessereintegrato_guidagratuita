@@ -8,7 +8,8 @@ Il tuo corpo è un supporto il dna registra la postura
 # Le decisioni di oggi influenzano i risultati di domani
 
 Il tuo corpo è un supporto il dna registra la postura
-# Bivio
+# Bivio 
+# Scelta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODExNTU5Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTY4MzQyOTUxMiw3MzA5OTgxMTZdfQ==
 -->
