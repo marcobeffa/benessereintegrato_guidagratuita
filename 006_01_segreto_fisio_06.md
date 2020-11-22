@@ -10,6 +10,8 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 - Il movimento è vita l'acquisito l'innato la facciata
 - Il problema è quando non usi una cosa il corpo la smantella
 
+
+# Stimolo risposta e gratificazione le abitudini
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjQ5MTkyNl19
+eyJoaXN0b3J5IjpbLTEzNjA4NzEyNzVdfQ==
 -->
