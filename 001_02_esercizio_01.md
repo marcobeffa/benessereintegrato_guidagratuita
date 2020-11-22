@@ -18,15 +18,18 @@ Perciò prendi carta e penna e rispondi a queste domande!
 ## Se ti trovi in una situazione difficile ora
 
 Come ti senti? 
-Cosa ti ha porta
+Cosa ti ha portato a questa situazione?
+Perchè vuoi uscire da questa situazione?
+Come vorresti sentirti?
 
 
-## Se vuoi raggiungere un obiettivo
+## Raggiungere un obiettivo
 
 Cosa ti piacerebbe ottenere da un percorso per la salute?
-
 Quali obiettivi ti piacerebbe raggiungere? 
+Perchè vuoi raggiungere quell'obiettivo?
+Come vorresti sentirti quando hai raggiunto il tuo obiettivo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcyMDAyMDNdfQ==
+eyJoaXN0b3J5IjpbLTM2MjQ4NTY5MV19
 -->
