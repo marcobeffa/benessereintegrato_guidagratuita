@@ -18,10 +18,13 @@ Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo
 # Quello che non viene usato viene smantellato
 
 # Stimolo Bio 
-# Risposta  azione Sociale
-# Gratificazione Psico
+# Risposta  
+# Gratificazione 
 
-Stimolo elaborazione risposta automatica
+Difendersi salla dittatura delle abitudini  nostro sistema nervoso come lotta
+Percezione - Stimolo 
+elaborazione e modulazione vs risposta automatica 
+Ricompensa vs rielaborazione dell'accaduto e valutazione delle conseguenze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTk1MDgxNSwtMTM2MDg3MTI3NV19
+eyJoaXN0b3J5IjpbMTI0OTYwNzY1NiwtMTM2MDg3MTI3NV19
 -->
