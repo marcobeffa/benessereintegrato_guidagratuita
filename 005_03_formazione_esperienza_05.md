@@ -4,12 +4,13 @@
 # Arti marziali equilibrio 
 
 # Adattarsi mantenendo l'obiettivo e senza soccombere
+
 # Aikido capoeira 
 
 
-# idoportal
+# Idoportal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzAzNTAxOV19
+eyJoaXN0b3J5IjpbLTE4MDA2NTY0NTEsMTQ1MzAzNTAxOV19
 -->
