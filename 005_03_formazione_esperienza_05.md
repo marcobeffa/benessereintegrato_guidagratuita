@@ -1,6 +1,6 @@
 
-# Mithoself experiences l'equilibrio emotivo
 
+# l'equilibrio emotivo kung fu la via delle
 # Arti marziali equilibrio 
 
 # Adattarsi mantenendo l'obiettivo e senza soccombere
@@ -12,5 +12,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA2NTY0NTEsMTQ1MzAzNTAxOV19
+eyJoaXN0b3J5IjpbLTg1MzgxMzQ2NCwxNDUzMDM1MDE5XX0=
 -->
