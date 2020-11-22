@@ -1,3 +1,9 @@
+# Posizione generativa
+
+# In autonomia o con una guida che conosce il territorio?
+
+# Quando si gira in tondo 
+
 # L'apprendimento è ciclico le stagioni
 
 # Girare in tondo 
@@ -9,5 +15,5 @@
 
 # I cicli il corpo e la natura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY5NDI3OTRdfQ==
+eyJoaXN0b3J5IjpbMTY4NjcwNDU3M119
 -->
