@@ -19,9 +19,8 @@ Perchè vuoi uscire da questa situazione?
 Come vorresti sentirti?
 
 
-# La storia i modelli le Convinzioni che ti motivano
-
+# La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NzQ2MDEzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzk2ODgzMDg5LDczMDk5ODExNl19
 -->
