@@ -39,7 +39,7 @@ Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure le 
 
 Buon viaggio!
 
-# L'osteopatia e il resto
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjM3NDAwMSwtNzUxNDA1Nzk5XX0=
+eyJoaXN0b3J5IjpbNzgzNzUwMTgxLC03NTE0MDU3OTldfQ==
 -->
