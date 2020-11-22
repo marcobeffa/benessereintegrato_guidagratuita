@@ -1,13 +1,14 @@
-# risorse e abitudini
+# Risorse e abitudini
 
 Smantella ciò che non usa
 
 # La dittatura delle abitudini
 
+# C
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDMyMjM0MF19
+eyJoaXN0b3J5IjpbNzU1ODk0NjY4XX0=
 -->
