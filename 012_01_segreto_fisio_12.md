@@ -1,4 +1,13 @@
 
+
+# La tua storia 
+
+# La tua strada è scritta nel tuo cuore 
+segui il cuore quello che ti fa battere il cuore e troverai la tua strada
+
+che serve per trovare la tua strada il diario è prendersi un attimo per ascoltare il cuore
+
+
 “Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
 
 Eraclito
@@ -10,5 +19,5 @@ La regola è questa quando ti capita un problema:
 > 5 minuti a parlare del problema, il resto del tempo a trovare una soluzione!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg0MDgxMDldfQ==
+eyJoaXN0b3J5IjpbLTgyMDkzODg1XX0=
 -->
