@@ -1,10 +1,10 @@
 
-# Ameba
+# Cosa ti piace fare?
 
-- Nella colonna di sinistra almeno 5 cose che ti bloccano dall'iniziare oppure se hai già iniziato cose che tendono a distrarti o 5 punti deboli che mettono in pericolo il tuo programma
+- Nella colonna di sinistra almeno 5 difficoltà che incontri quando devi affrontare un percorso oppure se hai già iniziato cose che tendono a distrarti o 5 punti deboli che mettono in pericolo il tuo programma
 -  Nella colonna di destra scrivi almeno 5 cose che ti piacerebbe ottenere dal tuo percorso della salute? 
 
-# Cosa ti piace fare? 
+ 
 
 # Sport programmi metodi?
 # Convinzioni 
@@ -22,5 +22,5 @@ Come vorresti sentirti?
 # La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2ODgzMDg5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTI5OTkzMDM1LDczMDk5ODExNl19
 -->
