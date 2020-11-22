@@ -14,11 +14,13 @@ Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di quest
 
 Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la **paura e la non conoscenza** delle cose mi avevano paralizzato, e ci ho messo il doppio del tempo per risolvere il problema, che si è risolto in malo modo perchè il mio scafoide tutt'ora non è ancora saldato, ma comunque con le giuste cure funziona a dovere anche così!
 
-Posso dire che questa lezione mi è servita perchè ho capito come la paura e la mancanza di una corretta informazione e gestione possono portare a fare scelte che **peggiorano molto la situazione.
+Posso dire che questa lezione mi è servita perchè ho capito come la paura e la mancanza di una corretta informazione e gestione possono portare a fare scelte che **peggiorano molto la situazione.**
 
-Ricordo ancora la disperazione che mi prese quando il medico mi disse che con questa frattura non avrei più potuto giocare a Rugby se non si fosse saldata! 
+## Questione di prospettiva
 
-In effetti non è stata una bella esperienza e forse una delle maggiori cause che mi hanno spinto a scegliere la scuola di fisioterapia era proprio perchè volevo capire come potesse un osso non saldarsi e finire in pseudoartrosi sembrava non ci fosse una soluzione e la curiosità di voler scoprire penso abbia guidato la mia scelta.
+Ricordo ancora la **disperazione** che mi prese quando il medico mi disse che con questa frattura non avrei più potuto giocare a Rugby se non si fosse saldata, e ovviamente io pensavo che non avrei più potuto fare nemmeno le altre cose.
+
+In effetti non è stata una bella esperienza e forse una delle maggiori cause che mi hanno spinto a **scegliere la scuola di fisioterapia** era proprio perchè volevo capire come potesse un osso non saldarsi e finire in pseudoartrosi sembrava non ci fosse una soluzione e la curiosità di voler scoprire penso abbia guidato la mia scelta.
 
 Quello che pensavo e che penso tutt'ora è:
 
@@ -35,6 +37,6 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2MDI1MDA0LC0zNDU1MTY1NTQsLTY2OT
-M3NDYzMyw5NTUzMjczNDcsLTU5ODg3NTAzMl19
+eyJoaXN0b3J5IjpbMTY4NjMzMjQxNCwtMzQ1NTE2NTU0LC02Nj
+kzNzQ2MzMsOTU1MzI3MzQ3LC01OTg4NzUwMzJdfQ==
 -->
