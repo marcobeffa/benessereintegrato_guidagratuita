@@ -1,4 +1,6 @@
 # Profilo come modello comune per il condividere il lavoro con il team
+Struttura - Liquidi - Sistema ormonale - Nervoso - Immunitario 
+
 
 - Corpo e coscienza 
 - Psicocomportamentale? Vedremo in seguito
@@ -9,5 +11,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNjQyNDAwXX0=
+eyJoaXN0b3J5IjpbNDQyNDk3ODU2XX0=
 -->
