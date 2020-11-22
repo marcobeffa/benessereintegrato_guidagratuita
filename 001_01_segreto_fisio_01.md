@@ -5,7 +5,11 @@ Ecco a te la prima regola che i fisioterapisti non dicono!
 
 > Durante un escursione non ci sono condizioni sfavorevoli. Può capitare invece di non aver portato con se l'attrezzatura,  il materiale e gli strumenti necessari per affrontare quella condizioni.
 
-Quando stai viaggiando è consigliabile **preparare il  viaggio prima di partire** cono**o avere una guida  preparata che si affronta**. 
+Quando stai viaggiando è consigliabile **pianificare il viaggio**
+
+- **preparare il  viaggio prima di partire** 
+- scegliere una **meta adeguata** alle tue capacità 
+- **o avere una guida  preparata che si affronta**. 
 
  - Scegli il tuo percorso 
  - Cerca prevedere le condizioni a cui è possibile andare incontro, 
@@ -19,5 +23,5 @@ Poi in ogni momento dovrai stare attento a dove metti i piedi.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NTg1Njc0XX0=
+eyJoaXN0b3J5IjpbMTAwMjU2NDg3XX0=
 -->
