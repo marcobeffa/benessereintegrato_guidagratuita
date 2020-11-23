@@ -74,10 +74,10 @@ Ma la domanda che più di tutte non mi lasciava in pace era
 - Possibile che il corpo non gli abbia lasciato dei segni che gli facessero capire che qualcosa non funzionava?
 - Si poteva in qualche modo evitare di giungere a un problema così invalidante?
 - Perché intervenire solo quando era così tardi?
-- Perché non era stato possibile per Pietro avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
+- Perché non era stato possibile per Pietro avere un quadro della propria salute prima?
+- Persino nelle automobili c’è un cruscotto con delle spie che si avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere, quali sono i segnali  le spie da osservare per capire in che stato è la nostra salute?
 
-
-### Se avessi potuto regalare questa guida a Pietro gli avrebbe cambiato la vita
+###  Questa guida avrebbe Pietro gli avrebbe cambiato la vita
 
 Ero disorientato mi sentivo impotente e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo tenere sotto controllo la salute e imparare a leggere i segnali del corpo prima di incappare in eventi traumatici irreversibili che portano a disabilità e a perdere la capacità di utilizzare questo fantastico corpo un dono prezioso che ci hanno regalato alla nascita.
 
@@ -99,6 +99,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNjI5NTEzLC03NjM3MDUxNTEsLTIxND
+eyJoaXN0b3J5IjpbODAxNzM3MzM2LC03NjM3MDUxNTEsLTIxND
 ExMjYyOTVdfQ==
 -->
