@@ -79,13 +79,18 @@ Ma la domanda che più di tutte non mi lasciava in pace era
 
 ###  Questa guida avrebbe cambiato la vita di Pietro
 
-Ero **disorientato** mi sentivo **impotente** e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo **tenere sotto controllo la salute** e imparare a leggere **i segnali del corpo** prima di incappare in eventi traumatici irreversibili che portano a disabilità e a perdere la capacità di utilizzare questo fantastico corpo un dono prezioso che ci hanno regalato alla nascita.
+Ero **disorientato** mi sentivo **impotente** e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo **tenere sotto controllo la salute** e imparare a leggere **i segnali del corpo** prima di incappare in eventi traumatici irreversibili.
 
-Forse c’era qualcosa che la fisioterapia poteva fare in via preventiva per aiutare le persone a non arrivare a queste condizioni estreme.
+Prima di arrivare alla **disabilità**, alla perdita della capacità di utilizzare questo fantastico corpo, un dono prezioso che ci hanno regalato alla nascita.
 
-Ecco in quel giorno decisi di iniziare la mia ricerca avrei trovato una soluzione a tutto  questo.
+
+Forse c’era qualcosa che la **fisioterapia** poteva fare in via preventiva per aiutare le persone a non arrivare a queste condizioni estreme.
+
+> Ecco in quel giorno decisi di iniziare la mia ricerca avrei trovato una soluzione a tutto  questo.
 
 Ora dopo parecchi corsi, molti studi e sperimentazione ore ed ore di lavoro di confronto con professionisti sono riuscito a trovare quello che cercavo e pian piano sto costruendo questo fantastico progetto!
+
+
 
 ### BenessereIntegrato può fare la differenza per la tua salute?
 
@@ -99,6 +104,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjY5MDUyOCwtNzYzNzA1MTUxLC0yMT
+eyJoaXN0b3J5IjpbLTI1NjU4OTk3OSwtNzYzNzA1MTUxLC0yMT
 QxMTI2Mjk1XX0=
 -->
