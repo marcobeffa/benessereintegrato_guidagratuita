@@ -1,4 +1,7 @@
 
+# Il corpo reagisce a 2 forze che si controbilanciano
+
+## PASSATO CAUSA  E FUTURO LO SCOPO 
 # Tra passato e futuro a che punto sei del viaggio?
 
 Il corpo costudisce in se migliaia di informazioni.
@@ -57,7 +60,7 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzE3NDQyNyw0MzA3ODYyMzAsNzA3ND
-U0OTMwLDUzNDc2NTQ4NiwyMDE4MDQ1ODc2LDM1NDAzMzgzNSwx
-MTU4NDY2ODQwXX0=
+eyJoaXN0b3J5IjpbLTQ4ODcxODQ0NiwxOTI3MTc0NDI3LDQzMD
+c4NjIzMCw3MDc0NTQ5MzAsNTM0NzY1NDg2LDIwMTgwNDU4NzYs
+MzU0MDMzODM1LDExNTg0NjY4NDBdfQ==
 -->
