@@ -13,21 +13,21 @@ Si fa una prova teorica e una prova pratica e si deve imparare:
 - Come funziona la macchina, 
 - A cosa servono le varie spie, 
 - Come si guida, 
-- uali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
+- Quali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
 
 Con il corpo dovrebbe essere uguale! 
-Potresti prendere questa **guida** come la teoria per prendere la **patente della salute**!
+Potresti prendere questa **guida gratuita** come la teoria per prendere la **patente della salute**!
 
 Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti! 
 
 
-## La tua salute dipende da cause interne e da cause esterne.
+## La tua salute dipende da più cause
 
-Questa parte di capitole è tragica, capisco che possa turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.**
+Questa parte di capitolo potrebbe sembrar è tragica, capisco che possa turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.**
 
-Troppo spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti.
+Quando si danno per scontate molte cose e si agisce alla leggera su questioni importanti.
 
-Per questo questo voglio raccontarti del mio primo giorno di lavoro e del profondo sconforto che ho provato quando a città di Brescia ho dovuto prendere in cura Pietro.
+Il mio primo giorno di lavoro e del profondo sconforto che ho provato quando a città di Brescia ho dovuto prendere in cura Pietro.
 
 ### L'incontro con la disabilità
 
@@ -101,6 +101,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTMzMDM2MSwtNzYzNzA1MTUxLC0yMT
+eyJoaXN0b3J5IjpbLTUyNzA2ODAzNiwtNzYzNzA1MTUxLC0yMT
 QxMTI2Mjk1XX0=
 -->
