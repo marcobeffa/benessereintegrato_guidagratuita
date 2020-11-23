@@ -99,10 +99,10 @@ Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato d
 
 In oltre sono quasi sicuro che tutto il percorso di **riabilitazione** sarebbe stato molto **più facile**. 
 
-Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io stesso lo utilizzo quando inizio a sentire i primi sintomi di qualche dolore. Per esempio il dolore al ginocchio. Metto in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono, a volte ammetto che devo chiedere aiuto a qualche amico fisioterapista e se la situazione è grave fortunatamente ci sono medici ed ospedali.
+Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.  Io stesso lo utilizzo quando inizio a sentire i primi sintomi di qualche dolore. Per esempio il dolore al ginocchio. Metto in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono, a volte ammetto che devo chiedere **aiuto a mio fratello anche lui fisioterapista o a qualche collega**  se la situazione è grave fortunatamente ci sono medici ed ospedali.
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzY4NzM4MSwtNzYzNzA1MTUxLC0yMT
+eyJoaXN0b3J5IjpbLTE5MDM3OTI2NywtNzYzNzA1MTUxLC0yMT
 QxMTI2Mjk1XX0=
 -->
