@@ -26,17 +26,17 @@ Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli impre
 Questa parte di capitolo potrebbe sembrarti tragica. Magari un pò potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.**
 Spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti, solo perchè non si conoscono le conseguenze.
 
-Il mio primo giorno di lavoro e del profondo sconforto che ho provato quando a città di Brescia ho dovuto prendere in cura Pietro.
+Il mio **primo giorno di lavoro** ho provato un profondo sconforto quando a città di Brescia ho dovuto prendere in cura il mio primo paziente.
 
 ### L'incontro con la disabilità
 
-Là sul letto bianco vicino alla finestra che dava sul cortile interno, era sdraiato Pietro.
+Là sul letto bianco vicino alla finestra che dava sul cortile interno, era sdraiato Pietro. 
 
-Era un uomo di quarant’anni  e non era in grado di muoversi. 
+Era un uomo di quarant’anni  e **non era in grado di muoversi.**
 
 Non riusciva a controllare i movimenti.
 
-Dopo un ictus aveva perso l’uso della parola e non muoveva la parte destra del corpo.  
+Dopo un **ictus** aveva perso l’uso della parola e non muoveva la parte destra del corpo.  
 
 La vita di Pietro aveva avuto improvvisamente una brusca svolta, qualsiasi cosa avesse portato avanti fino a quel momento era stato interrotto.
 
@@ -100,6 +100,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTI5OTE3MSwtNzYzNzA1MTUxLC0yMT
+eyJoaXN0b3J5IjpbMTYzNzc3MjU2NiwtNzYzNzA1MTUxLC0yMT
 QxMTI2Mjk1XX0=
 -->
