@@ -32,7 +32,7 @@ Voglio capire perché come funziona il corpo e prima o poi troverò una soluzion
 
 ## Chi cerca trova!
 
-Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i problemi di salute sono gravi o sono arrivati ad un punto tale da essre irreversibili:
+Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi, dove i problemi di salute sono gravi o arrivano ad un punto tale da essre irreversibili:
 
 > Nella maggior parte dei casi c'è sempre una Soluzione!
 
@@ -42,7 +42,7 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgyMjE1NDMsLTIxMzg1NTU2NzAsMT
-Y4NzQ5MTA3NSwtMzQ1NTE2NTU0LC02NjkzNzQ2MzMsOTU1MzI3
-MzQ3LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbMzAxNDc0MDQwLC0yMTM4NTU1NjcwLDE2OD
+c0OTEwNzUsLTM0NTUxNjU1NCwtNjY5Mzc0NjMzLDk1NTMyNzM0
+NywtNTk4ODc1MDMyXX0=
 -->
