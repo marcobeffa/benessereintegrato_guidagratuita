@@ -93,17 +93,16 @@ Ora dopo parecchi corsi, **molti studi e sperimentazione ore ed ore di lavoro** 
 
 ### BenessereIntegrato può fare la differenza per la tua salute?
 
-La guida gratuita di benessereintegrato.it ti mette a disposizione tanti strumenti che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse il suo ictus.  
-Anzi oggi regalo almeno con il pensiero questa guida a Pietro perchè,  anche grazie a lui, questa guida esiste.
+La guida gratuita di benessereintegrato.it ti mette a disposizione tanti **strumenti** che avrei voluto far conoscere a Pietro magari qualche anno **prima che succedesse il suo ictus**.  Anzi oggi regalo almeno con il pensiero questa guida a Pietro perchè,  anche grazie a lui, questa guida esiste.
 
-Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di incontrare la disabilità, ma sono certo che ne avrebbe ridotto drasticamente la probabilità che questo infausto evento accadesse.
+Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di incontrare la disabilità, ma sono certo che ne avrebbe **ridotto drasticamente la probabilità** che questo infausto evento accadesse.
 
-In oltre sono quasi sicuro che tutto il percorso di riabilitazione sarebbe stato molto più facile. 
+In oltre sono quasi sicuro che tutto il percorso di **riabilitazione** sarebbe stato molto **più facile**. 
 
 Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io stesso lo utilizzo quando inizio a sentire i primi sintomi di qualche dolore. Per esempio il dolore al ginocchio. Metto in pratica le conoscenze che ho cercato di trasmettere tramite la guida e questi problemi si risolvono, a volte ammetto che devo chiedere aiuto a qualche amico fisioterapista e se la situazione è grave fortunatamente ci sono medici ed ospedali.
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODQ2NjE3OSwtNzYzNzA1MTUxLC0yMT
+eyJoaXN0b3J5IjpbMTgzMzY4NzM4MSwtNzYzNzA1MTUxLC0yMT
 QxMTI2Mjk1XX0=
 -->
