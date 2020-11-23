@@ -8,9 +8,9 @@ Una delle prime esperienze che mi hanno fatto entrare in contatto con il mondo d
 
 Gli infortuni nello sportivo sono una di quelle situazioni in cui è necessario intraprendere un buon percorso per poter ritornare in campo in forma!
 
-Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di questo piccolo osso**, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto, e spesso chi ha questo trauma  conclude la sua vicenda andando incontro a una condizione chiamata pseudoartrosi, proprio quello che è capitato a me.
+Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di questo piccolo osso**, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto, e spesso chi ha questo **trauma**  conclude la sua vicenda andando incontro a una condizione chiamata **pseudoartrosi**, proprio quello che è capitato a me.
 
-## Quello che una persona non dovrebbe fare.
+## Quello che una persona non dovrebbe fare con un problema di sal
 
 Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la **paura e la non conoscenza** delle cose mi avevano paralizzato, e ci ho messo il doppio del tempo per risolvere il problema, che si è risolto in malo modo perchè il mio scafoide tutt'ora non è ancora saldato, ma comunque con le giuste cure funziona a dovere anche così!
 
@@ -39,6 +39,7 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzQ5MTA3NSwtMzQ1NTE2NTU0LC02Nj
-kzNzQ2MzMsOTU1MzI3MzQ3LC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbLTU2MjA2MDU1MSwxNjg3NDkxMDc1LC0zND
+U1MTY1NTQsLTY2OTM3NDYzMyw5NTUzMjczNDcsLTU5ODg3NTAz
+Ml19
 -->
