@@ -9,6 +9,8 @@ James Joice
 
 Abitudini e azioni 
 
+
+
 # La costanza paga
 
 Un impegno per la salute esempio maestro bruno 
@@ -18,6 +20,6 @@ Un impegno per la salute esempio maestro bruno
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NzY1NDg2LDIwMTgwNDU4NzYsMzU0MD
-MzODM1LDExNTg0NjY4NDBdfQ==
+eyJoaXN0b3J5IjpbNzA3NDU0OTMwLDUzNDc2NTQ4NiwyMDE4MD
+Q1ODc2LDM1NDAzMzgzNSwxMTU4NDY2ODQwXX0=
 -->
