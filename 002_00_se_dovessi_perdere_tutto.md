@@ -2,7 +2,7 @@
 
 ## Un viaggio inaspettato
 
-Nel capitolo precedente abbiamo visto come molte persone giungano impreparate su percorsi difficili, in situazioni che non conoscono.
+Nel capitolo precedente raccontava del  visto come molte persone giungano impreparate su percorsi difficili, in situazioni che non conoscono.
 
 Lo studio del corpo è una materia che ritengo dovrebbe essere una materia scolastica! 
 
@@ -96,6 +96,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDc0NTY4MywtNzYzNzA1MTUxLC0yMT
-QxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbLTEyNDkyNDcxOTksLTc2MzcwNTE1MSwtMj
+E0MTEyNjI5NV19
 -->
