@@ -77,9 +77,9 @@ Ma la domanda che più di tutte non mi lasciava in pace era
 - Perché non era stato possibile per Pietro avere un quadro della propria salute prima?
 - Persino nelle automobili c’è un cruscotto con delle spie che si avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere, quali sono i segnali  le spie da osservare per capire in che stato è la nostra salute?
 
-###  Questa guida avrebbe Pietro gli avrebbe cambiato la vita
+###  Questa guida avrebbe cambiato la vita di Pietro
 
-Ero disorientato mi sentivo impotente e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo tenere sotto controllo la salute e imparare a leggere i segnali del corpo prima di incappare in eventi traumatici irreversibili che portano a disabilità e a perdere la capacità di utilizzare questo fantastico corpo un dono prezioso che ci hanno regalato alla nascita.
+Ero **disorientato** mi sentivo impotente e quel giorno decisi che avrei iniziato a studiare e avrei trovato una soluzione per chi volesse in qualche modo tenere sotto controllo la salute e imparare a leggere i segnali del corpo prima di incappare in eventi traumatici irreversibili che portano a disabilità e a perdere la capacità di utilizzare questo fantastico corpo un dono prezioso che ci hanno regalato alla nascita.
 
 Forse c’era qualcosa che la fisioterapia poteva fare in via preventiva per aiutare le persone a non arrivare a queste condizioni estreme.
 
@@ -99,6 +99,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxNzM3MzM2LC03NjM3MDUxNTEsLTIxND
-ExMjYyOTVdfQ==
+eyJoaXN0b3J5IjpbLTM2ODgzOTM5MiwtNzYzNzA1MTUxLC0yMT
+QxMTI2Mjk1XX0=
 -->
