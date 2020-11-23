@@ -44,9 +44,15 @@ Ogni persona **nasce** e pian piano costruisce una vita, una sua dimensione ha u
 
 Non era in grado di compiere quei **gesti quotidiani** che ogni giorno, ogni mattina tutti **ripetiamo automaticamente**, dandoli per scontati, come normali routine, in riabilitazione vengono chiamate con una siglla ADL le attività della vita quotidiana.
 
-- 
-- 
+- Sdraiarsi
+- Sedersi
+- Alvarci
+- Lavarsi
+- Vestirsi 
+- Mangiare
 
+quando una persona perde la capacità di fare tutto questo in autonomia si dice che va incontro a DISABILITA'. 
+Compito del fisioterapista è aiutarlo a ritrovare la sua auton
 
 ## Tante domande alla ricerca di una soluzione.
 
@@ -103,6 +109,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ2MjMwNDQsLTc2MzcwNTE1MSwtMj
-E0MTEyNjI5NV19
+eyJoaXN0b3J5IjpbLTU5NjQ4OTA0MiwtNzYzNzA1MTUxLC0yMT
+QxMTI2Mjk1XX0=
 -->
