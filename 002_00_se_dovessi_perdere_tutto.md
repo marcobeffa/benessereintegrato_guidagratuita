@@ -42,7 +42,10 @@ La vita di Pietro aveva avuto improvvisamente una **brusca svolta,** qualsiasi c
 
 Ogni persona **nasce** e pian piano costruisce una vita, una sua dimensione ha una **sua storia da raccontare**, a Pietro però era successo di perdere parte di questo mondo, era ritornato improvvisamente un bambino di pochi mesi.
 
-Non era in grado di compiere quei **gesti quotidiani** che ogni giorno ogni mattina **ripetiamo automaticamente**, senza ormai badarci, dando per scontato che tutto sia naturale.
+Non era in grado di compiere quei **gesti quotidiani** che ogni giorno, ogni mattina tutti **ripetiamo automaticamente**, dandoli per scontati, come normali routine, in riabilitazione vengono chiamate con una siglla ADL le attività della vita quotidiana.
+
+- 
+- 
 
 
 ## Tante domande alla ricerca di una soluzione.
@@ -100,6 +103,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTc5MDc0OCwtNzYzNzA1MTUxLC0yMT
-QxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbLTExMzQ2MjMwNDQsLTc2MzcwNTE1MSwtMj
+E0MTEyNjI5NV19
 -->
