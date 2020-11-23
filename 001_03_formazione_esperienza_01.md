@@ -12,7 +12,9 @@ Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di quest
 
 ## Quello che una persona non dovrebbe fare con un problema di saltue avere paura e non informarsi.
 
-Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la **paura e la non conoscenza** delle cose mi avevano paralizzato, e ci ho messo il doppio del tempo per **trovare una soluzione, **, che si è risolto in malo modo perchè il mio scafoide tutt'ora non è ancora saldato, ma comunque con le giuste cure funziona a dovere anche così!
+Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la **paura e la non conoscenza** delle cose mi avevano paralizzato.
+
+Ci ho messo il doppio del tempo per **trovare una soluzione. **, e ho risolto in malo modo il problema perchè ho aspettato troppo! Il mio scafoide tutt'ora non è ancora saldato, ma fortunatamente con il tempo sono riuscito a caprie come curarlo e ora con le giuste attenzioni funziona a dovere anche così!
 
 Posso dire che questa lezione mi è servita perchè ho capito come la paura e la mancanza di una corretta informazione e gestione possono portare a fare scelte che **peggiorano molto la situazione.**
 
@@ -39,7 +41,7 @@ Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi dove i p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA3NjEzNDQsMTY4NzQ5MTA3NSwtMz
+eyJoaXN0b3J5IjpbLTIxMzg1NTU2NzAsMTY4NzQ5MTA3NSwtMz
 Q1NTE2NTU0LC02NjkzNzQ2MzMsOTU1MzI3MzQ3LC01OTg4NzUw
 MzJdfQ==
 -->
