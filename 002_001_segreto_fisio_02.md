@@ -2,10 +2,11 @@
 # Tra passato e futuro a che punto sei del viaggio?
 
 Il corpo costudisce in se migliaia di informazioni.
-Molte conosciute altre che ti sono state trasmette geneticament
-La tua situazione di vita, e di salute dipen
+Molte conosciute altre che ti sono state trasmette geneticamente, dalla tua famiglia, del tuo ambiente, del gruppo sociale in cui vivi.
 
-La posizione in cui ti trovi ora dipende da 2 forze che si controbilanciano la tua storia passata e la tua storia futura.
+La tua situazione di vita, e di salute dipende perciò da 2 forze, che si controbilanciano la tua storia passata e la tua storia futura.
+
+La storia passata 
 
 
  
@@ -51,7 +52,7 @@ Un impegno per la salute esempio maestro bruno
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzIxODMwNiw0MzA3ODYyMzAsNzA3ND
+eyJoaXN0b3J5IjpbLTE0ODUyMjM2Niw0MzA3ODYyMzAsNzA3ND
 U0OTMwLDUzNDc2NTQ4NiwyMDE4MDQ1ODc2LDM1NDAzMzgzNSwx
 MTU4NDY2ODQwXX0=
 -->
