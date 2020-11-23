@@ -7,17 +7,6 @@ Molti esercizi sono compiti che richiedono la risposta ad alcune domande, negli 
 
 Perciò prendi carta e penna e rispondi a queste domande!
 
-## Situzioni difficili in passato
-
- 1.  Ti è mai capitato di trovarti in situazioni di difficoltà riguardo la tua salute? 
- 2. Come hai risolto il problema?
- 3. Come ti sei trovato?
- 4. Cosa ti è stato utile?
- 5. Cosa invece non hai trovato e ti sarebbe piaciuto trovare?
- 6. Cosa ti è piaciuto?
- 7. Cosa non ti è piaciuto?
- 
-
 
 ## Da quale situazione vuoi allontanarti?
 
@@ -32,5 +21,5 @@ Quali obiettivi ti piacerebbe raggiungere?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMjk5MDIsLTE3NTc5NDUyMjVdfQ==
+eyJoaXN0b3J5IjpbMzY4NjkyNjAzLC0xNzU3OTQ1MjI1XX0=
 -->
