@@ -52,39 +52,29 @@ Non era in grado di compiere quei **gesti quotidiani** che ogni giorno, ogni mat
 - Mangiare
 
 quando una persona perde la capacità di fare tutto questo in autonomia si dice che va incontro a DISABILITA'. 
-Compito del fisioterapista è aiutarlo a ritrovare la sua auton
+Compito del **fisioterapista** è aiutare la persona a ritrovare la sua autonomia.
 
 ## Tante domande alla ricerca di una soluzione.
 
 Nella mia testa si fecero largo molte domande e tutt’oggi queste domande sono sempre li ben presenti alla mia vista!
 
-Perchè capitano queste situazioni?
-
-Cosa ha causato l’ictus?
-
-Può capitare a tutti?
-
-Cosa posso fare io per questa persona ora che il peggio è successo?
-
-Non sarebbe stato meglio intervenire prima?
-
-Come è stato possibile che Pietro si sia ridotta in questo modo?
+- Perchè capitano queste situazioni?
+- Cosa ha causato l’ictus?
+- Può capitare a tutti?
+- Cosa posso fare io per questa persona ora che il peggio è successo?
+- Non sarebbe stato meglio intervenire prima?
+- Come è stato possibile che Pietro si sia ridotta in questo modo?
 
 Ma la domanda che più di tutte non mi lasciava in pace era
 
 ### Perchè le cose accadono senza che ce ne accorgiamo?
 
-Pietro si era accorto che di li a poco avrebbe perso tutto?
-
-La sua salute era buona o era già compromessa da tempo?
-
-Possibile che il corpo non gli abbia lasciato dei segni che gli facessero capire che qualcosa non funzionava?
-
-Si poteva in qualche modo evitare di giungere a un problema così invalidante?
-
-Perché intervenire solo quando era così tardi?
-
-Perché non era stato possibile per Pietro avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
+- Pietro si era accorto che di li a poco avrebbe perso tutto?
+- La sua salute era buona o era già compromessa da tempo?
+- Possibile che il corpo non gli abbia lasciato dei segni che gli facessero capire che qualcosa non funzionava?
+- Si poteva in qualche modo evitare di giungere a un problema così invalidante?
+- Perché intervenire solo quando era così tardi?
+- Perché non era stato possibile per Pietro avere un quadro della propria salute prima, persino nelle automobili c’è un cruscotto con delle spie che ti avvisano quando il motore ha una temperatura troppo elevata e rischia di fondere?
 
 
 ### Se avessi potuto regalare questa guida a Pietro gli avrebbe cambiato la vita
@@ -109,6 +99,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjQ4OTA0MiwtNzYzNzA1MTUxLC0yMT
-QxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbMzYzNjI5NTEzLC03NjM3MDUxNTEsLTIxND
+ExMjYyOTVdfQ==
 -->
