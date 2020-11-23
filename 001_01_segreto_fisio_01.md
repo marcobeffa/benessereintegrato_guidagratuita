@@ -7,9 +7,9 @@ Ecco a te la prima regola che i fisioterapisti non dicono!
 
 Quando stai viaggiando è consigliabile **prepararsi per il  viaggio prima di partire**
 
-- scegliere una **meta adeguata** alle tue capacità **o avere una guida  preparata che si affronta**. 
+- scegliere una **meta adeguata** alle tue capacità **o scegli una guida** che conosca il territorio. 
  - Prepara l'equipaggiamento necessario
- - Prendere solo lo stretto necessario indispensabile
+ - Prendi solo lo stretto necessario indispensabile
 
 Tutto questo ti aiuta ad abbassare la probabilità di rischi nel tuo viaggio!
 
@@ -18,5 +18,5 @@ E una volta partito, in ogni momento attento a dove metti i piedi.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzEwOTkxMV19
+eyJoaXN0b3J5IjpbMTI0OTI0NzYzOSwtODc3MTA5OTExXX0=
 -->
