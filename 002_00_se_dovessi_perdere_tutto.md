@@ -4,11 +4,16 @@
 
 Il capitolo precedente parla del fatto che molte persone giungono impreparate su percorsi difficili, in situazioni che non conoscono. 
 
-Il campo della salute è vasto, lo studio di alcune nozioni fondamentali sul corpo è una materia che ritengo dovrebbe essere una materia scolastica! 
+Il campo della salute è vasto, lo studio di alcune nozioni fondamentali sul corpo dovrebbe essere una materia scolastica! 
 
 ## BenessereIntegrato la patente per la tua salute
 
-Quando si va a fare la patente ti **studi** ogni cosa riguarda la **circolazione stradale**. Come funziona la macchina, a cosa servono le varie spie, come si guida, quali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
+Quando si va a fare la patente si **studia** ogni cosa riguardo la **circolazione stradale** per educare le persone ed insegnare loro come si guida. 
+Si fa una prova teorica e una prova pratica e si deve imparare:
+- Come funziona la macchina, 
+- A cosa servono le varie spie, 
+- Come si guida, 
+- uali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
 
 Con il corpo dovrebbe essere uguale! 
 Potresti prendere questa **guida** come la teoria per prendere la **patente della salute**!
@@ -96,6 +101,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDk3MjA5NiwtNzYzNzA1MTUxLC0yMT
+eyJoaXN0b3J5IjpbMTAyMTMzMDM2MSwtNzYzNzA1MTUxLC0yMT
 QxMTI2Mjk1XX0=
 -->
