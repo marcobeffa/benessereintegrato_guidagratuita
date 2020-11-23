@@ -13,7 +13,13 @@ La storia passata è il tuo punto di partenza!
 
 E' importante conoscere la propria storia per capire molte dinamiche anche di salute, ma è ancora più importante che tanto dipende dal futuro cosa vogliamo raggiungere.
 
+> [Il passato non può essere trasformato in una condanna che esclude ogni riscatto.](https://www.lefrasi.com/frase/stefano-rodota-passato-non-puo-essere-trasformato-condanna)
+> 
+> [Stefano Rodotà](https://www.lefrasi.com/autore/stefano-rodota)
 
+> [La nostra felicità non dipende soltanto dalle gioie attuali ma anche dalle nostre speranze e dai nostri ricordi. Il presente si arricchisce del passato e del futuro.](https://www.lefrasi.com/frase/emilie-du-chatelet-nostra-felicita-non-dipende-soltanto-dalle)
+> 
+> [Émilie du Châtelet](https://www.lefrasi.com/autore/emilie-du-chatelet)
 > Leggendo il passato si capisce meglio come siamo arrivati ad essere ciò che oggi siamo.
 [Corrado Augias](https://www.lefrasi.com/autore/corrado-augias)
 
@@ -60,7 +66,7 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODcxODQ0NiwxOTI3MTc0NDI3LDQzMD
-c4NjIzMCw3MDc0NTQ5MzAsNTM0NzY1NDg2LDIwMTgwNDU4NzYs
-MzU0MDMzODM1LDExNTg0NjY4NDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMjEzMTEwMTAsMTkyNzE3NDQyNyw0Mz
+A3ODYyMzAsNzA3NDU0OTMwLDUzNDc2NTQ4NiwyMDE4MDQ1ODc2
+LDM1NDAzMzgzNSwxMTU4NDY2ODQwXX0=
 -->
