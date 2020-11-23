@@ -6,12 +6,12 @@ Molte conosciute altre che ti sono state trasmette geneticamente, dalla tua fami
 
 La tua situazione di vita, e di salute dipende perciò da 2 forze, che si controbilanciano la tua storia passata e la tua storia futura.
 
-La storia passata 
+La storia passata è il tuo punto di partenza! 
 
-
- 
 > Leggendo il passato si capisce meglio come siamo arrivati ad essere ciò che oggi siamo.
 [Corrado Augias](https://www.lefrasi.com/autore/corrado-augias)
+
+
 
 > Guardando al futuro potrai vedere dove puoi arrivare
 [Corrado Augias](https://www.lefrasi.com/autore/corrado-augias)
@@ -52,7 +52,7 @@ Un impegno per la salute esempio maestro bruno
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUyMjM2Niw0MzA3ODYyMzAsNzA3ND
-U0OTMwLDUzNDc2NTQ4NiwyMDE4MDQ1ODc2LDM1NDAzMzgzNSwx
-MTU4NDY2ODQwXX0=
+eyJoaXN0b3J5IjpbLTE2ODY4MTY3MTQsNDMwNzg2MjMwLDcwNz
+Q1NDkzMCw1MzQ3NjU0ODYsMjAxODA0NTg3NiwzNTQwMzM4MzUs
+MTE1ODQ2Njg0MF19
 -->
