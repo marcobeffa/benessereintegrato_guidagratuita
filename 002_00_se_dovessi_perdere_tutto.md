@@ -88,13 +88,13 @@ Forse c’era qualcosa che la **fisioterapia** poteva fare in via preventiva per
 
 > Ecco in quel giorno decisi di iniziare la mia ricerca avrei trovato una soluzione a tutto  questo.
 
-Ora dopo parecchi corsi, molti studi e sperimentazione ore ed ore di lavoro di confronto con professionisti sono riuscito a trovare quello che cercavo e pian piano sto costruendo questo fantastico progetto!
-
+Ora dopo parecchi corsi, **molti studi e sperimentazione ore ed ore di lavoro** di confronto con professionisti sono riuscito a trovare quello che cercavo e pian piano sto costruendo questo **fantastico progetto!**
 
 
 ### BenessereIntegrato può fare la differenza per la tua salute?
 
-Con benessereintegrato.it ti mette a disposizione tanti strumenti che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse il suo ictus.  
+La guida gratuita di benessereintegrato.it ti mette a disposizione tanti strumenti che avrei voluto far conoscere a Pietro magari qualche anno prima che succedesse il suo ictus.  
+Anzi oggi regalo anche a lui almeno con il Pensiero questa guida, perchè anche grazie a lui questa guida esiste! 
 
 Certo non posso essere sicuro al 100 % che questo percorso gli avrebbe evitato di incontrare la disabilità, ma sono certo che ne avrebbe ridotto drasticamente la probabilità che questo infausto evento accadesse.
 
@@ -104,6 +104,6 @@ Quello che so è che questo percorso funziona anche per i piccoli acciacchi.  Io
 
 Ringrazio sempre la chimica e la farmacologia pensando a quella volta in cui sono stato ricoverato per una colica renale, ma conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le situazioni più difficili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjU4OTk3OSwtNzYzNzA1MTUxLC0yMT
-QxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbNjg3NzczNjc2LC03NjM3MDUxNTEsLTIxND
+ExMjYyOTVdfQ==
 -->
