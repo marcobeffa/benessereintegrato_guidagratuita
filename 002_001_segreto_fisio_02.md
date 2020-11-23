@@ -8,7 +8,9 @@ La tua situazione di vita, e di salute dipende perciò da 2 forze, che si contro
 
 La storia passata è il tuo punto di partenza! 
 
-E' importante conoscere la propria storia per capire molte dinamiche anche di salute
+E' importante conoscere la propria storia per capire molte dinamiche anche di salute, ma è ancora più importante che tanto dipende dal futuro cosa vogliamo raggiungere.
+
+
 > Leggendo il passato si capisce meglio come siamo arrivati ad essere ciò che oggi siamo.
 [Corrado Augias](https://www.lefrasi.com/autore/corrado-augias)
 
@@ -36,10 +38,9 @@ Max Pezzali
 > 
 > [Antonio Tabucchi](https://www.lefrasi.com/autore/antonio-tabucchi)
 
-> La vita è come un'eco: se non ti piace quello che ti rimanda, devi cambiare il messaggio che invii.
-James Joice
 
-# l'importante è rialzarsi 
+
+# Cadere e avere la forza di rialzarsi l'importante è rialzarsi 
 # Causa effetto ogni azione che facciamo ha una conseguenza 
 
 Abitudini e azioni 
@@ -48,14 +49,15 @@ Abitudini e azioni
 
 # La costanza paga
 
-Un impegno per la salute esempio maestro bruno 
+Un impegno per la salute esempio maestro Bruno 
 
 
-
+> La vita è come un'eco: se non ti piace quello che ti rimanda, devi cambiare il messaggio che invii.
+James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4ODExOTYyLDQzMDc4NjIzMCw3MDc0NT
-Q5MzAsNTM0NzY1NDg2LDIwMTgwNDU4NzYsMzU0MDMzODM1LDEx
-NTg0NjY4NDBdfQ==
+eyJoaXN0b3J5IjpbMTkyNzE3NDQyNyw0MzA3ODYyMzAsNzA3ND
+U0OTMwLDUzNDc2NTQ4NiwyMDE4MDQ1ODc2LDM1NDAzMzgzNSwx
+MTU4NDY2ODQwXX0=
 -->
