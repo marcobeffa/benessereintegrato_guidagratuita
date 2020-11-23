@@ -32,17 +32,17 @@ Voglio capire perché come funziona il corpo e prima o poi troverò una soluzion
 
 ## Chi cerca trova!
 
-Ora posso dire: si avevo ragione, basta cercare e tranne in alcuni casi, dove i problemi di salute sono gravi o arrivano ad un punto tale da essre irreversibili:
+Ora posso dire: si avevo ragione, basta cercare: 
 
 > Nella maggior parte dei casi c'è sempre una Soluzione!
 
-
+Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punto tale da essre irreversibili, ma anche li si può migliorare le condizioni.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNDc0MDQwLC0yMTM4NTU1NjcwLDE2OD
-c0OTEwNzUsLTM0NTUxNjU1NCwtNjY5Mzc0NjMzLDk1NTMyNzM0
-NywtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbMTcxNDY4OTczOSwtMjEzODU1NTY3MCwxNj
+g3NDkxMDc1LC0zNDU1MTY1NTQsLTY2OTM3NDYzMyw5NTUzMjcz
+NDcsLTU5ODg3NTAzMl19
 -->
