@@ -27,7 +27,7 @@ course:
       header: false
       title: "Segreto 01"
       description: "Le condizioni di viaggio"
-      link_github: 001_01_segreto_fisio_01
+      link_github: 001_01_regola_segreto_01
       author:
       image_tag:
     3:
@@ -43,7 +43,7 @@ course:
       header: false
       title: "Formazione esperienza 01 "
       description: "Un duro colpo..."
-      link_github: 001_03_formazione_esperienza_01
+      link_github: 001_03_esperienza_01
       author:
       image_tag:  
 
