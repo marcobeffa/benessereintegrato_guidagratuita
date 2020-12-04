@@ -1,6 +1,9 @@
 
 # Il corpo reagisce a 2 forze che si controbilanciano
 
+# conosci te stesso
+
+
 ## PASSATO CAUSA  E FUTURO LO SCOPO 
 # Tra passato e futuro a che punto sei del viaggio?
 
@@ -66,5 +69,5 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEzMTEwMTBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTc1OTUxOTldfQ==
 -->
