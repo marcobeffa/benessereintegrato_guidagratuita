@@ -2,7 +2,7 @@
 
 ## Un viaggio inaspettato
 
-Il capitolo precedente parla del fatto che molte persone giungono impreparate su percorsi difficili, in situazioni che non conoscono. 
+Nel capitolo precedente abbiamo visto che è facile capitare impreparate su percorsi difficili, in situazioni che non conoscono. 
 
 Il campo della salute è vasto, lo studio di alcune nozioni fondamentali sul corpo dovrebbe essere una materia scolastica! 
 
@@ -103,6 +103,6 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDYyNDAyOSwtNzYzNzA1MTUxLC0yMT
-QxMTI2Mjk1XX0=
+eyJoaXN0b3J5IjpbLTEyNjIyOTk2OTIsMTAzNDYyNDAyOSwtNz
+YzNzA1MTUxLC0yMTQxMTI2Mjk1XX0=
 -->
