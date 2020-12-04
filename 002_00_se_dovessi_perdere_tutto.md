@@ -8,22 +8,7 @@ Diciamo che puoi trasformare un dolore una patologia lieve in un opportunità pe
 
 Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica! 
 
-Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo perchè non si sanno leggere.
-
-## BenessereIntegrato la patente per la tua salute
-
-Quando si va a fare la patente si **studia** ogni cosa riguardo la **circolazione stradale** per educare le persone ed insegnare loro come si guida. 
-Si fa una prova teorica e una prova pratica e si deve imparare:
-- Come funziona la macchina, 
-- A cosa servono le varie spie, 
-- Come si guida, 
-- Quali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
-
-Con il corpo dovrebbe essere uguale! 
-Potresti prendere questa **guida gratuita** come la teoria per prendere la **patente della salute**!
-
-Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti! 
-
+Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo perchè non si sanno leggere succede così di arrivare a situazioni che comportano sofferenze e problemi.
 
 ## La tua salute dipende da più cause
 
@@ -107,6 +92,6 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDk4ODk1MiwxMDM0NjI0MDI5LC03Nj
+eyJoaXN0b3J5IjpbMTk0NjEwMzIzNCwxMDM0NjI0MDI5LC03Nj
 M3MDUxNTEsLTIxNDExMjYyOTVdfQ==
 -->
