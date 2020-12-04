@@ -6,7 +6,9 @@ Nel capitolo precedente abbiamo visto che è facile capitare impreparate in situ
 
 Diciamo che puoi trasformare un dolore una patologia lieve in un opportunità per imparare qualcosa di più sul corpo prima che la situazione diventi irrecuperabile.
 
-Il campo della salute è vasto, lo studio di alcune nozioni fondamentali sul corpo dovrebbe essere una materia scolastica! 
+Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica! 
+
+Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo perchè non si sanno leggere.
 
 ## BenessereIntegrato la patente per la tua salute
 
@@ -105,6 +107,6 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMjMwMTE0LDEwMzQ2MjQwMjksLTc2Mz
-cwNTE1MSwtMjE0MTEyNjI5NV19
+eyJoaXN0b3J5IjpbLTU4MDk4ODk1MiwxMDM0NjI0MDI5LC03Nj
+M3MDUxNTEsLTIxNDExMjYyOTVdfQ==
 -->
