@@ -1,4 +1,4 @@
-### Pag 02 cap 1
+### Pag 02 - Cap 1
 # La salute come un viaggio
 
 
@@ -57,6 +57,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzg5NzQ1NSwtNjE4Mzg4MzY3LDE0Mj
+eyJoaXN0b3J5IjpbLTIxMjUxMTAxMiwtNjE4Mzg4MzY3LDE0Mj
 U4NzA2MzRdfQ==
 -->
