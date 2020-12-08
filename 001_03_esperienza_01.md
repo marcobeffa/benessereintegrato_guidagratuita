@@ -1,3 +1,4 @@
+### pag 05 cap 1
 # Formazione / Esperienza 1
 
 ## Un duro colpo
@@ -42,5 +43,5 @@ Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDY4OTczOV19
+eyJoaXN0b3J5IjpbLTQzODY3MTMxNiwxNzE0Njg5NzM5XX0=
 -->
