@@ -1,4 +1,4 @@
-# La salute come un viaggio
+# 02 La salute come un viaggio
 
 
 ## In infradito a scalare l'everest... 
@@ -56,5 +56,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODM4ODM2NywxNDI1ODcwNjM0XX0=
+eyJoaXN0b3J5IjpbMTg5NDA2NTQ2NSwtNjE4Mzg4MzY3LDE0Mj
+U4NzA2MzRdfQ==
 -->
