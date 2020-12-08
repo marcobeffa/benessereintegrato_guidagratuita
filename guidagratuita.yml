@@ -6,7 +6,7 @@ course:
   image_tag: "home/mark_postura.png"
 
   file_chapters:
-    0:
+    1:
       date_last_release:
       header: true
       title: "00 intro"
@@ -14,7 +14,7 @@ course:
       link_github: 000_00_p001_intro
       author:
       image_tag:
-    1:
+    2:
       date_last_release:
       header: true
       title: "01 La salute come un viaggio"
@@ -22,7 +22,7 @@ course:
       link_github: 001_00_p002_la_salute_come_un_viaggio
       author:
       image_tag:
-    2:
+    3:
       date_last_release:
       header: false
       title: "Segreto 01"
@@ -30,7 +30,7 @@ course:
       link_github: 001_01_p003_regola_segreta_01
       author:
       image_tag:
-    3:
+    4:
       date_last_release:
       header: false
       title: "Esercizio 01"
@@ -38,7 +38,7 @@ course:
       link_github: 001_02_p004_esercizio_01
       author:
       image_tag:
-    4:
+    5:
       date_last_release:
       header: false
       title: "Formazione esperienza 01 "
