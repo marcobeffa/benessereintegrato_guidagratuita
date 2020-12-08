@@ -9,9 +9,9 @@ course:
     1:
       date_last_release:
       header: true
-      title: "00 intro"
+      title: "00 Introduzione"
       description: "Introduzione alla guida Benessere Integrato"
-      link_github: 000_00_p001_intro
+      link_github: 000_001_intro
       author:
       image_tag:
     2:
@@ -19,7 +19,7 @@ course:
       header: true
       title: "01 La salute come un viaggio"
       description: "In infradito a scalare l'Everest..."
-      link_github: 001_00_p002_la_salute_come_un_viaggio
+      link_github: 001_002_la_salute_come_un_viaggio
       author:
       image_tag:
     3:
@@ -27,7 +27,7 @@ course:
       header: false
       title: "Segreto 01"
       description: "Le condizioni di viaggio"
-      link_github: 001_01_p003_regola_segreta_01
+      link_github: 001_003_regola_segreta_01
       author:
       image_tag:
     4:
@@ -35,7 +35,7 @@ course:
       header: false
       title: "Esercizio 01"
       description: "La tua esperienza"
-      link_github: 001_02_p004_esercizio_01
+      link_github: 001_004_esercizio_01
       author:
       image_tag:
     5:
@@ -43,7 +43,7 @@ course:
       header: false
       title: "Formazione esperienza 01 "
       description: "Un duro colpo..."
-      link_github: 001_03_p005_esperienza_01
+      link_github: 001_005_esperienza_01
       author:
       image_tag:  
 
