@@ -1,4 +1,5 @@
-# 02 La salute come un viaggio
+### Pag 02 cap 1
+# La salute come un viaggio
 
 
 ## In infradito a scalare l'everest... 
@@ -56,6 +57,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDA2NTQ2NSwtNjE4Mzg4MzY3LDE0Mj
+eyJoaXN0b3J5IjpbMjAyNzg5NzQ1NSwtNjE4Mzg4MzY3LDE0Mj
 U4NzA2MzRdfQ==
 -->
