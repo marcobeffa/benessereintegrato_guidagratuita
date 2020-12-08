@@ -1,3 +1,5 @@
+# Intro 
+
 ## Benvenuto
 
 > “Non guariamo nessuno. Ognuno si ammala e guarisce da solo. Noi siamo lí a porgere il cerottino o un po’ di fiducia.”  
@@ -19,5 +21,5 @@ Come una **guida di montagna** ti conduce  attraverso sentieri per giungere a un
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTM1MjIzNCwtMTAwODcxMjc5NV19
+eyJoaXN0b3J5IjpbMTM2NzA0OTgyNSwtMTAwODcxMjc5NV19
 -->
