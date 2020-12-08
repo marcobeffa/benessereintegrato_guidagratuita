@@ -1,4 +1,4 @@
-
+### Pag 04 - Cap 1
 # 04 Esercizio 01 
 
 Molti esercizi sono compiti che richiedono la risposta ad alcune domande, negli altri capitoli puoi anche trovare esercizi più fisici!
@@ -30,6 +30,5 @@ Quali obiettivi ti piacerebbe raggiungere?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ2NzM5NjksLTE3NTc5NDUyMjVdfQ
-==
+eyJoaXN0b3J5IjpbLTMwOTEzNzEzMiwtMTc1Nzk0NTIyNV19
 -->
