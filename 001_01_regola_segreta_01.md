@@ -1,4 +1,4 @@
-
+### pag 03 cap 1
 # 03 Prima regola segreta dei fisio!
 
 Ecco a te la prima regola che i fisioterapisti non dicono!
@@ -18,6 +18,5 @@ Una volta partito, in ogni momento attento a dove metti i piedi.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTMxNzIxMzksLTExNDU2MzgzODJdfQ
-==
+eyJoaXN0b3J5IjpbMTYwNTU4NjE1MiwtMTE0NTYzODM4Ml19
 -->
