@@ -1,4 +1,4 @@
-# Cosa faresti se dovessi perdere tutto?
+# 05 Cosa faresti se dovessi perdere tutto?
 
 ## Un viaggio inaspettato
 
@@ -92,6 +92,6 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjEwMzIzNCwxMDM0NjI0MDI5LC03Nj
-M3MDUxNTEsLTIxNDExMjYyOTVdfQ==
+eyJoaXN0b3J5IjpbMTM0MTc3OTc3MywxOTQ2MTAzMjM0LDEwMz
+Q2MjQwMjksLTc2MzcwNTE1MSwtMjE0MTEyNjI5NV19
 -->
