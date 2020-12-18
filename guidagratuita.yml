@@ -25,7 +25,7 @@ course:
     3:
       date_last_release:
       header: false
-      title: "Segreto 01"
+      title: "Prima Regola della salute"
       description: "Le condizioni di viaggio"
       link_github: 001_003_regola_segreta_01
       author:
@@ -33,7 +33,7 @@ course:
     4:
       date_last_release:
       header: false
-      title: "Esercizio 01"
+      title: "Esercizio"
       description: "La tua esperienza"
       link_github: 001_004_esercizio_01
       author:
@@ -41,7 +41,7 @@ course:
     5:
       date_last_release:
       header: false
-      title: "Formazione esperienza 01 "
+      title: "Esperienza sul campo"
       description: "Un duro colpo..."
       link_github: 001_005_esperienza_01
       author:
