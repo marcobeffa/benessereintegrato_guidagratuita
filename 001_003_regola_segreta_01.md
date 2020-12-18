@@ -13,10 +13,10 @@ Quando stai viaggiando è consigliabile **prepararsi per il  viaggio prima di pa
 
 Tutto questo ti aiuta ad abbassare la probabilità di rischi nel tuo viaggio!
 
-Una volta partito, in ogni momento attento a dove metti i piedi.
+E una volta partito? In ogni momento attento a dove metti i piedi!
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTA4NTExNV19
+eyJoaXN0b3J5IjpbLTQxMTM4NjU4OCwtODk5MDg1MTE1XX0=
 -->
