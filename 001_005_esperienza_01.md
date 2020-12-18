@@ -9,7 +9,7 @@ La **frattura dello scafoide.** è stata una delle prime esperienze che mi ha fa
 
 Gli infortuni nello sportivo sono una di quelle situazioni in cui è necessario intraprendere un buon percorso per poter ritornare in campo in forma!
 
-Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di questo piccolo osso**, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto, e spesso chi ha questo **trauma**  conclude la sua vicenda andando incontro a una condizione chiamata **pseudoartrosi**, proprio quello che è capitato a me.
+Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di questo piccolo osso**, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto. Spesso chi subisce questo **trauma**  e non lo cura in modo corretto o per una serie di cause conclude la sua vicenda con una condizione chiamata **pseudoartrosi**, proprio quello che è capitato a me.
 
 ## Quello che una persona non dovrebbe fare con un problema di saltue avere paura e non informarsi.
 
@@ -43,6 +43,6 @@ Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODU0NTQ5MSwtMTExOTk3NjE4NCwyMD
-A4MzM4OTE1XX0=
+eyJoaXN0b3J5IjpbOTc2ODExOTIzLC0xMTE5OTc2MTg0LDIwMD
+gzMzg5MTVdfQ==
 -->
