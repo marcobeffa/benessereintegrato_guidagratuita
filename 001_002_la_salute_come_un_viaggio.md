@@ -1,7 +1,6 @@
 ### Cap 1 - Pag 02 
 # La salute come un viaggio
 
-
 ## In infradito a scalare l'everest... 
 
 Con la guida **BenessereIntegrato.it** imparerai ad affrontare un **percorso per la salute** come se stessi affrontando un **viaggio**. 
@@ -57,5 +56,5 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTY2NjAzNF19
+eyJoaXN0b3J5IjpbMTM3ODM3NzMxMl19
 -->
