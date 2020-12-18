@@ -21,7 +21,7 @@ Talvolta però la situazione che si devono risolvere sono molto complesse!
 
 Per questo in mente ho l'immagine di una **persona che si è persa in infradito** su un sentiero in alta quota molto arduo e impegnativo.
 
-La domanda che mi faccio è:
+Sorge spontanea una domanda:
 
 > Come è possibile ricondurre questa persona al sicuro, fuori da questa situazione? 
 
@@ -56,5 +56,5 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDIxNjUxNSwxMzc4Mzc3MzEyXX0=
+eyJoaXN0b3J5IjpbNDM3MjU5MDQwLDEzNzgzNzczMTJdfQ==
 -->
