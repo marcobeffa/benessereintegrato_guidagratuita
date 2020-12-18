@@ -13,7 +13,7 @@ Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di quest
 
 ## Quello che una persona non dovrebbe fare con un problema di saltue avere paura e non informarsi.
 
-Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero, ma allora la **paura e la non conoscenza** delle cose mi avevano paralizzato.
+Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero.  Ma allora la **paura e la non conoscenza** di quella situazione imprevista, mi avevano paralizzato.
 
 Ci ho messo il doppio del tempo per **trovare una soluzione. **, e ho risolto in malo modo il problema perchè ho aspettato troppo! Il mio scafoide tutt'ora non è ancora saldato, ma fortunatamente con il tempo sono riuscito a caprie come curarlo e ora con le giuste attenzioni funziona a dovere anche così!
 
@@ -43,6 +43,6 @@ Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2ODExOTIzLC0xMTE5OTc2MTg0LDIwMD
-gzMzg5MTVdfQ==
+eyJoaXN0b3J5IjpbLTEwODUyODEyMTcsLTExMTk5NzYxODQsMj
+AwODMzODkxNV19
 -->
