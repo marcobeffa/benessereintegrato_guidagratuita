@@ -3,7 +3,7 @@
 
 ## Un duro colpo
 
-Una delle prime esperienze che mi hanno fatto entrare in contatto con il mondo della salute è stata la **frattura dello scafoide.** 
+La **frattura dello scafoide.** è stata una delle prime esperienze che m
 
 ## Infortuni nello sportivo
 
@@ -43,5 +43,5 @@ Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODMzODkxNV19
+eyJoaXN0b3J5IjpbLTE1ODMwMzUyMDgsMjAwODMzODkxNV19
 -->
