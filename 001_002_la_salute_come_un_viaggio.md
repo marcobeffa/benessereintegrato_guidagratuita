@@ -19,7 +19,7 @@ Tutti i **professionisti della salute e del benessere** si trovano a dover aiuta
 
 Talvolta però la situazione che si devono risolvere sono molto complesse!  
 
-Per questo mi viene  in mente l'immagine di una **persona che si è persa in infradito** su un sentiero di montagna molto arduo e impegnativo.
+Per questo in mente ho l'immagine di una **persona che si è persa in infradito** su un sentiero in alta quota molto arduo e impegnativo.
 
 La domanda che mi faccio è:
 
@@ -56,5 +56,5 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODM3NzMxMl19
+eyJoaXN0b3J5IjpbLTMxMDIxNjUxNSwxMzc4Mzc3MzEyXX0=
 -->
