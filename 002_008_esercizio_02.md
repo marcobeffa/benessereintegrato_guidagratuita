@@ -1,6 +1,5 @@
-
-
-
+###  Cap 2 - Pag 08
+# Esercizio 01 
 
  
 
@@ -24,5 +23,5 @@ Come vorresti sentirti?
 # La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTc2NTQyNV19
+eyJoaXN0b3J5IjpbLTM0MDg0MDA0MCwxMjM1NzY1NDI1XX0=
 -->
