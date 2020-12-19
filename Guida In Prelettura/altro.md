@@ -364,7 +364,14 @@ Mythoself experiences
 
 
 L'importanza dell'educazione rugby! 
+
+
+# Cosa ti piace fare?
+
+- Nella colonna di sinistra almeno 5 difficoltà che incontri o quando devi affrontare un percorso oppure se hai già iniziato cose che tendono a distrarti o 5 punti deboli che mettono in pericolo il tuo programma
+-  Nella colonna di destra scrivi almeno 5 cose che ti piacerebbe ottenere dal tuo percorso della salute? 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzcwNDc4NywtNTAyMTQ4MTkyLC0xOD
-k5MzIyODUxXX0=
+eyJoaXN0b3J5IjpbLTEzNDEwMTA0MzEsLTUwMjE0ODE5MiwtMT
+g5OTMyMjg1MV19
 -->
