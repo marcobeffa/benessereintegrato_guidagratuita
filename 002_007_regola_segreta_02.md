@@ -7,17 +7,18 @@
 
 **AZIONE**  **E**  **REAZIONE**  principio di (detto anche "principio di reazione"). - È uno dei più importanti principî della meccanica, enunciato per la prima volta dal Newton che asserì appunto  _actioni contrariam semper et aequalem esse reactionem_,  _sive corporum duorum actiones in se mutuo semper esse aequales et in partes contrarias dirigi_ (nei  _Philosophiae naturalis principia mathematica_). 
 
-
-> “La **persona** che parte per un **viaggio** , non è la stessa **persona** che torna.”
-
-Ogni azione
-
-
 > La vita è come un'eco: se non ti piace quello che ti rimanda, devi cambiare il messaggio che invii.
 James Joice
 
+Ogni azione che decidi di compiere ha una conseguenza perciò se non ti piaciono le conseguenze che sono  
+
+
+
+
+> “La **persona** che parte per un **viaggio** , non è la stessa **persona** che torna.”
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM2NDk2OTgsLTIwNjExNDkzMThdfQ
-==
+eyJoaXN0b3J5IjpbNTA1MTIxMDk5LC0yMDYxMTQ5MzE4XX0=
 -->
