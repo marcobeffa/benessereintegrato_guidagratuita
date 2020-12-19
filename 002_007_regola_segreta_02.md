@@ -10,8 +10,9 @@
 > La vita è come un'eco: se non ti piace quello che ti rimanda, devi cambiare il messaggio che invii.
 James Joice
 
-Ogni azione che decidi di compiere ha una conseguenza perciò se non ti piaciono le conseguenze che sono  
+## Follia è fare sempre la stessa cosa e aspettarsi risultati diversi
 
+Ogni azione che decidi di compiere ha una conseguenza perciò se non ti piaciono le conseguenze  puoi decidere di iniziare a fare cose diverse e pian piano arriveranno nuovi 
 
 
 
@@ -20,5 +21,5 @@ Ogni azione che decidi di compiere ha una conseguenza perciò se non ti piaciono
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1MTIxMDk5LC0yMDYxMTQ5MzE4XX0=
+eyJoaXN0b3J5IjpbMTE0NTI3MjU4LC0yMDYxMTQ5MzE4XX0=
 -->
