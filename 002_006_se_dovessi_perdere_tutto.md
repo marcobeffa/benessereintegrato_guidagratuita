@@ -6,8 +6,8 @@
 Nel capitolo precedente abbiamo visto che è facile capitare impreparati in situazioni di salute difficili, è capitato anche a me e capita spesso a molti pazienti perciò se **sei in questa condizione** tieni presente che la vita ci trascina in situazioni inaspettate **per aiutarci a crescere**  sicuramente questa situazione deve insegnarci qualcosa. 
 
 In realtà spettà a te la decisione, puoi scegliere di vedere la tua situazione in 2 modi:
-	1. Pensare di essere incappato in una evento sfortunato che non doveva capitare a te perchè tu avevi altri progetti!
-	2. Pensare che visto che quell'evento è capitato a te puoi trasformarlo in un occasione per imparare qualcosa di più su di te.  Puoi decidere di trasformare un dolore una patologia lieve in un opportunità per crescere.
+	1. Pensare di essere incappato in un evento sfortunato che non doveva capitare a te perchè tu avevi altri progetti!
+	2. Oppure visto che quell'evento è capitato, puoi trasformarlo in un occasione per imparare qualcosa di più su di te.  Puoi decidere di trasformare un dolore, una patologia in un opportunità per crescere, un opportunità per vedere le cose in un modo nuovo e risolvere molti più problemi di quanto potessi im
  
 ## La tua salute dipende da più cause
 
@@ -23,5 +23,5 @@ Spesso si danno per scontate molte cose e si agisce alla leggera su questioni im
 Ti racconterò 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU4NTI5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE0NDU1OTQ0MzJdfQ==
 -->
