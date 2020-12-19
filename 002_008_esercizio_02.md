@@ -11,9 +11,9 @@ Chi è capace di accorgersi potrà fare scoperte nuove e cambiare le cose!
 
 
 
-> La meraviglia come principio della conoscenza per Aristotele
+> [La meraviglia come principio della conoscenza per Aristotele] (http://www.gallito.eu/la-meraviglia-come-principio-della-conoscenza-per-aristotele/)
 
-http://www.gallito.eu/la-meraviglia-come-principio-della-conoscenza-per-aristotele/
+
 
 Secondo aristotele la meraviglia è ciò che ci spingere a conoscere! 
 
@@ -23,6 +23,6 @@ Secondo aristotele la meraviglia è ciò che ci spingere a conoscere!
 # La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2MDY1NDMsLTE3NzczNTUzODUsMT
-IzNTc2NTQyNV19
+eyJoaXN0b3J5IjpbLTc3NTk0NjM4LC0xNzc3MzU1Mzg1LDEyMz
+U3NjU0MjVdfQ==
 -->
