@@ -5,6 +5,7 @@
 
 
 ## PASSATO CAUSA  E FUTURO LO SCOPO 
+
 # Tra passato e futuro a che punto sei del viaggio?
 
 Il corpo costudisce in se migliaia di informazioni.
@@ -69,5 +70,5 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc1OTUxOTldfQ==
+eyJoaXN0b3J5IjpbNzczMTQwOTQ3XX0=
 -->
