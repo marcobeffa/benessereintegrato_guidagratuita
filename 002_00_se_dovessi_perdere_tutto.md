@@ -8,11 +8,11 @@ In realtà spettà a te la decisione, puoi scegliere di vedere la tua situazione
 	1. Pensare di essere incappato in una evento sfortunato che non doveva capitare a te perchè tu avevi altri progetti!
 	2. Pensare che visto che quell'evento è capitato a te puoi trasformarlo in un occasione per imparare qualcosa di più su di te.  Puoi decidere di trasformare un dolore una patologia lieve in un opportunità per crescere.
  
+## La tua salute dipende da più cause
+
 Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica! 
 
-Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo perchè non si sanno leggere succede così di arrivare a situazioni che comportano sofferenze e problemi.
-
-## La tua salute dipende da più cause
+Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo che il corpo ci invia, Molte volte non si sa leggere ciò che il corpo ci vuole comunicare così si arriva a situazioni che comportano sofferenze e problemi.
 
 Questa parte di capitolo potrebbe sembrarti tragica. Magari un pò potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.**
 Spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti, solo perchè non si conoscono le conseguenze.
@@ -94,7 +94,7 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk1ODY3NzgsMTM0MTc3OTc3MywxOT
-Q2MTAzMjM0LDEwMzQ2MjQwMjksLTc2MzcwNTE1MSwtMjE0MTEy
-NjI5NV19
+eyJoaXN0b3J5IjpbMTE3MjMyODQ5OCwxMzQxNzc5NzczLDE5ND
+YxMDMyMzQsMTAzNDYyNDAyOSwtNzYzNzA1MTUxLC0yMTQxMTI2
+Mjk1XX0=
 -->
