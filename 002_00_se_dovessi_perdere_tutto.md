@@ -6,8 +6,8 @@ Nel capitolo precedente abbiamo visto che è facile capitare impreparati in situ
 
 In realtà spettà a te la decisione, puoi scegliere di vedere la tua situazione in 2 modi:
 	1. Pensare di essere incappato in una evento sfortunato che non doveva capitare a te perchè tu avevi altri progetti!
-	2. Pensare che visto che quell'evento è capitato a te puoi trasformarlo in un occa un dolore una patologia lieve in un opportunità per imparare qualcosa di più sul corpo prima che la situazione diventi irrecuperabile.
-
+	2. Pensare che visto che quell'evento è capitato a te puoi trasformarlo in un occasione per imparare qualcosa di più su di te.  Puoi decidere di trasformare un dolore una patologia lieve in un opportunità per crescere.
+ 
 Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica! 
 
 Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo perchè non si sanno leggere succede così di arrivare a situazioni che comportano sofferenze e problemi.
@@ -94,7 +94,7 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTU5MTc1MywxMzQxNzc5NzczLDE5ND
-YxMDMyMzQsMTAzNDYyNDAyOSwtNzYzNzA1MTUxLC0yMTQxMTI2
-Mjk1XX0=
+eyJoaXN0b3J5IjpbLTE2ODk1ODY3NzgsMTM0MTc3OTc3MywxOT
+Q2MTAzMjM0LDEwMzQ2MjQwMjksLTc2MzcwNTE1MSwtMjE0MTEy
+NjI5NV19
 -->
