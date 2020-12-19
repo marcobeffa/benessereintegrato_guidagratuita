@@ -27,9 +27,10 @@ E' importante conoscere la storia che ti ha portato fino a questa situazione, ed
 Cosa ti piacerebbe ottenere da un percorso per la salute?
 Quali obiettivi ti piacerebbe raggiungere?
 Come ti piacerebbe sentirti?
-Come sarebbe esser 
+Come sarebbe avere già raggiunto questa situazione? 
+Cosa provi?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk1NTYzMF19
+eyJoaXN0b3J5IjpbLTExNTk2NTQ2NzddfQ==
 -->
