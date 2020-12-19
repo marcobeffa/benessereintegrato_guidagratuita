@@ -1,4 +1,5 @@
 ###  Cap 2 - Pag 05
+
 # Esperienza sul campo 
 Il mio **primo giorno di lavoro** ho provato un profondo sconforto quando a città di Brescia ho dovuto prendere in cura il mio primo paziente.
 
@@ -78,31 +79,6 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 
 
-
-
-# Il piacere della scoperta!  Come funziona il sistema ormonale la dieta il corpo conoscere nuovi modelli e seguire un metodo 
-
-
-non so se il modello è giusto 
-
-
-# L'importanza dell'educazione
-
-# L'educazione la curiosità
-
-Le cose che facciamo hanno un effetto.
-
-Rubgy aronne romano
-
-A scuola di alimentazione 
-
-## Il primo incontro con lezione di sport e alimentazione 
-
-Aronne romano 
-Un impegno per la salute esempio maestro bruno 
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM3MjI4MzFdfQ==
+eyJoaXN0b3J5IjpbNjg5MDQ3MzcyXX0=
 -->
