@@ -16,16 +16,17 @@ Per questo in mente ho l'immagine di una **persona che si è persa in infradito*
 
 Cosa faresti se una persona in infradito su un sentiero impervio e pericoloso ti chiedesse aiuto perchè è rimasto bloccato?
 
-La situazione sarebbe complessa e non 
+La situazione sarebbe complessa e la prima domanda che sorge spontanea è:
 
-Penso che anche tu **sconsiglieresti** a chiunque di
+> Come è possibile ricondurre questa persona al sicuro, fuori da questa situazione? 
+
+Penso che comunque **sconsiglieresti** a chiunque di
 
 > scalare l'Everest in infradito.
 
 a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio.
-Sorge spontanea una domanda:
 
-> Come è possibile ricondurre questa persona al sicuro, fuori da questa situazione? 
+## Affrontare un viaggio
 
 Per affrontare un viaggio è necessario essere preparati, partire con l'attrezzatura giusta. 
 
@@ -57,8 +58,8 @@ Alla fine della guida sarai in grado di:
 - Il tuo diario di bordo
 
 
-Con la guida **BenessereIntegrato.it** imparerai ad affrontare un **percorso per la salute** come se stessi affrontando un **viaggio**. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MDkwMzk0LDEzNzgzNzczMTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMTUwMzQwNDUsMTM3ODM3NzMxMl19
 -->
