@@ -1,4 +1,4 @@
-### Cap 1 - Pag 02 
+### Cap 2 - Pag 006
 # 05 Cosa faresti se dovessi perdere tutto?
 
 ## Un viaggio inaspettato
@@ -23,5 +23,5 @@ Spesso si danno per scontate molte cose e si agisce alla leggera su questioni im
 Ti racconterò 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjA2ODQ1N119
+eyJoaXN0b3J5IjpbLTE1MTU4NTI5NDRdfQ==
 -->
