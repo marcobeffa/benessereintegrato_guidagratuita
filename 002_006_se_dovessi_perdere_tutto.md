@@ -21,11 +21,11 @@ Penso che si può pensare al corpo come ad un bambino appena nato, a volte è pr
 
 ## Cosa faresti se dovessi perdere tutto?
 
-Questa parte di capitolo potrebbe sembrarti tragica. Magari un pò potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.it**
+Questa parte di capitolo potrebbe sembrarti tragica. Magari potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.it**
 Spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti, solo perchè non si conoscono le conseguenze.
 
-Ti racconterò 
+Ti racconterò nei prossimi capitoli cosa capit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjkyMjQyMl19
+eyJoaXN0b3J5IjpbLTE4MTYwMTQzMDVdfQ==
 -->
