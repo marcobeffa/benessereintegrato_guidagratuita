@@ -10,20 +10,19 @@ e poi prova a chiderti:
 - Qual è il motore del movimento?
 - Come fanno i muscoli a muoversi?
 - Chi nutre i muscoli?
-- Come faccio a sapere
+- Come faccio a sapere la posizione della mia mano anche se ho gli occhi chiusi?
 
 > Il  mondo è pieno di cose ovvie che nessuno si prende mai la cura di osservare.
 > “Non c'è nulla di così ingannevole come un fatto ovvio.”
 *Arthur Conan Doyle* 
 
 
-
-Secondo aristotele la meraviglia è ciò che ci spingere a conoscere! 
+Secondo **Aristotele**,  il famoso filosofo greco  la meraviglia è ciò che ci spingere a conoscere! 
 In questo saggio è spiegato bene il concetto se vuoi approfondire:
 
 > [La meraviglia come principio della conoscenza per Aristotele](http://www.gallito.eu/la-meraviglia-come-principio-della-conoscenza-per-aristotele/)
 
-Chi è capace di accorgersi potrà fare scoperte nuove e cambiare le cose!  
+Chi è capace di accorgersi potrà fare scoperte nuove e cambiare il mondo!  
  
 > Chi cerca non smetta di cercare finché ha trovato. Quando avrà trovato si turberà. Quando sarà turbato si meraviglierà e regnerà su tutte le cose.
 
@@ -31,6 +30,6 @@ Chi è capace di accorgersi potrà fare scoperte nuove e cambiare le cose!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDEwNjcxOCwtMTc3NzM1NTM4NSwxMj
+eyJoaXN0b3J5IjpbLTIyODU1ODgxMywtMTc3NzM1NTM4NSwxMj
 M1NzY1NDI1XX0=
 -->
