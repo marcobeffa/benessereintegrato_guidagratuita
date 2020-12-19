@@ -11,14 +11,13 @@ Pianificare e Preparare il  viaggio ti aiuta aiuta ad abbassare la probabilità 
 
 - Stabilisci un obiettivo.
 - L'obiettivio deve essere adeguato alle tue capacità.
--  Valuta **o scegli una guida** che conosca il territorio. 
- - Prepara l'equipaggiamento necessario
- - 
+-  Valuta se sei in grado di raggiungerlo da solo **oppure scegli una guida** che conosca il territorio. 
+ - Prepara l'equipaggiamento necessario.
 
 E una volta partito? In ogni momento attento a dove metti i piedi!
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIwNzk3OTAsLTg5OTA4NTExNV19
+eyJoaXN0b3J5IjpbLTE2NDg0NjQwMzUsLTg5OTA4NTExNV19
 -->
