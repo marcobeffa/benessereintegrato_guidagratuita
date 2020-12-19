@@ -1,5 +1,5 @@
 ###  Cap 1 - Pag 04
-# 04 Esercizio 01 
+# Esercizio 01 
 
 Molti esercizi sono compiti che richiedono la risposta ad alcune domande, negli altri capitoli puoi anche trovare esercizi più fisici!
 
@@ -32,5 +32,5 @@ Cosa provi?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk2NTQ2NzddfQ==
+eyJoaXN0b3J5IjpbNzA5NjY5OTg3XX0=
 -->
