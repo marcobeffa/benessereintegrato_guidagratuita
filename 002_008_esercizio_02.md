@@ -7,6 +7,10 @@
 Questo esercizio è semplicissimo serve per stimolare la curiosità, prova a fare un elenco mentale di tutti i movimenti che può fare il tuo corpo.
 e poi prova a chiderti:
 - Come è possibile che il mio corpo possa fare tutto questo? 
+- Qual è il motore del movimento?
+- Come fanno i muscoli a muoversi?
+- Chi nutre i muscoli?
+- Come faccio a sapere
 
 > Il  mondo è pieno di cose ovvie che nessuno si prende mai la cura di osservare.
 > “Non c'è nulla di così ingannevole come un fatto ovvio.”
@@ -27,6 +31,6 @@ Chi è capace di accorgersi potrà fare scoperte nuove e cambiare le cose!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3ODcxODI5LC0xNzc3MzU1Mzg1LDEyMz
-U3NjU0MjVdfQ==
+eyJoaXN0b3J5IjpbMjAxNDEwNjcxOCwtMTc3NzM1NTM4NSwxMj
+M1NzY1NDI1XX0=
 -->
