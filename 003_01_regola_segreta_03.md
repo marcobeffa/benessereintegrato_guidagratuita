@@ -8,7 +8,7 @@ Ci sono cose che non si vedono con gli occhi Quello che non si vede con gli occh
 
 # accorgersi
 
-
+-->
 # Il corpo reagisce a 2 forze che si controbilanciano
 
 # conosci te stesso
@@ -75,5 +75,5 @@ Abitudini e azioni
 Un impegno per la salute esempio maestro Bruno 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk5NzA1NF19
+eyJoaXN0b3J5IjpbNDk4ODUxMzk4XX0=
 -->
