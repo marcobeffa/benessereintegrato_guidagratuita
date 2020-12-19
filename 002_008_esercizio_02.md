@@ -1,14 +1,11 @@
 ###  Cap 2 - Pag 08
-# Esercizio 01 
+# Esercizio 02 
+
+
 
  
-
 # Sport programmi metodi?
 
-
-# Partire con il piede giusto 
-
-Non partire con una mancanza ma in una posizione generativa 
 
 # Le Convinzioni 
 # Hai già fatto sport o cose varie
@@ -23,5 +20,5 @@ Come vorresti sentirti?
 # La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDg0MDA0MCwxMjM1NzY1NDI1XX0=
+eyJoaXN0b3J5IjpbMTc0NjI3ODgyNiwxMjM1NzY1NDI1XX0=
 -->
