@@ -26,8 +26,10 @@ Spesso si danno per scontate molte cose e si agisce alla leggera su questioni im
 
 Ti racconterò in uno dei prossimi capitoli il mio primo giorno di lavoro da fisioterapista in ospedale!
 
-Ma prima la seconda regola della salute e un esercizio per te!
+Ma prima 2 cose:
+-  la seconda regola della salute 
+-  un esercizio per te!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Nzk5NTMxXX0=
+eyJoaXN0b3J5IjpbNDI3MDI4MTc0XX0=
 -->
