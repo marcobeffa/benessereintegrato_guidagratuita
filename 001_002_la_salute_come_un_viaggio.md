@@ -14,7 +14,9 @@ Per questo in mente ho l'immagine di una **persona che si è persa in infradito*
 
 ## In infradito a scalare l'everest... 
 
-Cosa faresti se una persona in infradito su un sentiero 
+Cosa faresti se una persona in infradito su un sentiero impervio e pericoloso ti chiedesse aiuto perchè è rimasto bloccato?
+
+La situazione sarebbe complessa e non 
 
 Penso che anche tu **sconsiglieresti** a chiunque di
 
@@ -55,6 +57,8 @@ Alla fine della guida sarai in grado di:
 - Il tuo diario di bordo
 
 
+Con la guida **BenessereIntegrato.it** imparerai ad affrontare un **percorso per la salute** come se stessi affrontando un **viaggio**. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTA5NDk5LDEzNzgzNzczMTJdfQ==
+eyJoaXN0b3J5IjpbNzk1MDkwMzk0LDEzNzgzNzczMTJdfQ==
 -->
