@@ -1,3 +1,6 @@
+### Cap 2 - Pag 006
+
+
 # Il corpo reagisce a 2 forze che si controbilanciano
 
 # conosci te stesso
@@ -71,5 +74,5 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NTkwMTE3XX0=
+eyJoaXN0b3J5IjpbMTQ2NDQyMDQ3XX0=
 -->
