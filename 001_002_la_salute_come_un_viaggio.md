@@ -54,7 +54,7 @@ Alla fine della guida sarai in grado di:
 -  Di cosa hai bisogno per il tuo viaggio?
 - Conoscere il tuo **stato di salute** il tuo punto di partenza
 - Avere un tuo **profilo** da usare come mappa 
-- Avere una **mappa per capire quali professionisti a cui puoi rivolgerti
+- Avere una **mappa** per capire a quali **professionisti** a cui puoi rivolgerti
 - Sapere come
 	- Scegliere la destinazione 
 	- Tracciare la rotta 
@@ -66,5 +66,5 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjU3MTk1MiwxMzc4Mzc3MzEyXX0=
+eyJoaXN0b3J5IjpbLTIwOTgwMjE4MDksMTM3ODM3NzMxMl19
 -->
