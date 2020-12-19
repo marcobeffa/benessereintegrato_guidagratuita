@@ -2,7 +2,7 @@
 
 ## Un viaggio inaspettato
 
-Nel capitolo precedente abbiamo visto che è facile capitare impreparate in situazioni di salute difficili, è capitato anche a me e capita spesso a molti pazienti perciò se **sei in questa condizione** tieni perLa vita ci trascina in queste situazioni ma quando si accende una spia è necessario essere subito pronti a rispondere cercando di trovare una situazione.
+Nel capitolo precedente abbiamo visto che è facile capitare impreparate in situazioni di salute difficili, è capitato anche a me e capita spesso a molti pazienti perciò se **sei in questa condizione** tieni presente che la vita ci trascina in situazioni inaspettate **per aiutarci a crescere**  sicuramente esiste una soluzione 
 
 Diciamo che puoi trasformare un dolore una patologia lieve in un opportunità per imparare qualcosa di più sul corpo prima che la situazione diventi irrecuperabile.
 
@@ -92,7 +92,7 @@ Quello che so è che questo percorso **funziona anche per i piccoli acciacchi**.
 
 Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui sono stato ricoverato per una **colica renale** senza quelle il dolore mi avrebbe tormentato per un bel pò! Ti ricordo però che conoscendo meglio il proprio corpo oltre ad avere una qualità di vita migliore si è preparati ad affrontare anche le **situazioni più difficili.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTk5MzYwMywxMzQxNzc5NzczLDE5ND
-YxMDMyMzQsMTAzNDYyNDAyOSwtNzYzNzA1MTUxLC0yMTQxMTI2
-Mjk1XX0=
+eyJoaXN0b3J5IjpbNzUzNTQyMywxMzQxNzc5NzczLDE5NDYxMD
+MyMzQsMTAzNDYyNDAyOSwtNzYzNzA1MTUxLC0yMTQxMTI2Mjk1
+XX0=
 -->
