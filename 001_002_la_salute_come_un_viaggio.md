@@ -53,7 +53,7 @@ Alla fine della guida sarai in grado di:
 -  I **5 elementi chiave** della tua salute
 -  Di cosa hai bisogno per il tuo viaggio?
 - Conoscere il tuo **stato di salute** il tuo punto di partenza
-- Avere un tuo **profilo** da usare come mappa 
+- Creare un tuo **profilo** da usare come mappa 
 - Avere una **mappa** per capire a quali **professionisti** a cui puoi rivolgerti
 - Sapere come
 	- Scegliere la destinazione 
@@ -66,5 +66,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgwMjE4MDksMTM3ODM3NzMxMl19
+eyJoaXN0b3J5IjpbNzA1ODU4NDgwLC0yMDk4MDIxODA5LDEzNz
+gzNzczMTJdfQ==
 -->
