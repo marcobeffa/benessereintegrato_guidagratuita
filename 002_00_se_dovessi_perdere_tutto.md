@@ -14,13 +14,16 @@ Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebb
 
 Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo che il corpo ci invia, Molte volte non si sa leggere ciò che il corpo ci vuole comunicare così si arriva a situazioni che comportano sofferenze e problemi.
 
+## A volte si rischia di perdere tutto
+
+
 Questa parte di capitolo potrebbe sembrarti tragica. Magari un pò potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.**
 Spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti, solo perchè non si conoscono le conseguenze.
 
 Il mio **primo giorno di lavoro** ho provato un profondo sconforto quando a città di Brescia ho dovuto prendere in cura il mio primo paziente.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTI2MzgwOSwxMzQxNzc5NzczLDE5ND
-YxMDMyMzQsMTAzNDYyNDAyOSwtNzYzNzA1MTUxLC0yMTQxMTI2
-Mjk1XX0=
+eyJoaXN0b3J5IjpbODU0NDQ3NzI5LDEzNDE3Nzk3NzMsMTk0Nj
+EwMzIzNCwxMDM0NjI0MDI5LC03NjM3MDUxNTEsLTIxNDExMjYy
+OTVdfQ==
 -->
