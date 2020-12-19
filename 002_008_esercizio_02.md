@@ -24,9 +24,9 @@ Chi è capace di accorgersi potrà fare scoperte nuove e cambiare le cose!
 > Chi cerca non smetta di cercare finché ha trovato. Quando avrà trovato si turberà. Quando sarà turbato si meraviglierà e regnerà su tutte le cose.
 
 
-Questo è importante perch La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMjUxMTgyLC0xNzc3MzU1Mzg1LDEyMz
+eyJoaXN0b3J5IjpbNTQ3ODcxODI5LC0xNzc3MzU1Mzg1LDEyMz
 U3NjU0MjVdfQ==
 -->
