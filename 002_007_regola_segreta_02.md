@@ -12,12 +12,12 @@ James Joice
 
 ## Follia è fare sempre la stessa cosa e aspettarsi risultati diversi
 
-Ogni azione che decidi di compiere ha una conseguenza perciò se non ti piaciono le conseguenze  puoi decidere di iniziare a fare cose diverse e pian piano accadrà qualcosa di diverso.
+Ogni azione che decidi di compiere ha una conseguenza perciò se non ti piaciono le conseguenze  puoi decidere di iniziare a fare cose diverse e pian piano accadrà qualcosa di nuovo.
 
 > “La **persona** che parte per un **viaggio** , non è la stessa **persona** che torna.”
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzIzMDYzNiwtMjA2MTE0OTMxOF19
+eyJoaXN0b3J5IjpbLTMzODcwMjU5NywtMjA2MTE0OTMxOF19
 -->
