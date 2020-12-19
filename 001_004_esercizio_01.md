@@ -9,7 +9,7 @@ Perciò prendi carta e penna e rispondi a queste domande!
 
 ## La tua storia
 
-E' importante conoscere la storia che ti ha portato fino a questa situazione, ed è a
+E' importante conoscere la storia che ti ha portato fino a questa situazione, ed è ancora più importante, decidere di raccontare una storia nuova che ti accompagni in una situazione che desideri raggiungere!
 
 ## Qual è la tua situazione attuale?
 
@@ -25,9 +25,11 @@ E' importante conoscere la storia che ti ha portato fino a questa situazione, ed
 ## Verso quale situazione vuoi iniziare a muoverti?
 
 Cosa ti piacerebbe ottenere da un percorso per la salute?
-Quali obiettivi ti piacerebbe raggiungere? 
+Quali obiettivi ti piacerebbe raggiungere?
+Come ti piacerebbe sentirti?
+Come sarebbe esser 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTYyOTg0NF19
+eyJoaXN0b3J5IjpbLTE0Nzk1NTYzMF19
 -->
