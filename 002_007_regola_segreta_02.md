@@ -1,10 +1,12 @@
 ### Cap 2 - Pag 006
+# La seconda regola segreta della salute!
+
+> Le convinzioni sono importantissime. Pensi di credere a ciò che vedi, ma in realtà vedi ciò che credi. Invece di cercare di mettere a posto le cose, cerca di vederle e di sentirle nel modo giusto e andranno a posto da sole. Eric de la Parra Paz
 
 
 # Il corpo reagisce a 2 forze che si controbilanciano
 
 # conosci te stesso
-
 
 
 
@@ -74,5 +76,5 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDQyMDQ3XX0=
+eyJoaXN0b3J5IjpbLTIwNjExNDkzMThdfQ==
 -->
