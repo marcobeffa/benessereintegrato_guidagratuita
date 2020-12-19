@@ -17,15 +17,15 @@ Invece purtroppo **non si cononosce abbastanza del corpo** e in oltre si ignoran
 
 Molte volte **non si sa leggere ciò che il corpo ci vuole comunicare** così si arriva a situazioni che comportano sofferenze e problemi.
 
-Penso che si può pensare al corpo come ad un bambino appena nato, a volt
+Penso che si può pensare al corpo come ad un bambino appena nato, a volte è proprio difficile capire cosa vuole dirci.
 
-## A volte si rischia di perdere tutto
+## Cosa faresti se dovessi perdere tutto?
 
-Questa parte di capitolo potrebbe sembrarti tragica. Magari un pò potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.**
+Questa parte di capitolo potrebbe sembrarti tragica. Magari un pò potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.it**
 Spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti, solo perchè non si conoscono le conseguenze.
 
 Ti racconterò 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTM4MDA1MV19
+eyJoaXN0b3J5IjpbMTU2MjkyMjQyMl19
 -->
