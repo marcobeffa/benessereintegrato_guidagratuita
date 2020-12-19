@@ -1,5 +1,5 @@
 ###  Cap 1 -  Pag 03
-# 03 Prima regola segreta della salute!
+# Prima regola segreta della salute!
 
 > Durante un escursione non ci sono condizioni sfavorevoli. Può capitare invece di non aver portato con se l'attrezzatura,  il materiale e gli strumenti necessari per affrontare quella condizioni.
 
@@ -19,5 +19,5 @@ E una volta partito? In ogni momento attento a dove metti i piedi!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg0NjQwMzUsLTg5OTA4NTExNV19
+eyJoaXN0b3J5IjpbMTgxMDIzOTQzNiwtODk5MDg1MTE1XX0=
 -->
