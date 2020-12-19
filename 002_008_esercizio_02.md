@@ -6,6 +6,8 @@
 Questo esercizio è un esercizio antico lo proponevano i primi filosofi greci. 
 A dire la verità la prima volta che me l'hanno proposto mi sembrava assai strano ma è molto importante.
 
+-   Il  mondo è pieno di cose ovvie che nessuno si prende mai la cura di osservare. *Arthur Conan Doyle* 
+- 
 Chi è capace di accorgersi potrà fare scoperte nuove e cambiare le cose! 
 
 
@@ -23,6 +25,6 @@ Secondo aristotele la meraviglia è ciò che ci spingere a conoscere!
 # La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MDM1NjIwLC0xNzc3MzU1Mzg1LDEyMz
-U3NjU0MjVdfQ==
+eyJoaXN0b3J5IjpbMjA2MTc2NjE1OCwtMTc3NzM1NTM4NSwxMj
+M1NzY1NDI1XX0=
 -->
