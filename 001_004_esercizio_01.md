@@ -9,18 +9,17 @@ Perciò prendi carta e penna e rispondi a queste domande!
 
 ## La tua storia
 
- 1.  Ti è mai capitato di trovarti in situazioni di difficoltà riguardo la tua salute? 
- 2. Come hai risolto il problema?
+E' importante conoscere la storia che ti ha portato fino a questa situazione, ed è a
+
+## Qual è la tua situazione attuale?
+
+1. Come ti senti ora? 
+2. Cosa ti ha portato a questa situazione?
+3.  Ti è mai capitato di trovarti in situazioni di difficoltà riguardo la tua salute? 
+4.  Come hai risolto il problema?
  3. Come ti sei trovato?
  4. Cosa ti è stato utile?
  5. Cosa invece non hai trovato e ti sarebbe piaciuto trovare?
- 6. Cosa ti è piaciuto?
- 7. Cosa non ti è piaciuto?
- 
-## Qual è la tua situazione attuale?
-
-Come ti senti ora? 
-Cosa ti ha portato a questa situazione?
 
 
 ## Verso quale situazione vuoi iniziare a muoverti?
@@ -30,5 +29,5 @@ Quali obiettivi ti piacerebbe raggiungere?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NzA1NzY4XX0=
+eyJoaXN0b3J5IjpbMTM5MTYyOTg0NF19
 -->
