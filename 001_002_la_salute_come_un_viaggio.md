@@ -1,17 +1,6 @@
 ### Cap 1 - Pag 02 
 # La salute come un viaggio
 
-## In infradito a scalare l'everest... 
-
-Con la guida **BenessereIntegrato.it** imparerai ad affrontare un **percorso per la salute** come se stessi affrontando un **viaggio**. 
-
-Cosa faresti se 
-
-Penso che anche tu **sconsiglieresti** a chiunque di
-
-> scalare l'Everest in infradito.
-
-a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio.
 
 ## Perchè questa guida?
 
@@ -23,6 +12,15 @@ Talvolta però la situazione che si devono risolvere sono molto complesse!
 
 Per questo in mente ho l'immagine di una **persona che si è persa in infradito** su un sentiero in alta quota molto arduo e impegnativo.
 
+## In infradito a scalare l'everest... 
+
+Cosa faresti se una persona in infradito su un sentiero 
+
+Penso che anche tu **sconsiglieresti** a chiunque di
+
+> scalare l'Everest in infradito.
+
+a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio.
 Sorge spontanea una domanda:
 
 > Come è possibile ricondurre questa persona al sicuro, fuori da questa situazione? 
@@ -58,5 +56,5 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTY3MTMzNCwxMzc4Mzc3MzEyXX0=
+eyJoaXN0b3J5IjpbMTI5MTA5NDk5LDEzNzgzNzczMTJdfQ==
 -->
