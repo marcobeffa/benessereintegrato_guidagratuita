@@ -1,5 +1,5 @@
 ### Cap 2 - Pag 006
-# 05 Cosa faresti se dovessi perdere tutto?
+# Cosa faresti se dovessi perdere tutto?
 
 ## Un viaggio inaspettato
 
@@ -27,5 +27,5 @@ Spesso si danno per scontate molte cose e si agisce alla leggera su questioni im
 Ti racconterò nei prossimi capitoli il mio primo giorno di lavoro da fisioterapista in ospedale!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgzNTQxMTJdfQ==
+eyJoaXN0b3J5IjpbMTE2NzkzNjIxN119
 -->
