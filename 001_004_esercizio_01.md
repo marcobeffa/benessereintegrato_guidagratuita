@@ -3,11 +3,11 @@
 
 Molti esercizi sono compiti che richiedono la risposta ad alcune domande, negli altri capitoli puoi anche trovare esercizi più fisici!
 
-> Analizzare la situazione e fare il punto della situazione è importante per partire bene!
+> Prima di cominciare qualsiasi cosa è importante fare il punto della situazione! 
 
 Perciò prendi carta e penna e rispondi a queste domande!
 
-## La tua salute
+## La tua storia
 
  1.  Ti è mai capitato di trovarti in situazioni di difficoltà riguardo la tua salute? 
  2. Come hai risolto il problema?
@@ -30,5 +30,5 @@ Quali obiettivi ti piacerebbe raggiungere?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NDM1NDM0XX0=
+eyJoaXN0b3J5IjpbNzA5NzA1NzY4XX0=
 -->
