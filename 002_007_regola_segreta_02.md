@@ -5,6 +5,7 @@
 
 
 
+
 # Il corpo reagisce a 2 forze che si controbilanciano
 
 # conosci te stesso
@@ -77,5 +78,6 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjMxNDU0OCwtMjA2MTE0OTMxOF19
+eyJoaXN0b3J5IjpbLTE2MjEyMDUwOTAsLTIwNjExNDkzMThdfQ
+==
 -->
