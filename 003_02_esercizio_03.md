@@ -1,4 +1,8 @@
 
+# Partire con il piede giusto 
+
+Non partire con una mancanza ma in una posizione generativa 
+
 ## Imparare ad ascoltare per accorgersi la percezione
 
 Accorgersi che qualcosa si muove dentro di noi come si fa?
@@ -27,6 +31,6 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg1NjIxMjAsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE1NjU0MDE4OTksLTIwODg3NDY2MTJdfQ
 ==
 -->
