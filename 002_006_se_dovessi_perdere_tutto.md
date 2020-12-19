@@ -7,13 +7,17 @@ Nel capitolo precedente abbiamo visto che è facile capitare impreparati in situ
 
 In realtà spettà a te la decisione, puoi scegliere di vedere la tua situazione in 2 modi:
 	1. Pensare di essere incappato in un evento sfortunato che non doveva capitare a te perchè tu avevi altri progetti!
-	2. Oppure visto che quell'evento è capitato, puoi trasformarlo in un occasione per imparare qualcosa di più su di te.  Puoi decidere di trasformare un dolore, una patologia in un opportunità per crescere, un opportunità per vedere le cose in un modo nuovo e risolvere molti più problemi di quanto potessi im
+	2. Oppure visto che quell'evento è capitato, puoi trasformarlo in un occasione per imparare qualcosa di più su di te.  Puoi decidere di trasformare un dolore, una patologia in un opportunità per crescere, un opportunità per vedere le cose in un modo nuovo e **risolvere molti più problemi di quanto potessi immaginare.**
  
 ## La tua salute dipende da più cause
 
 Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica! 
 
-Invece purtroppo non si cononosce abbastanza del corpo e in oltre si ignorano anche i segnali di pericolo che il corpo ci invia, Molte volte non si sa leggere ciò che il corpo ci vuole comunicare così si arriva a situazioni che comportano sofferenze e problemi.
+Invece purtroppo **non si cononosce abbastanza del corpo** e in oltre si ignorano anche i segnali di pericolo che il corpo ci invia. 
+
+Molte volte **non si sa leggere ciò che il corpo ci vuole comunicare** così si arriva a situazioni che comportano sofferenze e problemi.
+
+Penso che si può pensare al corpo come ad un bambino appena nato, a volt
 
 ## A volte si rischia di perdere tutto
 
@@ -23,5 +27,5 @@ Spesso si danno per scontate molte cose e si agisce alla leggera su questioni im
 Ti racconterò 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU1OTQ0MzJdfQ==
+eyJoaXN0b3J5IjpbMTY1OTM4MDA1MV19
 -->
