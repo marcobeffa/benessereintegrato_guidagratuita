@@ -5,6 +5,8 @@
 
 Con la guida **BenessereIntegrato.it** imparerai ad affrontare un **percorso per la salute** come se stessi affrontando un **viaggio**. 
 
+Cosa faresti se 
+
 Penso che anche tu **sconsiglieresti** a chiunque di
 
 > scalare l'Everest in infradito.
@@ -56,5 +58,5 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3MjU5MDQwLDEzNzgzNzczMTJdfQ==
+eyJoaXN0b3J5IjpbMTc3NTY3MTMzNCwxMzc4Mzc3MzEyXX0=
 -->
