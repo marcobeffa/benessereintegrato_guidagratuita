@@ -1,5 +1,4 @@
-###  Cap 2 - Pag 05
-
+### Cap 2 - Pag 009
 # Esperienza sul campo 
 Il mio **primo giorno di lavoro** ho provato un profondo sconforto quando a città di Brescia ho dovuto prendere in cura il mio primo paziente.
 
@@ -80,5 +79,5 @@ Ringrazio sempre la **chimica e la farmacologia** pensando a quella volta in cui
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MDQ3MzcyXX0=
+eyJoaXN0b3J5IjpbMTcyMzc3NjYzNl19
 -->
