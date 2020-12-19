@@ -1,9 +1,9 @@
 ###  Cap 1 - Pag 05
-# Formazione / Esperienza 1
+# Esperienza sul campo 
 
-## Un duro colpo
+## Un duro colpo a contatto con il mondo della cura e della riabilitazione
 
-La **frattura dello scafoide.** è stata una delle prime esperienze che mi ha fatto entrare in contatto con il mondo della salute!
+La **frattura dello scafoide.** è stata una delle prime esperienze che mi ha fatto entrare in contatto con il mondo della riabilitazione!
 
 ## Infortuni nello sportivo
 
@@ -43,6 +43,6 @@ Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUyODEyMTcsLTExMTk5NzYxODQsMj
-AwODMzODkxNV19
+eyJoaXN0b3J5IjpbOTM0MzIxNDI0LC0xMDg1MjgxMjE3LC0xMT
+E5OTc2MTg0LDIwMDgzMzg5MTVdfQ==
 -->
