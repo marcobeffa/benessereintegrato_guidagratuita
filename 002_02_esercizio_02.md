@@ -1,4 +1,6 @@
 
+> Le convinzioni sono importantissime. Pensi di credere a ciò che vedi, ma in realtà vedi ciò che credi. Invece di cercare di mettere a posto le cose, cerca di vederle e di sentirle nel modo giusto e andranno a posto da sole. Eric de la Parra Paz
+
 # Cosa ti piace fare?
 
 - Nella colonna di sinistra almeno 5 difficoltà che incontri o quando devi affrontare un percorso oppure se hai già iniziato cose che tendono a distrarti o 5 punti deboli che mettono in pericolo il tuo programma
@@ -26,6 +28,6 @@ Come vorresti sentirti?
 # La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMTg2MTE1LC00MDU4NzU0NTUsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbNTkwMjQxNTExLDQwMjE4NjExNSwtNDA1OD
+c1NDU1LDczMDk5ODExNl19
 -->
