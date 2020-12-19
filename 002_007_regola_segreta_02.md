@@ -7,11 +7,12 @@
 “La **persona** che parte per un **viaggio** , non è la stessa **persona** che torna.”
 
 
+**AZIONE**  **E**  **REAZIONE**  principio di (detto anche "principio di reazione"). - È uno dei più importanti principî della meccanica, enunciato per la prima volta dal Newton che asserì appunto  _actioni contrariam semper et aequalem esse reactionem_,  _sive corporum duorum actiones in se mutuo semper esse aequales et in partes contrarias dirigi_ (nei  _Philosophiae naturalis principia mathematica_). 
+
 
 # Il corpo reagisce a 2 forze che si controbilanciano
 
 # conosci te stesso
-
 
 
 ## PASSATO CAUSA  E FUTURO LO SCOPO 
@@ -80,6 +81,6 @@ James Joice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA5MzU0MzksLTIwNjExNDkzMThdfQ
+eyJoaXN0b3J5IjpbLTE5MzM1NzI1NDQsLTIwNjExNDkzMThdfQ
 ==
 -->
