@@ -13,7 +13,7 @@
 
 Non partire con una mancanza ma in una posizione generativa 
 
-# Convinzioni 
+# Le Convinzioni 
 # Hai già fatto sport o cose varie
 # 
 Perchè vuoi raggiungere quell'obiettivo?
@@ -26,6 +26,6 @@ Come vorresti sentirti?
 # La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Njk3MzM3MCwtNDA1ODc1NDU1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNDAyMTg2MTE1LC00MDU4NzU0NTUsNzMwOT
+k4MTE2XX0=
 -->
