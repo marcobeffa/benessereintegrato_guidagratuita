@@ -7,18 +7,18 @@ Ecco a te la **prima regola** che i professionisti della salute e del benessere 
 
 ## Prevenire è meglio che curare, per prevenire bisogna conoscere e prepararsi.
 
-Pianificare e Preparare il  viaggio ti aiuta aiuta ad abbassare la probabilità che il viaggio fallisca
+Pianificare e Preparare il  viaggio ti aiuta aiuta ad abbassare la probabilità che il viaggio fallisca, e di incappare in situazioni problematiche.
 
-- scegliere una **meta adeguata** alle tue capacità **o scegli una guida** che conosca il territorio. 
+- Stabilisci un obiettivo.
+- L'obiettivio deve essere adeguato alle tue capacità.
+-  Valuta **o scegli una guida** che conosca il territorio. 
  - Prepara l'equipaggiamento necessario
- - Prendi solo lo stretto necessario indispensabile
-
-
+ - 
 
 E una volta partito? In ogni momento attento a dove metti i piedi!
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDk1NTQxLC04OTkwODUxMTVdfQ==
+eyJoaXN0b3J5IjpbLTE2OTIwNzk3OTAsLTg5OTA4NTExNV19
 -->
