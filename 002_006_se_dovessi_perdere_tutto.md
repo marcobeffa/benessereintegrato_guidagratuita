@@ -24,8 +24,8 @@ Penso che si può pensare al corpo come ad un bambino appena nato, a volte è pr
 Questa parte di capitolo potrebbe sembrarti tragica. Magari potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.it**
 Spesso si danno per scontate molte cose e si agisce alla leggera su questioni importanti, solo perchè non si conoscono le conseguenze.
 
-Ti racconterò nei prossimi capitoli cosa capit
+Ti racconterò nei prossimi capitoli il mio primo giorno di lavoro da fisioterapista in ospedale!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYwMTQzMDVdfQ==
+eyJoaXN0b3J5IjpbLTEyMzgzNTQxMTJdfQ==
 -->
