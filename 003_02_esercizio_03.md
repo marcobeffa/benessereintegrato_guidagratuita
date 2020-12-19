@@ -1,4 +1,5 @@
 
+Questo è importante perch La storia che ti racconti e i risultati i modelli le Convinzioni che ti motivano?
 il mondo delle possibilità
 # Partire con il piede giusto 
 
@@ -32,6 +33,6 @@ Questo è un esercizio banale scontato, per questo non lo fa nessuno le cose sem
 
 **Fermarsi ad ascoltare è la prima forma di guarigione.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQzMjkzMzMsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE4NDM1MTIxODAsLTIwODg3NDY2MTJdfQ
 ==
 -->
