@@ -1,5 +1,5 @@
 ### Cap 2 - Pag 010
-# Le 3 batterie del corpo energia!
+# Le 3 batterie che danno energia al tuo corpo!
 
 ## BenessereIntegrato la patente per la tua salute
 
@@ -18,5 +18,5 @@ Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli impre
 
 Cos'è la salute? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDE1NDEwOF19
+eyJoaXN0b3J5IjpbLTE1NTg1MzkwNjIsLTY0NDE1NDEwOF19
 -->
