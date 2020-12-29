@@ -1,0 +1,50 @@
+course:
+  title: "Guida Gratuita"
+  link_file: "lib/course/guidagratuita.yml"
+  type: course
+  author: "Mark Postura"
+  image_tag: "home/mark_postura.png"
+
+  file_chapters:
+    1:
+      date_last_release:
+      header: true
+      title: "00 Introduzione alla guida"
+      description: "Introduzione alla guida Benessere Integrato"
+      link_github: 000_001_intro
+      author:
+      image_tag:
+    2:
+      date_last_release:
+      header: true
+      title: "01 La salute come un viaggio"
+      description: "In infradito a scalare l'Everest..."
+      link_github: 001_002_la_salute_come_un_viaggio
+      author:
+      image_tag:
+    3:
+      date_last_release:
+      header: false
+      title: "Prima Regola della salute"
+      description: "Le condizioni di viaggio"
+      link_github: 001_003_regola_segreta_01
+      author:
+      image_tag:
+    4:
+      date_last_release:
+      header: false
+      title: "Esercizio"
+      description: "La tua esperienza"
+      link_github: 001_004_esercizio_01
+      author:
+      image_tag:
+    5:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Un duro colpo..."
+      link_github: 001_005_esperienza_01
+      author:
+      image_tag:  
+
+
