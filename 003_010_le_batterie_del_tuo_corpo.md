@@ -1,6 +1,8 @@
 ### Cap 2 - Pag 010
 # Le 3 batterie che danno energia al tuo corpo!
-
+Quello che sentiamo 
+Quello che pensiamo e vediamo
+Quello che facciamo
 ## BenessereIntegrato la patente per la tua salute
 
 Quando si va a fare la patente si **studia** ogni cosa riguardo la **circolazione stradale** per educare le persone ed insegnare loro come si guida. 
@@ -18,5 +20,5 @@ Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli impre
 
 Cos'è la salute? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg1MzkwNjIsLTY0NDE1NDEwOF19
+eyJoaXN0b3J5IjpbLTIwMDY2Nzc0MDcsLTY0NDE1NDEwOF19
 -->
