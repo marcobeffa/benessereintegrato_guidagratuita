@@ -16,7 +16,7 @@ Struttura - Liquidi - Sistema ormonale - Nervoso - Immunitario
 - Atteggiamente emotivo e mentale
 
 
-Il 
+Il tuo corpo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTM3MTQ5XX0=
+eyJoaXN0b3J5IjpbLTEwOTI0MTYyOTBdfQ==
 -->
