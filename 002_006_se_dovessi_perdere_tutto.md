@@ -13,7 +13,7 @@ In realtà spettà a te la decisione, puoi scegliere di vedere la tua situazione
 
 Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica.  
 
-Molte nozioni semplici a **costo 0** messe in pratica ogni giorno in **pochi minuti potrebbero portare un grande benefisio ma purtroppo non vengono insegnate. 
+Molte nozioni semplici a **costo 0** messe in pratica ogni giorno in **pochi minuti** potrebbero portare un grande beneficio ma purtroppo non vengono insegnate. 
 
 Cosa ancor più grave queste semplici abitudini non vengono insegnate nemmeno ai professionisti della salute, forse perchè prive di interessi economici, fortunatamente, alcuni professionisti i più forunati le apprendono in studi di specializzazione!
 
@@ -35,5 +35,5 @@ Ma prima 2 cose:
 -  un esercizio per te!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMwODczNDQsNDI3MDI4MTc0XX0=
+eyJoaXN0b3J5IjpbMTg1NDExODg0OCw0MjcwMjgxNzRdfQ==
 -->
