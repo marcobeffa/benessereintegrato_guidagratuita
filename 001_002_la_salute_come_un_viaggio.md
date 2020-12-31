@@ -14,7 +14,7 @@ Per questo in mente ho l'immagine di una **persona che si è persa in infradito*
 
 ## In infradito a scalare l'everest... 
 
-Cosa faresti se una persona in infradito su un sentiero impervio e pericoloso ti chiedesse aiuto perchè è rimasto bloccato?
+Cosa faresti se una persona in infradito su un sentiero di montagna impervio e pericoloso ti chiedesse aiuto perchè è rimasto bloccato?
 
 La situazione sarebbe complessa e la prima domanda che sorge spontanea è:
 
@@ -66,6 +66,6 @@ Alla fine della guida sarai in grado di:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUxNDU2NDYsLTIwOTgwMjE4MDksMT
-M3ODM3NzMxMl19
+eyJoaXN0b3J5IjpbLTE1NDgzMzU0OTgsLTIxMzUxNDU2NDYsLT
+IwOTgwMjE4MDksMTM3ODM3NzMxMl19
 -->
