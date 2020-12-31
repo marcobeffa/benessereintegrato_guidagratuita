@@ -2,7 +2,8 @@
 
 
 Non c'è bisogno ogni volta di reinventare la ruota.
-Alcuni aspetti fondamentali del compito non hanno bisogno di essere cambiato o replicato, in quanto questo sarebbe una perdita di tempo
+Un sistema funziona perchè alcuni compiti vengono standardizzati e non hanno bisogno di essere cambiati o replicati, in quanto questo sarebbe una perdita di tempo.
+L'educazione alla salute
 
 
 
@@ -31,5 +32,5 @@ Creare un percorso personalizzato con la tua guida
 ## Il sistema è fatto dalla somma di singole persone se tutti dovessero cambiare abitudini cosa succederebbe?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcxODc3MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5NjczOTc2XX0=
 -->
