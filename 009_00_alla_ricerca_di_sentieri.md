@@ -1,3 +1,8 @@
+## Alla ricerca di sentieri
+
+
+Non c'è bisogno ogni volta di reinventare la ruota.
+
 
 Prima abbiamo visto in autonomia o con il professionista
 
@@ -24,5 +29,5 @@ Creare un percorso personalizzato con la tua guida
 ## Il sistema è fatto dalla somma di singole persone se tutti dovessero cambiare abitudini cosa succederebbe?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NzA3MzY4XX0=
+eyJoaXN0b3J5IjpbMTUzODIyOTA2NF19
 -->
