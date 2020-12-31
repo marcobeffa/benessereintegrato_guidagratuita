@@ -17,9 +17,9 @@ Purtroppo molte nozioni semplici a costo 0 che se messe in pratica ogni giorno i
 
 Cosa ancor più grave queste semplici abitudini non vengono insegnate nemmeno ai professionisti della salute, forse perchè prive di interessi economici, fortunatamente, alcuni professionisti i più forunati le apprendono in studi di specializzazione!
 
-Queste pratiche ti aiutano a **cononosce megli il corpo** e a capire i segnali che questo ti invia quando si trova in una condizione critica prima che succeda qualcosa di grave. Mettendo in p
+Queste pratiche ti aiutano a **cononosce megli il corpo** e a capire i segnali che questo ti invia quando si trova in una condizione critica prima che succeda qualcosa di grave. Mettendo in pratica queste nozioni riuscirai a leggere più facilmente le "spie d'emergenza" che il corpo utilizza per segnalarti che c'è qualche problema prima che sia troppo tardi.
 
-Molte volte **non si sa leggere ciò che il corpo ci vuole comunicare** così si arriva a situazioni che comportano sofferenze e problemi.
+**Chi non sa leggere questi se** così si arriva a situazioni che comportano sofferenze e problemi.
 
 Penso che si può pensare al corpo come ad un bambino appena nato, a volte è proprio difficile capire cosa vuole dirci.
 
@@ -35,5 +35,5 @@ Ma prima 2 cose:
 -  un esercizio per te!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg0MzMyNDQsNDI3MDI4MTc0XX0=
+eyJoaXN0b3J5IjpbMTI0NjU5MTg1Miw0MjcwMjgxNzRdfQ==
 -->
