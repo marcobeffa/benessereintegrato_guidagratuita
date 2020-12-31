@@ -11,7 +11,7 @@ Si fa una prova teorica e una prova pratica e si deve imparare:
 - Quali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
 
 Con il corpo dovrebbe essere uguale! 
-Potresti prendere questa **guida gratuita** come la  teoria per prendere la **patente della salute**!
+Potresti prendere questa **guida gratuita** come le lezioni di teoria che devi apprendere per prendere la **patente della salute**!
 
 Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti! 
 
@@ -26,6 +26,6 @@ La risultante di ciò che
 - delle nostre azioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE3MDQxNTgsLTIwMDY2Nzc0MDcsLT
-Y0NDE1NDEwOF19
+eyJoaXN0b3J5IjpbMTIwMTQzNDQ5MywtMjAwNjY3NzQwNywtNj
+Q0MTU0MTA4XX0=
 -->
