@@ -1,11 +1,21 @@
 ## Alla ricerca di sentieri
 
+Esistono strade piccole, strette, riservate, nascoste. Quelle che notano in pochi. Quelle che non urlano per rendersi visibili. Sono fatte di passi semplici, muri scrostati, colori segreti e luminosi. E da qualche parte c’è sempre un’emozione che aspetta di essere raccontata.  
+(Fabrizio Caramagna)
+
+
 
 Non c'è bisogno ogni volta di reinventare la ruota.
 Un sistema funziona perchè alcuni compiti vengono standardizzati e non hanno bisogno di essere cambiati o replicati, in quanto questo sarebbe una perdita di tempo.
 L'educazione alla salute
 
 
+
+Il camminare presuppone che a ogni passo il mondo cambi in qualche suo aspetto e pure che qualcosa cambi in noi.  
+(Italo Calvino)
+
+Tutti i più grandi pensieri sono concepiti mentre si cammina.  
+(Friedrich Nietzsche)
 
 Prima abbiamo visto in autonomia o con il professionista
 
@@ -32,5 +42,5 @@ Creare un percorso personalizzato con la tua guida
 ## Il sistema è fatto dalla somma di singole persone se tutti dovessero cambiare abitudini cosa succederebbe?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjczOTc2XX0=
+eyJoaXN0b3J5IjpbLTE3NDU5NzEzNywtMTk2NzM5NzZdfQ==
 -->
