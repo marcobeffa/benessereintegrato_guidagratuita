@@ -1,8 +1,6 @@
 ### Cap 2 - Pag 010
 # Le 3 batterie che danno energia al tuo corpo!
-Quello che sentiamo 
-Quello che pensiamo e vediamo
-Quello che facciamo
+
 ## BenessereIntegrato la patente per la tua salute
 
 Quando si va a fare la patente si **studia** ogni cosa riguardo la **circolazione stradale** per educare le persone ed insegnare loro come si guida. 
@@ -18,7 +16,15 @@ Potresti prendere questa **guida gratuita** come la teoria per prendere la **pat
 Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti! 
 
 
-Cos'è la salute? 
+Cos'è la salute? OMS
+
+L'uomo una grande circolazione:
+
+La risultante di
+Quello che sentiamo 
+Quello che pensiamo 
+Le azioni che compiamo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY2Nzc0MDcsLTY0NDE1NDEwOF19
+eyJoaXN0b3J5IjpbLTM2MjU5MzE0NiwtMjAwNjY3NzQwNywtNj
+Q0MTU0MTA4XX0=
 -->
