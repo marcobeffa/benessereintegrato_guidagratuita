@@ -1,11 +1,4 @@
 ## Alla ricerca di sentieri
-Un giorno Alice arrivò ad un bivio sulla strada e vide lo Stregatto sull’albero.  
-– “Che strada devo prendere?” chiese.  
-La risposta fu una domanda:  
-– “Dove vuoi andare?”  
-– “Non lo so”, rispose Alice.  
-– “Allora, – disse lo Stregatto – non ha importanza”.  
-(Lewis Carroll)
 
 Il sasso. La persona distratta vi è inciampata. Quella violenta, l’ha usato come arma. L’imprenditore l’ha usato per costruire. Il contadino stanco invece come sedia. Per i bambini è un giocattolo. Davide uccide Golia e Michelangelo ne fece la più bella scultura.  
 In ogni caso, la differenza non l’ha fatta il sasso, ma l’uomo.  
@@ -63,6 +56,6 @@ Creare un percorso personalizzato con la tua guida
 ## Il sistema è fatto dalla somma di singole persone se tutti dovessero cambiare abitudini cosa succederebbe?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzczNTQ1MiwtNzU3MTI3ODYwLC0xOT
-Y3Mzk3Nl19
+eyJoaXN0b3J5IjpbLTc1NzEyNzg2MCwxMjI3NzM1NDUyLC03NT
+cxMjc4NjAsLTE5NjczOTc2XX0=
 -->
