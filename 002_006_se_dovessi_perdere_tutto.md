@@ -13,13 +13,13 @@ In realtà spettà a te la decisione, puoi scegliere di vedere la tua situazione
 
 Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica.  
 
-Purtroppo molte nozioni semplici a costo 0 che se messe in pratica ogni giorno in pochi minuti potrebbero portare un grande benefisio non vengono insegnate. 
+Molte nozioni semplici a **costo 0** messe in pratica ogni giorno in **pochi minuti potrebbero portare un grande benefisio ma purtroppo non vengono insegnate. 
 
 Cosa ancor più grave queste semplici abitudini non vengono insegnate nemmeno ai professionisti della salute, forse perchè prive di interessi economici, fortunatamente, alcuni professionisti i più forunati le apprendono in studi di specializzazione!
 
 Queste pratiche ti aiutano a **cononosce megli il corpo** e a capire i segnali che questo ti invia quando si trova in una condizione critica prima che succeda qualcosa di grave. Mettendo in pratica queste nozioni riuscirai a leggere più facilmente le "spie d'emergenza" che il corpo utilizza per segnalarti che c'è qualche problema prima che sia troppo tardi.
 
-**Chi non sa leggere questi se** così si arriva a situazioni che comportano sofferenze e problemi.
+**Chi non riesce ad interpretare questi segnali**  rischia di finire in situazioni che comportano sofferenze e problemi.
 
 Penso che si può pensare al corpo come ad un bambino appena nato, a volte è proprio difficile capire cosa vuole dirci.
 
@@ -35,5 +35,5 @@ Ma prima 2 cose:
 -  un esercizio per te!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjU5MTg1Miw0MjcwMjgxNzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjMwODczNDQsNDI3MDI4MTc0XX0=
 -->
