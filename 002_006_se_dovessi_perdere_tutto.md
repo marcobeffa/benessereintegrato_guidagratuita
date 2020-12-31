@@ -15,9 +15,9 @@ Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebb
 
 Purtroppo molte nozioni semplici a costo 0 che se messe in pratica ogni giorno in pochi minuti potrebbero portare un grande benefisio non vengono insegnate. 
 
-Cosa ancor più grave queste semplici abitudini non vengono insegnate nemmeno ai professionisti della salute, alcuni i più forunati ci incappano in studi per la specializzazione, ma non ! 
+Cosa ancor più grave queste semplici abitudini non vengono insegnate nemmeno ai professionisti della salute, forse perchè prive di interessi economici, fortunatamente, alcuni professionisti i più forunati le apprendono in studi di specializzazione!
 
-Invece purtroppo **non si cononosce abbastanza del corpo** e in oltre si ignorano anche i segnali di pericolo che il corpo ci invia. 
+Queste pratiche ti aiutano a **cononosce megli il corpo** e in oltre si anche i segnali di pericolo che il corpo ci invia. 
 
 Molte volte **non si sa leggere ciò che il corpo ci vuole comunicare** così si arriva a situazioni che comportano sofferenze e problemi.
 
@@ -35,5 +35,5 @@ Ma prima 2 cose:
 -  un esercizio per te!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTk3MjIyLDQyNzAyODE3NF19
+eyJoaXN0b3J5IjpbMTIxODc1Mzk2Niw0MjcwMjgxNzRdfQ==
 -->
