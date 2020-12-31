@@ -1,6 +1,6 @@
 # Profilo come modello comune per il condividere il lavoro con il team
 
-Una jeep è ottima per fare sentieri di montagna ma non potra competere con una ferrari in pista e certamente ti costerà molto di carburante se la usi per percorrere molti km in autostrada. Consci le caratteristiche del tuo co
+Una jeep è ottima per fare sentieri di montagna, ma se la usi per percorrere molti km in autostrada ti costerà molto di carburante,  e non potrà competere in pista con una ferrari Consci le caratteristiche del tuo corpo?
 
 Molte letture 
 Una lettura del corpo.
@@ -20,5 +20,5 @@ Struttura - Liquidi - Sistema ormonale - Nervoso - Immunitario
 
 Il tuo corpo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE0MTIzNjVdfQ==
+eyJoaXN0b3J5IjpbODU3OTc3OTU4XX0=
 -->
