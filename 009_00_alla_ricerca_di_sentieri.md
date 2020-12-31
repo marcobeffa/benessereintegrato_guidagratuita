@@ -17,6 +17,9 @@ Il camminare presuppone che a ogni passo il mondo cambi in qualche suo aspetto e
 Tutti i più grandi pensieri sono concepiti mentre si cammina.  
 (Friedrich Nietzsche)
 
+Troppa gente si occupa dei sensi unici e dei sensi vietati, senza mai mettersi in cammino.  
+(Fabrizio Caramagna)
+
 Prima abbiamo visto in autonomia o con il professionista
 
 ## Programmi standard 
@@ -42,5 +45,5 @@ Creare un percorso personalizzato con la tua guida
 ## Il sistema è fatto dalla somma di singole persone se tutti dovessero cambiare abitudini cosa succederebbe?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU5NzEzNywtMTk2NzM5NzZdfQ==
+eyJoaXN0b3J5IjpbMTM4NzIxNDgyNiwtMTk2NzM5NzZdfQ==
 -->
