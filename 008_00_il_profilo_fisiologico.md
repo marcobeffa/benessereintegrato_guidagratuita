@@ -1,5 +1,7 @@
 # Profilo come modello comune per il condividere il lavoro con il team
 
+Una jeep è ottima per 
+
 Molte letture 
 Una lettura del corpo.
 
@@ -18,5 +20,5 @@ Struttura - Liquidi - Sistema ormonale - Nervoso - Immunitario
 
 Il tuo corpo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI0MTYyOTBdfQ==
+eyJoaXN0b3J5IjpbLTIyMzgzNzc5M119
 -->
