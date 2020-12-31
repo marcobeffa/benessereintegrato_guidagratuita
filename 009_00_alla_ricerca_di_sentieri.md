@@ -1,5 +1,16 @@
 ## Alla ricerca di sentieri
 
+Il sasso. La persona distratta vi è inciampata. Quella violenta, l’ha usato come arma. L’imprenditore l’ha usato per costruire. Il contadino stanco invece come sedia. Per i bambini è un giocattolo. Davide uccide Golia e Michelangelo ne fece la più bella scultura.  
+In ogni caso, la differenza non l’ha fatta il sasso, ma l’uomo.  
+Non esiste sasso nel tuo cammino che tu non possa sfruttare per la tua propria crescita.  
+(Anonimo)
+
+Che gran paternità quella degli alberi, che sanno dare a ciascuno dei loro rami un cammino verso la luce.  
+(Lorenzo Oliván)
+
+Il guerriero che crede nel suo cammino, non ha bisogno di dimostrare che quello degli altri è sbagliato.  
+(Paulo Coelho)
+
 Esistono strade piccole, strette, riservate, nascoste. Quelle che notano in pochi. Quelle che non urlano per rendersi visibili. Sono fatte di passi semplici, muri scrostati, colori segreti e luminosi. E da qualche parte c’è sempre un’emozione che aspetta di essere raccontata.  
 (Fabrizio Caramagna)
 
@@ -45,5 +56,5 @@ Creare un percorso personalizzato con la tua guida
 ## Il sistema è fatto dalla somma di singole persone se tutti dovessero cambiare abitudini cosa succederebbe?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzIxNDgyNiwtMTk2NzM5NzZdfQ==
+eyJoaXN0b3J5IjpbLTc1NzEyNzg2MCwtMTk2NzM5NzZdfQ==
 -->
