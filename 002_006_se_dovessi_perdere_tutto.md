@@ -11,7 +11,7 @@ In realtà spettà a te la decisione, puoi scegliere di vedere la tua situazione
  
 ## La tua salute dipende da più cause
 
-Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica! 
+Il campo della salute è vasto, lo studio di alcune nozioni fondamentali dovrebbe essere una materia scolastica e invece purtroppo molte nozioni semplici e fondamentali non vengono insegnate nemmeno ai professionisti della salute, alcuni i più forunati li ! 
 
 Invece purtroppo **non si cononosce abbastanza del corpo** e in oltre si ignorano anche i segnali di pericolo che il corpo ci invia. 
 
@@ -31,5 +31,5 @@ Ma prima 2 cose:
 -  un esercizio per te!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MDI4MTc0XX0=
+eyJoaXN0b3J5IjpbLTU2MDM2MzkyNyw0MjcwMjgxNzRdfQ==
 -->
