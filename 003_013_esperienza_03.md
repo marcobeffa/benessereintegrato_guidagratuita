@@ -1,6 +1,10 @@
 ### Cap 3 - Pag 013
 
-Un giorno passando per Roma ho trovato la risposta a questa domanda proprio li scritta all'ingresso del ministero della salute, su una targhetta patinata d'oro.
+Un giorno passando per Roma ho trovato la risposta a questa domanda proprio li scritta all'ingresso del ministero della salute, su una targh
+
+
+
+# Il piacere della scoperta!  Come funziona il sistema ormonale la dietta patinata d'oro.
 
 **La salute è uno stato di benessere fisico, mentale e sociale e non solamente assenza di malattia o infermità**
 
@@ -10,7 +14,26 @@ Pensandoci bene, la definizione di salute dell’OMS l'avevo già sentita all'un
 
 Solo dopo anni di corsi di lavoro nel mondo della salute riuscivo a capire e ne avevo realizzato il senso pratico proprio osservando la targhetta davanti a questo grosso edificio chiuso al pubblico dove due guardie mi impedivano di entrare.
 
-Per evitare che anche tu dimentichi subito la definizione di salute ti lascio alcuni esempi concreti erchè possano aiutarti nel tuo viaggio verso la salute.
+Per evitare che anche tu dimentichi subito la definizione di salute ti lascio alcuni esempi concreti erchè possano aiutarti nel tuo viaggiil corpo conoscere nuovi modelli e seguire un metodo 
+
+
+non so se il modello è giusto 
+
+
+# L'importanza dell'educazione
+
+# L'educazione la curiosità
+
+Le cose che facciamo hanno un effetto.
+
+Rubgy aronne romano
+
+A scuola di alimentazione 
+
+## Il primo incontro con lezione di sport e alimentazione 
+
+Aronne romano 
+Un impegno vperso la salute.
 
 ## Bio Psico Sociale
 
@@ -23,7 +46,16 @@ Vediamo brevemente cosa vuol dire bio-psico-sociale con 3 esempi:
 Ieri sono stato tutto il tempo chiuso in ufficio. Avevo una consegna urgente da portare a termine e ho iniziato a lavorare la mattina e ho finito la sera.
 
 In ufficio c'era aria viziata, ho saltato i pasti e la sera sono arrivata a casa con una mega fame ho aperto il frigo ho mangiato di fretta quasi senza masticare tutto quello che mi capitava sottomano.
-Poi mi sono messo sul divano, a guardare un film, siccome ero stanchissimo mi sono addormentato e mi sono svegliato la mattina appena in tempo per andare a lavoro.
+Poi mi sono messo sul divano, a guardare un film, siccom esempio maestro bruno 
+
+
+
+## Alle soglie di un nuovo mondo dalla terra dell'industria del tondino e dell'agraria alla scoperta del corpo.
+
+## La Fisioterapia
+
+La prima scuola di  formazione nel campo della salute  è stata la fisioterapia. 
+E' un corso di laurea delle epro stanchissimo mi sono addormentato e mi sono svegliato la mattina appena in tempo per andare a lavoro.
 
 ## Bio
 
@@ -39,7 +71,11 @@ In oltre non riuscivo a pensare e fortunatamente la giornata era leggera perchè
 
 ### L'aspetto Sociale influenza l'aspetto bio e quello psico
 
-> Le nostre relazioni ed emozioni influenzano il nostro substrato biologico, il nostro corpo fisico e i nostri pensieri
+> Le nostre relazioni ed emozioni influenzano il nostro substrato biologico, il nostro corpo fisico fessioni sanitarie.
+
+Qui ho imparato molto sul corpo umano.
+
+La fisioterapia insegna al fisioterapista come aiutare una persona ad affrontare le patologie e come passare da una condizione di nostri pensieri
 
 Ieri ho litigato con un amico per una questione importante. Mi sono arrabbiato tantissimo e abbiamo rovinato la nostra amicizia perchè ho agito in maniera impulsiva.
 
@@ -67,7 +103,19 @@ Ho avuto un sacco di problemi da risolvere e un sacco di pensieri per alcune fac
 
 ## Sociale
 
-Ero così impegnato a risolvere i problemi che neanche mi sono ricordato di chi avevo intorno. Quel giorno era come se non esistesse nessuno, infatti mia moglie si è arrabbiata perchè mi sono dimenticato completamente della promessa che gli avevo fatto.
+Ero così impegnato a risolvere i problemi che neanche mi sono ricordato di chi avevo intorno. Quel giorno era come sDisabilità a una condizione in cui ritrova la propria autonomia.
+
+La Fisioterapia insegna come rimettere in salute: 
+
+Il sistema muscolo scheletrico
+Il sistema respiratorio
+Il sistema nervoso e apparato urogenitale
+Il sistema linfatico e digestivo
+Il sistema cardiocircolatorio
+
+Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone, per lavoro, formazione, e corsi:
+
+*Università, Ospedali, Cooperative, Cliniche ncon esistesse nessuno, infatti mia moglivenzionate, Case sdi è arrabbiata perchè mi sono dimenticato completamente della promessa che gli avevo fatto.
 
 ## Bio
 
@@ -101,4 +149,25 @@ Soprattutto il primo principio vorrei far notare che non è solo un principio os
 > La funzione guida la forma
 > Concetto di Architettura
 
-Con questi concetti la trama si faceva ancora più fitta ed io ero sempre più confuso l'osteopatia mi ha aiutato a trovare una visione dell'uomo più ampia, ma questo mi portava a domande ancora più profonde sulla guarigione a cui ho trovato risposta ma prima di continuare vediamo quali sono gli errori che spesso vengono commessi da chi inizia un percorso per la salute.
+Con questi concetti la trama si faceva ancora più fitta ed io ero sempre più confuso l'osteopatia mi ha aiutato a trovare una visione dell'uomo più ampia, ma questo mi portava a domande ancora più profonde sulla guarigione a cui ho trovato risposta ma prima di continuare vediamo quali sono gli errori che spesso vengono commessi da chi inizia un percorso per la salute.riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature,  spa*
+  
+  
+Da qui nasce l'idea di creare benessereintegrato
+In questa guida ti racconto i miei errori, le mie esperienze e come ho pensato di risolverli. 
+
+Perchè mi sarebbe piaciuto che qualcuno li raccontasse a me avrei evitato dolori, perdite di tempo e soldi e adesso avrei già venduto la mia start up a **Google Health** e con la exit guadagnata sarei già potuto essere in pensione. Ovviamente scherzo ;-) 
+
+> Lo stolto sbaglia e non impara,
+L’intelligente impara dai propri errori,
+Il saggio impara dagli errori degli altri”
+
+Ritengo che tu sia una persona saggia e magari hai delle soluzioni che qui non abbiamo colto!
+
+Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure le terrò in considerazione! 
+
+Buon viaggio!
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDE2MjExNzE5XX0=
+-->
