@@ -1,29 +1,34 @@
-### Cap 2 - Pag 010
+### Cap 3 - Pag 010
+
 # Le 3 batterie che danno energia al tuo corpo!
+
+Per imparare a guidare un automobile è necessario una patente, oggi per tutto è necessario un corso che ti abiliti alla pratica.
+Conosciamo migliaia di cose ma la maggior parte delle persone non conosce il funzionamento del proprio corpo.
 
 ## BenessereIntegrato la patente per la tua salute
 
-Quando si va a fare la patente si **studia** ogni cosa riguardo la **circolazione stradale** per educare le persone ed insegnare loro come si guida. 
-Si fa una prova teorica e una prova pratica e si deve imparare:
-- Come funziona la macchina, 
-- A cosa servono le varie spie, 
-- Come si guida, 
+Se hai fatto la patente dell'automobile saprai che per educare le persone ed insegnare loro come si guida è necessario conoscere la teoria e la pratica.
+Se vuoi guidare la macchina devi studiare:
+
+- Come funziona la macchina,
+- A cosa servono le varie spie,
+- Come si guida,
 - Quali sono le regole e i segnali da rispettare per evitare problemi ed incidenti.
 
-Con il corpo dovrebbe essere uguale! 
-Potresti prendere questa **guida gratuita** come le lezioni di teoria che devi apprendere per prendere la **patente della salute**!
+fare un esame di teoria e andare a lezione di pratica e fare un esame che ti abiliti all'uso dell'automobile.
 
-Si servirebbe proprio  sopratutto per sapere cosa fare quando arrivano gli imprevisti! 
+Mi sono sempre chiesto perchè è obbligatoria la patente dell'automobile? Perchè invece non c'è niente che ci insegni come funziona la salute?
 
+Con Benessere Integrato ho deciso di fare questo creare una patente per la salute.
 
-Cos'è la salute? OMS
+Nella **guida gratuita** trovi le lezioni di teoria che devi apprendere per prendere la **patente della salute**!
 
-L'uomo una grande circolazione:
+Benissimo e da dove cominciamo? Be direi dalla definizione di salute, ma come non stai tralasciando qualcosa?
+Non hai detto che dovevi raccontarmi delle 3 batterie del tuo corpo e ancora prima di come si impara a leggere i messaggi che questo tenta di mandarci?
 
-La risultante di ciò che
-- sentiamo 
-- pensiamo 
-- delle nostre azioni
+E' si tutto questo fa parte della stessa frittata non ti resta che continuare a leggere per scoprire dove ti porterà questo viaggio.
+
+Perciò ti lascio alla prossima regola della salute.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIwMTQzNDQ5MywtMjAwNjY3NzQwNywtNj

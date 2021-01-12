@@ -1,33 +1,30 @@
-###  Cap 2 - Pag 08
-# Esercizio 02 
+### Cap 2 - Pag 08
 
-## L'importanza di accorgersi. Quanti movimenti può fare il tuo corpo? Come è possibile tutto questo? 
+- Polmone
 
+# Esercizio 02
 
-Questo esercizio è semplicissimo serve per stimolare la curiosità, prova a fare un elenco mentale di tutti i movimenti che può fare il tuo corpo.
-e poi prova a chiderti:
-- Come è possibile che il mio corpo possa fare tutto questo? 
-- Qual è il motore del movimento?
-- Come fanno i muscoli a muoversi?
-- Chi nutre i muscoli?
-- Come faccio a sapere la posizione della mia mano anche se ho gli occhi chiusi?
+> Il mondo è pieno di cose ovvie che nessuno si prende mai la cura di osservare.
+> _Arthur Conan Doyle_
 
-> Il  mondo è pieno di cose ovvie che nessuno si prende mai la cura di osservare.
+Capita spesso che durante la vita le necessità ci spingano a fare cose che pian piano diventano automatiche, diventano abitudini che poi riempiono il nostro tempo.
+
+Ma così facendo dimentichiamo le priorità.
+
+## Di cosa hai davvero bisogno?
+
+Prendi carta e penna:
+
+- Crea una lista di attività che compi durante la giornata
+
+- Riordina la tua lista dando una priorità alle cose importanti per te!
+
 > “Non c'è nulla di così ingannevole come un fatto ovvio.”
-*Arthur Conan Doyle* 
+> _Arthur Conan Doyle_
 
+Mashlow ha creato una lista di bisogni che la persone deve soddisfare e si è visto che chi soddisfa questi bisogni ha una salute.
 
-Secondo **Aristotele**,  il famoso filosofo greco  la meraviglia è ciò che ci spingere a conoscere! 
-In questo saggio è spiegato bene il concetto se vuoi approfondire:
-
-> [La meraviglia come principio della conoscenza per Aristotele](http://www.gallito.eu/la-meraviglia-come-principio-della-conoscenza-per-aristotele/)
-
-Chi è capace di accorgersi potrà fare scoperte nuove e cambiare il mondo!  
- 
-> Chi cerca non smetta di cercare finché ha trovato. Quando avrà trovato si turberà. Quando sarà turbato si meraviglierà e regnerà su tutte le cose.
-
-
-
+Ma quali sono i bisogni del nostro corpo? Cosa ci racconta se lo ascoltiamo? Il corpo ci invia richieste sottoforma di sensazioni. Quali sono le sensazioni e i segnali che dovremmo ascoltare? Vedremo come scoprirlo nel terzo capitolo, ma prima vediamo il duro prezzo che in alcuni casi si paga qunado non si riescono a interpretare i segnali e si trascura la salute.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIyODU1ODgxMywtMTc3NzM1NTM4NSwxMj
