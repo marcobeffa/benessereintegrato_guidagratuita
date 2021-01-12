@@ -261,7 +261,6 @@ Mancano il canale olfattivo, il canale tattile, e altri pezzi che ora sarebbero 
 **Per questo spero come allievo di essere perdonato se utilizzo alcune tecniche fuori dal contesto e spero che se stai leggendo questa guida hai il buon cuore di riflettere profondamente sulle tecniche che ti sto passando. Perchè se prese alla leggera e non provate con calma non funzionano e rischiano tra virgolette di essere passami il termine "sputtanate"**
 
 ---
-
 Il corpo nasconde molto di più di quello che la scienza è riuscita a provare. E anche noi ogni giorno siamo di fronte a qualcosa di nuovo da poter provare che prima non conoscevamo.
 
 > Se anche facessimo ogni minuto una scoperta in una vita non riusciremmo a scoprire tutto.
@@ -329,12 +328,13 @@ Iniziamo dalla testa prova portare la testa prima avanti e poi indietro rispetto
 
 Mythoself experiences
 
-L'importanza dell'educazione rugby!
+L'importanza dell'educazione rugby! 
+
 
 # Cosa ti piace fare?
 
 - Nella colonna di sinistra almeno 5 difficoltà che incontri o quando devi affrontare un percorso oppure se hai già iniziato cose che tendono a distrarti o 5 punti deboli che mettono in pericolo il tuo programma
-- Nella colonna di destra scrivi almeno 5 cose che ti piacerebbe ottenere dal tuo percorso della salute?
+-  Nella colonna di destra scrivi almeno 5 cose che ti piacerebbe ottenere dal tuo percorso della salute?
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNDEwMTA0MzEsLTUwMjE0ODE5MiwtMT
@@ -461,8 +461,8 @@ eyJoaXN0b3J5IjpbLTE4NDM1MTIxODBdfQ==
 
 > La smetta di frequentare il passato, cerchi di frequentare il futuro.
 >
-> [Antonio Tabucchi](https://www.lefrasi.com/autore/antonio-tabucchi)
+> [Antonio Tabucchi](https://www.lefrasi.com/autore/antonio-tabucchi) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4ODUxMzk4XX0=
+eyJoaXN0b3J5IjpbNDIwNjU1MDIzLDQ5ODg1MTM5OF19
 -->
