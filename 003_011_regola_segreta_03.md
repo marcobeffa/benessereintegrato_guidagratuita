@@ -3,32 +3,27 @@
 > “Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
 > ERACLITO
 
-La tua situazione di vita, e di salute dipende da 2 forze, che si controbilanciano la tua storia passata e la tua storia futura.
+La tua situazione di vita, e di salute dipenda passatao e la tua storia futura.
 
-> La nostra felicità non dipende soltanto dalle gioie attuali ma anche dalle nostre speranze e dai nostri ricordi. Il presente si arricchisce del passato e del futuro.
-> Émilie du Châtelet
+> La nostra felicità non dipende soltanto dalle gioie attuali ma anche dalle ne a 2 forze che si controbilancianoostre speranefuunto sei del viaggio?
+
+Il corpo costudisce in se migliaia di informazioni.
+Molte conosciute altre che ti sono state trasmette geneticamente, dalla tua famiglia, del tuo ambiente, del gruppo sociale in cui vivi.
+
+La tua situazione di vita, e dai nostri ricordi. Il presente si arricchisce delsalute dipende perciò da 2 forze, che si controbilanciano la tua storia passatoa e del futuro.
+> Émilie du Châteletla tua storia futura.
 
 La storia passata è il tuo punto di partenza.
 
 E' importante conoscere la propria storia per capire molte dinamiche anche di salute, ma è ancora più importante che tanto dipende dal futuro cosa vogliamo raggiungere.
 
-> Leggendo il passato si capisce meglio come siamo arrivati ad essere ciò che oggi siamo.
+> Leggendo il passato si capisce meglio come siamo arrivati ad essere ciò che oggni siamo.
 > Guardando al futuro potrai vedere dove puoi arrivare
 > Corrado Augias
 
-## La storia futura
+## La stoia 
 
-> La realtà esiste nella mente umana e non altrove.  
-> (George Orwell)
-
-Il nostro corpo ci manda dei segnali grazie a sensazioni, pensieri, emozioni, e con questo creiamo la nostra realtà.
-
-Il corspo costudisce in se migliaia di informazioni.
-Molte coscienti e altre non coscienti che ti sono state trasmette geneticamente, dalla tua famiglia, dal tuo ambiente, dal gruppo sociale in cui vivi.
-
-Decidendo una nuova direzione puoi cambiare la tua situazione attuale.
-
-> Il presente è il limite indivisibile che separa il passato dall'avvenire.
+> La e mgliente da il passato 
 
 > A ogni bivio sul sentiero che porta al futuro, la tradizione ha posto 10.000 uomini a guardia del passato.
 > Maurice Maeterlinck
@@ -45,3 +40,6 @@ Pronto per un nuovo futuro?
 > Paul Eluard
 
 E' ora di fare il prossimo esercizio.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQzMTg3NTEzXX0=
+-->
