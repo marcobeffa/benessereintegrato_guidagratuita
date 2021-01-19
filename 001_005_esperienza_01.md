@@ -15,7 +15,7 @@ Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di quest
 
 Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero.  Ma allora la **paura e la non conoscenza** di quella situazione imprevista, mi avevano paralizzato.
 
-Ci ho messo il doppio del tempo per **trovare una soluzione. **, e ho risolto in malo modo il problema perchè ho aspettato troppo! Il mio scafoide tutt'ora non è ancora saldato, ma fortunatamente con il tempo sono riuscito a caprie come curarlo e ora con le giuste attenzioni funziona a dovere anche così!
+Ci ho messo il doppio del tempo per **trovare una soluzione.**, e ho risolto in malo modo il problema perchè ho aspettato troppo! Il mio scafoide tutt'ora non è ancora saldato, ma fortunatamente con il tempo sono riuscito a caprie come curarlo e ora con le giuste attenzioni funziona a dovere anche così!
 
 Posso dire che questa lezione mi è servita perchè ho capito come la paura e la mancanza di una corretta informazione e gestione possono portare a fare scelte che **peggiorano molto la situazione.**
 
