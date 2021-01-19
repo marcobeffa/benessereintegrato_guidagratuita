@@ -4,27 +4,35 @@
 
 ## Perchè questa guida?
 
-Lavoro come **fisioterapista** e le persone si rivolgono a me chiedere un aiuto e trovare una soluzione a **dolori o patologie**.
+Lavoro come **fisioterapista** e le persone si rivolgono a me mi chiedono aiuto per trovare una soluzione a **dolori o patologie**.
 
-Tutti i **professionisti della salute e del benessere** si trovano a dover aiutare le persone a ritrovare la loro salute o il loro benessere o a cercare di migliorarli.
+Tutti i **professionisti della salute e del benessere** si trovano a dover aiutare persone in difficoltà. Penso sia d'accordo anche tu che il loro compito è quello di aiutarti a ritrovare la tua salute, il tuo benessere.
 
 Talvolta però i professionisti si trovano di fronte a situazioni molto complesse!
 
-Per questo in mente ho l'immagine di una **persona che si è persa in infradito** su un sentiero in alta quota molto arduo e impegnativo.
+L'immagine che mi viene in mente è di una **persona che si è persa in infradito** su un sentiero di alta montagna, molto arduo e impegnativo.
 
 ## In infradito a scalare l'everest...
 
-Cosa faresti se una persona in infradito su un sentiero di montagna impervio e pericoloso ti chiedesse aiuto perchè è rimasto bloccato?
+Cosa faresti se una persona che si trova in questa situazione ti chiedesse aiuto perchè è rimasto bloccato?
 
-La situazione sarebbe complessa e la prima domanda che sorge spontanea è:
+E' una domanda a cui è difficile dare una buona risposta, perchè la situazione è complessa, ma la prima cosa da fare è chiedersi:
 
 > Come è possibile ricondurre questa persona al sicuro, fuori da questa situazione?
 
-Penso che comunque **sconsiglieresti** a chiunque di
+Subito dopo viene da chiedersi: 
+
+> Perchè la persona si è cacciata in questa situazione? 
+
+E poi ancora:
+
+> Perchè non si è preaparata a questo viaggio?
+
+Penso che anche tu **sconsiglieresti** a chiunque di
 
 > scalare l'Everest in infradito.
 
-a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio.
+a meno che la persona sia nata e vissuta li su quelle cime e conosca bene il territorio, e penso anche che consiglieresti a chiunque debba intraprendersi un viaggio di prepararsi.
 
 ## Affrontare un viaggio
 
@@ -60,7 +68,3 @@ Alla fine della guida sarai in grado di:
   - Monitorare il viaggio test e valutazioni
 - Il tuo diario di bordo
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzMzU0OTgsLTIxMzUxNDU2NDYsLT
-IwOTgwMjE4MDksMTM3ODM3NzMxMl19
--->
