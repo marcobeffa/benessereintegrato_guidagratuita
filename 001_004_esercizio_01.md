@@ -1,7 +1,5 @@
 ### Cap 1 - Pag 04
 
-- fegato
-
 # Esercizio 01
 
 Ecco a te il primo esercizio. Molti esercizi sono compiti che richiedono la risposta ad alcune domande, negli altri capitoli puoi anche trovare esercizi più fisici!
