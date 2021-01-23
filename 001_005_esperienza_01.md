@@ -3,19 +3,22 @@
 
 ## Un duro colpo a contatto con il mondo della cura e della riabilitazione
 
-La **frattura dello scafoide.** è stata una delle prime esperienze che mi ha fatto entrare in contatto con il mondo della riabilitazione!
+La **frattura dello scafoide** è stata una delle esperienze che mi ha fatto entrare in contatto con il mondo della riabilitazione!
 
 ## Infortuni nello sportivo
 
-Gli infortuni nello sportivo sono una di quelle situazioni in cui è necessario intraprendere un buon percorso per poter ritornare in campo in forma!
+Quando uno sportivo va incontro ad un infortunio medio-grave solitamente intraprende un percorso riabilitativo per ritornare in campo.
 
-Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di questo piccolo osso**, che in molti casi quando si rompe fa fatica a saldarsi, sopratutto se non si interviene in modo corretto. Spesso chi subisce questo **trauma**  e non lo cura in modo corretto o per una serie di cause conclude la sua vicenda con una condizione chiamata **pseudoartrosi**, proprio quello che è capitato a me.
+Giocando a Rugby all'età di 16 anni per una caduta subii la **frattura di questo piccolo osso**, che in molti casi quando si rompe fatica a saldarsi e a guarire. Spesso chi subisce questo **trauma** per una serie di cause può andare in contro con una condizione chiamata **pseudoartrosi**. 
+E' proprio quello che è capitato a me.
 
-## Quello che una persona non dovrebbe fare con un problema di saltue avere paura e non informarsi.
+## Cosa una persona non dovrebbe fare con un problema di saltue: avere paura e non informarsi.
 
-Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero.  Ma allora la **paura e la non conoscenza** di quella situazione imprevista, mi avevano paralizzato.
+Devo **confessare** che feci tutto quello che un paziente non dovrebbe fare. Ora da **fisioterapista**  saprei come intervenire e gestire la riabilitazione e il recupero.  Ma allora la **paura e la non conoscenza** di quella situazione imprevista, mi avevano letteralmente paralizzato.
 
-Ci ho messo il doppio del tempo per **trovare una soluzione.**, e ho risolto in malo modo il problema perchè ho aspettato troppo! Il mio scafoide tutt'ora non è ancora saldato, ma fortunatamente con il tempo sono riuscito a caprie come curarlo e ora con le giuste attenzioni funziona a dovere anche così!
+Ho impiegato più del doppio del tempo per **trovare una soluzione.** e in oltre ho risolto in malo modo il problema perchè ho aspettato troppo! 
+
+Il mio scafoide tutt'ora non è ancora saldato, ma fortunatamente con il tempo sono riuscito a caprie come curarlo e ora con le giuste attenzioni funziona a dovere anche così!
 
 Posso dire che questa lezione mi è servita perchè ho capito come la paura e la mancanza di una corretta informazione e gestione possono portare a fare scelte che **peggiorano molto la situazione.**
 
@@ -37,7 +40,7 @@ Ora posso dire: si avevo ragione, basta cercare:
 
 > Nella maggior parte dei casi c'è sempre una Soluzione!
 
-Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punto tale da essre irreversibili, ma anche li si può migliorare le condizioni.
+Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punto tale da essre irreversibili, ma anche in questo caso non ci si deve scoragggiare perchè puoi sempre puntare a migliorare la tua condizione, per vivere bene la tua vita!
 
 
 
