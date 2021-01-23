@@ -22,27 +22,34 @@ Prendi carta e penna e preparati a rispondere ad alcune domande!
 ## Qual è la tua situazione attuale?
 
 - Come ti senti ora?
-- Sei qui perchè vuoi raggiungere un obiettivo o perchè vuoi risolvere un problema?
 
-Se per raggiungere un obiettivo passa alla sezione successiva: **Raggiungere obiettivi per giungere a una meta.** se hai un problema da risolvere continua qui:
+Ci sono 2 situazioni in cui ci si trova solitamente:
+- La prima si fugge da un problema, di solito un dolore o una patologia
+- La seconda si insegue un obiettivo
 
-## Per risolvere un problema:
+## Fuggire da un problema:
 
-- Qual è il tuo problema principale.
-- Ce ne sono altri?
+Iniziamo con alcune domande a cui potrai rispondere su un foglio.
+
+- Cos'è ti spinge a voler cambiare la tua situazione attuale?
+- Hai un problema principale? Lo conosci? Hai già indagato?
+- Quello è l'unico problema o ce ne sono altri?
 - Se si quali?
 - E' la prima volta che ti trovi in difficoltà con la tua salute?
 - Secondo te cosa ti ha portato in questa situazione?
 
-Definire il problema è un primo passo, capire il perchè è sopraggiunto questa situazione e perchè si è presentata a te è il secondo step. Già questo aiuta a chiarire la situazione poi sarà necessario prendere dei riferimenti dovrai porti una meta da raggiungere e lasciare il tuo problema alle spalle. Vediamo di cosa abbiamo bisogno:
+Definire il problema è un primo passo. 
+Riflettere sul perchè è sopraggiunta questa situazione e perchè si è presentata a te è il secondo step. 
 
-##  Raggiungere obiettivi per giungere a una meta. 
+Nei prossimi capitoli troverai strumenti e valutazioni che ti aiuteranno meglio a definire la tua situazione.
+
+##  Raggiungere obiettivi per arrivare alla meta. 
 
 Per uscire dalla situazione attuale e spostarti verso una nuova situazione è necessario investire delle risorse.
 
 Le risorse più preziose che tutti hanno a disposizione sono il tempo e l'attenzione.
 
-Se hai tempo e pazienza e la situazione non è troppo grave puoi iniziare il tuo percorso in autonomia oppure puoi investire qualcosa in più e decidere di affidarti a un professionista che ti guiderà lungo questo percorso
+Se hai tempo e pazienza e la situazione non è troppo grave puoi iniziare il tuo percorso in autonomia oppure puoi investire qualcosa in più e decidere di affidarti a un tutor o a un professionista per avere un sostegno lungo questo percorso.
 
 Nel prossimo capitolo ti racconto una piccola esperienza personale.
 
