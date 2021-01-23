@@ -41,6 +41,9 @@ Certo in alcuni casi, i problemi di salute sono gravi oppure arrivano ad un punt
 
 
 
+> Ricordati chi sei, ricordati da dove vieni, ricorda il tuo passato senza subirlo mai.
+> Max Pezzali
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTM0MzIxNDI0LC0xMDg1MjgxMjE3LC0xMT
