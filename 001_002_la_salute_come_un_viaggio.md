@@ -42,7 +42,7 @@ Purtroppo la vita ci presenta situazioni **inaspettatate** e improvvisamente ci 
 
 Con la guida **BenessereIntegrato.it** imparerai ad affrontare un **percorso per la salute** come se stessi affrontando un **viaggio**.
 
-E' **per questo** che ho preparato questa guida. Perchè spero ti possa aiutare nel caso tu _sia all'inizio_ di un percorso, o nel caso tu ne _stia già_ affrontando uno, ma non riesci a risolvere il problema o a ti senti bloccato perchè non riesci a raggiungere un obiettivo per la salute e il benessere.
+E' **per questo** che ho preparato questa guida. Perchè spero ti possa aiutare nel caso tu _sia all'inizio_ di un percorso, o nel caso tu ne _stia già_ affrontando uno, ma non riesci a risolvere il problema o a raggiungere un obiettivo che ti eri posto per la salute e il benessere.
 
 ## Per i professionisti
 
