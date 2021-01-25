@@ -1,7 +1,5 @@
 ### Cap 2 - Pag 08
 
-- Polmone
-
 # Esercizio 02
 
 > Il mondo è pieno di cose ovvie che nessuno si prende mai la cura di osservare.
@@ -19,10 +17,13 @@ Prendi carta e penna:
 
 - Riordina la tua lista dando una priorità alle cose importanti per te!
 
+Nella tua lista hai inserito attività per soddisfare i bisogni fondamentali?
+Mashlow ha creato una piramide dei bisogni ordinandoli per urgenza quando la persona rispetta la piramide e riesce a risalirla a una probabilità maggiore di vivere meglio.
+
+<img src="https://it.wikipedia.org/wiki/Bisogno#/media/File:Piramide_maslow.png">
+
 > “Non c'è nulla di così ingannevole come un fatto ovvio.”
 > _Arthur Conan Doyle_
-
-Mashlow ha creato una lista di bisogni che la persone deve soddisfare e si è visto che chi soddisfa questi bisogni ha una salute.
 
 Ma quali sono i bisogni del nostro corpo? Cosa ci racconta se lo ascoltiamo? Il corpo ci invia richieste sottoforma di sensazioni. Quali sono le sensazioni e i segnali che dovremmo ascoltare? Vedremo come scoprirlo nel terzo capitolo, ma prima vediamo il duro prezzo che in alcuni casi si paga qunado non si riescono a interpretare i segnali e si trascura la salute.
 
