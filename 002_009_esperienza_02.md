@@ -2,6 +2,8 @@
 
 # Esperienza sul campo
 
+Questa parte di capitolo potrebbe sembrarti tragica. Magari potrà turbarti, ma è proprio dall'incontro con il mondo della disabilità che nasce il progetto **benessereintegrato.it**.
+
 Il mio **primo giorno di lavoro** ho provato un profondo sconforto quando a città di Brescia ho dovuto prendere in cura il mio primo paziente.
 
 ### L'incontro con la disabilità
