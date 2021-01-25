@@ -19,16 +19,16 @@ fare un esame di teoria e andare a lezione di pratica e fare un esame che ti abi
 
 Mi sono sempre chiesto perchè è obbligatoria la patente dell'automobile? Perchè invece non c'è niente che ci insegni come funziona la salute?
 
-Con Benessere Integrato ho deciso di fare questo creare una patente per la salute.
+Con Benessere Integrato potrai prendere la patente per la salute.
 
-Nella **guida gratuita** trovi le lezioni di teoria che devi apprendere per prendere la **patente della salute**!
+Vediamo perciò le lezioni di teoria necessarie per prendere la **patente della salute**!
 
-Benissimo e da dove cominciamo? Be direi dalla definizione di salute, ma come non stai tralasciando qualcosa?
-Non hai detto che dovevi raccontarmi delle 3 batterie del tuo corpo e ancora prima di come si impara a leggere i messaggi che questo tenta di mandarci?
+Benissimo e da dove cominciamo? Be direi:
+- dalla definizione di salute 
+- dallo scoprire quali sono le 3 batterie del tuo corpo 
+- da come imparare a leggere i messaggi che questo tenta di mandarci
 
-E' si tutto questo fa parte della stessa frittata non ti resta che continuare a leggere per scoprire dove ti porterà questo viaggio.
-
-Perciò ti lascio alla prossima regola della salute.
+Queste 3 aspetti sono legati tra loro e li approfondiremo nei prossimi capitoli, ma prima la prossima regola della salute! :-)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIwMTQzNDQ5MywtMjAwNjY3NzQwNywtNj
