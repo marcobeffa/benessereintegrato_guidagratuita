@@ -20,7 +20,7 @@ Prendi carta e penna:
 Nella tua lista hai inserito attività per soddisfare i bisogni fondamentali?
 Mashlow ha creato una piramide dei bisogni ordinandoli per urgenza quando la persona rispetta la piramide e riesce a risalirla a una probabilità maggiore di vivere meglio.
 
-<img src="https://it.wikipedia.org/wiki/Bisogno#/media/File:Piramide_maslow.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Piramide_maslow.png">
 
 > “Non c'è nulla di così ingannevole come un fatto ovvio.”
 > _Arthur Conan Doyle_
