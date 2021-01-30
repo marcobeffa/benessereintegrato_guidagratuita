@@ -3,6 +3,7 @@
 > “Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
 > ERACLITO
 
+Siamo in balia di due forze la forza di ciò che c'è ora e la forza di ciò che potrebbe esserci in futuro.
 La tua situazione di vita, e di salute dipenda passatao e la tua storia futura.
 
 > La nostra felicità non dipende soltanto dalle gioie attuali ma anche dalle ne a 2 forze che si controbilancianoostre speranefuunto sei del viaggio?
