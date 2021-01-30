@@ -1,6 +1,8 @@
 ### Cap 3 - Pag 012
 
 - intestino crasso
+ 
+ eliminare ciò che non serve e Distribuire
 
 Per fare spazio al nuovo bisogna eliminare il vecchio.
 
