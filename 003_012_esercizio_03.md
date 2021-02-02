@@ -26,8 +26,9 @@ Prendi carta e penna e rispondi a queste domande!
 
 - Cos'è per te la salute? Spiega brevemente qual è la tua idea di salute.
 - Da cosa viene influenzata? Quali fattori nella tua vita hanno un forte peso per la tua salute. 
+   Nella tua vita:
    - Cosa ti ha fatto stare male? 
-   - Cosa ti ha fatto stare bene
+   - Cosa ti ha fatto stare bene?
 - Quali cose secondo te vanno tenute sott'occhio per mantenersi in salute?
 
 Questo è importante perchè le tue convinzioni sono la storia che ti racconti e da queste convinzioni nascono modelli che sono presenti in te e che influenzano i tuoi risultati. 
