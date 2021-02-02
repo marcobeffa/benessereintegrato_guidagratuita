@@ -1,6 +1,6 @@
 ### Cap 3 - Pag 012
 
-# Esercizio 03 
+# Esercizio 03
  
 ## Vino nuovo in otri vecchie
 
