@@ -1,5 +1,12 @@
 ### Cap 4 - Pag 017
 
+> Lo stolto sbaglia e non impara,
+L’intelligente impara dai propri errori,
+Il saggio impara dagli errori degli altri”
+
+Ritengo che tu sia una persona saggia e magari hai delle soluzioni che qui non abbiamo colto!
+
+Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure le terrò in considerazione! 
 
 ------
 
