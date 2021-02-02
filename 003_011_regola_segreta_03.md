@@ -1,5 +1,10 @@
 ### Cap 3 - Pag 011
 
+# Terza regola
+## Tra l'incudine e il martello le 2 forze che forgiano la nostra vita
+
+
+
 > “Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
 > ERACLITO
 
