@@ -3,37 +3,33 @@
 > “Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
 > ERACLITO
 
-Siamo in balia di due forze la forza di ciò che c'è ora e la forza di ciò che potrebbe esserci in futuro.
-La tua situazione di vita, e di salute dipenda passatao e la tua storia futura.
+Siamo in balia di due forze:
+- la forza di ciò che c'è ora
+- la forza di ciò che potrebbe esserci in futuro.
+La tua situazione di vita, e di salute non dipende solo dalla tua storia passata ma anche dai tuoi obiettivi e di ciò che hai intenzione di scrivere con la tua storia futura.
 
-> La nostra felicità non dipende soltanto dalle gioie attuali ma anche dalle ne a 2 forze che si controbilancianoostre speranefuunto sei del viaggio?
 
-Il corpo costudisce in se migliaia di informazioni.
-Molte conosciute altre che ti sono state trasmette geneticamente, dalla tua famiglia, del tuo ambiente, del gruppo sociale in cui vivi.
+Il corpo costudisce in se migliaia di informazioni, che ti sono state trasmette geneticamente, dalla tua famiglia, del tuo ambiente, del gruppo sociale in cui vivi.  Molte informazioni e abilità le hai conosciute perchè già sperimentate e passate alla tua coscienza nella tua storia passata, ma molte sono ancora da scoprire.
 
-La tua situazione di vita, e dai nostri ricordi. Il presente si arricchisce delsalute dipende perciò da 2 forze, che si controbilanciano la tua storia passatoa e del futuro.
-> Émilie du Châteletla tua storia futura.
+Umberto Eco diceva i libri più importanti della mia libreria non sono quelli che ho letto perchè di quelli conosco già il contenuto, i libri più importanti sono quelli che devo ancora leggere.
+
+
+> La nostra felicità non dipende soltanto dalle gioie attuali ma anche dalle nostre speranze e dai nostri ricordi. Il presente si arricchisce del passato e del futuro.
+
+ Émilie du Châtelet
+
 
 La storia passata è il tuo punto di partenza.
 
-E' importante conoscere la propria storia per capire molte dinamiche anche di salute, ma è ancora più importante che tanto dipende dal futuro cosa vogliamo raggiungere.
+E' importante conoscere la propria storia per capire molte dinamiche anche di salute, ma è ancora più importante sapere che tanto dipende dal futuro dalla direzione in cui scegliamo di camminare e dalle mete che vogliamo raggiungere.
 
 > Leggendo il passato si capisce meglio come siamo arrivati ad essere ciò che oggni siamo.
 > Guardando al futuro potrai vedere dove puoi arrivare
 > Corrado Augias
 
-## La stoia 
-
-> La e mgliente da il passato 
 
 > A ogni bivio sul sentiero che porta al futuro, la tradizione ha posto 10.000 uomini a guardia del passato.
 > Maurice Maeterlinck
-
-Pensieri emozioni sono reali ache se non li percepiamo i neuroni che utilizziamo per pensare i pensieri producono un campo elettromagnetico nel mondo fisico.
-
-> La smetta di frequentare il passato, cerchi di frequentare il futuro.
->
-> Antonio Tabucchi
 
 Pronto per un nuovo futuro?
 
@@ -41,6 +37,4 @@ Pronto per un nuovo futuro?
 > Paul Eluard
 
 E' ora di fare il prossimo esercizio.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTg3NTEzXX0=
--->
+
