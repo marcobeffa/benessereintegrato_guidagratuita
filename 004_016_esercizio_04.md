@@ -1,5 +1,6 @@
 ### Cap 4 - Pag 016
-
+> Pensieri emozioni sono reali anche se non li percepiamo i neuroni che utilizziamo per pensare i pensieri producono un campo elettromagnetico nel mondo fisico.
+> animum deve mutare in un viaggio
 # Esercizio 4
 
 > Non ci sono errori, ma opportunità per conoscere le cose.  
