@@ -1,7 +1,8 @@
 ### Cap 3 - Pag 013
 
 
-# Cos'è la salute?
+# Cosa? Bio Psico Sociale 
+## Le parole sono importanti quando hanno un significato concreto e reale legato alla realtà della propria esperienza.
 
 Un giorno passando per Roma ho trovato la risposta a questa domanda proprio li scritta all'ingresso del ministero della salute, sulla targhetta all'ingresso.
 
