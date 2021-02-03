@@ -7,14 +7,7 @@
 
 L'apprendimento avviene per tentativi ed errori.
 
-> Il più grande errore che si può fare nella vita è quello di avere sempre paura di farne uno.  
-> (Elbert Hubbard)
-
-Cosa fai per prima cosa quando impari a nuotare? Fai degli errori, non è vero? E cosa accade? Fai altri errori, e quando tu hai fatto tutti gli errori che è possibile fare senza affogare – e alcuni di loro anche più e più volte – cosa scopri? Che sai nuotare? Bene – la vita è la stessa cosa che imparare a nuotare! Non aver paura di fare degli errori, perché non c’è altro modo per imparare come si vive.  
-(Alfred Adler)
-
-> Un esperto è uno che ha fatto tutti gli errori possibili nel suo campo.  
-> (Niels Bohr)
+Cos'è la scienza? 
 
 La scienza dovrebbe funzionare in questo modo:
 
@@ -23,6 +16,16 @@ Dovrebbe ritenere una cosa vera fin che qualcuno non dimostra il contrario.
 Purtroppo oggi siamo abituati a prendere la scienza come una certezza ribaltando proprio lo scopo per cui è nata.
 
 La scienza è nata per aiutarci a vedere le cose in modo più oggettivo e cercare sempre modi nuovi per vedere le cose.
+
+Questo però richiede un metodo e un sistema di misurazione accurato. 
+
+E' necessario fare un ipotesi e poter dimostrare che questa sia valida raccogliendo i risultati dell'esperienza e stando attenti agli errori che si possono commettere nell'esecuzione e nella valutazione
+
+
+> Un esperto è uno che ha fatto tutti gli errori possibili nel suo campo.  
+> (Niels Bohr)
+
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc3NjcxMTgyMF19
