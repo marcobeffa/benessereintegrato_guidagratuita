@@ -102,7 +102,7 @@ Questo esempio mostra come quando si hanno preoccupazioni nella nostra vita la n
 Certamente una persona saggia avrebbe detto:
 
 > Hai un problema? Puoi risolverlo?
-> Se puoi risolverlo non preoccuparti perchè lo risolverai
+> Se puoi risolverlo non preoccuparti perchè lo risolverai.
 > Non puoi risolvere quel problema? Be allora se non puoi risolverlo lo sai già è inutile preoccuparsi.
 
 Ma io non sono una persona saggia e di solito mi preoccupo perchè tra il dire e il fare, c'è di mezzo il mare... come diceva sempre mio nonno.
