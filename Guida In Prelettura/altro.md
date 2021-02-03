@@ -1,3 +1,4 @@
+Pensieri emozioni sono reali anche se non li percepiamo i neuroni che utilizziamo per pensare i pensieri producono un campo elettromagnetico nel mondo fisico. animum deve mutare in un viaggio
 ## ikigai
 
 ## Il concetto di yin yang
