@@ -30,38 +30,39 @@ Vediamo brevemente cosa vuol dire bio-psico-sociale con 3 esempi:
 Ieri sono stato tutto il tempo chiuso in ufficio. Avevo una consegna urgente da portare a termine e ho iniziato a lavorare la mattina e ho finito la sera.
 
 In ufficio c'era aria viziata, ho saltato i pasti e la sera sono arrivata a casa con una mega fame ho aperto il frigo ho mangiato di fretta quasi senza masticare tutto quello che mi capitava sottomano.
-Poi mi sono messo sul divano, a guardare un film, siccom esempio maestro bruno 
+Poi mi sono messo sul divano, a guardare un film mi sono addormentato poi alle e mi sono svegliato alle 2 così sono andato a letto.
 
-
-
-## Alle soglie di un nuovo mondo dalla terra dell'industria del tondino e dell'agraria alla scoperta del corpo.
-
-## La Fisioterapia
-
-La prima scuola di formazione nel campo della salute  è stata la fisioterapia. 
-E' un corso di laurea delle epro stanchissimo mi sono addormentato e mi sono svegliato la mattina appena in tempo per andare a lavoro.
+Inutile dire che la mattina dopo ero distrutto sentivo dolori al collo e un senso di nausea.
 
 ## Bio
 
-Ero distrutto probabilmente il mio fisico non era molto contento.
-
+Ero distrutto probabilmente il mio fisico non era molto contento. 
+- Quando ci si abbuffa non si mastica si mangia in modo sregolato mescolando qualsiasi cibo il nostro apparato digerente deve lavorare molto per digerire tutto. 
+- Se durante la giornata si sta molto tempo fermi 
+    - i nostri muscoli accumulano tensioni 
+    - la circolazione non riesce a far bene il suo ruolo
+- Se la sera poi ci si addormenta davanti al televisore magari in una posizione in cui il collo non è molto felice
+Il tuo fisico e la tua parte biologica non saranno molto contenti.
+   
+ 
 ## Sociale
+Se la parte bio non è apposto è più difficile avere delle buone relazioni:
 
-Ero nervoso e quella mattina ero intrattabile i miei colleghi mi han chiesto se andava tutto bene.
+"Ero nervoso e quella mattina ero intrattabile i miei colleghi mi han chiesto se andava tutto bene."
 
 ## Psico
+Con la parte bio non apposto le energie mentali non ci sono e i criceti "alcuni li chiamano neuroni hahaahah" entrano in letargo:
 
-In oltre non riuscivo a pensare e fortunatamente la giornata era leggera perchè non riuscivo a combinare niente.
+"In oltre non riuscivo a pensare e fortunatamente la giornata era leggera perchè non riuscivo a combinare niente."
+
 
 ### L'aspetto Sociale influenza l'aspetto bio e quello psico
 
-> Le nostre relazioni ed emozioni influenzano il nostro substrato biologico, il nostro corpo fisico fessioni sanitarie.
+> Le nostre relazioni ed emozioni influenzano il nostro substrato biologico, il nostro corpo fisico e la nostra energia mentale che è a capo di tutte le nostre capacità cognitive (forse a qualcuno la parola shen dice qualcosa... ma è un argomento che incontreremo molto piùavanti).
 
-Qui ho imparato molto sul corpo umano.
+Vediamo cosa succede come le relazioni a livello sociale hanno un impatto sugli altri aspetti:
 
-La fisioterapia insegna al fisioterapista come aiutare una persona ad affrontare le patologie e come passare da una condizione di nostri pensieri
-
-Ieri ho litigato con un amico per una questione importante. Mi sono arrabbiato tantissimo e abbiamo rovinato la nostra amicizia perchè ho agito in maniera impulsiva.
+"Ieri ho litigato con un amico per una questione importante. Mi sono arrabbiato tantissimo e abbiamo rovinato la nostra amicizia perchè ho agito in maniera impulsiva."
 
 ## Sociale
 
@@ -75,20 +76,38 @@ Sentivo un nodo allo stomaco che quasi arrivava fino in gola.
 
 Inutile dire che per tutta sera ho continuato a pensarci, e praticamente non sono riuscito neanche a leggere quel fantastico libro che avevo comprato.
 
+
+In questo esempio si vede come un problema nel campo sociale (che è strettamente legato alla nostra parte emotiva) possa influire sugli aspetti biologici e psicologici (o mentali anche se ci sarebbe da discutere su cosa si intende per mentale e per psychè ma anche questo sarà un argomento che vedremo dopo aver sviluppato tutti gli aspetti biologici)
+
 ### L'aspetto Psico influenza l'aspetto sociale e quello bio
 
 > I nostri pensieri e preoccupazioni influenzano le relazioni e le emozioni e il nostro substrato biologico, il nostro corpo fisico
 
-Ieri è stata una giornata impegnativa, per non usare un altro termine... Hai presente quando tutte le cose iniziano ad andare storte la mattina e fino a sera, non c'è una che va bene?
+Ieri è stata una giornata impegnativa, per non usare un altro termine... Hai presente quando tutte le cose iniziano ad andare storte la mattina e fino a sera, non ce n'è una che va bene?
 
 ## Psico
 
-Ho avuto un sacco di problemi da risolvere e un sacco di pensieri per alcune faccende ero anche preoccupato
+Ho avuto un sacco di problemi da risolvere e un sacco di pensieri per alcune faccende che tutt'ora non so come sistemare... 
 
 ## Sociale
 
-Ero così impegnato a risolvere i problemi che neanche mi sono ricordato di chi avevo intorno. Quel giorno era come sDisabilità a una condizione in cui ritrova la propria autonomia.
+Ero così impegnato a risolvere problemi che neanche mi sono ricordato di chi avevo intorno. Quel giorno era come se tutto fosse stato inghiottito mi sono dimenticato del compleanno di mia figlia e che le avevo promesso di essere presente alla sua festa alla quale teneva tanto... (I bei tempi dove non c'era il Covid...)
 
+## Bio
+
+A livello fisico mi sentivo un groppo alla gola ero preoccupato e mi è pure passata la fame fino al giorno dopo
+
+Questo esempio mostra come quando si hanno preoccupazioni nella nostra vita la nostra energia mentale venga alterata e vada ad influenzare la parte emotiva e la parte biologica. 
+
+Certamente una persona saggia avrebbe detto:
+
+> Hai un problema? Puoi risolverlo?
+> Se puoi risolverlo non preoccuparti perchè lo risolverai
+> Non puoi risolvere quel problema? Be allora se non puoi risolverlo lo sai già è inutile preoccuparsi.
+
+Ma io non sono una persona saggia e di solito mi preoccupo perchè tra il dire e il fare, c'è di mezzo il mare... come diceva sempre mio nonno.
+
+E tu?
 
 Ora che hai approfondito la definizione di salute nel prossimo capitolo vedremo i 4 errori che la maggior parte delle persone commette quando inizia un percorso della salute.
 
