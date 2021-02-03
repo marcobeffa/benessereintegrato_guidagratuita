@@ -31,3 +31,10 @@ Provare per credere!
 > Lo stolto sbaglia e non impara,
 > L’intelligente impara dai propri errori,
 > Il saggio impara dagli errori degli altri”
+
+
+> Il più grande errore che si può fare nella vita è quello di avere sempre paura di farne uno.  
+> (Elbert Hubbard)
+
+Cosa fai per prima cosa quando impari a nuotare? Fai degli errori, non è vero? E cosa accade? Fai altri errori, e quando tu hai fatto tutti gli errori che è possibile fare senza affogare – e alcuni di loro anche più e più volte – cosa scopri? Che sai nuotare? Bene – la vita è la stessa cosa che imparare a nuotare! Non aver paura di fare degli errori, perché non c’è altro modo per imparare come si vive.  
+(Alfred Adler)
