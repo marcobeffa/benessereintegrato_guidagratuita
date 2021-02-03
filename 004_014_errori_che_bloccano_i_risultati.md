@@ -27,7 +27,7 @@ Analizzando il percorso di chi non riusciva ad avere risultati ho notato che la 
 Le risorse che le persone hanno a disposizione sono: Tempo Attenzione Energia Soldi Relazioni Conoscenze Abilità mi piacerebbe approfondire questo argomento ma servirebbe un altro libro... e in oltre è già stato approfondito da un esperto nel campo se ti interessa approfondire qui trovi l'audio libro gratuito:
 https://efficaciapersonale.com/ magari se ti interessa sarà un lavoro che approfondiremo insieme! 
 
-Io penso che mettendo in pratica queste nozioni già una buona parte dei problemi se ne vanno... comunque poi resta da sistemare ordine e capire come ordinare e tenere sott'occhio la tua risorsa principale **l'energia** intesa come la sensazione di **salute e benessere** ed è proprio quello che faremo con benessere integrato...
+Mettendo in pratica queste nozioni già una buona parte dei problemi se ne vanno... comunque poi resta da sistemare ordine e capire come ordinare e tenere sott'occhio la tua risorsa principale **l'energia** intesa come la sensazione di **salute e benessere** ed è proprio quello che faremo con benessere integrato...
 
 Ma vediamo brevemente perchè di solito si investono male le proprie risorse:
 
@@ -176,7 +176,7 @@ Ecco il quarto errore che capita solitamente a chi inizia un percorso della salu
 
 Nel percorso educativo che ognuno svolge a scuola ci insegnano molte nozioni, ma ritengo che purtroppo si dedica poco tempo per educare alla conoscenza del nostro corpo.
 
-E pensare che basterebbe davvero poco per aiutare il nostro organismo a funzionare bene!
+Basterebbe davvero poco per aiutare il nostro organismo a funzionare bene!
 
 E' importante anche considerare cos'è l'uomo quali sono le leggi della natura che dobbiamo rispettare. 
 Lavorare sulla nostra filosfia di vita è importante, e più importante è coltivare valori che aiutino a migliorare la salute e il benessere ma anche la nostra vita la nostra società il mondo in cui viviamo!
@@ -193,5 +193,5 @@ Solo così si potrà aiutare le persone a vivere meglio.
 
 Non vale la pena mettere il piede sull'acceleratore se stiamo guidando un automobile che sta andando dritta in direzione di un burrone.
 
-Pronti per la parte pratica? 
+Passiamo alla prossima regola!
 
