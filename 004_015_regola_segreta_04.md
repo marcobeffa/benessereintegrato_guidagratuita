@@ -7,6 +7,10 @@
 
 L'apprendimento avviene per tentativi ed errori.
 
+> Lo stolto sbaglia e non impara,
+> L’intelligente impara dai propri errori,
+> Il saggio impara dagli errori degli altri”
+
 Cos'è la scienza? 
 
 La scienza dovrebbe funzionare in questo modo:
