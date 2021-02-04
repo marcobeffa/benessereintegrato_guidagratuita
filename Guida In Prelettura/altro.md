@@ -470,6 +470,46 @@ L'importante è partire da una posizione di equilibrio
 Mantenere il corpo e la mente in equilibrio aiuta a tenere lontana malattie e problemi
 
 Nelle arti marziali si insegna a praticare i movimenti da una posizione di equilibrio e bilanciamento. Senza equilibrio sarebbbe molto difficile sia colpire con il massimo della forza, sia reagire ad un colpo che si riceve. L'equilibrio è il prerequisito dell'azione
+
+# L'educazione la curiosità
+
+Le cose che facciamo hanno un effetto.
+
+Rubgy aronne romano
+
+A scuola di alimentazione 
+
+## Il primo incontro con lezione di sport e alimentazione 
+
+Aronne romano 
+Un impegno vperso la salute.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDIwNjU1MDIzLDQ5ODg1MTM5OF19
 -->
+
+
+  
+
+  Milza e pacreas il concreto centro tra fare e riposare.
+
+L'importanza tra attività e recupero.
+
+### Come si imparare a conoscere il corpo?
+
+Sicuramente iniziando dalle basi!
+
+
+
+# Movimento arcaico
+# Ambiente natura è la nostra palestra
+
+# L'importanza degli stimoli esterni
+
+# Il gruppo di amici
+
+# Il gruppo dei pari
+
+# L'influenza sociale
+
+## Cos'è l'uomo e le 5 aree chiave della salute
+

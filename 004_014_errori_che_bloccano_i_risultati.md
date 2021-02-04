@@ -24,10 +24,7 @@ Analizzando il percorso di chi non riusciva ad avere risultati ho notato che la 
 
 > Quando sono in studio e arriva un paziente con un plico di carte, la cosa frustrante è che come professionista so già che il compito sarà arduo e in molti casi ti aspetta un duro lavoro e se non si insegna al paziente cosa è importante per la salute, non si otterranno risultati.
 
-Le risorse che le persone hanno a disposizione sono: Tempo Attenzione Energia Soldi Relazioni Conoscenze Abilità mi piacerebbe approfondire questo argomento ma servirebbe un altro libro... e in oltre è già stato approfondito da un esperto nel campo se ti interessa approfondire qui trovi l'audio libro gratuito:
-https://efficaciapersonale.com/ magari se ti interessa sarà un lavoro che approfondiremo insieme! 
-
-Mettendo in pratica queste nozioni già una buona parte dei problemi se ne vanno... comunque poi resta da sistemare ordine e capire come ordinare e tenere sott'occhio la tua risorsa principale **l'energia** intesa come la sensazione di **salute e benessere** ed è proprio quello che faremo con benessere integrato...
+Le risorse che le persone hanno a disposizione sono: Tempo Attenzione Energia Soldi Relazioni Conoscenze Abilità nel capitolo 6 approfondiremo dettagliatamente questo aspetto e mettendo in pratica queste nozioni già una buona parte dei problemi se ne vanno... comunque poi resta da sistemare ordine e capire come ordinare e tenere sott'occhio la tua risorsa principale **l'energia** intesa come la sensazione di **salute e benessere** ed è proprio quello che faremo con benessere integrato...
 
 Ma vediamo brevemente perchè di solito si investono male le proprie risorse:
 

@@ -4,10 +4,6 @@
 ## Tra l'incudine e il martello le 2 forze che forgiano la nostra vita
 
 
-
-> “Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
-> ERACLITO
-
 Siamo in balia di due forze:
 - la forza di ciò che c'è ora
 - la forza di ciò che potrebbe esserci in futuro.

@@ -1,3 +1,19 @@
+# Efficacia personale impara a gestire le tue risorse 
+
+# Sui Corsi 
+
+# Avere una guida ma mettere in pratica ho sempre voluto qualcosa di pratico 
+
+# Insegna a pescare non dare il pesce
+
+# Il problema dei corsi è quando torni a casa
+
+ 
+# Time 43xperiences atteggiamento emotivo e mentale
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI0NTAxMzAyM119
+-->
+
 Da schiappa a sportivo aronne romano le buone abitudini
 
 # Il piacere della scoperta! Come funziona il sistema ormonale la dieta il corpo conoscere nuovi modelli e seguire un metodo

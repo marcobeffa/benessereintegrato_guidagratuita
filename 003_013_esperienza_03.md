@@ -95,7 +95,8 @@ Ero così impegnato a risolvere problemi che neanche mi sono ricordato di chi av
 
 ## Bio
 
-A livello fisico mi sentivo un groppo alla gola ero preoccupato e mi è pure passata la fame fino al giorno dopo
+Adesso ho un mal di testa terribile sono andato dal medico e dice che è una cefalea muscolo tensiva.
+
 
 Questo esempio mostra come quando si hanno preoccupazioni nella nostra vita la nostra energia mentale venga alterata e vada ad influenzare la parte emotiva e la parte biologica. 
 
@@ -105,11 +106,14 @@ Certamente una persona saggia avrebbe detto:
 > Se puoi risolverlo non preoccuparti perchè lo risolverai.
 > Non puoi risolvere quel problema? Be allora se non puoi risolverlo lo sai già è inutile preoccuparsi.
 
-Ma io non sono una persona saggia e di solito mi preoccupo perchè tra il dire e il fare, c'è di mezzo il mare... come diceva sempre mio nonno.
 
-E tu?
+Tra il dire e il fare, c'è di mezzo il mare... come diceva sempre mio nonno, non è semplice mettere in pratica questi insegnamenti.
+
+E tu, cosa ne pensi?
 
 Ora che hai approfondito la definizione di salute nel prossimo capitolo vedremo i 4 errori che la maggior parte delle persone commette quando inizia un percorso della salute.
+
+(Se vorrai approfondire questi meccanismi e i loro funzionamenti fisiologici in dettaglio non preoccuparti ci saranno dei corsi più approfonditi)
 
 > Lo stolto sbaglia e non impara,
 L’intelligente impara dai propri errori,

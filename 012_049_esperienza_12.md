@@ -1,16 +1,10 @@
 
-# Ripartire da una Posizione generativa
 
-# Mithoself experiences
+# Le chiacchiere stanno a zero
 
-# Collasso desiderio aspettativa
+# Saper vendere saper comunicare saper imparare
 
+# Cambiare è necessario fare esperienza testimoniare e condividere
 
-# Per i professionisti
+Sii il cambiamento che vuoi realizzare! 
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTQ0MDU3NF19
--->

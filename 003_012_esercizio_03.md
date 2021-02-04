@@ -22,6 +22,9 @@ E' importante allora quando si inizia una nuova esperienza creare uno spazio nuo
 Per fare spazio al nuovo bisogna eliminare il vecchio.
 
 
+
+
+
 ## Cos'è per te la salute?
 
 In Questo esercizio perciò 

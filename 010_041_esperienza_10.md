@@ -1,21 +1,14 @@
 
-# Corpo e coscienza
+# purtroppo può capitare di perdersi.
+E' un mondo vasto e spesso molto lontano dalla nostra cultura per questo è meglio iniziare con qualcosa di semplice che ci dia un punto di riferimento
 
-# Crono biologia
+# Come mettere in pratica tutto
 
-le 4 direzioni tra young intuito e una prospettiva sul mondo
-
-
-I cicli corpo e coscienza la natura
-
-# L'apprendimento è ciclico le stagioni
-# Giovita
-# Tra scienza e tradizione
-
+# Il percorso di un mese 
 
 ## L'uomo di scienza non è niente altro che un misero filosofo.
 
 ## Importanza dei punti di riferimento e Misurare
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI2NzM2NzM3OV19
--->
+--> 
