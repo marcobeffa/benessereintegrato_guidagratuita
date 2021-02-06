@@ -38,5 +38,11 @@ Provare per credere!
 > Cosa fai per prima cosa quando impari a nuotare? Fai degli errori, non è vero? E cosa accade? Fai altri errori, e quando tu hai fatto tutti gli errori che è possibile fare senza affogare – e alcuni di loro anche più e più volte – cosa scopri? Che sai nuotare? Bene – la vita è la stessa cosa che imparare a nuotare! Non aver paura di fare degli errori, perché non c’è altro modo per imparare come si vive.  
 > (Alfred Adler)
 
-<!-- Stomaco
+## Dividi et impera
+
+Spesso è necessario imparare più abilità per padroneggiare una competenza o per affrontare un percorso per la salute. Se un compito è troppo impegnativo o una meta è troppo grande da raggiungere puoi suddividerla in compiti o in mete più piccole
+
+Spezzettando in piccoli compiti quello che devi affrontare o quello che devi imparare ti occorrerà un pò di pazienza ma tutto sarà più semplice!
+
+<!-- Stomaco dividi 
 -->

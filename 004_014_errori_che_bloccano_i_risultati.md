@@ -12,7 +12,7 @@ Fortunatamente molte di esse hanno trovato una soluzione seguendo le terapie e i
 Analizzando il percorso di chi non riusciva ad avere risultati ho notato che la maggior parte di esse aveva commesso uno di questi quattro errori.
 
 1. Investire male le risorse
-2. C'ere una scarsa comunicazione
+2. Avere una scarsa comunicazione
 3. Sbagliare la scelta del professionista a cui ci si rivolge
 4. Non saperne abbastanza sul corpo
 
@@ -24,17 +24,23 @@ Analizzando il percorso di chi non riusciva ad avere risultati ho notato che la 
 
 > Quando sono in studio e arriva un paziente con un plico di carte, la cosa frustrante è che come professionista so già che il compito sarà arduo e in molti casi ti aspetta un duro lavoro e se non si insegna al paziente cosa è importante per la salute, non si otterranno risultati.
 
-Le risorse che le persone hanno a disposizione sono: Tempo Attenzione Energia Soldi Relazioni Conoscenze Abilità nel capitolo 6 approfondiremo dettagliatamente questo aspetto e mettendo in pratica queste nozioni già una buona parte dei problemi se ne vanno... comunque poi resta da sistemare ordine e capire come ordinare e tenere sott'occhio la tua risorsa principale **l'energia** intesa come la sensazione di **salute e benessere** ed è proprio quello che faremo con benessere integrato...
+Le risorse che le persone hanno a disposizione sono: Tempo Attenzione Energia Soldi Relazioni Conoscenze Abilità.
 
-Ma vediamo brevemente perchè di solito si investono male le proprie risorse:
+Nel capitolo 6 approfondiremo dettagliatamente questo aspetto essenziale per sistemare molte faccende mentre tutta la guida benessereintegrato.it è improntata per aiutarti a coltivare una delle risorse più preziose a tua disposizione: **l'energia** intesa come la sensazione di **salute e benessere**.
+
+Ora vediamo brevemente il **perchè** solitamente si investono male le proprie risorse:
 
 - Non si inquadra bene la propria storia. 
 (Su questo con benessere integrato abbiamo già lavorato nei capitoli precedenti)
 
-- Non si inquadra bene qual è il reale problema (Ci lavoreremo)
+- Non si inquadra bene qual è il reale problema 
 
-- Non fissano obiettivi 
-(Spesso si inizia un viaggio senza scegliere una meta. Nessun vento è favorevole per il marinaio che non sa dove vuole andare.)
+- Non si fissano obiettivi 
+
+( Se si inizia un viaggio senza scegliere una meta di destinazione precisa ci si perderà e in oltre non si avranno dei riferimenti calza ad hoc una frase molto conosciuta: 
+
+> Nessun vento è favorevole per il marinaio che non sa dove vuole andare.  )
+
 
 - Si fissano obiettivi al di fuori della loro portata, troppo difficili da raggiungere. 
 (Meglio poco fatto bene che tanto e non riuscire a raggiungerlo)
@@ -48,14 +54,13 @@ Per evitare questo errore si può agire in diversi modi ecco alcuni spunti:
 
 
 - Fare domande
-- Non lasciare niente al caso
-- Creare un buon percorso
-- Scegliere i giusti obiettivi
-- Creare un team di lavoro con cui condividerli
 - Chiarire bene le idee prima di iniziare 
 - Scegliere i giusti obiettivi
 - Sapere in che condizione è il tuo stato di salute
 - Conoscere il tuo profilo fisiologico!
+- Creare un team di lavoro con cui condividerli
+- Non lasciare niente al caso
+- Creare un buon percorso
 - Monitorare il percorso
 - Tenere un diario
 

@@ -1,4 +1,6 @@
 # Efficacia personale impara a gestire le tue risorse 
+Un corso che mi ha è stato efficacia personale 
+qui trovi il link per l'audiolibro gratuito: https://efficaciapersonale.com/ se ti interessa sarà un lavoro che approfondiremo insieme! 
 
 # Sui Corsi 
 

@@ -23,11 +23,9 @@ Il sistema nervoso e apparato urogenitale
 Il sistema linfatico e digestivo
 Il sistema cardiocircolatorio
 
-
-Poi iniziando a lavorare come fisioterapista sono entrato in contatto con molti luoghi e persone, formazione, e corsi:
+Poi iniziando a lavorare come fisioterapista sono entrato in contatto con molti luoghi e persone, ho affrontato formazioni, e corsi:
 
 **Università, Ospedali, Cooperative, Cliniche convenzionate, case di riposo, palestre, squadra di calcio, di pallavolo femminile, di rugby, studi di fisioterapia.**
-
 
 Non mi era però chiaro cosa volesse dire guarire e come si potesse migliorare la salute senza dover aspettare che ci fosse una patologia, ho iniziato perciò il percorso di studi di osteopatia in cerca di risposte.
 

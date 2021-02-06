@@ -29,10 +29,12 @@ Fai sport?
 Vai in palestra, fai nuoto?
 Segui qualche attività come lo yoga, il pilates, il feldenkrais?
 Hai un programma di movimento settimanale?
+Quali routine potresti inserire per muoverti durante il giorno?
 
 ## Recupero conoscenza del corpo
 
-Dedichi un pò di tempo a esercizi di rilassamento
+Hai una routine per il recupero dopo l'allenamento?
+Conosci quali sono i tuoi sistemi e apparati^
 Fai un corso di ginnastica dolce? come ad esempio il tai chi yoga o altre discipline?
 Hai una routine di esercizi mattutina per il risveglio muscolare?
 Hai una routine di esercizi che pratichi la sera per togliere le tensioni?
@@ -62,6 +64,7 @@ Sai che alcune sostanze se assunte in grandi o costantemente hanno un peso sulla
 
 ## Atteggiamento emotivo e mentale
 
+Dedichi un pò di tempo a esercizi di rilassamento
 Non è sufficiente nutrire solo il fisico.
 Leggi?
 Ascolti musica?
@@ -125,3 +128,32 @@ Prendi un foglio di carta dividilo in due colonne e scrivi
 
 
 <!-- Milza pancreas -->
+
+
+# Due principi per un cambiamento lento  Equilibrio e Gradualità
+
+L'Equilibrio e la gradualità sono due principi che ti aiutano quando devi iniziare qualcosa di nuovo.
+
+
+## L'Equilibrio
+
+> Mantenere il corpo e la mente in equilibrio aiuta a tenere lontana malattie e problemi
+
+Nelle arti marziali si insegna a praticare i movimenti da una posizione di equilibrio e bilanciamento. Senza equilibrio sarebbbe molto difficile sia colpire con il massimo della forza, sia reagire ad un colpo che si riceve.
+L'equilibrio è il prerequisito dell'azione
+
+
+## L'Equilibrio Fisico 
+
+L'equilibrio avviene radicandosi e centrandosi nell'hara il nostro centro fisico è chiamato hara e un buon radicamento
+
+
+## L'Equilibrio Mentale
+
+Mettersi in una posizione generativa non di dipendenza e mancanza
+
+
+## Gradualità
+
+Inizia a fare ciò che riesci poi fai ciò che e ti ritroverai a fare l'impossibile
+
