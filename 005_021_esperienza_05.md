@@ -7,7 +7,7 @@ Vediamo ora di espandere i concetti di
 - Nutrirsi e alimentarsi
 - Piante farmaci integratori natura e fisiologia
 
-Questi concetti sono concetti molto fragili e il mio tentativo di esporli potrebbe essere bloccato da un giudizio troppo affrettato ti prego perciò se trovi degli errori o cose che non ti sono chiare o che ti possono spaventare di procedere con calma di fare domande e di rifletterci su.
+Questi concetti sono concetti molto fragili e il tentativo di esporli potrebbe essere bloccato da un giudizio troppo affrettato ti prego perciò se trovi degli errori o cose che non ti sono chiare o che ti possono spaventare di procedere con calma di fare domande e di rifletterci su.
 
 > “Se ti limiti a guardare senza giudicare, la meraviglia è nell’osservare” 
 > – Bruce Lee
@@ -155,4 +155,4 @@ Ecco qui tutto quello che ci sarà da scoprire con benessereintegrato.it..
 E' troppo, non preoccuparti riprenderemo ogni cosa poco per volta!
 
 
-
+E ora passiamo al prossimo capitolo! 
