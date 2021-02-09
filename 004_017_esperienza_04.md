@@ -70,7 +70,7 @@ Maurice diceva sempre che non tutti nascono per essere osteopati, ma sicuramente
 Pur se non capivo bene da cosa fossi guidato proseguivo la mia ricerca nel campo della salute e pian piano iniziavo ad avere una panoramica sempre più completa anche se gli  errori mi hanno sempre accompagnato sarà per questo che si usa il verbo "errare" per terre sconosciute. 
 
 
-### Tutto inizia dalla ricerca sulle tecniche corporee e sulla postura
+### Tutto inizia dalla ricerca sulle tecniche corporee e sulla postura
 
 La guida porta con se anche il racconto del viaggio e delle scoperte fatte durante la formazione post laurea e negli anni di lavoro. 
 
