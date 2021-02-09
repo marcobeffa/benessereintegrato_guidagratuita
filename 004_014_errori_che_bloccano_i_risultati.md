@@ -22,36 +22,69 @@ Analizzando il percorso di chi non riusciva ad avere risultati ho notato che la 
 
  Questo è un errore che si fa spesso in ogni campo.
 
-> Quando sono in studio e arriva un paziente con un plico di carte, la cosa frustrante è che come professionista so già che il compito sarà arduo e in molti casi ti aspetta un duro lavoro e se non si insegna al paziente cosa è importante per la salute, non si otterranno risultati.
+> Quando sono in studio e arriva un paziente con un plico di carte, la cosa frustrante è che come professionista so già che il compito sarà arduo. In molti casi c'è un duro lavoro da compiere e per ottenere risultati è necessario iniziare dall'educazione e dal valutare le risorse a disposizione.
 
 Le risorse che le persone hanno a disposizione sono: Tempo Attenzione Energia Soldi Relazioni Conoscenze Abilità.
 
-Nel capitolo 6 approfondiremo dettagliatamente questo aspetto essenziale per sistemare molte faccende mentre tutta la guida benessereintegrato.it è improntata per aiutarti a coltivare una delle risorse più preziose a tua disposizione: **l'energia** intesa come la sensazione di **salute e benessere**.
+Tutta la guida benessereintegrato.it è improntata per aiutarti a coltivare una delle risorse più preziose a tua disposizione: **l'energia** intesa come la sensazione di **salute e benessere**. La gestione delle altre risorse verrà affrontata con cura nel capitolo 6!
 
-Ora vediamo brevemente il **perchè** solitamente si investono male le proprie risorse:
+Ora cerchiamo di scoprire  **perchè** è facile investire male le proprie risorse per capire come evitare questo errore!
 
-- Non si inquadra bene la propria storia. 
-(Su questo con benessere integrato abbiamo già lavorato nei capitoli precedenti)
+**I 5 motivi principali** che fanno investire male le risorse alla maggior parte delle persone sono:
 
-- Non si inquadra bene qual è il reale problema 
+### 1) Non avere ben presente la propria storia. 
 
-- Non si fissano obiettivi 
+Quano hai ben chiaro come sei arrivato in una condizione che non ti piace è facile capire come uscirne. 
+Per questo nei capitoli precedenti ti è stato chiesto di scrivere la tua storia. Scrivere è un modo per riportare alla luce qualcosa che magari ti era sfuggito. In effetti uno dei significati della parola **trauma** che ha un origine greca era quello di:
 
-( Se si inizia un viaggio senza scegliere una meta di destinazione precisa ci si perderà e in oltre non si avranno dei riferimenti calza ad hoc una frase molto conosciuta: 
+> qualcosa che ti è successo ma del quale non sei coscienti o di cui ti sei dimenticato.
 
-> Nessun vento è favorevole per il marinaio che non sa dove vuole andare.  )
+Una volta che vedi chiaramente cosa ti è successo e trovi una spiegazione razionale che ti aiuti ad inquadrare la situazione da una buona prospettiva hai già fatto il grosso per risolvere il problema. Hai trovato una strada poi per la cura per il resto basterò seguirla!
 
 
-- Si fissano obiettivi al di fuori della loro portata, troppo difficili da raggiungere. 
-(Meglio poco fatto bene che tanto e non riuscire a raggiungerlo)
+### 2) Il problema prioritario da risolvere.
 
-- Ci si perde prima di arrivare alla meta. 
-(Se la metà è molto lontana meglio spezzare il viaggio in più parti e fare più tappe)
+Spesso i problemi di salute sono come una matassa ingarbugliata è necessario partire a sgarbugliarla dal problema principale e poi proseguire fin che non si è sistemato tutto.
+Il punto è che è necessario sistemare prima i nodi principali perchè poi spesso a cascata si risolvono gli altri.
 
-## Evitare il primo errore:
+Un esempio pratico che spiega ciò che accade spesso è questo:
+- un tetto ha una perdita 
+- l'acqua infiltra 
+- bagna il soffitto
+- si fa la muffa
+
+Quale soluzione scegli? 
+A - Pitturo il soffitto per nascondere la muffa
+B - Riparo il tetto
+
+Se osservi i risultati immediati:
+- La soluzione B costa di meno è più veloce 
+- La soluzione A costa di più ed è più impegnativa
+
+Sul lungo periodo
+- La soluzione B costa di più non risolve il problema e peggiora la situazione
+- La soluzione A costa di meno e risolve il problema
+
+### 3) Non si fissano obiettivi 
+
+Non è abbastanza sapere che c'è un tetto da riparare è necessario poi entrare in azione capire se puoi ripararlo tu se devi cercare una ditta devi avere un piano sopratutto se le cose sono complesse.
+
+Se inizi un viaggio senza scegliere una destinazione, una meta da raggiungere, non avrai riferimenti e qui calza ad hoc una famosa frase : 
+
+> Nessun vento è favorevole per il marinaio che non sa dove vuole andare. 
+> "Seneca"
+
+### 4) Fissare obiettivi fuori portata
+
+Fissare obiettivi non realizzabili o difficilmente raggiungibili è un buon modo per fallire abbiamo già visto che è necessario spezzettare le cose e trovare il giusto compromesso! Meglio poco fatto bene che tanto e non riuscire a raggiungerlo.
+
+### 5) Perdersi durante la strada.
+
+Avere dei riferimenti lungo il viaggio è importante per far si di mantenere il sentiero fino alla meta!
+
+## Come evitare il primo errore:
 
 Per evitare questo errore si può agire in diversi modi ecco alcuni spunti:
-
 
 - Fare domande
 - Chiarire bene le idee prima di iniziare 
@@ -72,25 +105,34 @@ E alla fine di questa guida avrai molti elementi su cui lavorare e per imparare 
 
 **Una cattiva comunicazione crea problemi**
 
-La cattiva comunicazione può avvenire:
-- Tra professionisti e paziente 
-- Tra più professionisti che seguono lo stesso paziente  
-Per esempio tra fisioterapista - medico - ortopedico
+Di quale comunicazione stiamo parlando vediamo le 3 comunicazioni che è necessario conoscere:
 
-Inutile cercare di chi è la colpa, meglio trovare una soluzione perchè di solito questo può accadere per un sacco di motivi. 
- - Organizzativi
- - per mancanza di mezzi 
- - Perchè non si dedica tempo a sufficienza
- - Per troppo lavoro
- - Per mancanza di modelli adeguati.
+### 1 Comunicazione tra professionista e paziente 
+La comunicazione che avviene tra un professionista e il paziente/cliente 
 
-La comunicazione tra paziente e professionista o tra professionisti che ti seguono avviene in modo disorganizzato. Migliorare la relazione tra queste figure e utilizzare strumenti per rendere più facile la comunicazione aiuta a ottenere risultati!
+### 2 Comunicazione tra più professionisti che seguono lo stesso paziente  
+La comunicazione tra professionisti che seguono lo stesso paziente che possono essere in team o semplicemente persone che stanno tentando di risolvere il problema. Per esempio tra fisioterapista - medico - ortopedico che seguono la stessa persona.
+
+### 3 Quella intrapersonale
+Si ti sembrerà strano ma una persona singola comunica anche con se stessa, è come se dentro di noi ci fosse un assemblea, ma questo concetto magari riflettici su e verrà sviscerato a tempo debito.
 
 ## Come evitare il secondo errore?
 
-Sicuramente:
+I motivi per cui non c'è una buona comunicazione possono essere molti: 
+ - Organizzativi
+ - Mancanza di mezzi 
+ - Perchè non si dedica tempo a sufficienza
+ - Per troppo lavoro a carico dei professionisti
+ - Per mancanza di modelli adeguati
+ - Mancanza di una filofia e principi comuni
 
-- Aprire un percorso con un responsabile a cui si fa riferimento che può essere un tutor o un professionista scelto in base al problema e che si occupi della comunicazione
+Inutile cercare di dare la colpa a qualcuno così non si trova la soluzione. 
+La soluzione si può trovare utilizzando strumenti per rendere più facile la relazione tra professionisti e pazienti!
+
+
+Ecco le proposte di benessere integrato :
+
+- Ogni percorso viene aperto da un professionista responsabile a cui si fa riferimento che può essere un tutor o un professionista scelto in base al problema e che si occupi della comunicazione
 - Condividere una stessa filosofia
 - Condividere un metodo di lavoro
 - Avere strumenti che permettono di comunicare velocemente
@@ -98,13 +140,19 @@ Sicuramente:
 - Tutti devono avere chiari gli obiettivi
 - Creare un team virutale di lavoro
 
-Anche se sono obiettivi ambiziosi e tutti dicono che è impossibile, sono sicuro che a breve con benessereintegrato verranno creati tutti gli strumenti necessari basta fare un passo alla volta nella giusta direzione, perciò continuiamo con la guida.
+Anche se sono obiettivi ambiziosi che sembrano impossibili, sono sicuro che a breve si troverà un modo per realizzarli basta fare un passo alla volta nella giusta direzione, perciò continuiamo con la guida.
 
 ## Il terzo errore
 
 **Sbagliare la scelta del professionista a cui ci si rivolge**
 
-Qui intendo non la persona ma la professione mi spiego meglio:
+Una volta che si sa che il tetto ha una perdita non si può chiedere a un imbianchino di riparlo.
+
+La maggior parte delle persone si rivolge a me grazie al passaparola. Questo è una cosa buona perchè significa che le persone si fidano e la fiducia è un valore importante.
+
+Il fatto è che a volte non posso aiutare chi si rivolge a me perchè i miei servizi non vanno a risolvere il loro problema principale, oppure perchè necessiterebbero dell'intervento di più professionisti che lavorano su altri aspetti per ottenere un buon risultato.
+
+A volte capita invece il contrario come fisioterapista avrei i mezzi per risolvere problemi ma i pazienti e spesso anche i medici non conoscono tali soluzioni e perciò non vengono prese in considerazione.
  
 Per i non addetti ai lavori e a volte anche per gli addetti ai lavori spesso è difficile capire chi fa cosa ed effettivamente qual è la professione a cui rivolgersi per risolvere il problema.
 
@@ -123,10 +171,9 @@ Capire **qual è il problema principale** però con benessere integrato non è d
 
 ### come evitare il terzo errore:
 
-
 Vedremo che è sufficiente usare due test immediati:
 
-- 1 per aapire qual è il tuo **stato di salute** con l'apposito questionario e questo serve ad identificare il grado di gravità della situazione e quali tipologie di professionisti sono necessari. 
+- Il primo test per capire qual è il tuo **stato di salute** con l'apposito questionario e questo serve ad identificare il grado di gravità della situazione e quali tipologie di professionisti sono necessari. 
  professionisti della
  - cura (Medico )
  - riabilitazione (Fisioterapista Psicologo Logopedista) 
@@ -136,18 +183,18 @@ Vedremo che è sufficiente usare due test immediati:
  - fitness (Personal trainter)
  - estetica educazione (Guida benessere integrato)
 
-Questo è solo un esempio più avanti l'argomento verrà approfondito meglio.
+Nei prossimi capitoli troverai il test da fare.
 
-- 2 per capire su quale area andare a lavorare:
+- Secondo test è per capire su quale area andare a lavorare:
     - Recupero Conoscenza del corpo
     - Movimento allenamento
     - Alimentazione e nutrizione 
     - Atteggiamento emotivo e mentale
     - Profilo Fisiologico Integratori Farmaci Piante
 
-Tutt'oggi purtroppo l'educazione alla salute non è molto diffusa e questo non facilita la situazione perchè queste cose non si conoscono ma con questi due strumenti sarà facile inquadrare il tuo problema quando inizieranno ad essere usati da te e da chi ti segue.
+Tutt'oggi purtroppo l'educazione alla salute non è molto diffusa e questo non facilita la situazione perchè queste cose non si conoscono ma con questi due strumenti sarà facile inquadrare il tuo problema quando inizieranno ad essere usati da te e dai professionisti che ti seguono.
 
-in oltre ecco altre cose che aiuteranno a risolvere il problema e che sono obiettivi futuri di benessere integrato:
+In oltre ecco altre cose che aiuteranno a risolvere il problema e che sono obiettivi futuri di benessere integrato:
 
 - una rete di professionisti con una filosofia comune
 - fornire strumenti per migliorare la comunicazione tra di essi,
@@ -158,15 +205,7 @@ Così facendo sarà possibile un nuovo modo di agire sulla propria salute con be
 
 Ok forse sto volando troppo alto torniamo con i piedi per terra perchè prima bisogna finire la guida perchè questa guida è la mappa che permetterà a te e agli  professionisti di realizzare questi obiettivi. Si senza il tuo e quello dei professionisti sarà praticamente impossibile realizzare tutto questo! 
 
-Ma sono certo che ce la faremo! Come faccio a saperlo? Ne va anche del mio percorso della salute! Anche io voglio poter accedere al miglior percorso e per questo mi impegnerò a portare a termine l'obiettivo e in oltre voglio aiutare le persone che si rivolgono a me nel modo migliore!
-
-## esperienza personale
-
-La maggior parte delle persone si rivolge a me grazie al passaparola. Questo è una cosa buona perchè significa che le persone si fidano e la fiducia è un valore importante.
-
-Il fatto è che a volte non posso aiutare chi si rivolge a me perchè i miei servizi non vanno a risolvere il loro problema principale, oppure perchè necessiterebbero dell'intervento di più professionisti che lavorano su altri aspetti per ottenere un buon risultato.
-
-A volte capita invece il contrario come fisioterapista avrei i mezzi per risolvere problemi ma i pazienti e spesso anche i medici non conoscono tali soluzioni e perciò non vengono prese in considerazione.
+Sono certo che ce la faremo! Come faccio a saperlo? Ne va anche del mio percorso della salute! Anche io voglio poter accedere al miglior percorso e per questo mi impegnerò a portare a termine l'obiettivo e in oltre voglio aiutare le persone che si rivolgono a me nel modo migliore!
 
 
 
