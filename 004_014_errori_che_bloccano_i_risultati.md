@@ -39,7 +39,7 @@ Per questo nei capitoli precedenti ti è stato chiesto di scrivere la tua storia
 
 > qualcosa che ti è successo ma del quale non sei coscienti o di cui ti sei dimenticato.
 
-Una volta che vedi chiaramente cosa ti è successo e trovi una spiegazione razionale che ti aiuti ad inquadrare la situazione da una buona prospettiva hai già fatto il grosso per risolvere il problema. Hai trovato una strada poi per la cura per il resto basterò seguirla!
+Una volta che vedi chiaramente cosa ti è successo e trovi una spiegazione razionale che ti aiuti ad inquadrare la situazione da una buona prospettiva hai già fatto il grosso per risolvere il problema. Hai trovato una strada poi il resto arriva bastera seguire la strada e correggere la rotta!
 
 
 ### 2) Il problema prioritario da risolvere.
