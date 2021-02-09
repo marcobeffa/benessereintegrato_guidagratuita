@@ -110,3 +110,36 @@ course:
       link_github: 003_013_esperienza_03
       author:
       image_tag: 
+    14:
+      date_last_release:
+      header: true
+      title: "04 Errori che bloccano i risultati"
+      description: "Tentativi che non hanno dato il risultato voluto"
+      link_github: 004_014_errori_che_bloccano_i_risultati
+      author:
+      image_tag: 
+    15:
+      date_last_release:
+      header: false
+      title: "Quarta Regola segreta"
+      description: "Apprendimento"
+      link_github: 004_015_regola_segreta_04
+      author:
+      image_tag: 
+    16:
+      date_last_release:
+      header: false
+      title: "Esercizio 4"
+      description: "Impara a fare centro"
+      link_github: 004_016_esercizio_04
+      author:
+      image_tag: 
+    17:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Osteopatia e Movimento Arcaico"
+      link_github: 004_017_esperienza_04
+      author:
+      image_tag: 
+
