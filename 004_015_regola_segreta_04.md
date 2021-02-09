@@ -13,17 +13,26 @@ L'apprendimento avviene per tentativi ed errori.
 
 Cos'è la scienza? 
 
-La scienza dovrebbe funzionare in questo modo:
+- Il metodo scientifico è un metodo per osservare la realtà in modo oggettivo.
 
-Dovrebbe ritenere una cosa vera fin che qualcuno non dimostra il contrario.
+Con il metodo scientifico si ritiene che una cosa è vera fin che qualcuno non dimostra il contrario.
 
-Purtroppo oggi siamo abituati a prendere la scienza come una certezza ribaltando proprio lo scopo per cui è nata.
+
+Chi fa studi e ricerca viene chiamato scienziato.
+
+Solitamente far studi e ricerca è un processo molto dispendioso.
+
+Al giorno d'oggi purtorppo il sistema scientifico è molto influenzabile da gruppi che hanno interessi economici.
+ 
+E' importante vigilare non prendere la scienza come una certezza dogmatica altrimenti ribalteremmo proprio lo scopo per cui è nata.
 
 La scienza è nata per aiutarci a vedere le cose in modo più oggettivo e cercare sempre nuovi modi di vedere la realtà che ci circonda, per aiutarci a rendere più semplice e magari più bella la vita!
 
-Questo però richiede un metodo e un sistema di misurazione accurato. 
 
 E' necessario fare un ipotesi e poter dimostrare che questa sia valida raccogliendo i risultati dell'esperienza e stando attenti agli errori che si possono commettere nell'esecuzione e nella valutazione
+
+
+Questo però richiede un metodo e un sistema di misurazione accurato, che raccolga i dati e i risultati su grandi numeri di persone per avere la possibilitù di misurare i risultati ottenuti e valutarne l'efficacia.
 
 
 > Un esperto è uno che ha fatto tutti gli errori possibili nel suo campo.  
