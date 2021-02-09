@@ -19,7 +19,7 @@ Dovrebbe ritenere una cosa vera fin che qualcuno non dimostra il contrario.
 
 Purtroppo oggi siamo abituati a prendere la scienza come una certezza ribaltando proprio lo scopo per cui è nata.
 
-La scienza è nata per aiutarci a vedere le cose in modo più oggettivo e cercare sempre modi nuovi per vedere le cose.
+La scienza è nata per aiutarci a vedere le cose in modo più oggettivo e cercare sempre nuovi modi di vedere la realtà che ci circonda, per aiutarci a rendere più semplice e magari più bella la vita!
 
 Questo però richiede un metodo e un sistema di misurazione accurato. 
 
