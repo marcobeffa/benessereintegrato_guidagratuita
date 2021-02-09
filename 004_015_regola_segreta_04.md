@@ -34,6 +34,9 @@ E' necessario fare un ipotesi e poter dimostrare che questa sia valida raccoglie
 
 Questo però richiede un metodo e un sistema di misurazione accurato, che raccolga i dati e i risultati su grandi numeri di persone per avere la possibilitù di misurare i risultati ottenuti e valutarne l'efficacia.
 
+Per riflettere sull'argomento <a href="https://conilibriinparadiso.wordpress.com/2014/07/14/recensione-ballando-nudi-nel-campo-della-mente-di-kary-mullis/" target="_blank">Qui trovi il riassuno di un libro di Kary Mullis</a>.
+
+Kary Banks Mullis (Lenoir, 28 dicembre 1944 – Newport Beach, 7 agosto 2019) è stato un biochimico statunitense, vincitore del Premio Nobel per la chimica nel 1993 assieme a Michael Smith!
 
 > Un esperto è uno che ha fatto tutti gli errori possibili nel suo campo.  
 > (Niels Bohr)
