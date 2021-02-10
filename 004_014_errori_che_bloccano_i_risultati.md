@@ -1,6 +1,6 @@
 ### Cap 4 - Pag 014
 
-# 4 errori che ti impediscono di raggiungere i tuoi risultati
+# 4 errori che ti bloccano i tuoi risultati e di impediscono di guarire
 
 > Impara dagli errori degli altri. Non potrai mai vivere abbastanza a lungo per farli tutti da solo.  
 > (Groucho Marx)
