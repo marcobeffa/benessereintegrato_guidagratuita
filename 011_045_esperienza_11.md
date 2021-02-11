@@ -10,6 +10,8 @@
 sibaldi LE parole e le storie 
 
 Le parole che usiamo e le storie
+
+La filosofia
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc2NzkyMzU0OV19
 --> 
