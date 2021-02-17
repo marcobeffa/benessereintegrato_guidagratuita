@@ -145,7 +145,7 @@ course:
     18:
       date_last_release:
       header: true
-      title: "Aree chiave_per_la_tua_salute"
+      title: "05 Aree chiave per la salute"
       description: "E se fosse facile?"
       link_github: 005_018_aree_chiave_per_la_tua_salute
       author:
@@ -154,7 +154,7 @@ course:
       date_last_release:
       header: false
       title: "Quarta Regola segreta"
-      description: "Apprendimento"
+      description: "Cambiamento"
       link_github: 005_019_regola_segreta_05
       author:
       image_tag: 
@@ -162,7 +162,7 @@ course:
       date_last_release:
       header: false
       title: "Esercizio 4"
-      description: "Impara a fare centro"
+      description: "Tutto scorre"
       link_github: 005_020_esercizio_05
       author:
       image_tag: 
@@ -170,7 +170,7 @@ course:
       date_last_release:
       header: false
       title: "Esperienza sul campo"
-      description: "Osteopatia e Movimento Arcaico"
-      link_github: 005_017_esperienza_05
+      description: "Equilibrio"
+      link_github: 005_021_esperienza_05
       author:
       image_tag:
