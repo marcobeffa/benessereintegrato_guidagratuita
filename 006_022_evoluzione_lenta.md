@@ -17,11 +17,12 @@ Una delle soluzioni migliori che ho trovato è imparare a gestire le risorse ogn
 
 Io aggiungerei anche **conoscenze** e **abitudini** tra le risorse.
 
-Il libro <a href="https://efficaciapersonale.com/">efficacia personale</a> mostra come sia importante trovare una direzione e una meta a cui puntare.
+Uno dei libri che ho apprezzato molto che tratta della gestione efficace delle risorse è il libro <a href="https://efficaciapersonale.com/">efficacia personale</a> (se ti interessa qui trovi l'audio libro gratuito) e mostra come sia importante trovare una direzione e una meta a cui puntare, ma torniamo al nostro benessere!
 
 Nel capitolo precedente hai costruito una breve routine con le 5 aree su cui lavorare per controllare la tua salute.
 
 Ora vediamo un passo in più puoi decidere di creare un percorso con una meta precisa che risponda alle tue esigenze e ai tuoi bisogni vedremo come fare nei prossimi capitoli.
+
 ## Urgenza vs Pianificazione
 
 Molte volte capita di incappare in un problema di salute e non essere pronti ad affrontarlo questo è normale, se capita una volta ogni tanto, ma se i problemi di salute capitano spesso, a meno che non abbia patologie particolari, potrebbe esserci un problema a monte e cioè non stai gestendo bene la tua salute.
