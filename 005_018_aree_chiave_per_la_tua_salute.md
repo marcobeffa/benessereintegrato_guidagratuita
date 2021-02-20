@@ -22,7 +22,7 @@ Mi spiego meglio:
 
 Infatti un comportamento troppo rigido potrebbe portare addirittura in alcuni casi ad effetti opposti! 
 
-## Quali sono le aree su cui puoi intervenire ogni giorno per migliorare la tua salute?
+## Quali sono le aree su cui puoi intervenire ogni giorno per migliorare la tua salute?
 
 Lo scopo di questo capitolo è costruire nella tua mente 5 spazi, come se fossero dei veri e propri cassetti per aiutarti a tenere ordine e sotto controllo le abitudini e il tuo percorso della salute, vedremo che questo ti tornerà utile per organizzare il tuo diario!
 
