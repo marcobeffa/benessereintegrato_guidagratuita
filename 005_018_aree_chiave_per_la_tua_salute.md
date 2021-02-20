@@ -5,7 +5,7 @@
 > “La vita accade. Non serve a niente arrabbiarsi o essere tristi per cose che non possiamo controllare o modificare.”
 > AMY WINEHOUSE
 
-Dopo tante parole, sulla salute è ora  di a lavorare con qualcosa di pratico. La cosa più semplice da fare è costruire una routine da mettere in pratica ogni giorno la routinè composta da abitudine che vanno a lavorare su 5 aree che ogni persona può iniziare a tenere sott'occhio per costruire  propria salute mattone dopo mattone ma prima c'è una cosa da precisare.
+Dopo le nozioni su cui è importantissimo riflettere e meditare se vuoi lavorare sulla tua salute è ora di passare alla pratica. La cosa più semplice da fare è costruire una routine da mettere in pratica ogni giorno la routinè composta da abitudine che vanno a lavorare su 5 aree che ogni persona può iniziare a tenere sott'occhio per costruire  propria salute mattone dopo mattone ma prima c'è una cosa da precisare.
 
 ## Il mezzo non lo scopo.
 
