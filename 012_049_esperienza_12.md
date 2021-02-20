@@ -8,3 +8,5 @@
 
 Sii il cambiamento che vuoi realizzare! 
 
+La physis
+https://www.fisiocolore.it/fisioterapia-e-physis-alle-origini-della-professione/
