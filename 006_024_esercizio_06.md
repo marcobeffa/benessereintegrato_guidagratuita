@@ -1,3 +1,6 @@
+La dose minima efficace
+Il rasoio di occam
+
 ## Cosa ti fa battere il Cuore? 
 
 
