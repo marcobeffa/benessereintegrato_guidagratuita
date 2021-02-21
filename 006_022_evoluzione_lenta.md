@@ -1,10 +1,12 @@
 # 06 Evoluzione lenta
 
-Nell'ultimo secolo abbiamo rivoluzionato il nostro modo di vivere, ma le leggi a cui rispodono i nostri geni non sono cambiate. Sono quelle da millenni. Sono le stesse leggi alle quali doveva sottostare l'uomo che viveva nelle caverne.
+Nell'ultimo secolo abbiamo rivoluzionato il nostro modo di vivere, ma le leggi a cui rispodono i nostri geni non sono cambiate. Sono quelle da millenni. Oggi esistono Materie che studiano in modo selettivo, preciso e approfondito determinati campi. La Fisiologia, la Biologia, la Sociologia, la Psciologia, la Farmacologia, la Cronobiologia, studiano l'uomo nelle sue componenti e cercando di capire come funzionano i vari sistemi dai quali è formato. Pur se le materie appena nominate sono recenti se guardiamo la scala evolutiva i fenomeni che esse studiano non mutano e sono i medesimi a cui l'uomo ha sempre risposto fin dall'alba dei tempi.
 
-Come possiamo difenderci dalla frenesia che ogni giorno ci spinge a correre sempre di più? 
+Quello che è cambiato negli ultimi 60 anni sono le abitudini, le tecnologie, lo stile di vita, che ha portato con se una vera e propria rivoluzione sociale culturale, ai vantaggi che ne sono seguiti però si sommano alcuni problemi che hanno un impatto importante sulla salute dell'uomo, il consumismo e i ritmi frenetici a cui la maggior parte delle persone sono sottoposte sono forse i 2 aspetti più rilevanti.
 
-Una delle soluzioni migliori che ho trovato è imparare a gestire le risorse ogni persona ha a disposizione delle risorse che dovrebbe imparare a gestire.
+E allora come possiamo difenderci dalla frenesia che ogni giorno ci spinge a correre sempre di più? 
+
+Una delle soluzioni migliori è imparare a gestire le risorse personali. Ogni persona ha a disposizione delle risorse che dovrebbe imparare a gestire.
 
 ## impara a conoscere e gestire le tue risorse
 
@@ -14,14 +16,13 @@ Una delle soluzioni migliori che ho trovato è imparare a gestire le risorse ogn
 4. Attenzione
 5. Relazioni
 6. Abilità
-
-Io aggiungerei anche **conoscenze** e **abitudini** tra le risorse.
-
-Uno dei libri che ho apprezzato molto che tratta della gestione efficace delle risorse è il libro <a href="https://efficaciapersonale.com/">efficacia personale</a> (se ti interessa qui trovi l'audio libro gratuito) e mostra come sia importante trovare una direzione e una meta a cui puntare, ma torniamo al nostro benessere!
+7. Conoscenze
+8. Abitudini
 
 Nel capitolo precedente hai costruito una breve routine con le 5 aree su cui lavorare per controllare la tua salute.
 
-Ora vediamo un passo in più puoi decidere di creare un percorso con una meta precisa che risponda alle tue esigenze e ai tuoi bisogni vedremo come fare nei prossimi capitoli.
+Ora facciamo un passo in più vediamo come è possibile imparando a organizzare le risorse a tua disposizione creare un percorso che si adatti alle tue esigenze e ai tuoi bisogni. Uno sportivo ha esigenze di allenamento movimento integrazione diverse da quelle di un imprenditore o di una casalinga. E' importante costruire piccole routine che siano ecologicamente integrate nella nostra vita!
+
 
 ## Urgenza vs Pianificazione
 
