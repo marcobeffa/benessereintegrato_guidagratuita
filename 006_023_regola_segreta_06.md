@@ -4,6 +4,10 @@
 
 # Il corpo è una macchina che lavora a risparmio
 
+Il nostro corpo può adattarsi a quello che ci succede. Quando nasciamo abbiamo una plasticità (che significa capacità di adattarsi) pazzesca! Man mano che cresciamo però se non utilizziamo certe abilità o non le alleniamo perdiamo la capacità di adattarci e in oltre perdiamo la possibilità di imparare! 
+
+Ogni bambino è influenzato dall'ambiente e dalle persone che sono intorno i bambini sono come delle spugne che assorbono tutto questa capacità con il tempo viene persa da molte persone ma volendo è una capacità che si può ripristinare! 
+
 > “Noi non abbiamo bisogno di più forza o più capacità o di maggiori opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
 > [BASIL WALSH]
 
