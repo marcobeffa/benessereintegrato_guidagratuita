@@ -153,7 +153,7 @@ course:
     19:
       date_last_release:
       header: false
-      title: "Quarta Regola segreta"
+      title: "Quinta Regola segreta"
       description: "Cambiamento"
       link_github: 005_019_regola_segreta_05
       author:
@@ -177,25 +177,25 @@ course:
     22:
       date_last_release:
       header: true
-      title: "05 Aree chiave per la salute"
-      description: "E se fosse facile?"
-      link_github: 005_018_aree_chiave_per_la_tua_salute
+      title: "06 Evoluzione lenta"
+      description: "Le risorse per la tua salute e il tuo benessere!"
+      link_github: 006_022_evoluzione_lenta
       author:
       image_tag: 
     23:
       date_last_release:
       header: false
-      title: "Quarta Regola segreta"
+      title: "Sesta Regola segreta"
       description: "Cambiamento"
-      link_github: 005_019_regola_segreta_05
+      link_github: 006_023_regola_segreta_06
       author:
       image_tag: 
     24:
       date_last_release:
       header: false
-      title: "Esercizio 5"
+      title: "Esercizio 06"
       description: "Tutto scorre"
-      link_github: 005_020_esercizio_05
+      link_github: 006_024_esercizio_06
       author:
       image_tag: 
     25:
@@ -203,6 +203,6 @@ course:
       header: false
       title: "Esperienza sul campo"
       description: "Equilibrio"
-      link_github: 005_021_esperienza_05
+      link_github: 006_025_esperienza_06
       author:
       image_tag:
