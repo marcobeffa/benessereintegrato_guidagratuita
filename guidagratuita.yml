@@ -174,3 +174,35 @@ course:
       link_github: 005_021_esperienza_05
       author:
       image_tag:
+    22:
+      date_last_release:
+      header: true
+      title: "05 Aree chiave per la salute"
+      description: "E se fosse facile?"
+      link_github: 005_018_aree_chiave_per_la_tua_salute
+      author:
+      image_tag: 
+    23:
+      date_last_release:
+      header: false
+      title: "Quarta Regola segreta"
+      description: "Cambiamento"
+      link_github: 005_019_regola_segreta_05
+      author:
+      image_tag: 
+    24:
+      date_last_release:
+      header: false
+      title: "Esercizio 5"
+      description: "Tutto scorre"
+      link_github: 005_020_esercizio_05
+      author:
+      image_tag: 
+    25:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Equilibrio"
+      link_github: 005_021_esperienza_05
+      author:
+      image_tag:
