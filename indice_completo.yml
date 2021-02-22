@@ -33,8 +33,8 @@ course:
     4:
       date_last_release:
       header: false
-      title: "Esercizio"
-      description: "La tua esperienza"
+      title: "Esercizio 1"
+      description: "La tua storia"
       link_github: 001_004_esercizio_01
       author:
       image_tag:
@@ -46,5 +46,132 @@ course:
       link_github: 001_005_esperienza_01
       author:
       image_tag:  
-
-
+    6:
+      date_last_release:
+      header: true
+      title: "02 Se dovessi perdere tutto"
+      description: "Alla ricerca di risposte"
+      link_github: 002_006_se_dovessi_perdere_tutto
+      author:
+      image_tag: 
+    7:
+      date_last_release:
+      header: false
+      title: "Seconda Regola segreta"
+      description: "Ad ogni azione..."
+      link_github: 002_007_regola_segreta_02
+      author:
+      image_tag: 
+    8:
+      date_last_release:
+      header: false
+      title: "Esercizio 2"
+      description: "I bisogni dell'uomo"
+      link_github: 002_008_esercizio_02
+      author:
+      image_tag: 
+    9:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "L'incontro con la disabilità"
+      link_github: 002_009_esperienza_02
+      author:
+      image_tag: 
+    10:
+      date_last_release:
+      header: true
+      title: "03 Le batterie del tuo corpo"
+      description: "Qual è la fonte della tua salute?"
+      link_github: 003_010_le_batterie_del_tuo_corpo
+      author:
+      image_tag: 
+    11:
+      date_last_release:
+      header: false
+      title: "Terza Regola segreta"
+      description: "Tra l'incudine e il martello..."
+      link_github: 003_011_regola_segreta_03
+      author:
+      image_tag: 
+    12:
+      date_last_release:
+      header: false
+      title: "Esercizio 3"
+      description: "Vino nuovo in otri vecchie"
+      link_github: 003_012_esercizio_03
+      author:
+      image_tag: 
+    13:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Cosa? Bio Psico Sociale"
+      link_github: 003_013_esperienza_03
+      author:
+      image_tag: 
+    14:
+      date_last_release:
+      header: true
+      title: "04 Errori che bloccano i risultati"
+      description: "Tentativi che non hanno dato il risultato voluto"
+      link_github: 004_014_errori_che_bloccano_i_risultati
+      author:
+      image_tag: 
+    15:
+      date_last_release:
+      header: false
+      title: "Quarta Regola segreta"
+      description: "Apprendimento"
+      link_github: 004_015_regola_segreta_04
+      author:
+      image_tag: 
+    16:
+      date_last_release:
+      header: false
+      title: "Esercizio 4"
+      description: "Impara a fare centro"
+      link_github: 004_016_esercizio_04
+      author:
+      image_tag: 
+    17:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Osteopatia e Movimento Arcaico"
+      link_github: 004_017_esperienza_04
+      author:
+      image_tag: 
+    18:
+      date_last_release:
+      header: true
+      title: "05 Aree chiave per la salute"
+      description: "E se fosse facile?"
+      link_github: 005_018_aree_chiave_per_la_tua_salute
+      author:
+      image_tag: 
+    19:
+      date_last_release:
+      header: false
+      title: "Quarta Regola segreta"
+      description: "Cambiamento"
+      link_github: 005_019_regola_segreta_05
+      author:
+      image_tag: 
+    20:
+      date_last_release:
+      header: false
+      title: "Esercizio 5"
+      description: "Tutto scorre"
+      link_github: 005_020_esercizio_05
+      author:
+      image_tag: 
+    21:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Equilibrio"
+      link_github: 005_021_esperienza_05
+      author:
+      image_tag:
+      
