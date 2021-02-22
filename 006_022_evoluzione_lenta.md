@@ -1,3 +1,5 @@
+### Cap 6 - Pag 22
+
 # 06 Evoluzione lenta
 
 Nell'ultimo secolo abbiamo rivoluzionato il nostro modo di vivere, ma le leggi a cui rispodono i nostri geni non sono cambiate. Sono quelle da millenni. Oggi esistono Materie che studiano in modo selettivo, preciso e approfondito determinati campi. La Fisiologia, la Biologia, la Sociologia, la Psciologia, la Farmacologia, la Cronobiologia, studiano l'uomo nelle sue componenti e cercando di capire come funzionano i vari sistemi dai quali è formato. Pur se le materie appena nominate sono recenti se guardiamo la scala evolutiva i fenomeni che esse studiano non mutano e sono i medesimi a cui l'uomo ha sempre risposto fin dall'alba dei tempi.
@@ -21,27 +23,29 @@ Una delle soluzioni migliori è imparare a gestire le risorse personali. Ogni pe
 
 Nel capitolo precedente hai costruito una breve routine con le 5 aree su cui lavorare per controllare la tua salute.
 
-Ora facciamo un passo in più vediamo come è possibile imparando a organizzare le risorse a tua disposizione creare un percorso che si adatti alle tue esigenze e ai tuoi bisogni. Uno sportivo ha esigenze di allenamento movimento integrazione diverse da quelle di un imprenditore o di una casalinga. E' importante costruire piccole routine che siano ecologicamente integrate nella nostra vita!
+Ora facciamo un passo in più vediamo come organizzando le risorse a tua disposizione puoi creare un percorso che si adatti alle tue esigenze e ai tuoi bisogni. 
+
+Uno sportivo ha esigenze di allenamento movimento integrazione diverse da quelle di un imprenditore o di una casalinga. E' importante costruire piccole routine che siano ecologicamente integrate nella tua vita!
 
 
 ## Urgenza vs Pianificazione
 
-Molte volte capita di incappare in un problema di salute e non essere pronti ad affrontarlo questo è normale, se capita una volta ogni tanto, ma se i problemi di salute capitano spesso, a meno che non abbia patologie particolari, potrebbe esserci un problema a monte e cioè non stai gestendo bene la tua salute.
+Perchè è importante dedicare del tempo per la tua salute? 
 
-Qualsiasi attività prendi in considerazione lavorativa, amicizia ecc un conto è avere:
+Molte volte capita di incappare in un problema di salute questo è normale, se capita una volta ogni tanto, ma se i problemi di salute capitano spesso, a meno che non tu non abbia patologie particolari, potrebbe esserci un problema a monte e cioè non stai gestendo bene la tua salute.
 
-1. un imprevisto/problema una volta ogni tanto
-2. un altro è vivere sempre in mezzo agli imprevisti e ai problemi.
+# Dall'acuto al cronico vivere in emergenza
+ 
+Anche in un attività possono capitare imprevisti ogni volta ogni tanto, ma se gli imprevisti sono seriali allora forse l'attività è organizzata male e sarebbe il caso di vedere cosa non va e organizzarla meglio
 
-Se ci si trova sempre nel secondo caso
-
-Per questo preparare il viaggio ti aiuta a passare dalla modalità:
+Per questo vogliamo aiutarti a preparare un viaggio per la salute che ti aiuti a passare da:
 
 - agire sempre in Urgenza
-  Alla modalità:
-- preparsi agli imprevisti con la Pianificazione
 
-Non avere scelta è una delle cose peggiori che possa capitare.
+Alla modalità:
+- preparsi agli imprevisti 
+
+## Non avere scelta è una delle cose peggiori che possa capitare.
 
 > Il contadino accorto preparava le scorte per l'autunno e l'inverno.
 > Sapeva che era necessario
@@ -55,17 +59,14 @@ o avrebbe rischiato di non avere cibo per l'inverno
 
 ## Come preparare il viaggio?
 
-Una cosa da sapere è che puoi decidere di preparare e affrontare il viaggi in diversi modi in base alle tue disponibilità:
+Una cosa da sapere è che puoi decidere di preparare e affrontare il percorso in diversi modi in base alle tue disponibilità:
 
-Vedi tutti gli step:
 
-In autonomia con un tutor
-Lavoro con i professionisti scegliere i programmi i trattamenti
-I prodotti
-Le risorse
-Quanto tempo dedicare al giorno e a settimana??
-Quanti soldi?
-Attenzione?
-Meglio solo o in gruppo? Può aiutare
+- In autonomia 
+- Seguito da un tutor
+- Con i professionisti scegliere i programmi i trattamenti
+- Solo o in gruppo
+- A casa o in studio
+- Con un programma standard o personalizzato
 
-Ma come iniziare?
+Per iniziare puoi continuare a seguire la guida o una volta pronto potrai scegliere tra il programma introduttivo  di 4 incontri in cui imposterai le basi del tuo percorso e per creare un percorso personalizzato.

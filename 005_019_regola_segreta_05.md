@@ -1,6 +1,8 @@
 ### Cap 5 - Pag 019
 
 
+# Quinta regola
+
 # Esistono due tipi di cambiamento.
 
 Solitamente abbiamo una forza che ci mantiene in equilibrio e non ci permette di cambiare come se fosse una forza di inerzia che tende a riportarci nelle stesse condizioni, perciò per cambiare qualcosa dobbiamo rompere questa recinto che ci tiene nei nostri confini e possiamo fare questo in 2 modi.

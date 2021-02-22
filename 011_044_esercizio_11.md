@@ -1,3 +1,7 @@
+### Cap 11 - Pag 44
+
+# Esercizio 11
+
 # Il tuo diario benessere integrato
 
 # Come diario va benissimo anche un quaderno bianco
@@ -7,3 +11,6 @@ eyJoaXN0b3J5IjpbODM4NTYwNTQ3XX0=
 -->
 
 Ogni giorno c'è qualcosa di nuovo Sta a ciascuno di noi riuscire a trovarlo non smettere mai di sperimentare vivere apprendere.
+
+<!-- Triplice
+-->

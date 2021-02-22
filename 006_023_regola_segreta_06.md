@@ -1,3 +1,7 @@
+### Cap 6 - Pag 23
+
+# Sesta Regola
+
 # Il corpo è una macchina che lavora a risparmio
 
 > “Noi non abbiamo bisogno di più forza o più capacità o di maggiori opportunità. Ciò di cui abbiamo bisogno è di usare ciò che abbiamo.”  
@@ -6,38 +10,6 @@
 Il corpo umano è una cosa straordinaria
 Tutto quello che ci serve è sotto i nostri occhi ma spesso non ce ne accorgiamo.
 
-- Il movimento è vita l'acquisito l'innato la facciata
-- Il problema è quando non usi una cosa il corpo la smantella
-
-# il corpo costruisce uno Schema e ne fa un abitudine
-
-# Stimolo risposta e gratificazione le abitudini
-
-# Quello che non viene usato viene smantellato
-
-# Stimolo Bio
-
-# Risposta
-
-# Gratificazione
-
-## Difendersi salla dittatura delle abitudini imparando ad usare il nostro sistema nervoso
-
-Percezione - Stimolo
-elaborazione e modulazione vs risposta automatica
-Ricompensa vs rielaborazione dell'accaduto e valutazione delle conseguenze
-
-# Avere una guida ma mettere in pratica ho sempre voluto qualcosa di pratico
-
-# Insegna a pescare non dare il pesce
-
-# Il problema dei corsi è quando torni a casa
-
-# Dipendenza da terapie
-
-# Non perdere il cliente
-
-# Moderato malessere
 
 # Le leggi del corpo umano
 
@@ -92,12 +64,12 @@ Se non teniamo in movimento il nostro corpo e magari accumuliamo tensioni respir
 Eliminare le tossine con il sistema linfatico e i reni e taccc
 contratture a go go....
 
-**Il corpo non è una mucca, ma risponde anchesso alle leggi Sociali del branco**
+**Il corpo non è una cavallo, ma risponde anchesso alle leggi Sociali del branco**
 
 > Ieri ho avuto un colloquio con un cliente per una faccenda importante, sono ancora arrabbiato e teso! Avrei voluto...
 > Oggi è passata un pò ma sento i trapezi di marmo e
 
-Le relazioni con le altre persone, hanno un effetto e un impatto a livello emotivo che i nostri organi e i nostri muscoli sentono benissimo.
+Le relazioni con le altre persone, hanno un effetto e un impatto a livello emotivo che i nostri organi e i nostri muscoli sentono benissimo, sopratutto in questo periodo di emergenza sanitaria.
 
 **L'uomo ha la capacità di apprendere e risponde a leggi Psicologiche**
 
@@ -115,11 +87,11 @@ Ci sono molte dinamiche complesse che sono difficili da spiegare ma che vanno a 
 
 ## L'uomo una grande circolazione:
 
-La risultante di ciò che
+Siamo la risultante di ciò che
 
 - sentiamo
 - pensiamo
-- delle nostre azioni
+- e di come agiamo
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTgzNTM1MTkzMl19

@@ -1,4 +1,6 @@
-# Ricapitoliamo quante cose
+### Cap 10 - Pag 38
+
+# 10 Ricapitoliamo quante cose
 
 # In autonomia o con una guida che conosce il territorio?
 
@@ -18,3 +20,5 @@ La risposta fu una domanda:
 eyJoaXN0b3J5IjpbMzE5ODU3Mjk4LDU0MTU4MjEyMiwtMTg0Mz
 c5NTQ3Nl19
 -->
+
+Decidere una meta Qual è il tuo obiettivo La ricerca perdersi scoprire uscire apprendimento a cerchio

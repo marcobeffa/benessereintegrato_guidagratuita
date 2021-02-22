@@ -1,7 +1,33 @@
+### Cap 8 - Pag 32
+
+# Esercizio 08
+
+# Crea il tuo profilo
 
 
 
-## Crea il tuo profilo
+Come stanno i tuoi organi le tue catene 5 
+
+Polmone - Ic (Immunitario)
+
+Stomaco - Milza pancreas (Fluidi)
+
+Cuore - IT - Maestro Cuore - Triplice (Ormonale)
+
+Rene Vescica (Nervoso)
+
+Vescica - Biliare (Vitale)
+
+
+Fluidi
+
+Ormonale
+
+Sistema Nervoso
+
+Vitale
+
+Immunitario
 
 
 
@@ -16,4 +42,8 @@
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4MjcxMDkxNDgsMTc2NzI3Mzc3Nyw2Mj
 g3NzEzMiwxNDI3MjQ3NDI2XX0=
+-->
+
+
+<!-- Vescica
 -->

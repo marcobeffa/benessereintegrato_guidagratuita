@@ -1,3 +1,6 @@
+### Cap 10 - Pag 40
+
+# Esercizio 10
 
 # Il programma educativo di un mese
 
@@ -21,4 +24,7 @@
 # Compiti prima settiamana
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzI4ODg2NzgsLTU1NjE0MzY2M119
+-->
+
+<!-- Maestro del cuore
 -->

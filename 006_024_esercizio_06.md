@@ -1,35 +1,54 @@
-La dose minima efficace
-Il rasoio di occam
+### Cap 6 - Pag 24
 
-## Cosa ti fa battere il Cuore? 
+# Esercizio 06
+
+Solitamente si dice che: 
+
+- Da giovani si ha tempo e salute ma non si hanno soldi 
+- Da adulti si hanno soldi e salute ma non si ha tempo
+- Da anziani si hanno soldi e tempo ma non si ha la salute
+
+Pur se tendenzialmente è vero c'è un proverbio africano che dice:
+
+Se una cosa la vuoi, una strada la trovi.
+Se una cosa non la vuoi, una scusa la trovi.
+
+Proverbio africano
 
 
-# Quando torni a casa
-# Stimolo risposta 
+Ecco alcune domande a cui rispondere 
 
-# Quanto tempo potresti dedicare a settimana?
+# Quanto tempo potresti dedicare ogni al giorno per la tua salute?
 
-# Qual è la risorsa che fai più fatica a gestire?
-
-# I giovani non hanno soldi
-
-# adulti non hanno tempo  salute salute
-# anziani salute soldi e tempo
+- 5 minuti
+- 15 minuti
+- 30 minuti
 
 
-# Le cose che non facciamo hanno un effetto
+# Quante volte a settimana potresti dedicare almeno 1 ora per la tua salute:
 
-# L'esperienza
+- 1 volta a settimana
+- 2 3 volte
+- 4 5 volte
 
-# impara le regole per infrangerle
+# Quale risorsa hai a disposizione:
 
-## apprendiamo con tentativi ed errori
+- Tempo
+- Soldi
+- Attenzione
 
-## Se non facciamo tentativi non impariamo
 
-Un piccolo trucco per evitare di sbagliare strada iniziare dalla fine della storia
+# Cosa ti fa battere il Cuore? 
 
-segui il cuore quello che ti fa battere il cuore e troverai la tua strada
+Non è necessario dedicare del tempo a cose che non ti piaciono. Puoi scegliere di bilanciare il tempo a disposizione e cercare attività che possano essere un hobby ma anche portare dei benefici alla tua salute.
+
+
+> Segui quello che ti fa battere il cuore ti aiuterà a trovare la tua strada
+
+
+
+Magari sei una persona a cui non piace fare movimento perchè non hai mai trovato una dimensione che ti soddisfacesse.
+Ecco allora una piccola proposta che può aiutarti a trovare piacere nel movimento.
 
 ## L'importanza di accorgersi. Quanti movimenti può fare il tuo corpo? Come è possibile tutto questo?
 
@@ -51,19 +70,7 @@ Chi è capace di accorgersi potrà fare scoperte nuove e cambiare il mondo!
 
 > Chi cerca non smetta di cercare finché ha trovato. Quando avrà trovato si turberà. Quando sarà turbato si meraviglierà e regnerà su tutte le cose.
 
-# Quando torni a casa
 
-# Stimolo risposta
-
-# Quanto tempo potresti dedicare a settimana?
-
-# Qual è la risorsa che fai più fatica a gestire?
-
-# I giovani non hanno soldi
-
-# adulti non hanno tempo salute salute
-
-# anziani salute soldi e tempo
 
 <!-- cuore
 -->

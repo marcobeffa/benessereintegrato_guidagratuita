@@ -1,3 +1,7 @@
+### Cap 11 - Pag 45
+
+# Esperienza 11
+
 # L'importanza delle storie e di ciò che ci raccontiamo
 
 # 11 Il potere delle parole l'importanza della filosofia della lettura sibaldi la pnl piernicola de maria scuola non scuola

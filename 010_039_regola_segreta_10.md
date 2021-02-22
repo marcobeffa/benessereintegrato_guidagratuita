@@ -1,6 +1,6 @@
+### Cap 10 - Pag 39
 
-
-
+# Regola segreta 10
 
 >  Ignoranti quem portum petat nullus suus ventus est.
 >  

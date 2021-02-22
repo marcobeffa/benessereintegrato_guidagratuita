@@ -1,4 +1,6 @@
-## Alla ricerca di sentieri
+### Cap 9 - Pag 34
+
+# 09 Alla ricerca di sentieri
 
 Il sasso. La persona distratta vi è inciampata. Quella violenta, l’ha usato come arma. L’imprenditore l’ha usato per costruire. Il contadino stanco invece come sedia. Per i bambini è un giocattolo. Davide uccide Golia e Michelangelo ne fece la più bella scultura.  
 In ogni caso, la differenza non l’ha fatta il sasso, ma l’uomo.  

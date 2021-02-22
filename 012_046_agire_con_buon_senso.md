@@ -1,3 +1,8 @@
+### Cap 12 - Pag 46
+
+# 12 agire con buon senso
+
+
 # Coming soon
 
 # tra scienza e tradizione l'uso del buon senso

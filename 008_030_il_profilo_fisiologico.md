@@ -1,4 +1,6 @@
-# Profilo come modello comune per il condividere il lavoro con il team
+### Cap 8 - Pag 30
+
+# 08 Il Profilo fisiologico come modello comune per lavorare in team
 
 Una jeep è ottima per fare sentieri di montagna, ma se la usi per percorrere molti km in autostrada ti costerà molto di carburante,  e non potrà competere in pista con una ferrari. Ogni persona e ogni corpo hanno delle caratteristiche. Conoscere le tue ti renderà la vita più facile!
 

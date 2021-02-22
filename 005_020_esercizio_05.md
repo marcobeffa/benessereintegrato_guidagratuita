@@ -1,5 +1,6 @@
 ### Cap 5 - Pag 020
 
+# Esercizio 05
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwODE0NDk2NTIsNzMwOTk4MTE2XX0=
 -->
@@ -157,3 +158,5 @@ Mettersi in una posizione generativa non di dipendenza e mancanza
 
 Inizia a fare ciò che riesci poi fai ciò che e ti ritroverai a fare l'impossibile
 
+<!-- Milza pancreas quotidianità
+-->

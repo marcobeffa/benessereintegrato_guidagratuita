@@ -1,4 +1,6 @@
-# Segreto 7
+### Cap 7 - Pag 27
+
+# Segreto 07
 
 Le decisioni di oggi influenzano i risultati di domani
 Il tuo corpo è un supporto il dna registra la postura
@@ -7,7 +9,8 @@ Il tuo corpo è un supporto il dna registra la postura
 
 # Le decisioni di oggi influenzano i risultati di domani
 
-Il tuo corpo è un supporto il dna registra la postura
+Il tuo corpo è un supporto il dna registra la postura foto attuale nel dna sono nascoste migliaia di informaizioni ogni 7 anni vengono completamente sostituite le nostre cellule nervose e simo completamente rinnovati allora cosa resta? 
+Restano i nostri collegaementi cerebrali
 # Bivio 
 # Scelta
 

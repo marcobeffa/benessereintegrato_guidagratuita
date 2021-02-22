@@ -1,4 +1,6 @@
+### Cap 12 - Pag 48
 
+# Esercizio 12
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYwMTk0NTYyM119
@@ -30,3 +32,7 @@ Funzione specifica.
 
 
 - 
+
+
+<!-- Vescica biliare
+-->

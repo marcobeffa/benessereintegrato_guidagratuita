@@ -1,5 +1,7 @@
 ### Cap 5 - Pag 021
 
+# Esperienza 05
+
 Vediamo ora di espandere i concetti di 
 - Movimento e allenamento
 - Recupero e conoscenza del corpo
@@ -65,8 +67,6 @@ Ido Portal ha iniziato con la capoeira e ha sviluppato una buona idea di movimen
 Anche Massimo Mondini con il movimento arcaico si è avvicinato molto a questa idea cogliendo alcuni aspetti importanti tra movimento e natura.
 
 L'associazione Progotan a riguardo sta facendo un ottimo lavoro con le persone malate di parkinson 
-
-
 
 # Recupero e conoscenza del corpo
 

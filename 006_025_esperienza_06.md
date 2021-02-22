@@ -1,105 +1,29 @@
-# Efficacia personale impara a gestire le tue risorse 
-Un corso che mi ha è stato efficacia personale 
-qui trovi il link per l'audiolibro gratuito: https://efficaciapersonale.com/ se ti interessa sarà un lavoro che approfondiremo insieme! 
+### Cap 6 - Pag 25
+
+# Esperienza 06
 
 # Sui Corsi 
 
-# Avere una guida ma mettere in pratica ho sempre voluto qualcosa di pratico 
+Mi è sempre piaciuto partecipare a corsi nuovi perchè ti trasmettono una certa energia che ti permette di staccare dalla settimana.
 
-# Insegna a pescare non dare il pesce
 
-# Il problema dei corsi è quando torni a casa
+Nei corsi però vengono insegnate molte cose nuove ma spesso non vengono forniti strumenti necessari per aiutare le persone a integrare le cose imparate nella vita di tutti i giorni.
 
- 
-# Time 43xperiences atteggiamento emotivo e mentale
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTAxMzAyM119
--->
+Il grosso problema è tornare a casa alle proprie routine. Pur ritornando con una carica pazzesca si rischia dopo poche ore di ritorno alla normalità di perdere quell'entusiasmo che ci era arrivato durante il corso.
 
-Da schiappa a sportivo aronne romano le buone abitudini
+Mi sono chiesto molte volte perchè questo succedesse e la risposta è che tutto dipende da ciò che decidi di fare ogni giorno. 
 
-# Il piacere della scoperta! Come funziona il sistema ormonale la dieta il corpo conoscere nuovi modelli e seguire un metodo
+Abbiamo visto che per non scombussolare la propria vita è consigliabile partire con piccoli cambiamenti e la cosa più semplice che puoi fare è inserire nella routine giornaliera qualche nuova abitudine.
 
-non so se il modello è giusto
+L'abitudine più potente che abbia provato è stata quella di iniziare a tenere sott'occhio le risorse.
 
-# L'importanza dell'educazione
+Monitorare il nostro tempo la nostra attenzione ci aiuta a non perderci nella giungla della vita! 
 
-# L'educazione la curiosità
+# Efficacia personale impara a gestire le tue risorse 
 
-Le cose che facciamo hanno un effetto.
+Qui trovi il link per l'audiolibro gratuito: <a href=https://efficaciapersonale.com/ target="_blank">Efficacia Personale</a>E' un libro che ti consiglio per lavorare sulle tue risorse! 
 
-Rubgy aronne romano
-
-A scuola di alimentazione
-
-## Il primo incontro con lezione di sport e alimentazione
-
-Aronne romano
-Un impegno per la salute esempio maestro bruno
-
-## Alle soglie di un nuovo mondo dalla terra dell'industria del tondino e dell'agraria alla scoperta del corpo.
-
-## La Fisioterapia
-
-La prima scuola di formazione nel campo della salute è stata la fisioterapia.
-E' un corso di laurea delle professioni sanitarie.
-
-Qui ho imparato molto sul corpo umano.
-
-La fisioterapia insegna al fisioterapista come aiutare una persona ad affrontare le patologie e come passare da una condizione di Disabilità a una condizione in cui ritrova la propria autonomia.
-
-La Fisioterapia insegna come rimettere in salute:
-
-Il sistema muscolo scheletrico
-Il sistema respiratorio
-Il sistema nervoso e apparato urogenitale
-Il sistema linfatico e digestivo
-Il sistema cardiocircolatorio
-
-Grazie a questa esperienza di formazione prima e di lavoro poi sono venuto a contatto con molti luoghi e persone, per lavoro, formazione, e corsi:
-
-_Università, Ospedali, Cooperative, Cliniche convenzionate, Case di riposo, Palestre, Realtà sportive, squadre di Calcio di Pallavolo di Rugby Studi di fisioterapia Poliambulatori, Studi medici, Scuole di discipline bionaturali, Associazioni, Luoghi naturali, Montagne, Rifugi, Alberghi, Villeggiature, spa_
-
-Da qui nasce l'idea di creare benessereintegrato
-In questa guida ti racconto i miei errori, le mie esperienze e come ho pensato di risolverli.
-
-Perchè mi sarebbe piaciuto che qualcuno li raccontasse a me avrei evitato dolori, perdite di tempo e soldi e adesso avrei già venduto la mia start up a **Google Health** e con la exit guadagnata sarei già potuto essere in pensione. Ovviamente scherzo ;-)
-
-> Lo stolto sbaglia e non impara,
-> L’intelligente impara dai propri errori,
-> Il saggio impara dagli errori degli altri”
-
-Ritengo che tu sia una persona saggia e magari hai delle soluzioni che qui non abbiamo colto!
-
-Nel caso alla fine della guida hai osservazioni o suggerimenti scrivimi pure le terrò in considerazione!
-
-Buon viaggio!
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg3MTUxNTRdfQ==
--->
-
-# Cadere e avere la forza di rialzarsi l'importante è rialzarsi
-
-# Causa effetto ogni azione che facciamo ha una conseguenza
-
-Abitudini e azioni
-
-# La costanza paga
-
-Un impegno per la salute esempio maestro Bruno
-
-# Efficacia personale impara a gestire le tue risorse
-
-# Sui Corsi
-
-# Avere una guida ma mettere in pratica ho sempre voluto qualcosa di pratico
-
-# Insegna a pescare non dare il pesce
-
-# Il problema dei corsi è quando torni a casa
-
-# Time 43xperiences atteggiamento emotivo e mentale
+E' un libro che ti aiuta nella gestione e passa alcuni concetti utili anche se vuoi raggiungere un risultato una meta! 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI0NTAxMzAyM119
