@@ -69,4 +69,4 @@ Una cosa da sapere è che puoi decidere di preparare e affrontare il percorso in
 - A casa o in studio
 - Con un programma standard o personalizzato
 
-Per iniziare puoi continuare a seguire la guida o una volta pronto potrai scegliere tra il programma introduttivo  di 4 incontri in cui imposterai le basi del tuo percorso e per creare un percorso personalizzato.
+Per iniziare puoi continuare a seguire la guida e già con questa avrai ampliato la tua visione sulla salute! Per impostare il percorso potrai scegliere anche di partecipare al programma introduttivo  della durata di  4 settimane in cui imposterai le basi del tuo percorso della salute e che è il punto di partenza per un programma personalizzato!
