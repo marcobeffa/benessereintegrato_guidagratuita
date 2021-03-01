@@ -2,8 +2,8 @@
 
 # Esperienza 07
 
-# Psicosomatica - Somatopsichiche
-
+> Dai un pesce a un uomo e lo nutrirai per un giorno. Insegnagli a pescare e lo nutrirai per tutta la vita.
+> PROVERBIO CINESE
 
 ## Il metodo GDS delle catene muscolari 
 
@@ -15,52 +15,19 @@ Madame Denise Godelieve Struyf avendo aveva imparato da piccola a disegnare e fa
 
 Madame Denise Godelieve Struyf aveva sposato un medico agopuntore e si accorse che in medicina cinese queste categorie erano già state studiate e costruì uno stupendo modello biomeccanico. 
 
-# Un approccio alla guarigione olistico
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA5NjYxMTJdfQ==
--->
+# Il potenziale di base
 
+Un altra importante scoperta fatta da Madame Denise Godelieve struif è quella del potenziale di base.
 
+Ogni persona per predisposizione utilizza più certi aspetti del suo corpo e della sua personalità, rispetto ad altri.
 
-## Vivere secondo il proprio potenziale
-# Il metodo gds le 7 posture
+Proprio come se quegli aspetti fossero più forti rispetto ad altri più fragili!
 
+Questo può portare a 2 conseguenze, l'incapacità di utilizzare gli altri, perchè ci si fossilizza in un unico modo di essere. Quando si utilizza troppo un aspetto in cui si è forti.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjAzMjMxNCwtMTg4OTQ4ODQ2OSwyNT
-E5NjExMl19
--->
+Un altro problema può essere legato al fatto che nella vita reale ti viene chiesto di utilizzare un aspetto nel quale non sei forte, e questo alla lunga ti logora. Devi adottare un aspetto acquisito e cambiare la tua faccita!
 
+Per capire questo discorso ti aiuterò a scoprire le catene muscolari ma se vuoi sbirciare e capire quale ti rappresenta di più! 
 
-- Il movimento è vita l'acquisito l'innato la facciata
-- Il problema è quando non usi una cosa il corpo la smantella
+Puoi andare sul sito <a href="http://www.catenemuscolarigds.it/" target="_blank">Catene Muscolari GDS</a>
 
-# il corpo costruisce uno Schema e ne fa un abitudine
-
-# Stimolo risposta e gratificazione le abitudini
-
-# Quello che non viene usato viene smantellato
-
-# Stimolo Bio
-
-# Risposta
-
-# Gratificazione
-
-## Difendersi salla dittatura delle abitudini imparando ad usare il nostro sistema nervoso
-
-Percezione - Stimolo
-elaborazione e modulazione vs risposta automatica
-Ricompensa vs rielaborazione dell'accaduto e valutazione delle conseguenze
-
-# Avere una guida ma mettere in pratica ho sempre voluto qualcosa di pratico
-
-# Insegna a pescare non dare il pesce
-
-# Il problema dei corsi è quando torni a casa
-
-# Dipendenza da terapie
-
-# Non perdere il cliente
-
-# Moderato malessere

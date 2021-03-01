@@ -206,3 +206,35 @@ course:
       link_github: 006_025_esperienza_06
       author:
       image_tag:
+    26:
+      date_last_release:
+      header: true
+      title: "07 Stato di salute"
+      description: "Come si misura la salute?"
+      link_github: 007_026_stato_di_salute
+      author:
+      image_tag: 
+    27:
+      date_last_release:
+      header: false
+      title: "Settima Regola segreta"
+      description: "Decisioni"
+      link_github: 007_027_regola_segreta_06
+      author:
+      image_tag: 
+    28:
+      date_last_release:
+      header: false
+      title: "Esercizio 06"
+      description: "Un semplice quiz"
+      link_github: 007_028_esercizio_06
+      author:
+      image_tag: 
+    29:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Il tuo potenziale"
+      link_github: 007_029_esperienza_06
+      author:
+      image_tag:

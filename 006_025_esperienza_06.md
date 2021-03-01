@@ -21,7 +21,7 @@ Monitorare il nostro tempo la nostra attenzione ci aiuta a non perderci nella gi
 
 # Efficacia personale impara a gestire le tue risorse 
 
-Qui trovi il link per l'audiolibro gratuito: <a href=https://efficaciapersonale.com/ target="_blank">Efficacia Personale</a>E' un libro che ti consiglio per lavorare sulle tue risorse! 
+Qui trovi il link per l'audiolibro gratuito: <a href=https://efficaciapersonale.com/ target="_blank">Efficacia Personale</a> E' un libro che ti consiglio per lavorare sulle tue risorse! 
 
 E' un libro che ti aiuta nella gestione e passa alcuni concetti utili anche se vuoi raggiungere un risultato una meta! 
 

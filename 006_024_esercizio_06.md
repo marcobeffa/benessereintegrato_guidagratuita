@@ -46,8 +46,7 @@ Non è necessario dedicare del tempo a cose che non ti piaciono. Puoi scegliere 
 > Segui quello che ti fa battere il cuore ti aiuterà a trovare la tua strada
 
 
-
-Magari sei una persona a cui non piace fare movimento perchè non hai mai trovato una dimensione che ti soddisfacesse.
+Magari sei una persona a cui non piace fare movimento o non ti sei mai avvicinato a pratiche per il corpo, perchè non hai mai trovato una dimensione che ti soddisfacesse.
 Ecco allora una piccola proposta che può aiutarti a trovare piacere nel movimento.
 
 ## L'importanza di accorgersi. Quanti movimenti può fare il tuo corpo? Come è possibile tutto questo?

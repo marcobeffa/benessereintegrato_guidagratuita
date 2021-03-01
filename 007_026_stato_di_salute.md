@@ -4,13 +4,15 @@
 
 La tua salute è come un arcobaleno, non può essere composto da un solo colore. 
 
-Lo sato di salute è una mappa che ti aiuta ad orientarti nella scelta dei professionisti e dei servizi adatti alla tua condizione.
+Ho usato il simbolo dell'arcobaleno per far capire che la salute è composta da più aspetti che devono essere tutti presi in considerazione!  
+
+Con lo stato di salute abbiamo creato una mappa che ti aiuta ad orientarti e capire come è messa la tua salute. Potrai usare questa mappa per orientarti. Grazie al test sullo stato di salute una volta che avrai risposto ad alcune domande otterrai un risultato che ti aiuta nella scelta dei professionisti e dei servizi adatti alla tua condizione.
 
 # La salute un mondo complesso
 
-Chi si affaccia al mondo della salute e del benessere può restare stupito e confuso dalla quantità di servizi presenti tra i quali scegliere, ma spesso è un impresa ardua anhce per gli addetti al mestiere riuscire ad orientarsi tra le centinaia di proposte e capire quando utilizzarle.
+Chi si affaccia al mondo della salute e del benessere può restare stupito e confuso dalla quantità di servizi presenti tra i quali scegliere, ma spesso è un impresa ardua anche per gli addetti ai lavori riuscire ad orientarsi tra le centinaia di proposte e capire quando utilizzarle.
 
-Per questo avere un sistema per mappare i servizi può aiutare sia persone che si avvicinano per la prima volta al mondo della salute sia per persone e professionista che sono eseperti del mestiere.
+Per questo avere un sistema per mappare i servizi può aiutare sia persone che si avvicinano per la prima volta al mondo della salute sia per persone e professionisti eseperti.
 
 Avere un modello permette anche ai professionisti di conoscersi e poter creare percorsi più complessi con figure e professioni che altrimenti non verrebbero minimamente considerate e questo permette di semplificare ed arricchire allo stesso tempo la scelta che la persona fa quando inizia un percorso.
 
