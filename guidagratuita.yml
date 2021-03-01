@@ -219,7 +219,7 @@ course:
       header: false
       title: "Settima Regola segreta"
       description: "Decisioni"
-      link_github: 007_027_regola_segreta_06
+      link_github: 007_027_regola_segreta_07
       author:
       image_tag: 
     28:
@@ -227,7 +227,7 @@ course:
       header: false
       title: "Esercizio 06"
       description: "Un semplice quiz"
-      link_github: 007_028_esercizio_06
+      link_github: 007_028_esercizio_07
       author:
       image_tag: 
     29:
@@ -235,6 +235,6 @@ course:
       header: false
       title: "Esperienza sul campo"
       description: "Il tuo potenziale"
-      link_github: 007_029_esperienza_06
+      link_github: 007_029_esperienza_07
       author:
       image_tag:
