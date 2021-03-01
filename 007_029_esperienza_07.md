@@ -11,7 +11,7 @@ Dopo l'osteopatia ho iniziato un altro corso di formazione. Madame Godelieve sos
 
 Era necessario anche reinsegnare nuovamente al corpo ad attivare la giusta muscolatura per muoversi liberamente. 
 
-Madame Denise Godelieve Struyf avendo aveva imparato da piccola a disegnare e faceva un ritratto ai suoi pazienti e fu così che notò che molti dolori erano causati da sintomi che si potevano racchiudere in categorie. 
+Madame Denise Godelieve Struyf era nata in Africa e suo padre non la iscrisse ad una scuola elementare così le fece fare un percorso di studi alternativo nel quale imparò a disegnare. Tornata in Europa si laureò come fisioterapista e faceva un ritratto dei suoi pazienti fu così che da ottima osservatrice notò che molti dolori erano causati da sintomi che si potevano racchiudere in categorie, proprio in base alla forma delle ossa che aveva una persona.
 
 Madame Denise Godelieve Struyf aveva sposato un medico agopuntore e si accorse che in medicina cinese queste categorie erano già state studiate e costruì uno stupendo modello biomeccanico. 
 
