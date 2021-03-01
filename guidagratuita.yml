@@ -225,7 +225,7 @@ course:
     28:
       date_last_release:
       header: false
-      title: "Esercizio 06"
+      title: "Esercizio 07"
       description: "Un semplice quiz"
       link_github: 007_028_esercizio_07
       author:
