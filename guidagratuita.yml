@@ -241,9 +241,9 @@ course:
     30:
       date_last_release:
       header: true
-      title: "08 Il profilo fisiologica"
-      description: "Dalla misura della malattia alla misura della salute"
-      link_github: 008_030_stato_di_salute
+      title: "08 Il profilo fisiologico"
+      description: "Passare dalla misura della malattia alla misura della salute"
+      link_github: 008_030_il_profilo_fisiologico
       author:
       image_tag: 
     31:
@@ -257,7 +257,7 @@ course:
     32:
       date_last_release:
       header: false
-      title: "Esercizio 07"
+      title: "Esercizio 08"
       description: "Meridiani e paralleli"
       link_github: 008_032_esercizio_08
       author:
