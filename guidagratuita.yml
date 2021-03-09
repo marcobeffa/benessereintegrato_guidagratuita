@@ -238,3 +238,36 @@ course:
       link_github: 007_029_esperienza_07
       author:
       image_tag:
+    30:
+      date_last_release:
+      header: true
+      title: "08 Il profilo fisiologica"
+      description: "Dalla misura della malattia alla misura della salute"
+      link_github: 008_030_stato_di_salute
+      author:
+      image_tag: 
+    31:
+      date_last_release:
+      header: false
+      title: "Ottava Regola segreta"
+      description: "La dose minima efficace"
+      link_github: 008_031_regola_segreta_08
+      author:
+      image_tag: 
+    32:
+      date_last_release:
+      header: false
+      title: "Esercizio 07"
+      description: "Meridiani e paralleli"
+      link_github: 008_032_esercizio_08
+      author:
+      image_tag: 
+    33:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Il potere delle piante"
+      link_github: 008_033_esperienza_08
+      author:
+      image_tag:
+    

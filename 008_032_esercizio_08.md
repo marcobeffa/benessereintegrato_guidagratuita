@@ -4,45 +4,46 @@
 
 # Crea il tuo profilo
 
+Ora dovrai rispondere ad alcune domande per capire com'è il tuo stato di salute:
+
+Dividideremo il corpo le funzioni del tuo corpo in zone e vedremo quali sono in deficit e quali invece funzionano bene!
+
+Questa è una prima valutazione approssimativa.
+
+Comunque utilizzeremo uno schema semplice che si basa sul metodo gds
+delle catene muscolari. <a href="http://www.catenemuscolarigds.it/">Catene Muscolari</a>
+
+Come il mondo è fatto di meridiani e paralleli così anche il tuo corpo può essere suddiviso in zone! Se vuoi approfondire <a href="https://it.wikipedia.org/wiki/Meridiani_(MTC)"> cosa sono i meridiani?</a>
+
+
+Per ogni catena prenderemo in considerazione:
+
+Organi muscoli punto sul meridiano Articolazione Aspetto Psicocomportamentale Aspetto Cognitivo denti Sensi.
 
 
 Come stanno i tuoi organi le tue catene 5 
 
-Polmone - Ic (Immunitario)
+AL Polmone - Ic (Immunitario)
 
-Stomaco - Milza pancreas (Fluidi)
+AM Stomaco - Milza pancreas (Fluidi)
 
-Cuore - IT - Maestro Cuore - Triplice (Ormonale)
+PA AP Cuore - IT - Maestro Cuore - Triplice (Ormonale)
 
-Rene Vescica (Nervoso)
+PM Rene Vescica (Nervoso)
 
-Vescica - Biliare (Vitale)
-
-
-Fluidi
-
-Ormonale
-
-Sistema Nervoso
-
-Vitale
-
-Immunitario
+PL Vescica - Biliare (Vitale)
 
 
-
-## Impara a leggere le etichette dei prodotti
-
-## Quali altri modelli conosci?
+In oltre risponderai ad alcune domande prese in prestito dallo schema della medicina dei semplici di Ezio Abbiati per capire come sono messi: 
 
 
-## Riconoscere i triangoli del tuo corpo il corpo è abitato la vocazione
+- I tuoi Fluidi
+- Il sistema Ormonale
+- Il Sistema Nervoso
+- Il tuo sistema Vitale
+- Il sistema immunitario Immunitario
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcxMDkxNDgsMTc2NzI3Mzc3Nyw2Mj
-g3NzEzMiwxNDI3MjQ3NDI2XX0=
--->
 
 
 <!-- Vescica

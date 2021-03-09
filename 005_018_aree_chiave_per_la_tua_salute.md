@@ -54,6 +54,9 @@ Spesso come recuero si esegue lo streching ma quello non è l'unica routine che 
 Il cibo è ciò che nutre il nostro fisico. I mattoncini con cui è formato il nostro corpo sono ricavati dal cibo che mangiamo è importante un alimentazione equilibrata in cui vengano assunti tutti i nutrienti necessari e non si ecceda troppo con il numero di calorie.
 Oltre al corpo fisico è necessario nutrire anche il cuore e la mente per questo è fondamentale anche lavorare:
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snx9dD9MVXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Restare in salute è gratis se sai come fare
 
 Ogni giorno puoi porre attenzione a queste aree e volendo puoi decidere di dedicare del tempo in cui fare attività che aiutino il tuo corpo a funzionare meglio e organizzarle in piccole routine da ripetere ogni giorno.

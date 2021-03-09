@@ -112,6 +112,8 @@ Il potere delle parole
 
 E infine si possono seguire filosofie più importanti come quella di scuola non scuola di piergiorgio caselli e di un Filologo molto in gamba igor sibaldi.
 
+Questo aprirà un mondo sommerso che se vuoi curiosare qui scoprirai come la parola corpo che oggi viene indicata con quasi un unica parola trovi nella lingua latina greca ed ebraica più parole che oggi abbiamo praticamente perso <a href="https://ilgiardinodelcorpoblog.wordpress.com/2017/07/23/i-corpi-nelle-diverse-culture/">   </a>
+
 Si noterà a chi approfondisce le conoscenze che in realtà ogni cultura che si prenda la briga di osservare il funzionamento sottile del mondo descrive lo stesso fenomeno il fenomeno della vita. 
 Certo la strada è lunga ma non impossibile.
 
