@@ -270,4 +270,36 @@ course:
       link_github: 008_033_esperienza_08
       author:
       image_tag:
+    34:
+      date_last_release:
+      header: true
+      title: "09 alla ricerca di sentieri"
+      description: "Passare dalla misura della malattia alla misura della salute"
+      link_github: 009_034_alla_ricerca_di_sentieri
+      author:
+      image_tag: 
+    35:
+      date_last_release:
+      header: false
+      title: "Nona Regola segreta"
+      description: "Prima le cose che hanno più impatto"
+      link_github: 009_035_regola_segreta_09
+      author:
+      image_tag: 
+    36:
+      date_last_release:
+      header: false
+      title: "Esercizio 08"
+      description: "Cosa come e perchè?"
+      link_github: 009_036_esercizio_09
+      author:
+      image_tag: 
+    37:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "L'importanza dei cicli"
+      link_github: 009_037_esperienza_09
+      author:
+      image_tag:
     

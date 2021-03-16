@@ -2,7 +2,21 @@
 
 # 09 Alla ricerca di sentieri
 
-Nel 90% dei casi in cui una persona arriva a farsi curare succede che mancano le basi della salute. Se sei un professionista della salute sarà capitato anche a te
+Nel 90% dei casi quando una persona arriva a farsi curare è perchè non ha rispettato le basi minime per mantenersi in salute. 
+
+Secondo le nostre abitudini si va dal medico quando la malattia è già in corso.
+
+L'obiettivo di benessereIntegrato è quello di creare professionisti a cui rivolgersi che ti insegnano a restare in salute. Ovviamente anche la parte di cure più invasive sono importanti, ma devono essere viste come emergenza e non come la normalità.
+
+Se i professionisti prendono soldi per curare le malattie c'è un conflitto di interessi.
+
+Se invece i professionisti prendono soldi per mantenerti in salute e cercare di farti ammalare il meno possibile allora cambia la prospettiva e ci sarebbe uno studio più accurato sulla salute.
+
+L'obiettivo di benessereIntegrato è cambiare questo modo di agire.
+
+Ma da dove partire per una rivoluzione così importante? Senza dubbio dall'educazione.
+
+Troppo spesso mancano le basi della salute. Se sei un professionista della salute sarà capitato anche a te
 Perciò si fanno le cure che si devono fare ma queste potrebbero avere un effetto 10 volte migliore se insieme a queste fosse erogata anche un educazione alla salute.
 
 Invece purtroppo spesso non c'è tempo e al posto di insegnare a pescare si da il pesce già pronto. Il risultato che il paziente in alcuni casi sopratutto quando ci si trova di fronte a malattie degenerative continuerà a girare da professionista a professionista accumulando esami su esami alleggerendo il problema ma senza risolverlo fino in fondo.
@@ -19,59 +33,41 @@ Non esiste sasso nel tuo cammino che tu non possa sfruttare per la tua propria c
 (Anonimo)
 
 
-# Un problema è un opportunità per creare un progetto che porti alla soluzione
-
-> Che gran paternità quella degli alberi, che sanno dare a ciascuno dei loro rami un cammino verso la luce.  
-(Lorenzo Oliván)
-
-
-# Iniziare con le cose semplici
-
-> Esistono strade piccole, strette, riservate, nascoste. Quelle che notano in pochi. Quelle che non urlano per rendersi visibili. Sono fatte di passi semplici, muri scrostati, colori segreti e luminosi. E da qualche parte c’è sempre un’emozione che aspetta di essere raccontata.  
-(Fabrizio Caramagna)
-
-
-# La guarigione avviene da dentro il professionista può solo indicarti la via.
-
-Il camminare presuppone che a ogni passo il mondo cambi in qualche suo aspetto e pure che qualcosa cambi in noi.  
-(Italo Calvino)
-
-# Un percorso è anche un cammino alla scoperta di nuovi punti di vista
-
-Tutti i più grandi pensieri sono concepiti mentre si cammina.  
-(Friedrich Nietzsche)
-
-# Ma sarà scientifico? Il miglior allenamento è quello che si fa.
-
-Troppa gente si occupa dei sensi unici e dei sensi vietati, senza mai mettersi in cammino.  
-(Fabrizio Caramagna)
-
-
-
 # In autonomia o con il professionista
 
-abbiamo visto in autonomia o con il professionista
+Per la nostra salute possiamo lavorare in molti modi. Una scelta che si può fare come abbiamo già visto è quella di cercare in autonomia attività che ci fanno stare bene oppure è possibile rivolgersi ad un professionista per chiedere un aiuto e essere seguiti
 
-# Ci sono alcune cose che si possono standardizzare ma altre vanno personalizzate.
+# Alcune sono uguali per tutti. Altre necessitano di un percorso personalizzato.
+
+Spesso se sei all'inizio di un programma o se hai un dolore sarà necessario partire a studiare e a mettere in pratica i fondamentali! 
+Come nella musica nella lotta nella danza nel calcio o in qualsiasi sport prima è necessario conoscere e mettere in atto i fondamentali!
 
 > Il guerriero che crede nel suo cammino, non ha bisogno di dimostrare che quello degli altri è sbagliato.  
 (Paulo Coelho)
 
 ## Programmi standard 
 
-
-Esistono percorsi standard già strutturati che funzionano per la maggior parte delle persone ma puoi sempre decidere di crearne uno personalizzato.
+Esistono percorsi standard già strutturati che funzionano per la maggior parte delle persone proprio perchè ricoprono una funzione educativa prima  di creare un personalizzato perciò è consigliabile iniziare da un percorso standard appunto per acquisire le abitudini e le nozioni base della salute.
+In alcuni casì come per esempio in fase acuta è necessario prima calmare il dolore ma nella maggior parte delle volte i percorsi educativi ti aiuteranno a risolvere il 50% dei tuoi problemi!
 
 
 ## Programmi personalizzati
 
-Creare un percorso personalizzato con la tua guida 
+Una volta sviscerate le basi potrai decidere di scegliere una tua guida e farti aiutare nel creare un percorso personalizzato! 
 
 
 ## in gruppo o singoli? 
+E' possibile scegliere di partecipare in gruppo alle iniziative oppure se vuoi investire più risorse puoi decidere di creare un percorso in cui lavorerai uno a uno con il professionista. 
+Comunque è possibile scegliere in base al tipo di servizio se è meglio lavorare con un gruppo o singoli.
 
+Lavorando con un gruppo avrai la possibilità di confrontarti con altre persone che stanno facendo un percorso per la salute che potranno darti sostegno.
 
+Lavorando con il professionista sarai invece più seguito e avrai una proposta più mirata al tuo caso.
 
+## Online o offline?
+
+In questo periodo è nata la necessità di lavorare anche online!
+Certamente ci sono servizi che hanno un senso anche online ma è consigliabile affiancare la parte online con una parte dal vivo dove non ci sono schermi a fare da intermediari tra te e il professionista.
 
 ## Una salute più semplice e democratica.
 

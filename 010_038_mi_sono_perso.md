@@ -28,3 +28,32 @@ E' importante come abbiamo visto iniziare un percorso e osservare cosa accade.
 Gli obiettivi sono posti solo come ausili come possono essere i segni dei sentieri che indicano il numero del sentiero o la segnaletica stradale o le pietre miliari su una strada ma il ritmo a cui si viaggia viene deciso dalla persona e dalle guide in base 
 
 In oltre sono da valutare strada facendo 
+
+
+# Un problema è un opportunità per creare un progetto che porti alla soluzione
+
+> Che gran paternità quella degli alberi, che sanno dare a ciascuno dei loro rami un cammino verso la luce.  
+(Lorenzo Oliván)
+
+# La guarigione avviene da dentro il professionista può solo indicarti la via.
+
+Il camminare presuppone che a ogni passo il mondo cambi in qualche suo aspetto e pure che qualcosa cambi in noi.  
+(Italo Calvino)
+
+# Un percorso è anche un cammino alla scoperta di nuovi punti di vista
+
+Tutti i più grandi pensieri sono concepiti mentre si cammina.  
+(Friedrich Nietzsche)
+
+
+# Iniziare con le cose semplici
+
+> Esistono strade piccole, strette, riservate, nascoste. Quelle che notano in pochi. Quelle che non urlano per rendersi visibili. Sono fatte di passi semplici, muri scrostati, colori segreti e luminosi. E da qualche parte c’è sempre un’emozione che aspetta di essere raccontata.  
+(Fabrizio Caramagna)
+
+
+
+# Ma sarà scientifico? Il miglior allenamento è quello che si fa.
+
+Troppa gente si occupa dei sensi unici e dei sensi vietati, senza mai mettersi in cammino.  
+(Fabrizio Caramagna)

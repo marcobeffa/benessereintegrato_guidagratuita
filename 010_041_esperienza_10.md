@@ -2,6 +2,10 @@
 
 # Esperienza 10
 
+# Dopo un corso spesso non resta niente e quando si torna a casa si è persi...
+
+# Iniziare a cambiare la nostra quotidianità.
+
 
 2) La verifica della riuscita viene fatta solo da studi scientifici che attestano la validità di un farmaco.
 
@@ -30,6 +34,7 @@ E' un mondo vasto e spesso molto lontano dalla nostra cultura per questo è megl
 # Come mettere in pratica tutto
 
 # Il percorso di un mese 
+
 
 ## L'uomo di scienza non è niente altro che un misero filosofo.
 
