@@ -2,11 +2,26 @@
 
 # Esperienza 10
 
+
+# Tra scienza e tradizione
+
+Un principio importante è 
+
+La vita quotidiana vs le scoperte che si fanno riuscire ad integrare un nuovo modo di vivere nella vita quotidiana nella routine.
+Non c'è bisogno di grandi sforzi per cambiare basta accorgersi osservare vedere le cose
+
+
 # Dopo un corso spesso non resta niente e quando si torna a casa si è persi...
+
+Mettere in pratica è la via per ritornare attaccarsi alla realtà
 
 # Iniziare a cambiare la nostra quotidianità.
 
+# Microcosmo e Macrocosmo
 
+Il corpo è abitato le stagioni la cronobiologia
+
+# Un grosso problema della salute oggi
 2) La verifica della riuscita viene fatta solo da studi scientifici che attestano la validità di un farmaco.
 
 Per spiegarla in breve:
@@ -28,17 +43,11 @@ Quando si incontra il non conosciuto altre culture il rispetto dei latini la cul
 
 Molti modi di vedere una cosa la storia dell'elefante e degli indu bendati che dovevano descrivere cos'era
 
-# purtroppo può capitare di perdersi.
-E' un mondo vasto e spesso molto lontano dalla nostra cultura per questo è meglio iniziare con qualcosa di semplice che ci dia un punto di riferimento
-
-# Come mettere in pratica tutto
-
-# Il percorso di un mese 
-
 
 ## L'uomo di scienza non è niente altro che un misero filosofo.
 
-## Importanza dei punti di riferimento e Misurare
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI2NzM2NzM3OV19
 --> 
