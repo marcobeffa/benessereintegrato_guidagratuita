@@ -4,10 +4,12 @@
 
 # L'uomo tra cielo e terra. Tra scienza e tradizione. Tra vecchio e nuovo.
 
-> Nelle epoche cambiano le parole cambiano le storie ma l'uomo è sempre incatenato alle stesse dinamiche, ci sarà sempre una madre, un padre, una società con cui confrontarsi, la necessità di affermarsi. Le dinamiche interne non cambiano cambia il contesto.  Per questo i miti, le opere d'arte, i libri sacri, saranno sempre attuali. La ragione non potrà mai raccontare tutto neanche nelle civiltà più avanzate.
+> Nelle epoche cambiano le parole cambiano le storie ma l'uomo è sempre incatenato alle stesse dinamiche, ci sarà sempre una madre, un padre, una società con cui confrontarsi, la necessità di affermarsi. Le dinamiche interne non cambiano cambia il contesto.  Per questo i miti, le opere d'arte, i libri sacri, le fiabe, sono cose che ci raccontano parti di noi che magari non riusciamo a vedere ma che attualmente sono presenti e lavorano in noi su altri piani condizionando la nostra vita. **La ragione non potrà mai raccontare tutto** neanche nelle civiltà più avanzate.
 
 
 Durante i corsi e il lavoro ci siamo scontrati tra 2 forze interessanti.
+
+> Questo è il dovere dei vecchi, essere ansiosi per conto dei giovani. E il dovere se il giovane è quello di disprezzare l'ansia del vecchio.
 
 La forza delle novità, che chiamerei anche la forza della scienza, la forza di nozioni che cambiano il modo di aigre e la forza della tradizione la forza dello status quo.
 

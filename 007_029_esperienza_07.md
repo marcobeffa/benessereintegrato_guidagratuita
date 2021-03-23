@@ -31,3 +31,13 @@ Per capire questo discorso ti aiuterò a scoprire le catene muscolari ma se vuoi
 
 Puoi andare sul sito <a href="http://www.catenemuscolarigds.it/" target="_blank">Catene Muscolari GDS</a>
 
+# L'acquisito e la facciata
+
+Madame Godelieve struif scopri ben presto che purtroppo non sempre possiamo attingere al nostro potenziale di base, perchè la situazione in cui ci troviamo magari ci spinge a farci utilizzare catene muscolari che hanno poca benzina è necessario adattarsi a situazioni e questo adattarsi è chiamato **acquisito**. L'adattamento tra i nostri talenti e le situazioni in cui restiamo invischiati prende il nome di **facciata**.
+
+E' importante nella vita trovare un buon equilibrio altrimenti le nostre catene muscolari e il nostro corpo faranno fatica ad adattarsi.
+
+
+> «Lei parla del destino» disse lui, «come fosse fissato in anticipo. E io non credo che mi piaccia, non più di una guerra in cui sia stato arruolato senza saperlo. Dov'è il mio libero arbitrio, se non le dispiace? E questa bambina di libero arbitrio mi sembra averne più di chiunque altro abbia mai incontrato. Lei mi vuol dire che invece è solo una specie di giocattolo a molla caricato e gettato su un cammino che non può cambiare?»
+«Tutti siamo soggetti al fato. Però tutti dobbiamo agire come se non lo fossimo» rispose la strega, «o morire di disperazione. C'è una strana profezia riguardo a questa bambina: il suo destino è di provocare la fine del destino. Solo che deve farlo senza sapere quel che fa, come se il farlo procedesse dalla sua natura, e non dal suo destino. Se le viene detto quel che deve fare, tutto fallirà: la morte spazzerà tutti i mondi; sarà il trionfo della disperazione, per sempre. Tutti gli universi, tutti quanti, diverranno nient'altro che dei meccanismi interconnessi, ciechi, vuoti di pensiero, di sentimento, di vita...
+La bussola d'oro.

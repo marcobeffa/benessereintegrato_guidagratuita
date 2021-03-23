@@ -33,6 +33,9 @@ La filosofia
 eyJoaXN0b3J5IjpbMTc2NzkyMzU0OV19
 -->
 
+> C'è una corrispondenza tra il microcosmo e il macrocosmo! Le stelle sono vive, bimba! Lo sapevi questo? Tutto quanto là fuori è vivo, e ci sono grandi progetti in corso! L'universo è pieno di intenzionalità, sai. Ogni cosa accade per uno scopo. 
+
+
 # Microcosmo e Macrocosmo
 
 Il corpo è abitato le stagioni la cronobiologia
