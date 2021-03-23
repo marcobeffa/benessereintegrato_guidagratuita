@@ -37,7 +37,14 @@ Madame Godelieve struif scopri ben presto che purtroppo non sempre possiamo atti
 
 E' importante nella vita trovare un buon equilibrio altrimenti le nostre catene muscolari e il nostro corpo faranno fatica ad adattarsi.
 
+# La bussola d'oro
 
-> «Lei parla del destino» disse lui, «come fosse fissato in anticipo. E io non credo che mi piaccia, non più di una guerra in cui sia stato arruolato senza saperlo. Dov'è il mio libero arbitrio, se non le dispiace? E questa bambina di libero arbitrio mi sembra averne più di chiunque altro abbia mai incontrato. Lei mi vuol dire che invece è solo una specie di giocattolo a molla caricato e gettato su un cammino che non può cambiare?»
-«Tutti siamo soggetti al fato. Però tutti dobbiamo agire come se non lo fossimo» rispose la strega, «o morire di disperazione. C'è una strana profezia riguardo a questa bambina: il suo destino è di provocare la fine del destino. Solo che deve farlo senza sapere quel che fa, come se il farlo procedesse dalla sua natura, e non dal suo destino. Se le viene detto quel che deve fare, tutto fallirà: la morte spazzerà tutti i mondi; sarà il trionfo della disperazione, per sempre. Tutti gli universi, tutti quanti, diverranno nient'altro che dei meccanismi interconnessi, ciechi, vuoti di pensiero, di sentimento, di vita...
-La bussola d'oro.
+> L'unico modo per capire certe dinamiche è ascoltare le fiabe.
+
+Un libro e un film che parlano di questo sviluppo psicoemotivo sottoforma di fiaba è la Bussola d'oro un fantastico racconto che nasconde molti aspetti che risuonano anche senza capire immediatamente il perchè! 
+
+> E comunque, c'è qualche compenso, per questa stabilità" ( cioè per il fatto che i daimon non cambiano più forma quando si diventa adulti )
+"E quale sarebbe?"
+"Sapere che tipo di persona sei. Prendi la mia vecchia Belisaria. Lei è un gabbiano, e questo vuol dire che sono una specie di gabbiano anch'io. Non sono grandioso e splendido, e neppure particolarmente bello, ma sono un vecchio tipo coriaceo, e posso sopravvivere dovunque, e riesco sempre a procurarmi qualcosa da mangiare e un po' di compagnia. E questa è una cosa che vale la pena di sapere, altroché. Così, quando il tuo daimon si stabilizzerà, tu saprai che tipo di persona sei."
+"Ma, e se il tuo daimon si stabilizza in una forma che non ti piace?"
+"Be', diventi uno scontento, non ti pare? A un sacco di gente piacerebbe avere per daimon un leone, e vanno a finire con un barboncino. E fino a quando non imparano a essere soddisfatti di quello che sono, sono destinati a rimanere degli irrequieti. Un vero spreco di energie.
