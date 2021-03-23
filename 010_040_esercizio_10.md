@@ -1,5 +1,7 @@
 ### Cap 10 - Pag 40
 
+## Tra spazio e tempo
+
 Un modo per ritrovare la strada quando ci si perde è partire dal corpo e dall'esperienza personale.
 
 Un esercizio che mi ha aiutato molto è l'esercizio della presa di coscienza del respiro. Infatti questo esercizio serve per riportare la tua mente nelle onde cerebrali alfa che sono onde cerebrali che ti aiutano a ritrovare uno stato di serenità.

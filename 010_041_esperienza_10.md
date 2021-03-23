@@ -2,7 +2,10 @@
 
 # Esperienza 10
 
-# Il vecchio e il nuovo.
+# L'uomo tra cielo e terra. Tra scienza e tradizione. Tra vecchio e nuovo.
+
+> Nelle epoche cambiano le parole cambiano le storie ma l'uomo è sempre incatenato alle stesse dinamiche, ci sarà sempre una madre, un padre, una società con cui confrontarsi, la necessità di affermarsi. Le dinamiche interne non cambiano cambia il contesto.  Per questo i miti, le opere d'arte, i libri sacri, saranno sempre attuali. La ragione non potrà mai raccontare tutto neanche nelle civiltà più avanzate.
+
 
 Durante i corsi e il lavoro ci siamo scontrati tra 2 forze interessanti.
 

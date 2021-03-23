@@ -1,6 +1,7 @@
 ### Cap 10 - Pag 39
 
 # Regola segreta 10
+## Consapevolezza
 
 >  Ignoranti quem portum petat nullus suus ventus est.
 >  
