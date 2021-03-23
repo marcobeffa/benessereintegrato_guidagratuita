@@ -2,53 +2,32 @@
 
 # Esperienza 10
 
+# Il vecchio e il nuovo.
 
-# Tra scienza e tradizione
+Durante i corsi e il lavoro ci siamo scontrati tra 2 forze interessanti.
 
-Un principio importante è 
+La forza delle novità, che chiamerei anche la forza della scienza, la forza di nozioni che cambiano il modo di aigre e la forza della tradizione la forza dello status quo.
 
-La vita quotidiana vs le scoperte che si fanno riuscire ad integrare un nuovo modo di vivere nella vita quotidiana nella routine.
-Non c'è bisogno di grandi sforzi per cambiare basta accorgersi osservare vedere le cose
+Abbiamo già parlato dell'esistenza di due forze il nuovo e il vecchio e queste due forze si controbilanciano.
+
+Gli antichi tra i vari nomi che davano a queste forze utilizzavano talvolta anche i termini il cielo le cose nuove che arrivavano e la terra ciò che già esiste.
+
+Non è mai stato facile integrare nella vita quotidiana nuove cose che si scoprono. Il modo di vivere della vita quotidiana della routine fatica a dare spazio alla possibilità di nuove scoperte.
+Quello che oggi chiameremmo lo status quo è difficile da cambiare.
+Come fare allora? Spesso non c'è bisogno di grandi sforzi per cambiare basta accorgersi osservare vedere le cose da un altra posizione, e improvvisamente ci si accorge che le cose vecchie non sono più sufficienti, allora si crea uno spazio per inserire cose nuove che arrivano se si è aperti e se si accolgono con occhi nuovi!
 
 
-# Dopo un corso spesso non resta niente e quando si torna a casa si è persi...
+# Dopo un corso spesso non resta niente e quando si torna a casa si è persi.
 
-Mettere in pratica è la via per ritornare attaccarsi alla realtà
+Mi capita spesso che quando si è ad uno nuovo corso tutto è bello ed entusiasmante ma poi quando si torna a casa mettere in pratica quello che si è sentito ogni giorno è molto difficile, perchè non si ha più lo stesso entusiasmo e la routine spegne la voglia di qualcosa di nuovo.
 
 # Iniziare a cambiare la nostra quotidianità.
-
-# Microcosmo e Macrocosmo
-
-Il corpo è abitato le stagioni la cronobiologia
-
-# Un grosso problema della salute oggi
-2) La verifica della riuscita viene fatta solo da studi scientifici che attestano la validità di un farmaco.
-
-Per spiegarla in breve:
+Per questo è importante utilizzare i piccoli cambiamenti e iniziare con gradualità. Iniziare con una cosa alla nostra portata ed essere costanti.
 
 
-Se c'è una perdita l'idraulico trova il problema ripara il rubinetto e fa quello che deve fare e poi controlla che tutto funzioni.
+# Società scienza e tradizione
 
-In medicina non si fa questo. In medicina che le cose funzionino viene deciso da un gruppo di persone finanziate per fare studi solitamente universitari che fanno uno studio su un campione uno studio rigoroso e molto razionale. Una volta che il farmaco viene approvato però si prescrive al paziente senza verificarne l'effetto.
+Questo è un pò quello che avviene tra scienza e tradizione spesso le  scoperte non sempre vengono integrate e soppravvivono alla tradizione.
+A volte invece si trova una scienza in quello che la tradizione ha costruito. Negli anni certi usi e costumi che si sono sviluppati, sopravvivono perchè rispettano le leggi di natura a cui l'uomo e la terra sono sottoposte.
 
-Certo mi dirai tu e come si fa a verificare l'effetto?
-
-Con benessereintegrato.it si fa una valutazione iniziale insieme al tutor si stabiliscono i professionisti che poi confermano il team
-Si Valuta la persona si dà un piano che comprenda una o più delle varie aree e poi alla fine del percorso si rivaluta la persona e si decide se tutto è andato a buon fine oppure se c'è ancora bisogno di un altro piano.
-
-Solitamente il piano si costruisce con tempistiche che vanno da una settimana a 3 mesi in base al problema della persona.
-
-
-Quando si incontra il non conosciuto altre culture il rispetto dei latini la cultura indiana ebraica parlano del fenomeno della vita. 
-
-Molti modi di vedere una cosa la storia dell'elefante e degli indu bendati che dovevano descrivere cos'era
-
-
-## L'uomo di scienza non è niente altro che un misero filosofo.
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzM2NzM3OV19
---> 
-
+Quando la scienza riesce a scoprire una legge di natura sarà probabile che questa soppravviva a lungo.

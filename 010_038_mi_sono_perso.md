@@ -31,9 +31,7 @@ La risposta fu una domanda:
 
 In effetti un professionista può aiutarti quando ti accorgi che stai girando in tondo e non riesci a uscire da certe situaizioni.
 
-Un professionista può aiutarti a Decidere una meta. E' importante scegliere un obiettivo adeguato.
-
-E' importante a volte avere vicino qualcuno che conoscere il territorio può aiutarti a iniziare il percorso e a guidarti nei punti difficili.
+Un professionista può aiutarti a prendere la giusta direzione perchè riesce di solito a vedere più distante e può anche aiutarti a disegnare una mappa con degli obiettivi. E' importante scegliere un obiettivi adeguati, avere vicino qualcuno che conoscere il territorio può aiutarti a iniziare il percorso e a guidarti nei punti difficili.
 
 Gli obiettivi sono posti solo come ausili, come possono essere i segni dei sentieri che indicano il numero del sentiero o la segnaletica stradale o le pietre miliari su una strada ma il ritmo a cui si viaggia viene deciso dalla persona e dalle guide in base alle esigenze e in oltre sono da valutare strada facendo. Se ci si accorge che si stà andando troppo piano o troppo veloce si ripianifica il percorso. 
 

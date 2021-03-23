@@ -289,7 +289,7 @@ course:
     36:
       date_last_release:
       header: false
-      title: "Esercizio 08"
+      title: "Esercizio 09"
       description: "Cosa come e perchè?"
       link_github: 009_036_esercizio_09
       author:
@@ -300,6 +300,38 @@ course:
       title: "Esperienza sul campo"
       description: "L'importanza dei cicli"
       link_github: 009_037_esperienza_09
+      author:
+      image_tag:
+    38:
+      date_last_release:
+      header: true
+      title: "10 mi sono perso"
+      description: "Come usare gli obiettivi e misurare gli effetti di un percorso"
+      link_github: 010_038_mi_sono_perso
+      author:
+      image_tag: 
+    39:
+      date_last_release:
+      header: false
+      title: "Nona Regola segreta"
+      description: "Consapevolezza"
+      link_github: 010_039_regola_segreta_10
+      author:
+      image_tag: 
+    40:
+      date_last_release:
+      header: false
+      title: "Esercizio 10"
+      description: "Tra spazio e tempo"
+      link_github: 010_040_esercizio_10
+      author:
+      image_tag: 
+    41:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "L'uomo tra cielo e terra"
+      link_github: 010_040_esperienza_10
       author:
       image_tag:
     
