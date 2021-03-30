@@ -4,6 +4,7 @@
 
 # La tua storia
 
+Le navi non sono state costruite per restare nel porto!
 # La tua strada è scritta nel tuo cuore
 
 che serve per trovare la tua strada il diario è prendersi un attimo per ascoltare il cuore
