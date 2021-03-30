@@ -313,7 +313,7 @@ course:
     39:
       date_last_release:
       header: false
-      title: "Nona Regola segreta"
+      title: "Decima Regola segreta"
       description: "Consapevolezza"
       link_github: 010_039_regola_segreta_10
       author:
@@ -334,4 +334,37 @@ course:
       link_github: 010_041_esperienza_10
       author:
       image_tag:
+    42:
+      date_last_release:
+      header: true
+      title: "11 diario di bordo"
+      description: "Il diario è come un buon amico"
+      link_github: 011_042_diario_di_bordo
+      author:
+      image_tag: 
+    43:
+      date_last_release:
+      header: false
+      title: "Undicesima Regola segreta"
+      description: "Meraviglia"
+      link_github: 011_043_regola_segreta_11
+      author:
+      image_tag: 
+    44:
+      date_last_release:
+      header: false
+      title: "Esercizio 11"
+      description: "Caro diario"
+      link_github: 011_044_esercizio_11
+      author:
+      image_tag: 
+    45:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "Scienza e filosofia"
+      link_github: 011_045_esperienza_11
+      author:
+      image_tag:
     
+

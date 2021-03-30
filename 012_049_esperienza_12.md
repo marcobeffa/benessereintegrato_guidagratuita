@@ -4,6 +4,39 @@
 
 # Le chiacchiere stanno a zero
 
+
+# Un grosso problema della salute oggi
+
+Oggi uno dei grossi problemi nel campo della medicina e della salute è l'uso di una scientificità in modo contorto.
+
+La verifica della validità di un rimedio (farmaco o quant'altro) viene fatta spesso solo a monte, per esempio con studi scientifici che attestano la validità di un farmaco.
+
+Ma poi non vengono misurati i risultati del percorso fatto, perchè il solo farmaco o la sola terapia sono solo una parte di tutto il percorso.
+
+
+## Per spiegarla in breve:
+
+
+Se c'è una perdita l'idraulico trova il problema ripara il rubinetto e fa quello che deve fare e poi controlla che tutto funzioni.
+
+In medicina non si fa questo. In medicina che le cose funzionino viene deciso da un gruppo di persone finanziate per fare studi solitamente universitari che fanno uno studio su un campione uno studio rigoroso e molto razionale. Una volta che il farmaco viene approvato però si prescrive al paziente senza verificarne l'effetto.
+
+
+# Benessereintegrato.it
+
+Con benessereintegrato.it invece si inizierà a definire un percorso multidisciplinare, decidere tempi ed obiettivi e valutarne la riuscita, considerando sia risultati clinici che soddisfazione dei clienti e degli operatori.
+
+Dopo la guida gratuita e il percorso educativo di 4 settimane potrai iniziare il percorso personalizzato benessereintegrato.it in cui potrai:
+- Fara una valutazione iniziale insieme al tutor 
+- Scegliere i professionisti che ti accompagneranno nel percorso creando se necessario un team
+- Fare una valutazione
+- Scegliere le aree su cui lavorare
+- Stendere un piano di servizi visite, trattamenti e incontri con i vari professionisti.
+- Monitorare l'andamento del percorso e aggiornarlo
+- Alla fine del percorso, chiudere il percorso con una valutazione e valutare se tutto è andato a buon fine oppure se c'è ancora bisogno di proseguire con un nuovo percorso.
+- La responsabilità del percorso verrà assegnata al professionista in cui deponi la tua fiducia e sarà lui il tuo garante! 
+
+
 # Saper vendere saper comunicare saper imparare
 
 # Cambiare è necessario fare esperienza testimoniare e condividere

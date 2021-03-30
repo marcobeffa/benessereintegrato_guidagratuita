@@ -658,3 +658,19 @@ Imparare a usare il proprio potenziale e a mettersi al posto giusto
 -->
 
 rails _6.1.1_ time -d postgresql -m https://raw.githubusercontent.com/excid3/jumpstart/master/template.rb
+
+
+
+Solitamente il piano si costruisce con tempistiche che vanno da una settimana a 3 mesi in base al problema della persona.
+
+
+Quando si incontra il non conosciuto altre culture il rispetto dei latini la cultura indiana ebraica parlano del fenomeno della vita. 
+
+Molti modi di vedere una cosa la storia dell'elefante e degli indu bendati che dovevano descrivere cos'era
+
+
+> L'uomo di scienza non è niente altro che un misero filosofo.
+
+> L'uomo di scienza non è niente altro che un misero filosofo.
+
+Forse una delle lezioni più importanti è di imparare a diventare dei buoni osservatori.
