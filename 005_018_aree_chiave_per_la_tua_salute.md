@@ -59,20 +59,16 @@ Si può poi pensare di creare un programma più specifico per chi ha esigenze pa
 Macrocircolazione  vs Microcircolazione
 - Sistema nervoso autonomo:	
 Sistema nervoso Simpatico  vs	S. N. Parasimpatico
-- Onde cerebrali	Brevi: 
-Beta Medie lunghe vs alfa gamma
+- Onde cerebrali:	
+Brevi: Beta vs Medie lunghe alfa gamma
 - Tono muscolare	
 Aumenta temporaneamente il tono per bruciare energia vs Riequilibria il tono
 - Frequenza respiratoria	
 Aumentare la frequenza per avere una maggiore immissione di ossigeno 	 vs Riequilibria la frequenza e la qualità del respiro
-
 - Ormoni:
-
 Favorisce il consumo vs	Favorisce la produzione
-
 - Fase:
 Catabolica (Consumo) vs Anabolica (Ricarica) (Esempio osso e sistemi di riserva)
-
 - Tipo di stimolo: 
 Cercare uno stimolo Allenante vs Concentrarsi sulle sensazioni corporee e riconnettersi
 
