@@ -54,23 +54,24 @@ Se il movimento che svolgi ogni giorno non è sufficiente è fortemente consigli
 
 Si può poi pensare di creare un programma più specifico per chi ha esigenze particolari.
 
-## Movimento e allenamento vs Recupero conoscenza del corpo 
+## Recupero conoscenza del corpo vs Movimento e allenamento
 - Tipo di circolazione: 	 
-Macrocircolazione  vs Microcircolazione
+**Microcircolazione**  vs  Macrocircolazione 
 - Sistema nervoso autonomo:	
-Sistema nervoso Simpatico  vs	S. N. Parasimpatico
+**Sistema nervoso Parasimpatico** vs S. N. Simpatico
 - Onde cerebrali:	
-Brevi: Beta vs Medie lunghe alfa gamma
+**Medie lunghe alfa gamma** vs Brevi: Beta
 - Tono muscolare	
-Aumenta temporaneamente il tono per bruciare energia vs Riequilibria il tono
+**Riequilibria il tono** vs Aumenta temporaneamente il tono per bruciare energia
 - Frequenza respiratoria	
-Aumentare la frequenza per avere una maggiore immissione di ossigeno 	 vs Riequilibria la frequenza e la qualità del respiro
+**Riequilibria la frequenza e la qualità del respiro** vs Aumentare la frequenza per avere una maggiore immissione di ossigeno 	 
 - Ormoni:
-Favorisce il consumo vs	Favorisce la produzione
+**Favorisce la produzione** vs Favorisce il consumo
 - Fase:
-Catabolica (Consumo) vs Anabolica (Ricarica) (Esempio osso e sistemi di riserva)
+**Anabolica (Ricarica)** vs Catabolica (Consumo)
+(Esempio osso e sistemi di riserva)
 - Tipo di stimolo: 
-Cercare uno stimolo Allenante vs Concentrarsi sulle sensazioni corporee e riconnettersi
+**Ascolto delle sensazioni corporee e riconnesione** vs Cercare uno stimolo Allenante
 
 
 ## Alimentarsi e nutrirsi
