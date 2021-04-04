@@ -674,3 +674,39 @@ Molti modi di vedere una cosa la storia dell'elefante e degli indu bendati che d
 > L'uomo di scienza non è niente altro che un misero filosofo.
 
 Forse una delle lezioni più importanti è di imparare a diventare dei buoni osservatori.
+
+
+
+Le leggi della scienza il dubbio le leggi della natura
+i dogmi scoprire l'importanza dello sperimentare
+
+Perchè Ambito.. Cura riabilitazione ...
+
+- Chi lo fa? ->profess paziente
+
+- Quando 
+
+Data Programma standard percorso personalizzato - Urgenza o prevenzione dopo un perocorso t
+
+- Cosa fa
+Nome programma:
+Area..  aliment allena ...
+Professione Fisiotrapia shatsu
+
+- Per cosa lo fa:
+Funzione specifica.
+
+
+- Come? 
+    - online offline
+    - Domicilio centro
+    - singolo in gruppo 
+    - autonomia professionista 
+    - standard personalizzato
+
+
+- 
+
+
+<!-- Vescica biliare
+-->

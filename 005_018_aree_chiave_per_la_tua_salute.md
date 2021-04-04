@@ -28,13 +28,24 @@ Lo scopo di questo capitolo è costruire nella tua mente 5 spazi, come se fosser
 
 Ho scelto queste 5 aree perchè con queste è possibile etichettare i programmi o servizi a cui accedi per la tua salute in autonomia o con un professionista durante il tuo percorso.
 
-1.  Recupero conoscenza del corpo
-2.  Movimento e allenamento
+1.  Pratiche per il Recupero e la conoscenza del corpo
+2.  Pratiche per il Movimento e allenamento
 3.  Alimentarsi e Nutrirsi
 4.  Atteggiamento emotivo e mentale
 5.  Farmaci Piante Integratori
 
+
+## Recupero conoscenza del corpo 
+
+Pratiche per stimolare i processi di recupero attraverso la coscienza corporea e l’utilizzo di tecniche dolci
+
+Questa area viene spesso sottovalutata mentre si sa che è importante l'allenamento e il movimento si presta poco attenzione alle routine che aiutano il corpo e la tua fisiologia.
+
+Spesso come recuero si esegue lo streching ma quello non è l'unica routine che puoi eseguire anzi puoi scegliere di lavorare su sistemi e funzioni speicifiche come per esempio la mobilità della gabbia toracica con esecizi respiratori.
+
 ## Movimento e allenamento
+
+Pratiche per stimolare risposte di adattamento puntando all’esaurimento e per cui il corpo risponde con il principio della rigenerazione e del potenziamento movimento allenante
 
 Ogni giorno è consigliabile mantenere un minimo di movimento di base per aiutare a far funzionare il nostro corpo. Per ossigenare i tessuti, migliorare la circolazione sanguigna e attivare i nostri muscoli.
 
@@ -43,11 +54,28 @@ Se il movimento che svolgi ogni giorno non è sufficiente è fortemente consigli
 
 Si può poi pensare di creare un programma più specifico per chi ha esigenze particolari.
 
-## Recupero conoscenza del corpo 
+## Movimento e allenamento vs Recupero conoscenza del corpo 
+- Tipo di circolazione: 	 
+Macrocircolazione  vs Microcircolazione
+- Sistema nervoso autonomo:	
+Sistema nervoso Simpatico  vs	S. N. Parasimpatico
+- Onde cerebrali	Brevi: 
+Beta Medie lunghe vs alfa gamma
+- Tono muscolare	
+Aumenta temporaneamente il tono per bruciare energia vs Riequilibria il tono
+- Frequenza respiratoria	
+Aumentare la frequenza per avere una maggiore immissione di ossigeno 	 vs Riequilibria la frequenza e la qualità del respiro
 
-Questa area viene spesso sottovalutata mentre si sa che è importante l'allenamento e il movimento si presta poco attenzione alle routine che aiutano il corpo e la tua fisiologia.
+- Ormoni:
 
-Spesso come recuero si esegue lo streching ma quello non è l'unica routine che puoi eseguire anzi puoi scegliere di lavorare su sistemi e funzioni speicifiche come per esempio la mobilità della gabbia toracica con esecizi respiratori.
+Favorisce il consumo vs	Favorisce la produzione
+
+- Fase:
+Catabolica (Consumo) vs Anabolica (Ricarica) (Esempio osso e sistemi di riserva)
+
+- Tipo di stimolo: 
+Cercare uno stimolo Allenante vs Concentrarsi sulle sensazioni corporee e riconnettersi
+
 
 ## Alimentarsi e nutrirsi
 

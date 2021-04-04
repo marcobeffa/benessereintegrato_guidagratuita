@@ -5,8 +5,11 @@
 
 # Coming soon
 
+Siamo arrivati alla fine della guida del percorso benessere integrato e ora dovresti essere pronto per affrontare il percorso! 
 
-Ci sono molti livelli  di percorsi
+Un ultima precisazione è doverosa.
+
+Devi sapere che puoi affrontare un percorso per la salute e il benessere a più livelli. La cosa fondamentale è riuscire a trovare un livello giusto per te. Infatti in base alla tua situazione affronterai il percorso con i professionisti in un determinato modo.
 
 - Il primo è pensare che affidandosi a un professionista 
 - Un secondo livello è il livello del fare inizio a cambiare il mio modo di agire.
@@ -31,13 +34,14 @@ Lo stesso vale per la scienza. Ogni persona fa delle scoperte e se si ha la pazi
 Anche tu puoi portare il tuo contributo.
 
 **Ma come?** mi dirai **Tutti possono fare gli scienziati? E i programmatori?** 
+
 Diciamo che tutti possono iniziare a ricercare cosa li fa stare bene, sperimentare su se stessi è il primo passo. Poi ci sono persone che di professione si impegnano e fanno questo di lavoro. 
 
 Dal punto di vista di benessereintegrato.it però il primo passo è la pratica su se stessi, da li poi si può andare avanti a costruire cose più complesse, ma senza la messa in pratica e un esperienza diretta il percorso benessereintegrato.it non funziona.
 
 Se non ti trovi in linea con questi principi non è un problema, probabilmente troverai altri metodi che potranno aiutarti, se invece ti senti pronto ad esplorare il mondo con una mente aperta e attenta benvenuto, ti avviso che il percorso richiederà il tuo impegno.
 
-Se ritieni che il professionista della salute sia qui per guarirti senza che tu muova un minimo passo. Purtroppo questa guida non fa per te.
+Se ritieni che il professionista della salute sia qui per guarirti senza che tu muova un minimo passo. Purtroppo questa guida potrà aiutarti poco.
 
 Professionisti che vogliono guarire le persone ce ne sono tantissimi vedrai che non sarà difficile trovarne uno.
 
@@ -47,19 +51,7 @@ Se invece sei pronto a metterti in gioco allora puoi iniziare!
 
 # tra scienza e tradizione l'uso del buon senso
 
-> “Occorrono di continuo delle [soluzioni](https://www.frasicelebri.it/argomento/soluzioni/) da [provare](https://www.frasicelebri.it/argomento/osare/) e da scartare se non hanno [riflessi](https://www.frasicelebri.it/argomento/cambiamento/) positivi; come nella [ricerca](https://www.frasicelebri.it/argomento/ricerca/) il [dogmatico](https://www.frasicelebri.it/argomento/dogma/) è l'[illuso](https://www.frasicelebri.it/argomento/illusione/)[possessore](https://www.frasicelebri.it/argomento/possesso/) di una verità definita, così in politica l'utopista è l'[illuso](https://www.frasicelebri.it/argomento/illusione/)[possessore](https://www.frasicelebri.it/argomento/possesso/) di una verità politica [perfetta](https://www.frasicelebri.it/argomento/perfezione/).”  
-> [KARL RAIMUND POPPER](https://www.frasicelebri.it/frasi-di/karl-raimund-popper/)
+> “Occorrono di continuo delle soluzioni da provare e da scartare se non hanno riflessi positivi; come nella ricerca il dogmatico è l'illuso possessore di una verità definita, così in politica l'utopista è l'illuso possessore di una verità politica perfetta.”
 
-[Tag:dogma, [politica](https://www.frasicelebri.it/argomento/politica/), [soluzioni](https://www.frasicelebri.it/argomento/soluzioni/), [utopia](https://www.frasicelebri.it/argomento/utopia/), [verità](https://www.frasicelebri.it/argomento/verit%C3%A0/)]
+> KARL RAIMUND POPPER
 
-> “L'[educazione](https://www.frasicelebri.it/argomento/educazione/) dovrebbe [mirare](https://www.frasicelebri.it/argomento/obiettivi/) alla libertà della [mente](https://www.frasicelebri.it/argomento/mente/) dei [giovani](https://www.frasicelebri.it/argomento/giovani/), e non al suo imprigionamento in una rigida [armatura](https://www.frasicelebri.it/argomento/armi/) di [dogmi](https://www.frasicelebri.it/argomento/dogma/)[destinati](https://www.frasicelebri.it/argomento/destino/) a proteggerla, nella [vita](https://www.frasicelebri.it/argomento/vita/), contro i [pericoli](https://www.frasicelebri.it/argomento/pericoli/) dell'evidenza imparziale. Il [mondo](https://www.frasicelebri.it/argomento/mondo/) necessita di [menti](https://www.frasicelebri.it/argomento/mente/) e di cuori aperti, non di rigidi sistemi, [vecchi](https://www.frasicelebri.it/argomento/vecchi/) o nuovi che siano.”  
-> [BERTRAND RUSSELL](https://www.frasicelebri.it/frasi-di/bertrand-arthur-william-russell/)
-
-[Tag:dogma, [educazione](https://www.frasicelebri.it/argomento/educazione/), [libertà](https://www.frasicelebri.it/argomento/libert%C3%A0/)]
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzE3NzYxLDY5MDk2OTEzN119
--->
-
-Le leggi della scienza il dubbio le leggi della natura
-i dogmi scoprire l'importanza dello sperimentare

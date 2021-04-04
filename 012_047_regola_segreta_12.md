@@ -4,30 +4,25 @@
 
 # La tua storia
 
-Le navi non sono state costruite per restare nel porto!
-# La tua strada è scritta nel tuo cuore
 
-che serve per trovare la tua strada il diario è prendersi un attimo per ascoltare il cuore
+Benessereintegrato.it è un percoso che ti apre le porte a un mondo che spesso non è conosciuto. Il corpo nasconde tanti segreti.
 
-“Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
+Ognuno deve trovare la sua strada e partire dal proprio corpo è un ottimo modo per imparare molto!
 
-Eraclito
+> “Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi.”
 
-Per ora ti lascio la prima regola del Fisioterapista (Devo ammettere che a me l'ha insegnata un grande imprenditore del mio paese natio che ho avuto l'onore di avere come paziente!)
+> Eraclito
 
-Il primo segreto che un fisioterapista riguarda proprio lo stato d'animo.
 
-Lo stato d'animo è la prima cosa che puoi  cambiare già ora.
-
-Come? Ricercando un atteggiamento mentale giusto!
-Nel corso della guida vedremo piccoli spunti che potrai mettere in pratica.
+La via verso il benessere e la salute è la ricerca di un atteggiamento globalmente giusto! Come direbbe Georges courchiinoux! Ma per fare questo devi passare per le difficoltà e capire cosa vogliono insegnarti!
 
 
 
-La regola è questa quando ti capita un problema:
+> “L' educazione dovrebbe mirare alla libertà della mente dei giovani, e non al suo imprigionamento in una rigida armatura di dogmi destinati a proteggerla, nella vita contro i pericoli dell'evidenza imparziale. 
+Il mondo necessita di menti e di cuori aperti, non di rigidi sistemi, vecchi o nuovi che siano. 
+>BERTRAND RUSSELL
 
-> 5 minuti a parlare del problema, il resto del tempo a trovare una soluzione!
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDkzODg1XX0=
--->
+
+
+
