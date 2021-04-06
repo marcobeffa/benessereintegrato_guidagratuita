@@ -58,6 +58,7 @@ Si può poi pensare di creare un programma più specifico per chi ha esigenze pa
 - Tipo di circolazione: 	 
 **Microcircolazione**  vs  Macrocircolazione 
 - Sistema nervoso autonomo:	
+
 **Sistema nervoso Parasimpatico** vs S. N. Simpatico
 - Onde cerebrali:	
 **Medie lunghe alfa gamma** vs Brevi: Beta

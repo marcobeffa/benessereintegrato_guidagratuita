@@ -47,11 +47,6 @@ Professionisti che vogliono guarire le persone ce ne sono tantissimi vedrai che 
 
 Se invece sei pronto a metterti in gioco allora puoi iniziare!
 
-# I professionisti benessereintegrato.it
 
-# tra scienza e tradizione l'uso del buon senso
 
-> “Occorrono di continuo delle soluzioni da provare e da scartare se non hanno riflessi positivi; come nella ricerca il dogmatico è l'illuso possessore di una verità definita, così in politica l'utopista è l'illuso possessore di una verità politica perfetta.”
-
-> KARL RAIMUND POPPER
 

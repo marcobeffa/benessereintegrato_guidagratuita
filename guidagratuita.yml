@@ -366,5 +366,37 @@ course:
       link_github: 011_045_esperienza_11
       author:
       image_tag:
+    46:
+      date_last_release:
+      header: true
+      title: "12 agire con buon senso"
+      description: "La fine non è altro che un nuovo inizio. Buon Viaggio"
+      link_github: 012_046_diario_di_bordo
+      author:
+      image_tag: 
+    47:
+      date_last_release:
+      header: false
+      title: "Undicesima Regola segreta"
+      description: "Tra microcosmo e macrocosmo"
+      link_github: 012_047_regola_segreta_12
+      author:
+      image_tag: 
+    48:
+      date_last_release:
+      header: false
+      title: "Esercizio 12"
+      description: "Il percorso educativo"
+      link_github: 012_048_esercizio_12
+      author:
+      image_tag: 
+    49:
+      date_last_release:
+      header: false
+      title: "Esperienza sul campo"
+      description: "La pratica vale più della grammatica"
+      link_github: 012_049_esperienza_12
+      author:
+      image_tag:
     
 

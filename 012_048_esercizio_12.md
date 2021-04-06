@@ -2,6 +2,9 @@
 
 # Esercizio 12
 
+
+# Affrontare un percorso per la salute
+
 Pur se i porti sono posti sicuri una nave non è stata costruita per restare nel porto!
 
 > Nel cuore di ogni uomo è scritta la sua strada.
@@ -11,6 +14,53 @@ Se ci fai caso è ascoltando il battico del cuore che ti accorgi quando stai seg
 Ascoltare le proprie sensazioni è importante ma il cuore serve per mettere d'accordo:
 Sensazioni, Pensiero, Sentimento e intuito che sono le nostre bussole che usiamo per orientarci nella vita di tutti i giorni.
 
+# Il percorso educativo di 5 lezioni
+
+Con benessereintegrato.it il primo passo da fare è un percorso educativo di 5 lezioni una a settimana che ti aiuterà a preparare tutti gli strumenti necessari e a compiere i prepartivi e la prima parte del viaggio.
+
+
+
+Nel percorso delle 5 lezioni andrai a mettere in pratica tutto quello che hai cisto sulla guida!
+
+Fatto questo potrai decidere se continuare il tuo viaggio in autonomia, con un gruppo oppure anche affiancare un percorso personalizzato per il tuo problema o per raggiungere un obiettivo specifico!
+
+# Libertà di scelta
+
+
+
+Ritengo importante che il primo passo sia quello di educare una persona! 
+
+Prima si insegnano le leggi di natura per far comprendere come funziona un sistema.
+- EDUCAZIONE ALLA SALUTE
+Poi si spiegano i pericoli, come evitarli o come porvi rimedio
+PREVENZIONE ALLA SALUTE
+Se qualcosa non va si dà un piccolo avvertimento
+Spesso un piccolo aiuto sarà sufficiente se la persona ha fatto educazione e prevenzione
+- LA FASE RIDUTTIVA
+Se la fase riduttiva non è sufficiente allora si passa con un intervento più diretto con delle tecniche più decise.
+- FASE CORRETTIVA
+Se tutto questo non ha funzionato valutando rischi e benefici si passa a tecniche più invasive per la persona.
+- FASE INVASIVA EMERGENZA
+
+# A chi affidi la responsabilità della tua salute? 
+
+Un altra cosa importante! E' il fatto di affidarsi a qualcuno che ne sappia di più ma di cui si può aver fiducia, ma con il controllo. 
+
+Come dirai cosa vuol dire avere fiducia e controllare?
+
+Vuol dire che ogni percorso deve avere una chiusura e deve esserci un confronto per capire come è andato quali sono state le difficoltà se ci sono state com'è andata la strada percorsa e cosa si ha imparato.
+
+Senza questo non potrà esserci una memoria. E' necessario trarre delle conclusioni e confrontarsi con i professionisti che ti hanno seguito.
+
+Per questo il percorso deve avere un responsabile a cui rivolgersi e questo responsabile è il professionista che ti prende in cura.
+
+Questo ruolo a onor del vero dovrebbe essere il ruolo del medico di base di famiglia ma purtroppo, si sta tentando di fare di tutto per impedire al medico di famiglia di fare il suo lavoro.
+
+Troppe pratiche burocratiche e poco tempo per ascoltare la persona in oltre frapporre fra un medico e il paziente uno schermo non è mai bello.
+
+Perchè lo schermo può cambiare la percezione della realtà.
+
+Per questo con benessereintegrato.it si è optato per questa soluzione anche se non proprio del tutto corretta ma si fa il meglio con quello che si ha!
 
 # Potenziale -  Acquisito - Facciata 
 
