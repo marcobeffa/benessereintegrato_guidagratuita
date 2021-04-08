@@ -3,8 +3,6 @@
 # 12 agire con buon senso
 
 
-# Coming soon
-
 Siamo arrivati alla fine della guida del percorso benessere integrato e ora dovresti essere pronto per affrontare il percorso! 
 
 Un ultima precisazione è doverosa.
