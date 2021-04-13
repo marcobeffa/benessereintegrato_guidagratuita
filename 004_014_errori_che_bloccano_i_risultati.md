@@ -65,8 +65,9 @@ Sul lungo periodo
 - La soluzione B costa di più non risolve il problema e peggiora la situazione
 - La soluzione A costa di meno e risolve il problema
 
-### 3) Non si fissano obiettivi 
+### 3) Si fissano obiettivi che non si possono misurare
 
+L'osservazione la praticità e la semplicità
 Non è abbastanza sapere che c'è un tetto da riparare è necessario poi entrare in azione capire se puoi ripararlo tu se devi cercare una ditta devi avere un piano sopratutto se le cose sono complesse.
 
 Se inizi un viaggio senza scegliere una destinazione, una meta da raggiungere, non avrai riferimenti e qui calza ad hoc una famosa frase : 

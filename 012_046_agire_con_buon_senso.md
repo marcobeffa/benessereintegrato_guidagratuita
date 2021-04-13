@@ -21,7 +21,7 @@ Mi piace vedere questo libro come un codice, scritto da professionisti sanitari 
 
 Forse stai pensando, **"Ma Cosa stai dicendo?"** 
 
-Cercherò di spiegarti melgio.
+Cercherò di spiegarti meglio.
 
 Un programmatore scrive un codice per far funzionare un programma, facciamo che è come se scrive una soluzione per risolvere un problema. 
 

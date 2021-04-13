@@ -25,7 +25,7 @@ Ad un certo punto ci si abitua a considerare normale gesti della routine quotidi
 
 - Sdraiarsi
 - Sedersi
-- Alvarci
+- Alzarsi
 - Lavarsi
 - Vestirsi
 - Mangiare
