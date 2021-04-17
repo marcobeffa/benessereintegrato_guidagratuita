@@ -7,7 +7,7 @@ L'esercizio sette consiste in un questionario sul tuo stato di salute! Completa 
 Link test sullo stato di salute
 
 
-# Lavorare con il copro mente.
+# Lavorare con il corpo mente.
 
 Esistono due tipi di lavori che si possono eseguire sul corpo:
 - Somato Psichico 

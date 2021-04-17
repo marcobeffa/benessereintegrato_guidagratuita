@@ -2,6 +2,41 @@
 
 # Segreto 07
 
+> Valore importanza e ordine.
+
+
+Quando si deve scegliere una soluzione a un problema, è necessario dare la giusta priorità.
+
+Prima si risolvono le cose più importanti e spesso il resto si risolve da solo.
+
+A volte i problemi che ci troviamo ad afforntare non sono nient'altro che segnali stradali che ti portano verso un nuovo modo di vedere e pensare.
+
+E' importante perciò dare il giusto ordine alle cose.
+
+# Come si affronta un problema di salute?
+
+Per affrontare una patologia o un problema grave di salute 
+###  EDUCAZIONE ALLA SALUTE
+
+Prima si insegnano le leggi di natura per far comprendere come funziona un sistema.
+
+### PREVENZIONE ALLA SALUTE
+Poi si spiegano i pericoli, come evitarli o come porvi rimedio
+
+### LA FASE RIDUTTIVA
+Se qualcosa non va si dà un piccolo avvertimento
+Spesso un piccolo aiuto sarà sufficiente se la persona ha fatto educazione e prevenzione
+
+### FASE CORRETTIVA
+Se la fase riduttiva non è sufficiente allora si passa con un intervento più diretto con delle tecniche più decise.
+
+### FASE INVASIVA EMERGENZA
+Se tutto questo non ha funzionato valutando rischi e benefici si passa a tecniche più invasive per la persona.
+
+
+
+# Dove vengono registrate le nostre decisioni?
+
 > Le decisioni di oggi influenzano i risultati di domani
 
 Ci sono 2 aspetti del nostro corpo che sono interessanti e riguardano questo concetto importante:
